@@ -6,7 +6,7 @@ public class CustomerModel {
     private int age;
     private boolean isActive;
 
-    //construct
+    //construc
 
 
     public CustomerModel(int id, String name, int age, boolean isActive) {
