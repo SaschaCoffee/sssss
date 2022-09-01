@@ -3,62 +3,33 @@ package com.example.sqldemo3;
 public class CustomerModel {
     private int id;
     private String name;
-    private int age;
-    private boolean isActive;
-
-    //construc
-
-
-    public CustomerModel(int id, String name, int age, boolean isActive) {
+    private String phoneNumber;
+    CustomerModel(String name, String phno) {
+        this.name = name;
+        this.phoneNumber = phno;
+    }
+    CustomerModel(int id, String name, String phno) {
         this.id = id;
         this.name = name;
-        this.age = age;
-        this.isActive = isActive;
+        this.phoneNumber = phno;
     }
-
-    public CustomerModel(int id) {
-
-    }
-
-    @Override
-    public String toString() {
-        return "CustomerModel{" +
-                "id=" + id +
-                ", name='" + name + '\'' +
-                ", age=" + age +
-                ", isActive=" + isActive +
-                '}';
-    }
-
-    public int getId() {
+    int getId() {
         return id;
     }
-
     public void setId(int id) {
         this.id = id;
     }
-
     public String getName() {
         return name;
     }
-
     public void setName(String name) {
         this.name = name;
     }
-
-    public int getAge() {
-        return age;
+    String getPhno() {
+        return phoneNumber;
     }
-
-    public void setAge(int age) {
-        this.age = age;
-    }
-
-    public boolean isActive() {
-        return isActive;
-    }
-
-    public void setActive(boolean active) {
-        isActive = active;
+    public void setPhno(String phno) {
+        this.phoneNumber = phno;
     }
 }
+

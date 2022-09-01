@@ -2,10 +2,14 @@ package com.example.sqldemo3;
 
 import android.content.ContentValues;
 import android.content.Context;
+import android.database.Cursor;
 import android.database.sqlite.SQLiteDatabase;
 import android.database.sqlite.SQLiteOpenHelper;
 
+
 import androidx.annotation.Nullable;
+
+import java.util.ArrayList;
 
 public class DataBaseHelper extends SQLiteOpenHelper {
     public static final String CUSTOMER_TABLE = "CUSTOMER_TABLE";
@@ -32,22 +36,44 @@ public class DataBaseHelper extends SQLiteOpenHelper {
 
     }
 
-    public boolean addOne(CustomerModel customerModel) {
+    ArrayList<CustomerModel> listContacts() {
+        String sql = "select * from " + CUSTOMER_TABLE;
+        SQLiteDatabase db = this.getReadableDatabase();
+        ArrayList<CustomerModel> storeContacts = new ArrayList<>();
+        Cursor cursor = db.rawQuery(sql, null);
+        if (cursor.moveToFirst()) {
+            do {
+                int id = Integer.parseInt(cursor.getString(0));
+                String name = cursor.getString(1);
+                String age = cursor.getString(2);
+                storeContacts.add(new CustomerModel(id, name, age));
+            }
+            while (cursor.moveToNext());
+        }
+        cursor.close();
+        return storeContacts;
+    }
+
+
+
+    void addOne(CustomerModel customerModel) {
         SQLiteDatabase db = this.getWritableDatabase();
         ContentValues cv = new ContentValues();
 
         cv.put(COLUMN_CUSTOMER_NAME, customerModel.getName());
-        cv.put(COLUMN_CUSTOMER_AGE, customerModel.getAge());
-        cv.put(COLUMN_ACTIVE_CUSTOMER, customerModel.isActive());
+        cv.put(COLUMN_CUSTOMER_AGE, customerModel.getPhno());
 
-        long insert = db.insert(CUSTOMER_TABLE, null, cv);
-        if(insert == 1) {
-            return false;
-        }
-        else {
-            return true;
-        }
+        db.insert(CUSTOMER_TABLE, null,cv);
 
 
+
+
+    }
+    void updateContacts(CustomerModel contacts) {
+        ContentValues values = new ContentValues();
+        values.put(COLUMN_CUSTOMER_NAME, contacts.getName());
+        values.put(COLUMN_CUSTOMER_AGE, contacts.getPhno());
+        SQLiteDatabase db = this.getWritableDatabase();
+        db.update(CUSTOMER_TABLE, values, COLUMN_ID + " = ?", new String[]{String.valueOf(contacts.getId())});
     }
 }
