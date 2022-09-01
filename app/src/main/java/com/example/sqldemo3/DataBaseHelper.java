@@ -33,6 +33,8 @@ public class DataBaseHelper extends SQLiteOpenHelper {
 
 
     public void onUpgrade(SQLiteDatabase db, int i, int i1) {
+        db.execSQL("DROP TABLE IF EXISTS " + CUSTOMER_TABLE);
+        onCreate(db);
 
     }
 

@@ -11,7 +11,7 @@ import android.widget.Switch;
 import android.widget.Toast;
 
 public class MainActivity extends AppCompatActivity {
-    private DataBaseHelper mDatabase;
+
     Button btn_add, btn_viewAll;
     EditText et_name, et_age;
     Switch sw_activeCustomer;
@@ -36,12 +36,11 @@ public class MainActivity extends AppCompatActivity {
              final String ph_no = et_age.getText().toString();
 
              CustomerModel customerModel;
+             DataBaseHelper dataBaseHelper = new DataBaseHelper(MainActivity.this);
 
              try {
                  customerModel = new CustomerModel(-1, name, ph_no);
-                 mDatabase.addOne(customerModel);
-                 finish();
-                 startActivity(getIntent());
+                 dataBaseHelper.addOne(customerModel);
 
                  Toast.makeText(MainActivity.this, "ADD BUTTON", Toast.LENGTH_SHORT).show();
 
@@ -50,6 +49,8 @@ public class MainActivity extends AppCompatActivity {
                  Toast.makeText(MainActivity.this, "error", Toast.LENGTH_SHORT).show();
 
              }
+
+
          
 
 
