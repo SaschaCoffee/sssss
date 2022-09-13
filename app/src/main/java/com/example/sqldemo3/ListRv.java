@@ -1,7 +1,11 @@
 package com.example.sqldemo3;
 
+import android.content.ContentValues;
 import android.content.Intent;
+import android.content.res.AssetManager;
+import android.database.sqlite.SQLiteDatabase;
 import android.os.Bundle;
+import android.util.Log;
 import android.view.View;
 import android.widget.Button;
 import android.widget.LinearLayout;
@@ -12,11 +16,22 @@ import androidx.appcompat.app.AppCompatActivity;
 import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStream;
+import java.io.InputStreamReader;
 import java.lang.reflect.Array;
 import java.util.ArrayList;
 
 public class ListRv extends AppCompatActivity {
+    public static final String COLUMN_ID = "ID";
+    public static final String GERRRAWROH = "GERRRAWROH";
+    public static final String COLUMN_CUSTOMER_NAME = "CUSTOMER_NAME";
+    public static final String COLUMN_CUSTOMER_AGE = "CUSTOMER_AGE";
+
     private DataBaseHelper mDatabase;
+    SQLiteDatabase db;
+
     Button add;
 
     @Override
@@ -31,7 +46,10 @@ public class ListRv extends AppCompatActivity {
         LinearLayoutManager linearLayoutManager = new LinearLayoutManager(this);
         contactView.setLayoutManager(linearLayoutManager);
         contactView.setHasFixedSize(true);
+
         mDatabase = new DataBaseHelper(this);
+        mDatabase.csvcopy(this);
+
         ArrayList<CustomerModel> allContacts = mDatabase.listContacts();
         if(allContacts.size() > 0) {
             contactView.setVisibility(View.VISIBLE);
@@ -54,4 +72,6 @@ public class ListRv extends AppCompatActivity {
 
 
     }
+
+
 }
