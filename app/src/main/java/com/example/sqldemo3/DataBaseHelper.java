@@ -72,7 +72,7 @@ public class DataBaseHelper extends SQLiteOpenHelper {
 
 void csvcopy(Context contex){
     SQLiteDatabase db = this.getWritableDatabase();
-    String myCSVFile = "GERRAWROH.csv";
+    String myCSVFile = "GERRAWROHIDD.csv";
     AssetManager manager = contex.getAssets();
     InputStream inStream = null;
     try {
@@ -86,11 +86,16 @@ void csvcopy(Context contex){
     try{
         while ((line = buffer.readLine()) != null){
             String[] columns = line.split(";");
+            if(columns.length != 3) {
+                Log.d("CSVParser", "Skipping Bad CSV Row");
+                continue;
+            }
 
             ContentValues cv = new ContentValues();
 
-            cv.put(COLUMN_CUSTOMER_NAME, columns[0].trim());9
-
+            cv.put(COLUMN_ID, columns[0].trim());
+            cv.put(COLUMN_CUSTOMER_NAME, columns[1].trim());
+            cv.put(COLUMN_CUSTOMER_AGE, columns[2].trim());
 
             db.insert(GERRAWROH, null, cv);
         }
