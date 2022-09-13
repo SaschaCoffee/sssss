@@ -29,6 +29,7 @@ public class MainActivity extends AppCompatActivity {
         sw_activeCustomer = findViewById(R.id.sw_active);
         lv_customerList = findViewById(R.id.lv_customerList);
 
+
         btn_add.setOnClickListener(new View.OnClickListener() {
          public void onClick(View v) {
 
@@ -69,4 +70,6 @@ public class MainActivity extends AppCompatActivity {
         });
 
     }
+
+
 }
