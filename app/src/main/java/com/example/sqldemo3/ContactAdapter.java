@@ -69,7 +69,7 @@ implements Filterable {
     public void onBindViewHolder(@NonNull ContactViewHolder holder, int position) {
     final CustomerModel contacts = listContacts.get(position);
     holder.tvName.setText(contacts.getName());
-    holder.tvPhoneNum.setText(contacts.getPhno());
+
 
     }
 

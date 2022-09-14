@@ -13,6 +13,11 @@ public class CustomerModel {
         this.name = name;
         this.phoneNumber = phno;
     }
+
+    public CustomerModel(String name) {
+        this.name = name;
+    }
+
     int getId() {
         return id;
     }
