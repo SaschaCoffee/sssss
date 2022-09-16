@@ -47,18 +47,22 @@ public class ListRv extends AppCompatActivity {
         contactView.setLayoutManager(linearLayoutManager);
         contactView.setHasFixedSize(true);
 
-        mDatabase = new DataBaseHelper(this);
-        mDatabase.csvcopy(this);
 
-        ArrayList<CustomerModel> allContacts = mDatabase.listContacts();
+        mDatabase = new DataBaseHelper(this);
+        ArrayList<ModelAdd> allContacts = mDatabase.listContacts();
         if(allContacts.size() > 0) {
             contactView.setVisibility(View.VISIBLE);
             ContactAdapter mAdapter = new ContactAdapter(this, allContacts);
             contactView.setAdapter(mAdapter);
+
         }
         else {
-            contactView.setVisibility(View.GONE);
-            Toast.makeText(this, "There is no contact in the database. Start adding now", Toast.LENGTH_LONG).show();
+            Toast.makeText(this, "HALOOOOO", Toast.LENGTH_LONG).show();
+            mDatabase.csvcopy(this);
+            contactView.setVisibility(View.VISIBLE);
+            ArrayList<ModelAdd> allContactss = mDatabase.listContacts();
+            ContactAdapter mAdapter = new ContactAdapter(this, allContactss);
+            contactView.setAdapter(mAdapter);
         }
 
         add.setOnClickListener(new View.OnClickListener() {

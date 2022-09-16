@@ -15,11 +15,11 @@ import java.util.ArrayList;
 public class ContactAdapter extends RecyclerView.Adapter<ContactViewHolder>
 implements Filterable {
     private Context context;
-    private ArrayList<CustomerModel> listContacts;
-    private ArrayList<CustomerModel> mArrayList;
+    private ArrayList<ModelAdd> listContacts;
+    private ArrayList<ModelAdd> mArrayList;
     private DataBaseHelper mData;
 
-    ContactAdapter(Context context, ArrayList<CustomerModel> listContacts){
+    ContactAdapter(Context context, ArrayList<ModelAdd> listContacts){
         this.context = context;
         this.listContacts = listContacts;
         this.mArrayList = listContacts;
@@ -37,8 +37,8 @@ implements Filterable {
                     listContacts = mArrayList;
                 }
                 else {
-                    ArrayList<CustomerModel> filteredList = new ArrayList<>();
-                    for (CustomerModel contacts : mArrayList) {
+                    ArrayList<ModelAdd> filteredList = new ArrayList<>();
+                    for (ModelAdd contacts : mArrayList) {
                         if (contacts.getName().toLowerCase().contains(charString)) {
                             filteredList.add(contacts);
                         }
@@ -52,7 +52,7 @@ implements Filterable {
 
             @Override
             protected void publishResults(CharSequence charSequence, FilterResults filterResults) {
-                listContacts = (ArrayList<CustomerModel>) filterResults.values;
+                listContacts = (ArrayList<ModelAdd>) filterResults.values;
                 notifyDataSetChanged();
             }
         };
@@ -67,7 +67,7 @@ implements Filterable {
 
     @Override
     public void onBindViewHolder(@NonNull ContactViewHolder holder, int position) {
-    final CustomerModel contacts = listContacts.get(position);
+    final ModelAdd contacts = listContacts.get(position);
     holder.tvName.setText(contacts.getName());
 
 

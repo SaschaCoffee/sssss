@@ -18,13 +18,24 @@ import java.io.InputStreamReader;
 import java.util.ArrayList;
 
 public class DataBaseHelper extends SQLiteOpenHelper {
-    public static final String GERRAWROH = "GERRAWROH";
-    public static final String COLUMN_CUSTOMER_NAME = "CUSTOMER_NAME";
-
-    public static final String COLUMN_ACTIVE_CUSTOMER = "ACTIVE_CUSTOMER";
-    public static final String COLUMN_ID = "ID";
-
+    public static final String COLUMN_NAME = "column_name";
+    public static final String COLUMN_OPENPL = "column_openpl";
+    public static final String COLUMN_INSTA = "column_insta";
+    public static final String COLUMN_BUNDESLAND = "column_bundesland";
+    public static final String COLUMN_VERBAND = "column_verband";
+    public static final String COLUMN_DATUM = "column_datum";
+    public static final String COLUMN_ORT = "column_ort";
+    public static final String COLUMN_GESCHLECHT = "column_geschlecht";
+    public static final String COLUMN_ALTER = "column_alter";
+    public static final String COLUMN_SQUAT = "column_squat";
+    public static final String COLUMN_BENCH = "column_bench";
+    public static final String COLUMN_DEADLIFT = "column_deadlift";
+    public static final String GERMANY = "GERMANY";
+    public static final String COLUMN_ID = "COLUMN_ID";
+    private String land = "Bundesland";
     Context contextt;
+
+
 
 
 
@@ -34,11 +45,9 @@ public class DataBaseHelper extends SQLiteOpenHelper {
 
 
     public void onCreate(SQLiteDatabase db) {
-        String createTableStatement = "CREATE TABLE " + GERRAWROH + " (" + COLUMN_ID + " INTEGER PRIMARY KEY AUTOINCREMENT, " + COLUMN_CUSTOMER_NAME + " TEXT, " + COLUMN_ACTIVE_CUSTOMER + " BOOL)";
+        String x = "CREATE TABLE " + GERMANY + " (" + COLUMN_ID + " INTEGER PRIMARY KEY AUTOINCREMENT, " + COLUMN_NAME + " TEXT, " + COLUMN_OPENPL + " TEXT, " + COLUMN_INSTA + " TEXT, " + COLUMN_BUNDESLAND + " TEXT, " + COLUMN_VERBAND + " TEXT, " + COLUMN_DATUM + " REAL, " + COLUMN_ORT + " TEXT, " + COLUMN_GESCHLECHT + " TEXT, " + COLUMN_ALTER + " INT, " + COLUMN_SQUAT + " REAL, " + COLUMN_BENCH + " REAL, " + COLUMN_DEADLIFT + " REAL)";
 
-
-        db.execSQL(createTableStatement);
-
+        db.execSQL(x);
 
 
 
@@ -46,22 +55,24 @@ public class DataBaseHelper extends SQLiteOpenHelper {
 
 
     public void onUpgrade(SQLiteDatabase db, int i, int i1) {
-        db.execSQL("DROP TABLE IF EXISTS " + GERRAWROH);
+        db.execSQL("DROP TABLE IF EXISTS " + GERMANY);
         onCreate(db);
 
     }
 
-    ArrayList<CustomerModel> listContacts() {
-        String sql = "select * from " + GERRAWROH;
+    ArrayList<ModelAdd> listContacts() {
+        String sql = "select * from " + GERMANY + " WHERE " + COLUMN_BUNDESLAND + " ='NI'";
         SQLiteDatabase db = this.getReadableDatabase();
-        ArrayList<CustomerModel> storeContacts = new ArrayList<>();
+        ArrayList<ModelAdd> storeContacts = new ArrayList<>();
         Cursor cursor = db.rawQuery(sql, null);
         if (cursor.moveToFirst()) {
             do {
 
-                String name = cursor.getString(1);
+                    int id = Integer.parseInt(cursor.getString(0));
+                    String name = cursor.getString(1);
+                    String age = cursor.getString(2);
+                    storeContacts.add(new ModelAdd(id, name, age));
 
-                storeContacts.add(new CustomerModel(name));
             }
             while (cursor.moveToNext());
         }
@@ -72,7 +83,7 @@ public class DataBaseHelper extends SQLiteOpenHelper {
 
 void csvcopy(Context contex){
     SQLiteDatabase db = this.getWritableDatabase();
-    String myCSVFile = "GERRAWROHIDD.csv";
+    String myCSVFile = "GerPounds.csv";
     AssetManager manager = contex.getAssets();
     InputStream inStream = null;
     try {
@@ -86,18 +97,29 @@ void csvcopy(Context contex){
     try{
         while ((line = buffer.readLine()) != null){
             String[] columns = line.split(";");
-            if(columns.length != 1) {
+            if(columns.length != 12) {
                 Log.d("CSVParser", "Skipping Bad CSV Row");
                 continue;
             }
 
             ContentValues cv = new ContentValues();
 
+            cv.put(COLUMN_NAME, columns[0].trim());
+            cv.put(COLUMN_OPENPL, columns[1].trim());
+            cv.put(COLUMN_INSTA, columns[2].trim());
+            cv.put(COLUMN_BUNDESLAND, columns[3].trim());
+            cv.put(COLUMN_VERBAND, columns[4].trim());
+            cv.put(COLUMN_DATUM, columns[5].trim());
+            cv.put(COLUMN_ORT, columns[6].trim());
+            cv.put(COLUMN_GESCHLECHT, columns[7].trim());
+            cv.put(COLUMN_ALTER, columns[8].trim());
+            cv.put(COLUMN_SQUAT, columns[9].trim());
+            cv.put(COLUMN_BENCH, columns[10].trim());
+            cv.put(COLUMN_DEADLIFT, columns[11].trim());
 
-            cv.put(COLUMN_CUSTOMER_NAME, columns[0].trim());
 
 
-            db.insert(GERRAWROH, null, cv);
+            db.insert(GERMANY, null, cv);
         }
     }catch (IOException e){
         e.printStackTrace();
@@ -107,21 +129,32 @@ void csvcopy(Context contex){
 
 }
 
-    void addOne(CustomerModel customerModel) {
+    void addOne(ModelAdd modeladd) {
         SQLiteDatabase db = this.getWritableDatabase();
         ContentValues cv = new ContentValues();
 
-        cv.put(COLUMN_CUSTOMER_NAME, customerModel.getName());
+        cv.put(COLUMN_NAME, modeladd.getName());
 
 
-        db.insert(GERRAWROH, null,cv);
+        db.insert(GERMANY, null,cv);
 
     }
     void updateContacts(CustomerModel contacts) {
         ContentValues values = new ContentValues();
-        values.put(COLUMN_CUSTOMER_NAME, contacts.getName());
+        values.put(COLUMN_NAME, contacts.getName());
+        values.put(COLUMN_OPENPL, contacts.getOpenpl());
+        values.put(COLUMN_INSTA, contacts.getInsta());
+        values.put(COLUMN_BUNDESLAND, contacts.getBundes());
+        values.put(COLUMN_VERBAND, contacts.getVerband());
+        values.put(COLUMN_DATUM, contacts.getDatum());
+        values.put(COLUMN_ORT, contacts.getOrt());
+        values.put(COLUMN_GESCHLECHT, contacts.getGeschlecht());
+        values.put(COLUMN_ALTER, contacts.getAlter());
+        values.put(COLUMN_SQUAT, contacts.getSquat());
+        values.put(COLUMN_BENCH, contacts.getBench());
+        values.put(COLUMN_DEADLIFT, contacts.getDeadlift());
 
         SQLiteDatabase db = this.getWritableDatabase();
-        db.update(GERRAWROH, values, COLUMN_ID + " = ?", new String[]{String.valueOf(contacts.getId())});
+        db.update(GERMANY, values, COLUMN_ID + " = ?", new String[]{String.valueOf(contacts.getId())});
     }
 }

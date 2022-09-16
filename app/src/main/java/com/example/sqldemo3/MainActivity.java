@@ -35,12 +35,12 @@ public class MainActivity extends AppCompatActivity {
              final String name = et_name.getText().toString();
              final String ph_no = et_age.getText().toString();
 
-             CustomerModel customerModel;
+             ModelAdd modeladd;
              DataBaseHelper dataBaseHelper = new DataBaseHelper(MainActivity.this);
 
              try {
-                 customerModel = new CustomerModel(-1, name, ph_no);
-                 dataBaseHelper.addOne(customerModel);
+                 modeladd = new ModelAdd(-1, name, ph_no);
+                 dataBaseHelper.addOne(modeladd);
 
                  Toast.makeText(MainActivity.this, "ADD BUTTON", Toast.LENGTH_SHORT).show();
 
