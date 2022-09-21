@@ -1,18 +1,23 @@
 package com.example.sqldemo3;
 
 import android.content.Context;
+import android.content.Intent;
 import android.database.sqlite.SQLiteDatabase;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.Filter;
 import android.widget.Filterable;
+import android.widget.Toast;
+
 import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
 import java.util.ArrayList;
 
 public class ContactAdapter extends RecyclerView.Adapter<ContactViewHolder>
+
+
 implements Filterable {
     private Context context;
     private ArrayList<ModelAdd> listContacts;
@@ -62,6 +67,8 @@ implements Filterable {
     @Override
     public ContactViewHolder onCreateViewHolder(@NonNull ViewGroup parent, int viewType) {
         View view = LayoutInflater.from(parent.getContext()).inflate(R.layout.contactistlayout, parent, false);
+
+
         return new ContactViewHolder(view);
     }
 
@@ -69,6 +76,14 @@ implements Filterable {
     public void onBindViewHolder(@NonNull ContactViewHolder holder, int position) {
     final ModelAdd contacts = listContacts.get(position);
     holder.tvName.setText(contacts.getName());
+
+    holder.img.setOnClickListener(new View.OnClickListener() {
+        @Override
+        public void onClick(View view) {
+            Intent intent = new Intent(context, MainActivity.class);
+            context.startActivity(intent);
+        }
+    });
 
 
     }

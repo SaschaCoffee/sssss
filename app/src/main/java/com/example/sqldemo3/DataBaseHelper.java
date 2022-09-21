@@ -40,7 +40,7 @@ public class DataBaseHelper extends SQLiteOpenHelper {
 
 
     public DataBaseHelper(@Nullable Context context) {
-        super(context, "customerrrr1.db", null, 1);
+        super(context, "cukstomkkkkerrrr1.db", null, 1);
     }
 
 
@@ -61,7 +61,7 @@ public class DataBaseHelper extends SQLiteOpenHelper {
     }
 
     ArrayList<ModelAdd> listContacts() {
-        String sql = "select * from " + GERMANY + " WHERE " + COLUMN_BUNDESLAND + " ='NI'";
+        String sql = "select * from " + GERMANY + " WHERE " + COLUMN_BUNDESLAND + "='BY'";
         SQLiteDatabase db = this.getReadableDatabase();
         ArrayList<ModelAdd> storeContacts = new ArrayList<>();
         Cursor cursor = db.rawQuery(sql, null);

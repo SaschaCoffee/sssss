@@ -8,6 +8,7 @@ import android.os.Bundle;
 import android.util.Log;
 import android.view.View;
 import android.widget.Button;
+import android.widget.ImageView;
 import android.widget.LinearLayout;
 import android.widget.Toast;
 
@@ -39,8 +40,10 @@ public class ListRv extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.list);
 
+
         Button add = findViewById(R.id.btnAdd);
         Button finaladd = findViewById(R.id.btn_add);
+
 
         RecyclerView contactView = findViewById(R.id.myContactList);
         LinearLayoutManager linearLayoutManager = new LinearLayoutManager(this);
@@ -54,7 +57,6 @@ public class ListRv extends AppCompatActivity {
             contactView.setVisibility(View.VISIBLE);
             ContactAdapter mAdapter = new ContactAdapter(this, allContacts);
             contactView.setAdapter(mAdapter);
-
         }
         else {
             Toast.makeText(this, "HALOOOOO", Toast.LENGTH_LONG).show();
@@ -75,7 +77,10 @@ public class ListRv extends AppCompatActivity {
 
 
 
+
+
     }
+
 
 
 }
