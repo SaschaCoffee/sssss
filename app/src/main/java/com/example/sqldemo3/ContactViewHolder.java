@@ -12,11 +12,14 @@ public class ContactViewHolder extends RecyclerView.ViewHolder {
     ImageView img;
 
 
+
     public ContactViewHolder(@NonNull View itemView) {
         super(itemView);
         tvName = itemView.findViewById(R.id.contactName);
         tvPhoneNum = itemView.findViewById(R.id.phoneNum);
         img = itemView.findViewById(R.id.editContact);
+
+
     }
 
 

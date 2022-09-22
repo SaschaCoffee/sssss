@@ -10,7 +10,9 @@ import android.widget.Filter;
 import android.widget.Filterable;
 import android.widget.Toast;
 
+import androidx.activity.result.contract.ActivityResultContracts;
 import androidx.annotation.NonNull;
+import androidx.localbroadcastmanager.content.LocalBroadcastManager;
 import androidx.recyclerview.widget.RecyclerView;
 
 import java.util.ArrayList;
@@ -21,6 +23,7 @@ public class ContactAdapter extends RecyclerView.Adapter<ContactViewHolder>
 implements Filterable {
     private Context context;
     private ArrayList<ModelAdd> listContacts;
+
     private ArrayList<ModelAdd> mArrayList;
     private DataBaseHelper mData;
 
@@ -28,6 +31,7 @@ implements Filterable {
         this.context = context;
         this.listContacts = listContacts;
         this.mArrayList = listContacts;
+
         mData = new DataBaseHelper(context);
     }
 
@@ -75,15 +79,24 @@ implements Filterable {
     @Override
     public void onBindViewHolder(@NonNull ContactViewHolder holder, int position) {
     final ModelAdd contacts = listContacts.get(position);
+
+
     holder.tvName.setText(contacts.getName());
 
-    holder.img.setOnClickListener(new View.OnClickListener() {
-        @Override
-        public void onClick(View view) {
-            Intent intent = new Intent(context, MainActivity.class);
-            context.startActivity(intent);
-        }
-    });
+
+
+
+
+      holder.img.setOnClickListener(new View.OnClickListener() {
+          @Override
+          public void onClick(View view) {
+              Intent s = new Intent(context, statisticActivity.class);
+              s.putExtra("item", contacts.getPhno());
+              context.startActivity(s);
+
+          }
+      });
+  ;
 
 
     }

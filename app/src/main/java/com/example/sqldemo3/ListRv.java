@@ -56,7 +56,9 @@ public class ListRv extends AppCompatActivity {
         if(allContacts.size() > 0) {
             contactView.setVisibility(View.VISIBLE);
             ContactAdapter mAdapter = new ContactAdapter(this, allContacts);
+
             contactView.setAdapter(mAdapter);
+
         }
         else {
             Toast.makeText(this, "HALOOOOO", Toast.LENGTH_LONG).show();
@@ -64,6 +66,8 @@ public class ListRv extends AppCompatActivity {
             contactView.setVisibility(View.VISIBLE);
             ArrayList<ModelAdd> allContactss = mDatabase.listContacts();
             ContactAdapter mAdapter = new ContactAdapter(this, allContactss);
+
+
             contactView.setAdapter(mAdapter);
         }
 
