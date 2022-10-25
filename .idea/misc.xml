@@ -3,11 +3,26 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/sasch/AndroidStudioProjects/SQLDemo3/app/src/main/res/drawable/border.xml" value="0.1" />
+        <entry key="..\:/Users/sasch/AndroidStudioProjects/SQLDemo3/app/src/main/res/drawable/circle.xml" value="0.1" />
+        <entry key="..\:/Users/sasch/AndroidStudioProjects/SQLDemo3/app/src/main/res/layout/acitvitycardmain.xml" value="0.26811594202898553" />
+        <entry key="..\:/Users/sasch/AndroidStudioProjects/SQLDemo3/app/src/main/res/layout/activity_book.xml" value="0.26811594202898553" />
         <entry key="..\:/Users/sasch/AndroidStudioProjects/SQLDemo3/app/src/main/res/layout/activity_german.xml" value="0.21" />
         <entry key="..\:/Users/sasch/AndroidStudioProjects/SQLDemo3/app/src/main/res/layout/activity_main.xml" value="0.18" />
+        <entry key="..\:/Users/sasch/AndroidStudioProjects/SQLDemo3/app/src/main/res/layout/activity_profile.xml" value="0.17028985507246377" />
+        <entry key="..\:/Users/sasch/AndroidStudioProjects/SQLDemo3/app/src/main/res/layout/activity_sbd.xml" value="0.2667572463768116" />
         <entry key="..\:/Users/sasch/AndroidStudioProjects/SQLDemo3/app/src/main/res/layout/activity_statistic.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/sasch/AndroidStudioProjects/SQLDemo3/app/src/main/res/layout/activitycard.xml" value="0.2758152173913043" />
+        <entry key="..\:/Users/sasch/AndroidStudioProjects/SQLDemo3/app/src/main/res/layout/cardview_item_book.xml" value="0.2758152173913043" />
         <entry key="..\:/Users/sasch/AndroidStudioProjects/SQLDemo3/app/src/main/res/layout/contactistlayout.xml" value="0.2826086956521739" />
+        <entry key="..\:/Users/sasch/AndroidStudioProjects/SQLDemo3/app/src/main/res/layout/custom_dialog.xml" value="0.2758152173913043" />
         <entry key="..\:/Users/sasch/AndroidStudioProjects/SQLDemo3/app/src/main/res/layout/list.xml" value="0.1778115501519757" />
+        <entry key="..\:/Users/sasch/AndroidStudioProjects/SQLDemo3/app/src/main/res/layout/logregactivity.xml" value="0.17028985507246377" />
+        <entry key="..\:/Users/sasch/AndroidStudioProjects/SQLDemo3/app/src/main/res/layout/registeractivity.xml" value="0.17028985507246377" />
+        <entry key="..\:/Users/sasch/AndroidStudioProjects/SQLDemo3/app/src/main/res/layout/search_main.xml" value="0.25" />
+        <entry key="..\:/Users/sasch/AndroidStudioProjects/SQLDemo3/app/src/main/res/layout/spinner_layout.xml" value="0.1111111111111111" />
+        <entry key="..\:/Users/sasch/AndroidStudioProjects/SQLDemo3/app/src/main/res/layout/strength-search_main.xml" value="0.25" />
+        <entry key="..\:/Users/sasch/AndroidStudioProjects/SQLDemo3/app/src/main/res/layout/strength_search_main.xml" value="0.22" />
       </map>
     </option>
   </component>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="textView_country" type="id" />
+    <item name="spinner_country" type="id" />
+    <item name="textView_indian_states" type="id" />
+    <item name="spinner_indian_states" type="id" />
+    <item name="button_submit" type="id" />
+    <item name="editTextTextPersonName13" type="id" />
+    <item name="et_max_squat" type="id" />
+    <item name="editTextTextPersonName12" type="id" />
+</resources>

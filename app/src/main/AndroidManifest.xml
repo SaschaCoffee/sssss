@@ -25,12 +25,31 @@
         </activity>
 
         <activity android:name=".MainActivity">
+        </activity>
+        <activity android:name=".cardMainactivity">
 
         </activity>
 
         <activity android:name=".statisticActivity">
 
         </activity>
+
+        <activity android:name=".searchActivity">
+    </activity>
+
+        <activity android:name=".sbdActivity">
+        </activity>
+
+        <activity android:name=".logRegActivity">
+        </activity>
+
+        <activity android:name=".profileActivity">
+        </activity>
+
+        <activity android:name=".registerUser">
+        </activity>
+
+
 
 
 

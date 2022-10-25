@@ -10,6 +10,7 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.ImageView;
 import android.widget.LinearLayout;
+import android.widget.TextView;
 import android.widget.Toast;
 
 import androidx.annotation.Nullable;
@@ -32,8 +33,8 @@ public class ListRv extends AppCompatActivity {
 
     private DataBaseHelper mDatabase;
     SQLiteDatabase db;
-
-    Button add;
+    Button sbd, add, btn_logregister;
+    TextView tv_banner;
 
     @Override
     protected void onCreate(@Nullable Bundle savedInstanceState) {
@@ -43,6 +44,9 @@ public class ListRv extends AppCompatActivity {
 
         Button add = findViewById(R.id.btnAdd);
         Button finaladd = findViewById(R.id.btn_add);
+        sbd = findViewById(R.id.sbd_button);
+        btn_logregister = findViewById(R.id.btn_register_log);
+        tv_banner = findViewById(R.id.tv_banner);
 
 
         RecyclerView contactView = findViewById(R.id.myContactList);
@@ -74,11 +78,26 @@ public class ListRv extends AppCompatActivity {
         add.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Intent intent = new Intent(ListRv.this, MainActivity.class);
+                Intent intent = new Intent(ListRv.this, searchActivity.class);
                 startActivity(intent);
             }
         });
 
+        sbd.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent intent = new Intent(ListRv.this, cardMainactivity.class);
+                startActivity(intent);
+            }
+        });
+
+        btn_logregister.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent intent = new Intent(ListRv.this, logRegActivity.class);
+                startActivity(intent);
+            }
+        });
 
 
 
