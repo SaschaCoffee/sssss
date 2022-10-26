@@ -42,8 +42,8 @@ public class statisticActivity extends AppCompatActivity {
 
         try {
             DataBaseStatistic x = new DataBaseStatistic(this);
-            x.csvcopy(this, str);
 
+            x.csvcopy(this, str);
         } catch (Exception e) {
             Toast.makeText(this, "fehler", Toast.LENGTH_SHORT).show();
         }

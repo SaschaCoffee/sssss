@@ -46,7 +46,7 @@ public class ListRv extends AppCompatActivity {
         Button finaladd = findViewById(R.id.btn_add);
         sbd = findViewById(R.id.sbd_button);
         btn_logregister = findViewById(R.id.btn_register_log);
-        tv_banner = findViewById(R.id.tv_banner);
+
 
 
         RecyclerView contactView = findViewById(R.id.myContactList);
@@ -56,22 +56,18 @@ public class ListRv extends AppCompatActivity {
 
 
         mDatabase = new DataBaseHelper(this);
-        ArrayList<ModelAdd> allContacts = mDatabase.listContacts();
+        ArrayList<modelDisplayRv> allContacts = mDatabase.listContacts();
         if(allContacts.size() > 0) {
             contactView.setVisibility(View.VISIBLE);
             ContactAdapter mAdapter = new ContactAdapter(this, allContacts);
-
             contactView.setAdapter(mAdapter);
-
         }
         else {
             Toast.makeText(this, "HALOOOOO", Toast.LENGTH_LONG).show();
             mDatabase.csvcopy(this);
             contactView.setVisibility(View.VISIBLE);
-            ArrayList<ModelAdd> allContactss = mDatabase.listContacts();
+            ArrayList<modelDisplayRv> allContactss = mDatabase.listContacts();
             ContactAdapter mAdapter = new ContactAdapter(this, allContactss);
-
-
             contactView.setAdapter(mAdapter);
         }
 

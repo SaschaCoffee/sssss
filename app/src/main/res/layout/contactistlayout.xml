@@ -9,15 +9,16 @@
         android:layout_height="wrap_content"
         android:orientation="horizontal"
         android:padding="12dp">
+
         <RelativeLayout
-            android:layout_width="wrap_content"
+            android:layout_width="246dp"
             android:layout_height="wrap_content">
 
             <TextView
                 android:id="@+id/contactName"
                 android:layout_width="220dp"
                 android:layout_height="wrap_content"
-                android:textSize="12sp"
+                android:textSize="16sp"
                 android:textStyle="bold" />
 
             <TextView
@@ -27,15 +28,43 @@
                 android:layout_below="@+id/contactName"
                 android:textSize="12sp"
                 android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/tv_squat"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/phoneNum"
+                android:text="TextView" />
+
+            <TextView
+                android:id="@+id/tv_bench"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/phoneNum"
+                android:layout_marginStart="31dp"
+                android:layout_toEndOf="@+id/tv_squat"
+                android:text="TextView" />
+
+            <TextView
+                android:id="@+id/tv_deadlift"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/phoneNum"
+                android:layout_marginStart="31dp"
+                android:layout_toEndOf="@+id/tv_bench"
+                android:text="TextView" />
+
+
         </RelativeLayout>
+
         <ImageView
             android:id="@+id/editContact"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_gravity="center_vertical"
             android:layout_weight="1"
-            android:src="@drawable/ic"
-            android:contentDescription="TODO" />
+            android:contentDescription="TODO"
+            android:src="@drawable/ic" />
         <ImageView
             android:id="@+id/deleteContact"
             android:layout_width="0dp"

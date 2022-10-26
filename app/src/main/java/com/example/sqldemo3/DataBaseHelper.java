@@ -46,11 +46,7 @@ public class DataBaseHelper extends SQLiteOpenHelper {
 
     public void onCreate(SQLiteDatabase db) {
         String x = "CREATE TABLE " + GERMANY + " (" + COLUMN_ID + " INTEGER PRIMARY KEY AUTOINCREMENT, " + COLUMN_NAME + " TEXT, " + COLUMN_OPENPL + " TEXT, " + COLUMN_INSTA + " TEXT, " + COLUMN_BUNDESLAND + " TEXT, " + COLUMN_VERBAND + " TEXT, " + COLUMN_DATUM + " REAL, " + COLUMN_ORT + " TEXT, " + COLUMN_GESCHLECHT + " TEXT, " + COLUMN_ALTER + " INT, " + COLUMN_SQUAT + " REAL, " + COLUMN_BENCH + " REAL, " + COLUMN_DEADLIFT + " REAL)";
-
         db.execSQL(x);
-
-
-
     }
 
 
@@ -60,10 +56,10 @@ public class DataBaseHelper extends SQLiteOpenHelper {
 
     }
 
-    ArrayList<ModelAdd> listContacts() {
+    ArrayList<modelDisplayRv> listContacts() {
         String sql = "select * from " + GERMANY + " WHERE " + COLUMN_BUNDESLAND + "='BY'";
         SQLiteDatabase db = this.getReadableDatabase();
-        ArrayList<ModelAdd> storeContacts = new ArrayList<>();
+        ArrayList<modelDisplayRv> storeContacts = new ArrayList<>();
         Cursor cursor = db.rawQuery(sql, null);
         if (cursor.moveToFirst()) {
             do {
@@ -71,7 +67,12 @@ public class DataBaseHelper extends SQLiteOpenHelper {
                     int id = Integer.parseInt(cursor.getString(0));
                     String name = cursor.getString(1);
                     String age = cursor.getString(2);
-                    storeContacts.add(new ModelAdd(id, name, age));
+                    String squat = cursor.getString(10).replace(".5","");
+                    String bench = cursor.getString(11).replace(".5","");
+                    String deadlift = cursor.getString(12).replace(".5","");
+
+
+                    storeContacts.add(new modelDisplayRv(id, name, age, squat, bench, deadlift));
 
             }
             while (cursor.moveToNext());
@@ -83,7 +84,7 @@ public class DataBaseHelper extends SQLiteOpenHelper {
 
 void csvcopy(Context contex){
     SQLiteDatabase db = this.getWritableDatabase();
-    String myCSVFile = "GerPounds.csv";
+    String myCSVFile = "GERKgg.csv";
     AssetManager manager = contex.getAssets();
     InputStream inStream = null;
     try {

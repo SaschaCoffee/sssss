@@ -22,12 +22,12 @@ public class ContactAdapter extends RecyclerView.Adapter<ContactViewHolder>
 
 implements Filterable {
     private Context context;
-    private ArrayList<ModelAdd> listContacts;
+    private ArrayList<modelDisplayRv> listContacts;
 
-    private ArrayList<ModelAdd> mArrayList;
+    private ArrayList<modelDisplayRv> mArrayList;
     private DataBaseHelper mData;
 
-    ContactAdapter(Context context, ArrayList<ModelAdd> listContacts){
+    ContactAdapter(Context context, ArrayList<modelDisplayRv> listContacts){
         this.context = context;
         this.listContacts = listContacts;
         this.mArrayList = listContacts;
@@ -46,8 +46,8 @@ implements Filterable {
                     listContacts = mArrayList;
                 }
                 else {
-                    ArrayList<ModelAdd> filteredList = new ArrayList<>();
-                    for (ModelAdd contacts : mArrayList) {
+                    ArrayList<modelDisplayRv> filteredList = new ArrayList<>();
+                    for (modelDisplayRv contacts : mArrayList) {
                         if (contacts.getName().toLowerCase().contains(charString)) {
                             filteredList.add(contacts);
                         }
@@ -61,7 +61,7 @@ implements Filterable {
 
             @Override
             protected void publishResults(CharSequence charSequence, FilterResults filterResults) {
-                listContacts = (ArrayList<ModelAdd>) filterResults.values;
+                listContacts = (ArrayList<modelDisplayRv>) filterResults.values;
                 notifyDataSetChanged();
             }
         };
@@ -78,20 +78,19 @@ implements Filterable {
 
     @Override
     public void onBindViewHolder(@NonNull ContactViewHolder holder, int position) {
-    final ModelAdd contacts = listContacts.get(position);
+    final modelDisplayRv contacts = listContacts.get(position);
 
 
     holder.tvName.setText(contacts.getName());
-
-
-
-
+    holder.tv_squat.setText(contacts.getSquat());
+    holder.tv_bench.setText(contacts.getBench());
+    holder.tv_deadlift.setText(contacts.getDeadlift());
 
       holder.img.setOnClickListener(new View.OnClickListener() {
           @Override
           public void onClick(View view) {
               Intent s = new Intent(context, statisticActivity.class);
-              s.putExtra("item", contacts.getPhno());
+              s.putExtra("item", contacts.getPhoneNumber());
               context.startActivity(s);
 
           }
