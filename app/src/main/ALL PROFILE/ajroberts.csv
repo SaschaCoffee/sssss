@@ -1,0 +1,20 @@
+﻿Name;Sex;Event;Equipment;Age;AgeClass;BirthYearClass;Division;BodyweightKg;WeightClassKg;Squat1Kg;Squat2Kg;Squat3Kg;Squat4Kg;Best3SquatKg;Bench1Kg;Bench2Kg;Bench3Kg;Bench4Kg;Best3BenchKg;Deadlift1Kg;Deadlift2Kg;Deadlift3Kg;Deadlift4Kg;Best3DeadliftKg;TotalKg;Place;Dots;Wilks;Glossbrenner;Goodlift;Tested;Country;State;Federation;ParentFederation;Date;MeetCountry;MeetState;MeetTown;MeetName
+AJ Roberts;M;SBD;Raw;30;24-34;24-39;Open;122.83;125;;;;;272.5;;;;;220;;;;;300;792.5;2;451.67;453.26;434.21;91.20;;USA;CA;USPA;IPL;2015-03-27;USA;CA;Anaheim;California State Powerlifting Championships
+AJ Roberts;M;SBD;Multi-ply;26.5;24-34;24-39;Pro Open;137.71;140;;;;;546.58;;;;;396.89;;;;;351.53;1295.01;1;713.01;725.48;690.39;119.29;;USA;OH;SPF;;2012-03-10;USA;;;Ironman Classic Pro/Am
+AJ Roberts;M;B;Multi-ply;26.5;24-34;24-39;Open;;140+;;;;;;;;;;412.77;;;;;;412.77;1;;;;;;USA;;SPF;;2011-12-10;USA;;;Outlaw Powerlifting
+AJ Roberts;M;SBD;Multi-ply;26;24-34;24-39;Pro Open;140;140;;;;;512.56;;;;;410.5;;;;;360.61;1283.67;1;703.48;717.32;681.83;117.64;;USA;;SPF;;2011-08-20;USA;OH;Cincinnati;PowerStation Pro/Am
+AJ Roberts;M;SBD;Multi-ply;26;24-34;24-39;Open;137.53;140;;;;;503.49;;;;;408.23;;;;;349.27;1260.99;1;694.53;706.56;672.45;116.20;;USA;OH;SPF;;2011-06-17;USA;;;Nationals
+AJ Roberts;M;SBD;Multi-ply;25.5;24-34;24-39;Pro Open;138.16;140;;;;;517.1;;;;;394.63;;;;;369.68;1281.4;1;704.86;717.49;682.63;117.91;;USA;OH;SPF;;2011-03-05;USA;;;Ironman Classic
+AJ Roberts;M;SBD;Multi-ply;25;24-34;24-39;Pro Open;140;140;;;;;498.95;;;;;349.27;;;;;353.8;1202.02;5;658.73;671.70;638.46;110.16;;USA;;SPF;;2010-08-20;USA;;;Powerstation Pro/Am
+AJ Roberts;M;B;Multi-ply;25;24-34;24-39;Open;133.63;140;;;;;;;;;;371.95;;;;;;371.95;1;206.57;209.38;199.65;105.84;;USA;OH;SPF;;2010-07-03;USA;OH;Cincinnati;Sweatt Shop Bench Classic
+AJ Roberts;M;SBD;Multi-ply;25;24-34;24-39;Open;135.17;140;;;;;469.47;;;;;365.14;;;;;344.73;1179.34;1;652.80;662.62;631.33;109.28;;USA;OH;SPF;;2010-03-27;USA;;;Guerrilla Squad Barbell Classic
+AJ Roberts;M;SBD;Multi-ply;24;24-34;24-39;Open;140;140;410.5;439.98;453.59;;453.59;331.12;-344.73;344.73;;344.73;335.66;-362.87;-362.87;;335.66;1133.98;2;621.44;633.68;602.32;103.92;;USA;;SPF;;2009-08-21;USA;OH;Sharonville;PRO-AM
+AJ Roberts;M;SBD;Multi-ply;24;24-34;24-39;Pro Open;140;140;;;;;435.45;;;;;317.51;;;;;344.73;1097.69;1;601.56;613.40;583.04;100.60;;USA;;IPA;;2009-06-27;USA;;;World Powerlifting Championships
+AJ Roberts;M;SBD;Multi-ply;24;24-34;24-39;Open;140;140;;;;;419.57;;;;;340.19;;;;;342.46;1102.23;1;604.04;615.93;585.45;101.01;;USA;OH;SPF;;2009-03-28;USA;TN;Nashville;Ironman Classic
+AJ Roberts;M;BD;Multi-ply;23.5;24-34;;Open;134.7;140;;;;;;;;;;324.32;;;;;328.85;653.17;1;361.91;367.20;349.95;;;USA;OH;SPF;;2008-12-06;USA;TN;Murfreesboro;Cell Block Classic
+AJ Roberts;M;SBD;Multi-ply;23.5;24-34;;Open;134.7;140;;;;;74.84;;;;;324.32;;;;;328.85;728.02;3;403.39;409.27;390.05;67.54;;USA;OH;SPF;;2008-12-06;USA;TN;Murfreesboro;Cell Block Classic
+AJ Roberts;M;SBD;Multi-ply;23;20-23;;Pro Open;140;140;;;;;424.11;;;;;319.78;;;;;319.78;1063.67;3;582.91;594.39;564.97;97.48;;USA;;IPA;;2008-08-22;USA;OH;Sharonville;Powerstation Pro/Am
+AJ Roberts;M;SBD;Multi-ply;22.5;20-23;19-23;MO;140;140;;;;;455;;;;;320;;320;-340;;320;1095;2;600.08;611.89;581.61;100.35;;USA;;UPA;;2007-12-01;USA;CA;Sacramento;California State
+AJ Roberts;M;SBD;Multi-ply;21.5;20-23;19-23;Open;126.25;140;;;;;400;;;;;317.5;;;;;320;1037.5;1;586.18;590.04;564.51;98.40;;USA;;WPC;WPC;2006-11-02;USA;NY;Lake George;World Championships - WPO Semi-Finals
+AJ Roberts;M;SBD;Multi-ply;21;20-23;19-23;M_OEM_APF;127.8;140;425;-455;-455;;425;285;-300;300;;300;305;317.5;-330;;317.5;1042.5;2;586.78;591.49;565.56;98.44;;USA;;APF;WPC;2006-06-02;USA;NV;Las Vegas;Senior Nationals
+AJ Roberts;M;SBD;Multi-ply;20;20-23;19-23;M_OEM_APF;125;125;325;350;365;;365;220;235;250;;250;272.5;292.5;-300;;292.5;907.5;14;514.33;517.13;494.88;86.38;;USA;;APF;WPC;2005-06-03;USA;MI;Detroit;Nationals

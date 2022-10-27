@@ -1,0 +1,21 @@
+﻿Name;Sex;Event;Equipment;Age;AgeClass;BirthYearClass;Division;BodyweightKg;WeightClassKg;Squat1Kg;Squat2Kg;Squat3Kg;Squat4Kg;Best3SquatKg;Bench1Kg;Bench2Kg;Bench3Kg;Bench4Kg;Best3BenchKg;Deadlift1Kg;Deadlift2Kg;Deadlift3Kg;Deadlift4Kg;Best3DeadliftKg;TotalKg;Place;Dots;Wilks;Glossbrenner;Goodlift;Tested;Country;State;Federation;ParentFederation;Date;MeetCountry;MeetState;MeetTown;MeetName
+Aleksandr Sobolev;M;SBD;Wraps;34;24-34;24-39;Open;88.3;90;-220;-220;220;;220;150;160;-162.5;;160;190;205;210;;210;590;1;385.22;380.39;364.88;79.18;;Russia;;RPU;;2022-06-18;Russia;VGG;Volzhsky;Eurasian Championships
+Aleksandr Sobolev;M;B;Raw;34;24-34;24-39;Open;88.3;90;;;;;;150;160;-162.5;;160;;;;;;160;3;104.47;103.16;98.95;77.89;;Russia;;RPU;;2022-06-18;Russia;VGG;Volzhsky;Eurasian Championships
+Aleksandr Sobolev;M;SBD;Raw;19.5;20-23;19-23;Open;77.1;83;;;;;152.5;;;;;125;;;;;182.5;460;21;324.34;321.66;310.43;66.12;Yes;;;FPR;IPF;2018-05-25;Russia;IRK;Irkutsk;Irkutsk Oblast Powerifting Cup
+Aleksandr Sobolev;M;B;Single-ply;19.5;20-23;19-23;Open;75.85;83;;;;;;140;150;160;;160;;;;;;160;3;113.97;113.13;109.25;61.02;Yes;;;FPR;IPF;2018-05-12;Russia;IRK;Irkutsk;Irkutsk Victory Cup
+Aleksandr Sobolev;M;SBD;Raw;19.5;20-23;19-23;Juniors;79.55;83;;;;;142.5;;;;;127.5;;;;;180;450;3;311.33;308.31;297.14;63.65;Yes;;;FPR;IPF;2018-03-24;Russia;IRK;Irkutsk;Irkutsk Powerlifting Championships
+Aleksandr Sobolev;M;B;Raw;30;24-34;24-39;Pro Open;89.6;90;;;;;;165;175;-180;;175;;;;;;175;3;113.41;111.97;107.34;84.57;;;;WRPF;WRPF;2017-12-09;Russia;STA;Stavropol;Russian Cup
+Aleksandr Sobolev;M;SBD;Raw;18.5;18-19;19-23;Open;73.9;74;;;;;135;;;;;117.5;;;;;175;427.5;6;309.63;307.80;297.60;62.81;Yes;;;FPR;IPF;2017-11-30;Russia;IRK;Cheremkhovo;Irutsk Oblast Powerlifting Championships
+Aleksandr Sobolev;M;SBD;Raw;18.5;18-19;19-23;Juniors;73.9;74;;;;;135;;;;;117.5;;;;;175;427.5;1;309.63;307.80;297.60;62.81;Yes;;;FPR;IPF;2017-11-30;Russia;IRK;Cheremkhovo;Irutsk Oblast Powerlifting Championships
+Aleksandr Sobolev;M;SBD;Raw;18.5;18-19;19-23;Open;73.9;74;;;;;135;;;;;117.5;;;;;175;427.5;1;309.63;307.80;297.60;62.81;Yes;;;FPR;IPF;2017-05-19;Russia;IRK;Cheremkhovo;Irkutsk Oblast Powerlifting Cup
+Aleksandr Sobolev;M;B;Raw;29;24-34;24-39;Pro Open;89.3;90;;;;;;155;165;-170;;165;;;;;;165;1;107.11;105.76;101.39;79.87;;;;WRPF;WRPF;2017-04-08;Russia;VGG;Volzhsky;South Russia Championship
+Aleksandr Sobolev;M;SBD;Wraps;29;24-34;24-39;Pro Open;89.3;90;225;-235;-240;;225;155;165;-170;;165;195;205;215;;215;605;2;392.74;387.78;371.77;80.74;;;;WRPF;WRPF;2017-04-08;Russia;VGG;Volzhsky;South Russia Championship
+Aleksandr Sobolev;M;B;Raw;26.5;24-34;24-39;Pro Open;82.5;82.5;;;;;;160;167.5;170;;170;;;;;;170;1;115.16;113.88;109.58;85.65;;Russia;;WPC;WPC;2015-02-07;Russia;KDA;Krasnodar;Eastern Europe Championships
+Aleksandr Sobolev;M;B;Single-ply;24.5;24-34;24-39;Pro Open;81.8;82.5;;;;;;-190;-195;-200;;;;;;;;;DQ;;;;;;Russia;;WPC-RUS;WPC;2013-11-23;Russia;ROS;Rostov-on-Don;North Caucasus Championships
+Aleksandr Sobolev;M;B;Raw;24.5;24-34;24-39;Pro Open;81.8;82.5;;;;;;-155;160;167.5;;167.5;;;;;;167.5;1;114.02;112.79;108.57;84.77;;Russia;;WPC-RUS;WPC;2013-11-23;Russia;ROS;Rostov-on-Don;North Caucasus Championships
+Aleksandr Sobolev;M;B;Raw;25;24-34;24-39;Pro Open;82.5;82.5;;;;;;155;162.5;167.5;;167.5;;;;;;167.5;1;113.46;112.21;107.97;84.40;;;;WPC-RUS;WPC;2012-11-02;Russia;VGG;Volgograd;Silver Bar Championships
+Aleksandr Sobolev;M;B;Multi-ply;25;24-34;24-39;Pro Open;82.5;82.5;;;;;;-205;-210;-210;;;;;;;;;DQ;;;;;;;;WPC-RUS;WPC;2012-11-02;Russia;VGG;Volgograd;Silver Bar Championships
+Aleksandr Sobolev;M;B;Raw;24.5;24-34;24-39;Pro Open;88.8;90;;;;;;145;-152.5;-152.5;;145;;;;;;145;5;94.40;93.21;89.39;70.39;;;;WPC-RUS;WPC;2012-03-24;Russia;VLG;Vologda;North-Eastern Championships
+Aleksandr Sobolev;M;B;Multi-ply;23.5;24-34;24-39;Pro Open;81.15;82.5;;;;;;-185;195;205;;205;;;;;;205;1;140.18;138.71;133.57;74.17;;;;WPC-RUS;WPC;2012-03-10;Russia;ROS;Rostov-on-Don;Southern Federal District Championships
+Aleksandr Sobolev;M;B;Single-ply;25.5;24-34;24-39;Open;107.9;110;;;;;;-185;190;195;;195;;;;;;195;8;116.34;115.46;110.29;59.81;Yes;;;BelPF;IPF;2009-11-19;Belarus;;Lida;Belarus Bench Press Cup
+Aleksandr Sobolev;M;SBD;Single-ply;23.5;24-34;24-39;Open;96.75;100;;;;;;;;;;;;;;;;;DQ;;;;;Yes;Belarus;;BelPF;IPF;2007-05-03;Belarus;;Oshmyany;Belarus Universiade

@@ -1,0 +1,44 @@
+﻿Name;Sex;Event;Equipment;Age;AgeClass;BirthYearClass;Division;BodyweightKg;WeightClassKg;Squat1Kg;Squat2Kg;Squat3Kg;Squat4Kg;Best3SquatKg;Bench1Kg;Bench2Kg;Bench3Kg;Bench4Kg;Best3BenchKg;Deadlift1Kg;Deadlift2Kg;Deadlift3Kg;Deadlift4Kg;Best3DeadliftKg;TotalKg;Place;Dots;Wilks;Glossbrenner;Goodlift;Tested;Country;State;Federation;ParentFederation;Date;MeetCountry;MeetState;MeetTown;MeetName
+Aaron Smith;M;SBD;Raw;15;13-15;14-18;Teen 13-15;150.23;140+;115.67;122.47;131.54;138.35;131.54;70.31;77.11;-88.45;;77.11;133.81;149.69;-163.29;;149.69;358.34;1;192.62;198.23;187.40;38.01;;USA;MO;APA;WPA;2021-09-11;USA;MO;Fredericktown;Alpha Open
+Aaron Smith;M;SBD;Raw;15;13-15;14-18;Teen 13-15;146.51;140+;-104.33;104.33;113.4;;113.4;65.77;74.84;86.18;;86.18;113.4;131.54;145.15;;145.15;344.73;1;186.56;191.37;181.26;36.92;Yes;USA;MO;APA;WPA;2021-04-03;USA;MO;Fredericktown;Eastern Missouri Open Championships
+Aaron Smith;M;SBD;Single-ply;;;;Boys;145.15;139.7+;;;;;254.01;;;;;133.81;;;;;204.12;591.94;1;321.17;329.04;311.87;53.67;Yes;USA;;THSPA;;2021-01-14;USA;TX;Corrigan;Bulldog Nation Invitational
+Aaron Smith;M;SBD;Single-ply;;;;Boys;152.09;124.7+;;;;;231.33;;;;;142.88;;;;;195.04;569.26;8;304.99;314.36;296.91;50.95;Yes;USA;;THSPA;;2020-02-20;USA;TX;Lufkin;Lufkin Panther Invitational
+Aaron Smith;M;SBD;Single-ply;;;;Boys;151.77;124.7+;;;;;231.33;;;;;145.15;;;;;188.24;564.72;7;302.73;311.94;294.67;50.57;Yes;USA;;THSPA;;2020-02-13;USA;TX;Diboll Texas;Diboll Powerlift Meet
+Aaron Smith;M;SBD;Single-ply;;;;Boys;148.78;124.7+;;;;;226.8;;;;;136.08;;;;;188.24;551.11;3;297.02;305.28;288.82;49.62;Yes;USA;;THSPA;;2020-02-06;USA;TX;Nacogdoches;Nacogdoches Invitational
+Aaron Smith;M;SBD;Single-ply;;;;Boys;150.59;124.7+;;;;;226.8;;;;;136.08;;;;;197.31;560.19;3;300.93;309.78;292.81;50.27;Yes;USA;;THSPA;;2020-01-30;USA;TX;Jasper;Iron Dawg Invitational
+Aaron Smith;M;SBD;Single-ply;;;;Boys;149.23;124.7+;;;;;240.4;;;;;120.2;;;;;156.49;517.1;7;278.46;286.32;270.82;46.52;Yes;USA;;THSPA;;2019-03-09;USA;TX;Baytown;Region 4 Division 3 Championships
+Aaron Smith;M;SBD;Single-ply;;;;Boys;125.19;124.7+;;;;;238.14;;;;;120.2;;;;;149.69;508.02;8;287.79;289.40;276.91;48.33;Yes;USA;;THSPA;;2019-02-19;USA;TX;Newton;Newton Invitational
+Aaron Smith;M;SBD;Single-ply;;;;Boys;150.5;124.7+;;;;;213.19;;;;;111.13;;;;;158.76;483.08;7;259.55;267.16;252.54;43.36;Yes;USA;;THSPA;;2019-02-02;USA;TX;Rusk;Rusk Meet
+Aaron Smith;M;SBD;Single-ply;;;;Boys;151.95;124.7+;;;;;226.8;;;;;106.59;;;;;142.88;476.27;3;255.24;263.04;248.46;42.64;Yes;USA;;THSPA;;2019-01-26;USA;TX;Corrigan;Corrigan-Camden Bulldog powerlifting meet
+Aaron Smith;M;SBD;Raw;;;;Amateur Open;121.47;125;;;;;172.37;;;;;122.47;;;;;215.46;510.29;1;291.89;292.56;280.35;59.01;Yes;USA;;RPS;;2018-04-14;USA;PA;York;PowerPalooza 20
+Aaron Smith;M;SBD;Single-ply;;;;Boys;125.19;124.7+;;;;;;;;;;;;;;;;;DQ;;;;;Yes;USA;;THSPA;;2018-02-10;USA;TX;Livingston Junior High;Livingston Lion Invitational
+Aaron Smith;M;SBD;Single-ply;;;;Boys;131.54;124.7+;;;;;170.1;;;;;90.72;;;;;138.35;399.16;3;222.72;225.29;215.06;37.32;Yes;USA;;THSPA;;2018-01-25;USA;TX;Corrigan;Corrigan Bulldog Meet
+Aaron Smith;M;SBD;Wraps;;;;Amateur Open;74.21;75;;;;;150;;;;;120;;;;;210;480;1;346.72;344.58;333.10;70.37;Yes;USA;;RPS;;2017-02-18;USA;KY;Louisville;Mafia Mayhem
+Aaron Smith;M;SBD;Wraps;;;;Amateur Open;72.94;75;;;;;167.7;;;;;117.5;;;;;192.5;477.7;1;348.97;347.19;335.87;70.66;Yes;USA;;RPS;;2016-05-14;USA;KY;Louisville;Braggin' Rights
+Aaron Smith;M;SBD;Single-ply;;;;Boys;93.71;99.7;;;;;181.44;;;;;102.06;;;;;174.63;458.13;6;290.43;286.77;274.38;49.49;Yes;USA;;THSPA;;2016-02-11;USA;TX;Chapel Hill;Chapel Hill Invitational
+Aaron Smith;M;SBD;Single-ply;;;;Boys;95.35;99.7;;;;;156.49;;;;;102.06;;;;;170.1;428.64;7;269.53;266.18;254.54;45.89;Yes;USA;;THSPA;;2016-01-16;USA;TX;Van;Van Invitational Meet
+Aaron Smith;M;SBD;Raw;37.5;35-39;24-39;MR-O;91.1;93;182.5;190;195;;195;142.5;152.5;162.5;;162.5;205;220;227.5;;227.5;585;4;375.97;371.19;355.56;77.31;Yes;USA;;USAPL;IPF;2015-08-08;USA;GA;;Powerlifting For Pups
+Aaron Smith;M;SBD;Single-ply;;;;Boys;94.71;99.7;;;;;149.69;;;;;86.18;;;;;147.42;383.29;18;241.77;238.75;228.35;41.18;Yes;USA;;THSPA;;2015-01-24;USA;TX;Rusk;Rusk Invitational
+Aaron Smith;M;SBD;Raw;36.5;35-39;24-39;MR-O;88.7;90;;;;;192.5;;;;;157.5;;;;;220;570;4;371.30;366.63;351.60;76.32;Yes;USA;;USAPL;IPF;2014-10-25;USA;GA;;GA & Southern States BP & PL Championships
+Aaron Smith;M;SBD;Wraps;20;20-23;19-23;M-OR;89.6;90;-185;190;200;;200;90;97.5;102.5;;102.5;210;220;230;;230;532.5;2;345.09;340.72;326.61;70.95;;USA;;GPC-AUS;GPC;2014-08-04;Australia;WA;Perth;Perth Cup
+Aaron Smith;M;SBD;Raw;36.5;35-39;24-39;MR-O;88.2;90;;;;;167.5;;;;;137.5;;;;;202.5;507.5;2;331.55;327.40;314.06;68.15;Yes;USA;;USAPL;IPF;2014-04-05;USA;GA;;Georgia Spring Open
+Aaron Smith;M;SBD;Wraps;20;20-23;19-23;M-OR;83.1;90;170;175;185;;185;-85;90;92.5;;92.5;190;200;210;;210;487.5;6;328.88;325.17;312.78;67.44;;USA;;GPC-AUS;GPC;2013-10-13;Australia;WA;Perth;Wild West Shootout
+Aaron Smith;M;SBD;Single-ply;;;;Boys;99.79;99.7;;;;;183.7;;;;;113.4;;;;;181.44;478.54;5;294.82;291.48;278.41;50.09;Yes;USA;;THSPA;;2012-02-23;USA;TX;Newton;Newton High School Powerlifting Meet
+Aaron Smith;M;SBD;Single-ply;;;;Varsity;99.79;99.7;;;;;183.7;;;;;;;;;;170.1;;DQ;;;;;Yes;USA;;THSPA;;2012-02-09;USA;TX;Kirbyville;Kirbyville Meet
+Aaron Smith;M;D;Raw;;;;Open;98.07;100;;;;;;;;;;;;;;;229.06;229.06;1;142.20;140.52;134.26;;;USA;GA;SPF;;2011-12-17;USA;GA;;Body by George Mini Meet
+Aaron Smith;M;D;Single-ply;;;;Open;99.34;100;;;;;;;;;;;;;;;204.12;204.12;1;126.00;124.56;118.98;;;USA;GA;SPF;;2011-06-17;USA;;;Nationals
+Aaron Smith;M;SBD;Single-ply;;;;Boys;89.36;89.8;;;;;172.37;;;;;117.93;;;;;170.1;460.4;5;298.77;294.99;282.81;51.00;Yes;USA;;THSPA;;2011-02-24;USA;TX;Kirbyville;Kirbyville Meet
+Aaron Smith;M;SBD;Single-ply;;;;Boys;91.63;99.7;;;;;163.29;;;;;106.59;;;;;170.1;439.98;5;281.96;278.38;266.59;48.09;Yes;USA;;THSPA;;2011-02-17;USA;TX;Jasper;Jasper
+Aaron Smith;M;SBD;Single-ply;;;;Boys;83.91;89.8;;;;;136.08;;;;;83.91;;;;;154.22;374.21;7;251.09;248.19;238.62;42.94;Yes;USA;;THSPA;;2010-02-04;USA;TX;Jasper;Jasper High School
+Aaron Smith;M;SBD;Single-ply;;;;M-T;75;75;;;;;102.06;;;;;74.84;;;;;113.4;290.3;9;208.27;206.86;199.87;35.67;Yes;USA;;USAPL;IPF;2001-05-05;USA;MI;Niles;State High School/Teenage
+Aaron Smith;M;SBD;Single-ply;;;;M-T;75;75;;;;;92.99;;;;;70.31;;;;;102.06;265.35;10;190.37;189.08;182.69;32.60;Yes;USA;MI;USAPL;IPF;2001-02-10;USA;MI;Niles;Michigan High School PL Champs
+Aaron Smith;M;SBD;Single-ply;;;;Open;100;100;;;;;;;;;;;;;;;;;DQ;;;;;;USA;;USPF;IPF;1987-10-10;USA;CA;San Luis Obispo;Central California Open
+Aaron Smith;M;B;Raw;;;;Open;100;100;;;;;;;;;;170;;;;;;170;6;104.64;103.46;98.82;77.88;;USA;;USPF;IPF;1984-10-13;USA;CA;Sacramento;Northen California Bench Press
+Aaron Smith;M;SBD;Single-ply;;;;Open;100;100;;;;;252.5;;;;;165;;;;;250;667.5;3;410.86;406.23;388.00;69.80;;USA;;USPF;IPF;1984-04-14;USA;CA;Pittsburg;Northern California Open
+Aaron Smith;M;B;Raw;;;;Open;90;90;;;;;;;;;;150;;;;;;150;6;96.99;95.76;91.78;72.33;;USA;;USPF;IPF;1983-10-22;USA;CA;Sacramento;North California Open/Novice Bench Press
+Aaron Smith;M;SBD;Single-ply;;;;Open;100;100;;;;;240;;;;;160;;;;;260;660;8;406.24;401.67;383.64;69.02;;USA;;USPF;IPF;1983-07-16;USA;CA;Clovia;California State Championships
+Aaron Smith;M;SBD;Single-ply;;;;Open;90;90;;;;;252.5;;;;;152.5;;;;;255;660;2;426.76;421.34;403.81;72.83;;USA;;USPF;IPF;1982-08-14;USA;CA;San Francisco;Northern California Class 2 Championships
+Aaron Smith;M;SBD;Single-ply;;;;Open;90;90;;;;;247.5;;;;;157.5;;;;;240;645;1;417.06;411.76;394.64;71.17;;USA;;USPF;IPF;1982-04-24;USA;CA;Sacramento;Sacramento Open
+Aaron Smith;M;SBD;Single-ply;;;;Open;90;90;;;;;227.5;;;;;160;;;;;;;DQ;;;;;;USA;;USPF;IPF;1981-08-22;USA;CA;San Francisco;Northern California Jr Championships
+Aaron Smith;M;SBD;Single-ply;;;;Open;90;90;;;;;195.04;;;;;136.08;;;;;215.46;546.58;4;353.42;348.93;334.42;60.31;;USA;;USPF;IPF;1980-08-30;USA;CA;San Francisco;Northern Cal Jr Championships
+Aaron Smith;M;SBD;Single-ply;;;;Open;90;90;;;;;200;;;;;132.5;;;;;197.5;530;7;342.70;338.35;324.27;58.48;;USA;;USPF;IPF;1980-05-03;USA;CA;Fairfax;California State Novice & Masters

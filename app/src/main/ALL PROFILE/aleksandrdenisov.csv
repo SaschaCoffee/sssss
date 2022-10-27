@@ -1,0 +1,29 @@
+﻿Name;Sex;Event;Equipment;Age;AgeClass;BirthYearClass;Division;BodyweightKg;WeightClassKg;Squat1Kg;Squat2Kg;Squat3Kg;Squat4Kg;Best3SquatKg;Bench1Kg;Bench2Kg;Bench3Kg;Bench4Kg;Best3BenchKg;Deadlift1Kg;Deadlift2Kg;Deadlift3Kg;Deadlift4Kg;Best3DeadliftKg;TotalKg;Place;Dots;Wilks;Glossbrenner;Goodlift;Tested;Country;State;Federation;ParentFederation;Date;MeetCountry;MeetState;MeetTown;MeetName
+Aleksandr Denisov;M;D;Raw;32;24-34;24-39;Open;77.5;82.5;;;;;;;;;;;180;192.5;207.5;;207.5;207.5;2;145.84;144.60;139.52;;;;;RPU;;2020-03-13;Russia;SAM;Samara;Eurasian Cup
+Aleksandr Denisov;M;D;Raw;32;24-34;24-39;Open;75;75;;;;;;;;;;;185;195;205;;205;205;1;147.07;146.07;141.14;;;;;RPU;;2019-12-14;Russia;SAM;Samara;Explosive Force Tournament
+Aleksandr Denisov;M;D;Raw;32;24-34;24-39;Open;76.2;82.5;;;;;;;;;;;180;190;202.5;;202.5;202.5;1;143.83;142.73;137.81;;;;;IPL;IPL;2019-09-13;Russia;SAM;Samara;Eastern European Championships
+Aleksandr Denisov;M;D;Raw;30;24-34;24-39;Amateur Open;88.5;90;;;;;;;;;;;205;215;225;;225;225;1;146.74;144.89;138.97;;Yes;;;NAP;IPA;2019-08-16;Russia;KRS;Kurchatov;Kurchatov Cup
+Aleksandr Denisov;M;D;Raw;31;24-34;24-39;Open;77.8;82.5;;;;;;;;;;;180;190;200;;200;200;2;140.24;139.02;134.11;;;;;IPL;IPL;2019-03-15;Russia;SAM;Samara;Eurasian Cup
+Aleksandr Denisov;M;D;Raw;31;24-34;24-39;Open;77.9;82.5;;;;;;;;;;;177.5;-187.5;195;;195;195;3;136.62;135.43;130.64;;;;;RPU;;2018-12-22;Russia;SAM;Samara;Explosive Power Tournament
+Aleksandr Denisov;M;D;Raw;31;24-34;24-39;Open;77.7;82.5;;;;;;;;;;;170;175;185;;185;185;1;129.82;128.70;124.17;;Yes;;;IPL;IPL;2018-09-14;Russia;SAM;Samara;Eastern European Championships
+Aleksandr Denisov;M;D;Raw;30;24-34;24-39;Open;77.6;82.5;;;;;;;;;;;172.5;182.5;-192.5;;182.5;182.5;1;128.17;127.07;122.60;;Yes;;;RPU;;2017-12-23;Russia;SAM;Samara;Samara Championships
+Aleksandr Denisov;M;B;Raw;44.5;40-44;40-49;Masters 40-49;88.35;90;;;;;;-140;-140;-140;;;;;;;;;DQ;;;;;Yes;;;UPC;UPC;2017-10-06;Ukraine;;Kyev;Ukrainian Cup
+Aleksandr Denisov;M;D;Raw;30;24-34;24-39;Open;78.2;82.5;;;;;;;;;;;167.5;182.5;-195;;182.5;182.5;2;127.57;126.43;121.94;;;;;RPU;;2017-09-17;Russia;SAM;Samara;Explosive Power Tournament
+Aleksandr Denisov;M;D;Raw;29;24-34;24-39;Pro Open;79.4;82.5;;;;;;;;;;;170;180;190;;190;190;2;131.60;130.33;125.62;;;;;WRPF;WRPF;2017-06-10;Russia;SAM;Samara;Samara Open Championships
+Aleksandr Denisov;M;B;Raw;33;24-34;24-39;Open;111;125;;;;;;160;170;-180;;170;;;;;;170;3;100.35;99.77;95.38;74.22;;;;RPU;;2016-11-19;Russia;;Borisoglebsk;Borisoglebsk Championships
+Aleksandr Denisov;M;D;Raw;33;24-34;24-39;Open;111;125;;;;;;;;;;;260;275;-280;;275;275;2;162.32;161.39;154.29;;;;;RPU;;2016-11-19;Russia;;Borisoglebsk;Borisoglebsk Championships
+Aleksandr Denisov;M;B;Raw;43.5;40-44;40-49;Masters 40-44;88.15;90;;;;;;130;-140;140;;140;;;;;;140;1;91.49;90.34;86.67;68.21;Yes;Ukraine;;UPC;UPC;2016-10-21;Ukraine;;Kyev;Ukrainian Cup
+Aleksandr Denisov;M;B;Raw;43.5;40-44;40-49;Masters 40-44;94.35;100;;;;;;145;-155;-155;;145;;;;;;145;5;91.63;90.48;86.55;68.31;Yes;Ukraine;;UPC;UPC;2016-03-18;Ukraine;;Kyiv;Ukrainian Championships
+Aleksandr Denisov;M;B;Raw;25.5;24-34;24-39;Open;82.3;90;;;;;;127.5;-142.4;-142.5;;127.5;;;;;;127.5;5;86.49;85.54;82.31;64.32;;;;RPU;;2015-09-19;Russia;RYA;Ryazan;Ryazan Bench Press Cup
+Aleksandr Denisov;M;D;Raw;31.5;24-34;24-39;Open;107.6;110;;;;;;;;;;;-265;265;-275;;265;265;2;158.28;157.04;150.01;;;;;RPU;;2015-08-30;Russia;PNZ;Penza;In Motion Cup
+Aleksandr Denisov;M;D;Raw;28;24-34;24-39;Amateur Open;96.9;100;;;;;;;;;;;-220;220;232.5;;232.5;232.5;1;145.12;143.36;137.02;;Yes;Russia;;WPC;WPC;2012-04-18;Russia;ROS;Rostov-on-Don;European Championships
+Aleksandr Denisov;M;SBD;Multi-ply;19;18-19;19-23;Pro Teen 18-19;88.9;90;280;300;315;;315;-180;180;200;;200;275;290;305;;305;820;1;533.53;526.81;505.17;91.09;;Ukraine;;WPC;WPC;2012-04-18;Russia;ROS;Rostov-on-Don;European Championships
+Aleksandr Denisov;M;D;Raw;31;24-34;24-39;Pro Open;96.5;100;;;;;;;;;;;-235;235;-250;;235;235;1;146.95;145.16;138.76;;;;;WPC-RUS;WPC;2012-03-18;Russia;SAR;Engels;Saratov Bench Press & Deadlift Championships
+Aleksandr Denisov;M;SBD;Single-ply;18.5;18-19;19-23;Open;81.9;83;;;;;285;;;;;175;;;;;272.5;732.5;1;498.26;492.87;474.39;85.25;Yes;;;FPR;IPF;2011-05-05;Russia;TVE;Bologoe;Russian Railways Powerlifting Championships
+Aleksandr Denisov;M;SBD;Single-ply;17.5;18-19;14-18;Open;79.4;82.5;;;;;280;;;;;165;;;;;245;690;1;477.91;473.32;456.21;81.81;Yes;;;FPR;IPF;2010-12-09;Russia;VGG;Kamyshin;Svetlana Stepanova Memorial Tournament
+Aleksandr Denisov;M;SBD;Wraps;36.5;35-39;24-39;O;90;90;-200;200;-220;;200;130;135;-140;;135;210;-220;-225;;210;545;4;352.40;347.92;333.45;72.45;Yes;;;WPC-UKR;WPC;2009-06-19;Ukraine;;Ternopil';Amateur Ukrainian Championships
+Aleksandr Denisov;M;B;Raw;36.5;35-39;24-39;O;89.8;90;;;;;;130;-140;;;130;;;;;;130;6;84.15;83.09;79.64;62.75;Yes;;;WPC-UKR;WPC;2009-06-19;Ukraine;;Ternopil';Amateur Ukrainian Championships
+Aleksandr Denisov;M;SBD;Single-ply;35.5;35-39;24-39;O;90;90;180;190;-200;;190;120;130;-140;;130;200;220;-230;;220;540;3;349.16;344.73;330.39;59.59;Yes;;;UDFPF;WDFPF;2008-02-14;Ukraine;;Nikolaev;Open Championships
+Aleksandr Denisov;M;B;Single-ply;35.5;35-39;24-39;O;90;90;;;;;;-130;-130;-140;;;;;;;;;DQ;;;;;Yes;;;UDFPF;WDFPF;2008-02-14;Ukraine;;Nikolaev;Open Championships
+Aleksandr Denisov;M;SBD;Single-ply;32.5;24-34;24-39;Open;104.55;110;;;;;230;;;;;150;;;;;255;635;4;383.63;380.02;362.87;65.03;Yes;Russia;;FPR;IPF;2005-11-26;Russia;TYU;Tyumen;Tyumen Oblast Powerlifting Championships
+Aleksandr Denisov;M;SBD;Single-ply;;;;Open;57.2;60;130;-140;;;130;120;-130;;;120;140;155;;;155;405;7;355.86;361.20;353.69;60.42;Yes;Russia;;FPR;IPF;1988-01-30;USSR;;Krasnoyarsk;Russian Powerlifting Championships

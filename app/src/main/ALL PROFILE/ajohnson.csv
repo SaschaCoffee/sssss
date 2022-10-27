@@ -1,0 +1,41 @@
+﻿Name;Sex;Event;Equipment;Age;AgeClass;BirthYearClass;Division;BodyweightKg;WeightClassKg;Squat1Kg;Squat2Kg;Squat3Kg;Squat4Kg;Best3SquatKg;Bench1Kg;Bench2Kg;Bench3Kg;Bench4Kg;Best3BenchKg;Deadlift1Kg;Deadlift2Kg;Deadlift3Kg;Deadlift4Kg;Best3DeadliftKg;TotalKg;Place;Dots;Wilks;Glossbrenner;Goodlift;Tested;Country;State;Federation;ParentFederation;Date;MeetCountry;MeetState;MeetTown;MeetName
+A. Johnson;M;SBD;Single-ply;;;;Open;110;110;;;;;275;;;;;175;;;;;282.5;732.5;1;433.84;431.07;412.00;73.35;Yes;USA;;USAPL;IPF;2011-12-03;USA;WA;Tacoma;Fife Power Holiday Classic
+A. Johnson;M;SBD;Single-ply;;;;Varsity;67.36;74.8;;;;;104.33;;;;;;;;;;;;DQ;;;;;Yes;USA;;THSPA;;2011-01-25;USA;TX;Elgin;Elgin Wildcat Invitational
+A. Johnson;M;SBD;Single-ply;;;;Boys;84.37;89.8;;;;;185.97;;;;;131.54;;;;;201.85;519.36;5;347.44;343.37;330.05;59.41;Yes;USA;;THSPA;;2010-02-04;USA;TX;Horn H.S.;Mesquite Horn Invitational
+A. Johnson;M;SBD;Single-ply;;;;Boys;85.39;89.8;;;;;181.44;;;;;120.2;;;;;188.24;489.88;11;325.57;321.67;309.03;55.65;Yes;USA;;THSPA;;2010-01-23;USA;TX;Royse City;Royse City Invitational
+A. Johnson;M;B;Raw;;;;Open;100;100;;;;;;;;;;200;;;;;;200;1;123.10;121.72;116.25;91.62;Yes;USA;;RAW;;2008-11-22;USA;VA;Norfolk;Single Lift Worlds
+A. Johnson;M;D;Raw;;;;Open;100;100;;;;;;;;;;;;;;;255;255;1;156.96;155.19;148.22;;Yes;USA;;RAW;;2008-11-22;USA;VA;Norfolk;Single Lift Worlds
+A. Johnson;M;D;Raw;;;;Law/Fire/Military;100;100;;;;;;;;;;;;;;;255;255;1;156.96;155.19;148.22;;Yes;USA;;RAW;;2008-11-22;USA;VA;Norfolk;Single Lift Worlds
+A. Johnson;M;B;Raw;;;;Law/Fire/Military;100;100;;;;;;;;;;200;;;;;;200;1;123.10;121.72;116.25;91.62;Yes;USA;;RAW;;2008-11-22;USA;VA;Norfolk;Single Lift Worlds
+A. Johnson;M;SBD;Multi-ply;;;;Amateur Police;100;100;;;;;272.16;;;;;165.56;;;;;249.48;687.19;1;422.98;418.22;399.44;71.86;;USA;;IPA;;2000-06-15;USA;PA;York;World Championships
+A. Johnson;M;SBD;Multi-ply;;;;Amateur Submasters 33-39;100;100;;;;;272.16;;;;;165.56;;;;;249.48;687.19;2;422.98;418.22;399.44;71.86;;USA;;IPA;;2000-06-15;USA;PA;York;World Championships
+A. Johnson;M;SBD;Multi-ply;;;;Amateur Open;100;100;;;;;226.8;;;;;165.56;;;;;249.48;641.84;2;395.06;390.62;373.08;67.12;;USA;;IPA;;2000-06-15;USA;PA;York;World Championships
+A. Johnson;M;D;Single-ply;;;;M-O;100;100;;;;;;;;;;;;;;;287.5;287.5;1;176.96;174.97;167.12;;Yes;USA;;ADFPA;;1995-06-11;USA;CA;Stockton;State Deadlift
+A. Johnson;M;SBD;Multi-ply;;13-15;;Teen 13-15;52;52;;;;;122.5;;;;;75;;;;;115;312.5;1;299.31;306.65;301.99;50.42;;USA;;APF;WPC;1995-06-03;USA;IL;Rosemont;Masters & Teen Nationals
+A. Johnson;M;D;Single-ply;;;;Open;100;100;;;;;;;;;;;;;;;282.5;282.5;1;173.88;171.93;164.21;;Yes;USA;;ADFPA;;1994-10-15;USA;CA;Beale;Beale Open and California State Deadlift
+A. Johnson;F;SBD;Single-ply;;;;Open;56;56;;;;;70;;;;;40;;;;;95;205;2;237.62;241.20;213.35;39.74;;USA;;AusPF;IPF;1993-05-07;Australia;VIC;Lorne;Victorian Championships
+A. Johnson;M;SBD;Single-ply;;;;Open;75;75;;;;;136.08;;;;;129.27;;;;;158.76;424.11;2;304.27;302.20;292.00;52.11;;USA;;USMilAbroad;;1992-10-31;Japan;;Iwakuni;Far East Invitational
+A. Johnson;M;D;Single-ply;;;;Open;82.5;82.5;;;;;;;;;;;;;;;237.5;237.5;4;160.88;159.10;153.09;;Yes;USA;;ADFPA;;1992-08-15;USA;NY;White Plains;Deadlift Nationals
+A. Johnson;M;D;Single-ply;;;;Lifetime;82.5;82.5;;;;;;;;;;;;;;;237.5;237.5;6;160.88;159.10;153.09;;Yes;USA;;ADFPA;;1992-08-15;USA;NY;White Plains;Deadlift Nationals
+A. Johnson;M;SBD;Single-ply;;;;Pure Novice;82.5;82.5;;;;;;;;;;;;;;;;;DQ;;;;;Yes;USA;;NASA;;1992-03-05;USA;OK;Oklahoma City;Natural Nationals
+A. Johnson;M;SBD;Single-ply;;;;Open;82.5;82.5;;;;;227.5;;;;;160;;;;;255;642.5;1;435.22;430.41;414.14;74.46;Yes;USA;;ADFPA;;1991-11-02;USA;CA;Novato;Northern California
+A. Johnson;M;SBD;Single-ply;;;;Novice;67.5;67.5;;;;;158.76;;;;;108.86;;;;;199.58;467.2;6;360.09;360.22;349.66;61.59;;USA;;USPF;IPF;1991-08-10;USA;GA;Lilburn;Southern All-Star Open
+A. Johnson;M;SBD;Single-ply;;;;Natural;67.5;67.5;;;;;158.76;;;;;108.86;;;;;199.58;467.2;6;360.09;360.22;349.66;61.59;;USA;;USPF;IPF;1991-08-10;USA;GA;Lilburn;Southern All-Star Open
+A. Johnson;M;B;Single-ply;;;;Open;75;75;;;;;;;;;;127.01;;;;;;127.01;5;91.12;90.50;87.45;48.90;;USA;;USPF;IPF;1991-08-10;USA;GA;Lilburn;Southern All-Star Open
+A. Johnson;M;SBD;Single-ply;;;;Open;82.5;82.5;;;;;215;;;;;132.5;;;;;215;562.5;5;381.03;376.82;362.58;65.19;Yes;USA;;ADFPA;;1988-12-10;USA;CA;Antioch;Northern California Open
+A. Johnson;M;SBD;Single-ply;17;16-17;14-18;Open;75;75;;;;;185;;;;;117.5;;;;;197.5;500;8;358.71;356.28;344.25;61.43;Yes;USA;;ADFPA;;1988-03-26;USA;CA;Fremont;California Open Drug Tested Championships
+A. Johnson;M;SBD;Single-ply;;;;Open;90;90;;;;;;;;;;;;;;;;657.71;2;425.28;419.88;402.41;72.58;Yes;USA;;THSPA;;1985-04-27;USA;TX;Corsicana;Texas High School Championships
+A. Johnson;M;SBD;Single-ply;;;;Open;75;75;;;;;154.22;;;;;111.13;;;;;197.31;462.66;3;331.92;329.67;318.54;56.84;;USA;;USPF;IPF;1985-03-23;USA;IN;Greenfield;Greenfield Police Championships
+A. Johnson;M;B;Raw;;;;Open;54.43;54.4;;;;;;;;;;49.9;;;;;;49.9;2;45.81;46.72;45.89;31.50;;USA;;USA-UA;;1984-08-25;USA;FL;St. Petersburg;St. Petersburg Bench Press
+A. Johnson;M;BD;Raw;;;;Open;54.43;54.4;;;;;;;;;;40.82;;;;;92.99;133.81;2;122.85;125.30;123.06;;;USA;;USA-UA;;1984-06-02;USA;FL;St. Petersburg;St. Petersburg Bench-DL Meet
+A. Johnson;M;SBD;Single-ply;;;;High School;90;90;;;;;;;;;;;;;;;;573.8;8;371.02;366.31;351.07;63.32;Yes;USA;;THSPA;;1984-05-01;USA;TX;Dallas;Texas State High School Meet
+A. Johnson;M;SBD;Single-ply;;;;M-E-Open;100;100;;;;;220;;;;;132.5;;;;;265;617.5;2;380.08;375.80;358.93;64.57;Yes;USA;;BAWLA;IPF;1984-03-04;UK;;Alfreton;Notts Powerlifting Championships
+A. Johnson;F;SBD;Single-ply;;;;Open;56;56;;;;;67.5;;;;;35;;;;;77.5;180;1;208.64;211.79;187.34;34.89;;USA;;USPF;IPF;1983-11-12;USA;MA;Boston;Boston Open
+A. Johnson;M;SBD;Single-ply;;;;M-E-Open;67.5;67.5;;;;;217.5;;;;;115;;;;;250;582.5;3;448.96;449.12;435.95;76.80;Yes;USA;;BAWLA;IPF;1983-09-25;UK;;Derby;All Midlands Championships
+A. Johnson;M;SBD;Single-ply;;;;Open;81.65;81.6;;;;;136.08;;;;;104.33;;;;;154.22;394.63;4;268.90;266.02;256.09;46.01;;USA;;USA-UA;;1983-02-25;USA;TX;Dallas;Athletic Supply Spartan Meet
+A. Johnson;M;SBD;Single-ply;;;;Open;110;110;;;;;272.16;;;;;170.1;;;;;267.62;709.87;2;420.43;417.75;399.27;71.08;;USA;;USPF;IPF;1982-04-24;USA;WV;Fairmont;West Virginia State
+A. Johnson;M;B;Raw;;;;Open;110;110;;;;;;;;;;147.5;;;;;;147.5;4;87.36;86.80;82.96;64.66;;USA;;USPF;IPF;1982-02-06;USA;WV;Parkersburg;West Virginia State Bench Press
+A. Johnson;M;SBD;Single-ply;;;;Open;110;110;;;;;285;;;;;167.5;;;;;282.5;735;3;435.32;432.54;413.40;73.60;;USA;;USPF;IPF;1981-05-30;USA;VA;Roanoke;Roanoke Valley Open
+A. Johnson;M;SBD;Single-ply;;;;Open;100;100;;;;;256.28;;;;;149.69;;;;;235.87;641.83;2;395.06;390.61;373.08;67.12;;USA;;USPF;IPF;1980-04-27;USA;WV;Huntington;West Viriginia Collegiate
+A. Johnson;M;SBD;Single-ply;;;;Open;100;100;;;;;231.33;;;;;163.29;;;;;229.06;623.69;3;383.89;379.57;362.53;65.22;;USA;;USPF;IPF;1980-01-12;USA;PA;Washington;Washington Barbell Club Under Class II Meet
+A. Johnson;M;SBD;Single-ply;;;;Novice;75;75;;;;;102.06;;;;;106.59;;;;;204.12;412.77;5;296.13;294.12;284.19;50.71;;USA;;USPF;IPF;1979-12-01;USA;WY;Casper;Holiday Festival Tournament

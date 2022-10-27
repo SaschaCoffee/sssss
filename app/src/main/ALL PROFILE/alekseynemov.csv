@@ -1,0 +1,18 @@
+﻿Name;Sex;Event;Equipment;Age;AgeClass;BirthYearClass;Division;BodyweightKg;WeightClassKg;Squat1Kg;Squat2Kg;Squat3Kg;Squat4Kg;Best3SquatKg;Bench1Kg;Bench2Kg;Bench3Kg;Bench4Kg;Best3BenchKg;Deadlift1Kg;Deadlift2Kg;Deadlift3Kg;Deadlift4Kg;Best3DeadliftKg;TotalKg;Place;Dots;Wilks;Glossbrenner;Goodlift;Tested;Country;State;Federation;ParentFederation;Date;MeetCountry;MeetState;MeetTown;MeetName
+Aleksey Nemov;M;B;Raw;32;24-34;24-39;Open;108.6;110;;;;;;170;-177.5;177.5;;177.5;;;;;;177.5;1;105.64;104.88;100.20;78.26;Yes;Russia;;RPU;;2022-06-24;Russia;VLA;Suzdal;National Championships
+Aleksey Nemov;M;SBD;Raw;29;24-34;24-39;Open;123.8;125;250;265;270;;270;190;197.5;-205;;197.5;300;-310;310;;310;777.5;1;442.01;443.94;425.13;89.17;;Russia;;RPU;;2019-06-14;Russia;VLA;Suzdal;National Championships
+Aleksey Nemov;M;SBD;Raw;28;24-34;24-39;Open;121.4;125;240;260;-270;;260;180;192.5;200;;200;-290;300;-310;;300;760;1;434.80;435.79;417.59;87.90;;Russia;;RPU;;2018-12-01;Russia;MOW;Moscow;Central Federal District Championships
+Aleksey Nemov;M;B;Raw;28;24-34;24-39;Open;121.4;125;;;;;;180;192.5;200;;200;;;;;;200;2;114.42;114.68;109.89;83.96;;Russia;;RPU;;2018-12-01;Russia;MOW;Moscow;Central Federal District Championships
+Aleksey Nemov;M;D;Raw;28;24-34;24-39;Open;121.4;125;;;;;;;;;;;-290;300;-310;;300;300;1;171.63;172.02;164.84;;;Russia;;RPU;;2018-12-01;Russia;MOW;Moscow;Central Federal District Championships
+Aleksey Nemov;M;SBD;Raw;28;24-34;24-39;Open;118.7;120;;;;;260;;;;;200;;;;;300;760;4;438.07;438.07;419.72;88.77;Yes;Russia;;FPR;IPF;2018-04-29;Russia;MOW;Moscow;Moscow Lights Tournament
+Aleksey Nemov;M;SBD;Wraps;26;24-34;24-39;Open;118;125;-250;270;285;;285;190;200;207.5;;207.5;290;307.5;312.5;;312.5;805;1;464.94;464.67;445.15;94.27;;Russia;;WPA-RUS;WPA;2016-12-17;Russia;MOW;Moscow;Russian Championships
+Aleksey Nemov;M;SBD;Wraps;26;24-34;24-39;Open;119;125;260;272.5;282.5;;282.5;-180;190;-200;;190;280;300;-312.5;;300;772.5;7;444.90;445.00;426.39;90.13;;Russia;;WRPF;WRPF;2016-11-17;Russia;MOW;Moscow;Amateur World Championships
+Aleksey Nemov;M;B;Raw;26;24-34;24-39;Open;121.1;125;;;;;;202.5;210;212.5;;212.5;;;;;;212.5;2;121.67;121.92;116.83;89.30;;Russia;;RPU;;2016-06-17;Russia;VLA;Suzdal;Russian Cup
+Aleksey Nemov;M;B;Raw;26;24-34;24-39;Pro Open;120.2;125;;;;;;195;202.5;207.5;;207.5;;;;;;207.5;1;119.10;119.25;114.27;87.48;;Russia;;WPC-RUS;WPC;2016-06-04;Russia;MOW;Moscow;Moscow Cup
+Aleksey Nemov;M;D;Raw;25;24-34;24-39;Open;117.7;125;;;;;;;;;;;280;300;310;;310;310;1;179.20;179.05;171.52;;;Russia;;WPA-RUS;WPA;2015-12-19;Russia;MOW;Moscow;Russian Championships
+Aleksey Nemov;M;D;Raw;25;24-34;24-39;Amateur Open;118.9;125;;;;;;;;;;;280;300;307.5;;307.5;307.5;4;177.14;177.17;169.76;;;Russia;;WRPF;WRPF;2015-12-03;Russia;MOW;Moscow;World Championships
+Aleksey Nemov;M;B;Raw;25;24-34;24-39;Amateur Open;117.6;125;;;;;;190;-200;-200;;190;;;;;;190;10;109.86;109.77;105.15;80.86;;Russia;;WRPF;WRPF;2015-12-03;Russia;MOW;Moscow;World Championships
+Aleksey Nemov;M;D;Raw;25;24-34;24-39;Pro Open;117.3;125;;;;;;;;;;;270;295;-302.5;;295;295;1;170.73;170.53;163.35;;;Russia;;WPC-RUS;WPC;2015-11-21;Russia;MOW;Moscow;SN PRO Open Cup
+Aleksey Nemov;M;SBD;Wraps;25;24-34;24-39;Pro Open;119;125;220;-240;-240;;220;190;-200;-200;;190;270;290;-302.5;;290;700;2;403.14;403.24;386.37;81.67;;Russia;;WPC-RUS;WPC;2015-06-19;Russia;MOW;Moscow;Moscow Cup
+Aleksey Nemov;M;B;Raw;24;24-34;24-39;Pro Open;119.3;125;;;;;;170;180;187.5;;187.5;;;;;;187.5;4;107.89;107.95;103.43;79.30;;Russia;;WPC-RUS;WPC;2014-11-29;Russia;MOW;Moscow;WILD Athletic
+Aleksey Nemov;M;D;Raw;24;24-34;24-39;Pro Open;119.3;125;;;;;;;;;;;257.5;270;290;;290;290;2;166.87;166.96;159.98;;;Russia;;WPC-RUS;WPC;2014-11-29;Russia;MOW;Moscow;WILD Athletic

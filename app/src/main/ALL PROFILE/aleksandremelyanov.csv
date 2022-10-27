@@ -1,0 +1,20 @@
+﻿Name;Sex;Event;Equipment;Age;AgeClass;BirthYearClass;Division;BodyweightKg;WeightClassKg;Squat1Kg;Squat2Kg;Squat3Kg;Squat4Kg;Best3SquatKg;Bench1Kg;Bench2Kg;Bench3Kg;Bench4Kg;Best3BenchKg;Deadlift1Kg;Deadlift2Kg;Deadlift3Kg;Deadlift4Kg;Best3DeadliftKg;TotalKg;Place;Dots;Wilks;Glossbrenner;Goodlift;Tested;Country;State;Federation;ParentFederation;Date;MeetCountry;MeetState;MeetTown;MeetName
+Aleksandr Emelyanov;M;B;Raw;27;24-34;24-39;Amateur Open;70.8;75;;;;;;127.5;130;135;;135;;;;;;135;2;100.62;100.30;97.15;73.72;Yes;;;WRPF;WRPF;2022-05-21;Russia;TYU;Tyumen;Tyumen Strong
+Aleksandr Emelyanov;M;SBD;Wraps;40;40-44;40-49;Open;98.3;100;230;-240;-240;;230;145;152.5;-155;;152.5;240;-250;-250;;240;622.5;1;386.05;381.51;364.50;79.29;;Russia;;RPU;;2022-03-25;Russia;SAM;Samara;Eurasian Cup
+Aleksandr Emelyanov;M;SBD;Wraps;39;35-39;40-49;Open;100;100;-220;220;230;;230;142.5;147.5;-152.5;;147.5;220;232.5;242.5;;242.5;620;2;381.62;377.33;360.39;78.32;;Russia;;RPU;;2021-03-19;Russia;SAM;Samara;Eurasian Cup
+Aleksandr Emelyanov;M;D;Raw;38;35-39;24-39;Open;96.2;100;;;;;;;;;;;240;-250;-250;;240;240;2;150.29;148.45;141.92;;;;;RPU;;2019-12-14;Russia;SAM;Samara;Explosive Force Tournament
+Aleksandr Emelyanov;M;D;Raw;26;24-34;24-39;Open;96.1;100;;;;;;;;;;;255;-260;;;255;255;1;159.76;157.80;150.86;;;;;RPU;;2019-11-30;Russia;LEN;St. Petersburg;Neva Battle V
+Aleksandr Emelyanov;M;BD;Raw;26;24-34;24-39;Open;96.1;100;;;;;;182.5;-187.5;-187.5;;182.5;255;-260;;;255;437.5;1;274.11;270.74;258.83;;;;;RPU;;2019-11-30;Russia;LEN;St. Petersburg;Neva Battle V
+Aleksandr Emelyanov;M;B;Raw;26;24-34;24-39;Open;96.1;100;;;;;;182.5;-187.5;-187.5;;182.5;;;;;;;DQ;;;;;;;;RPU;;2019-11-30;Russia;LEN;St. Petersburg;Neva Battle V
+Aleksandr Emelyanov;M;B;Raw;26;24-34;24-39;Pro Open;98.5;100;;;;;;180;185;190;;190;;;;;;190;6;117.72;116.35;111.16;87.67;;Belarus;;WRPF;WRPF;2019-10-26;Russia;LEN;St. Petersburg;Eastern European Championships
+Aleksandr Emelyanov;M;BD;Raw;26;24-34;24-39;Pro Open;98.5;100;;;;;;180;185;190;;190;260;-272.5;;;260;450;3;278.82;275.56;263.26;;;Belarus;;WRPF;WRPF;2019-10-26;Russia;LEN;St. Petersburg;Eastern European Championships
+Aleksandr Emelyanov;M;B;Raw;36;35-39;24-39;Open;128.6;140;;;;;;180;190;-200;;190;;;;;;190;1;106.74;107.68;102.92;77.87;;;;RPU;;2019-09-29;Russia;ALT;Biysk;Iron Incentive Cup
+Aleksandr Emelyanov;M;D;Raw;26;24-34;24-39;Open;97.4;100;;;;;;;;;;;260;-272.5;-272.5;;260;260;1;161.91;159.96;152.87;;;Belarus;;IPL;IPL;2019-09-28;Russia;LEN;St. Petersburg;Eastern European Cup
+Aleksandr Emelyanov;M;BD;Raw;26;24-34;24-39;Open;97.4;100;;;;;;-172.5;180;185;;185;260;-272.5;-272.5;;260;445;1;277.11;273.78;261.64;;;Belarus;;IPL;IPL;2019-09-28;Russia;LEN;St. Petersburg;Eastern European Cup
+Aleksandr Emelyanov;M;D;Raw;26;24-34;24-39;Open;96.7;100;;;;;;;;;;;240;255;-272.5;;255;255;3;159.31;157.38;150.42;;;;;GPA;GPA;2019-06-29;Russia;LEN;St. Petersburg;European Cup
+Aleksandr Emelyanov;M;B;Multi-ply;39;35-39;40-49;Open;109.1;110;;;;;;-240;250;-260;;250;;;;;;250;1;148.53;147.50;140.94;76.31;;;;RPU;;2019-04-28;Russia;NIZ;Nizhny Novgorod;Battle of the Volga IV
+Aleksandr Emelyanov;M;B;Multi-ply;38;35-39;24-39;Open;107.8;110;;;;;;220;-250;-250;;220;;;;;;220;1;131.31;130.30;124.47;67.51;;;;RPU;;2018-03-03;Russia;;Dzerzhinsk;Rage Tournament
+Aleksandr Emelyanov;M;B;Multi-ply;37.5;35-39;24-39;Pro Open;106.2;110;;;;;;-230;-230;;;;;;;;;;DQ;;;;;;Russia;;WPC-RUS;WPC;2017-05-13;Russia;NIZ;Nizhny Novgorod;Victory Cup
+Aleksandr Emelyanov;M;B;Raw;31;24-34;24-39;Pro Open;124.1;125;;;;;;190;-200;200;;200;;;;;;200;4;113.61;114.14;109.29;83.18;;Russia;;WPC;WPC;2014-07-03;Russia;NVS;Novosibirsk;World Cup
+Aleksandr Emelyanov;M;B;Raw;29;24-34;24-39;Amateur Open;120.2;125;;;;;;177.5;-182.5;-182.5;;177.5;;;;;;177.5;2;101.88;102.01;97.75;74.83;Yes;Russia;;WPC;WPC;2013-08-15;Russia;NVS;Novosibirsk;World Cup
+Aleksandr Emelyanov;M;B;Multi-ply;33.5;24-34;24-39;Pro Open;118.2;125;;;;;;-235;235;-250;;235;;;;;;235;1;135.65;135.59;129.90;69.50;;;;WPC-RUS;WPC;2013-05-18;Russia;NIZ;Nizhniy Novgorod;Volga District Championships

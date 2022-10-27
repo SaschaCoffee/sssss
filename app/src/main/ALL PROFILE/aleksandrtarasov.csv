@@ -1,0 +1,51 @@
+﻿Name;Sex;Event;Equipment;Age;AgeClass;BirthYearClass;Division;BodyweightKg;WeightClassKg;Squat1Kg;Squat2Kg;Squat3Kg;Squat4Kg;Best3SquatKg;Bench1Kg;Bench2Kg;Bench3Kg;Bench4Kg;Best3BenchKg;Deadlift1Kg;Deadlift2Kg;Deadlift3Kg;Deadlift4Kg;Best3DeadliftKg;TotalKg;Place;Dots;Wilks;Glossbrenner;Goodlift;Tested;Country;State;Federation;ParentFederation;Date;MeetCountry;MeetState;MeetTown;MeetName
+Aleksandr Tarasov;M;B;Unlimited;42;40-44;40-49;Pro Open;110;110;;;;;;270;280;-290;;280;;;;;;280;1;165.83;164.78;157.49;85.17;;;;WRPF;WRPF;2022-06-04;Russia;STA;Stavropol;Cup of the Sun
+Aleksandr Tarasov;M;B;Unlimited;42;40-44;40-49;Pro Masters 40-49;110;110;;;;;;270;280;-290;;280;;;;;;280;1;165.83;164.78;157.49;85.17;;;;WRPF;WRPF;2022-06-04;Russia;STA;Stavropol;Cup of the Sun
+Aleksandr Tarasov;M;B;Unlimited;41;40-44;40-49;Pro Masters 40-49;110;110;;;;;;260;-270;280;;280;;;;;;280;1;165.83;164.78;157.49;85.17;;Russia;;WRPF;WRPF;2021-12-03;Russia;STA;Stavropol;Eurasian Championships
+Aleksandr Tarasov;M;D;Raw;30;24-34;24-39;Open;130.2;140;;;;;;;;;;;345;360;-372.5;-372.5;360;360;1;201.49;203.56;194.44;;;;;WPUF;;2021-11-14;Ukraine;;Odessa;Zal Open Cup 2
+Aleksandr Tarasov;M;SBD;Wraps;30;24-34;24-39;Open;130.2;140;310;325;340;350;340;235;245;252.5;-257.5;252.5;345;360;-372.5;-372.5;360;952.5;1;533.10;538.58;514.44;106.94;;;;WPUF;;2021-11-14;Ukraine;;Odessa;Zal Open Cup 2
+Aleksandr Tarasov;M;D;Raw;29.5;24-34;24-39;Pro.Open;128.3;140;;;;;;;;;;;320;-340;-340;;320;320;1;179.90;181.43;173.44;;;;;WPUF;;2021-07-25;Ukraine;;Odessa;Zal Open Cup
+Aleksandr Tarasov;M;B;Raw;29.5;24-34;24-39;pro.open;128.3;140;;;;;;220;232.5;-237.5;;232.5;;;;;;232.5;1;130.71;131.82;126.01;95.38;;;;WPUF;;2021-07-25;Ukraine;;Odessa;Zal Open Cup
+Aleksandr Tarasov;M;SBD;Raw;41.5;40-44;40-49;Masters 1;89.95;93;;;;;192.5;;;;;150;;;;;240;582.5;1;376.75;371.97;356.50;77.46;Yes;;;FPR;IPF;2021-03-05;Russia;MOW;Moscow;Moscow City Juniors Sub-Juniors & Masters Classic Powerlifting Championships
+Aleksandr Tarasov;M;B;Unlimited;40;40-44;40-49;Pro Masters 40-49;110;110;;;;;;240;250;260;;260;;;;;;260;1;153.99;153.01;146.24;79.09;;;;WRPF;WRPF;2020-12-26;Russia;STA;Stavropol;Eurasian Cup
+Aleksandr Tarasov;M;B;Raw;37.5;35-39;24-39;O;99.1;100;;;;;;160;170;-175;;170;;;;;;170;1;105.05;103.84;99.19;78.22;Yes;Russia;;GFP;;2020-10-09;Russia;KRS;Kursk;Star Wall Tournament
+Aleksandr Tarasov;M;B;Single-ply;39;35-39;40-49;Amateur Open;109;110;;;;;;230;-240;245;;245;;;;;;245;1;145.61;144.59;138.16;74.82;Yes;;;WRPF;WRPF;2020-03-14;Russia;STA;Stavropol;Cup of the North Caucasus
+Aleksandr Tarasov;M;B;Raw;37;35-39;24-39;Amateur Open;107.65;110;;;;;;160;167.5;172.5;;172.5;;;;;;172.5;1;103.01;102.21;97.64;76.36;Yes;;;NAP;IPA;2019-10-26;Russia;KRS;Kursk;Russian Grand Prix
+Aleksandr Tarasov;M;SBD;Wraps;33;24-34;24-39;Open;115.1;125;260;-280;-280;;260;160;175;-180;;175;240;260;270;;270;705;1;410.71;409.55;392.04;83.47;Yes;;;RPU;;2019-09-21;Russia;MOW;Moscow;Oka Heroes VI
+Aleksandr Tarasov;M;SBD;Raw;39.5;35-39;40-49;Open;91.6;93;;;;;190;;;;;150;;;;;240;580;28;371.76;367.03;351.49;76.44;Yes;;;FPR;IPF;2019-05-04;Russia;MOW;Moscow;Moscow Lights
+Aleksandr Tarasov;M;SBD;Raw;39.5;35-39;40-49;Open;91;93;;;;;190;;;;;145;;;;;245;580;8;372.96;368.22;352.73;76.69;Yes;;;FPR;IPF;2019-02-07;Russia;MOW;Moscow;Moscow City Classic Powerlifting Championships
+Aleksandr Tarasov;M;BD;Raw;25;24-34;24-39;Open;88.9;90;;;;;;140;145;147.5;;147.5;-220;-220;-220;;;;DQ;;;;;;Belarus;;WRPF-Belarus;WRPF;2018-11-30;Belarus;;Minsk;3rd Belarus Cup
+Aleksandr Tarasov;M;B;Raw;48;45-49;40-49;Amateur Open;99.9;100;;;;;;210;-215;;;210;;;;;;210;1;129.31;127.85;122.12;96.25;Yes;;;NAP;IPA;2018-11-03;Russia;BEL;Belgorod;Commonwealth Cup
+Aleksandr Tarasov;M;B;Raw;48;45-49;40-49;Amateur Masters 45-49;99.9;100;;;;;;210;-215;;;210;;;;;;210;1;129.31;127.85;122.12;96.25;Yes;;;NAP;IPA;2018-11-03;Russia;BEL;Belgorod;Commonwealth Cup
+Aleksandr Tarasov;M;B;Raw;25;24-34;24-39;Open;88.4;90;;;;;;125;130;142.5;;142.5;;;;;;142.5;7;92.99;91.82;88.07;69.33;;Bulgaria;;WRPF-Belarus;WRPF;2018-06-01;Belarus;;;European Cup
+Aleksandr Tarasov;M;B;Multi-ply;37;35-39;24-39;Pro Open;104.3;110;;;;;;-250;250;260;;260;;;;;;260;1;157.23;155.73;148.70;80.98;;;;WRPF;WRPF;2018-03-10;Russia;STA;Stavropol;Northern Caucasus Cup
+Aleksandr Tarasov;M;B;Multi-ply;37;35-39;24-39;Pro Open;107.4;110;;;;;;260;-270;-270;;260;;;;;;260;1;155.41;154.18;147.27;79.91;;;;WRPF;WRPF;2017-12-09;Russia;STA;Stavropol;Russian Cup
+Aleksandr Tarasov;M;B;Raw;36.5;35-39;24-39;O;108.8;110;;;;;;175;185;;;185;;;;;;185;2;110.03;109.24;104.38;81.50;;Russia;;Vityaz;;2017-10-14;Russia;KB;Nalchik;Bench Press & Deadlift Championships
+Aleksandr Tarasov;M;B;Unlimited;36;35-39;24-39;Pro Open;106.8;110;;;;;;-260;260;270;;270;;;;;;270;1;161.74;160.40;153.20;83.19;;;;NAP;IPA;2017-04-14;Russia;KDA;Dzhubga;World Cup
+Aleksandr Tarasov;M;B;Multi-ply;36;35-39;24-39;Pro Open;106.4;110;;;;;;250;-260;260;;260;;;;;;260;1;155.98;154.66;147.70;80.24;;;;NAP;IPA;2016-12-17;Russia;KDA;Krasnodar;Power Cup 4
+Aleksandr Tarasov;M;D;Raw;25;24-34;24-39;Open;116.7;125;;;;;;;;;;;290;-302.5;-302.5;;290;290;6;168.13;167.86;160.76;;;Ukraine;;WRPF;WRPF;2016-11-17;Russia;MOW;Moscow;Amateur World Championships
+Aleksandr Tarasov;M;B;Raw;25;24-34;24-39;Open;116.7;125;;;;;;205;212.5;217.5;;217.5;;;;;;217.5;6;126.10;125.90;120.57;92.87;;;;WRPF;WRPF;2016-11-17;Russia;MOW;Moscow;Amateur World Championships
+Aleksandr Tarasov;M;B;Raw;35.5;35-39;24-39;O;104;110;;;;;;-200;;;;;;;;;;;DQ;;;;;;Russia;;Vityaz;;2016-06-18;Russia;KB;Nalchik;Russian Championships
+Aleksandr Tarasov;M;B;Multi-ply;34.5;24-34;24-39;Pro Open;106.5;110;;;;;;250;260;-270;;260;;;;;;260;1;155.92;154.61;147.66;80.21;;Russia;;NAP;IPA;2015-12-11;Russia;STA;Mikhaylovsk;Final European Championships
+Aleksandr Tarasov;M;B;Raw;44.5;40-44;40-49;Amateur Masters 45-49;97.6;100;;;;;;185;190;192.5;;192.5;;;;;;192.5;1;119.76;118.33;113.08;89.22;Yes;Russia;;WPC;WPC;2015-12-03;Russia;KRS;Kursk;Eurasian Cup
+Aleksandr Tarasov;M;B;Multi-ply;34.5;24-34;24-39;Pro Open;104.65;110;;;;;;-250;250;260;;260;;;;;;260;1;157.02;155.55;148.53;80.86;;Russia;;NAP;IPA;2015-05-28;Russia;KRS;Sochi;European Championships
+Aleksandr Tarasov;M;B;Raw;22.5;20-23;19-23;Pro Open;110.1;125;;;;;;192.5;200;-205;;200;;;;;;200;1;118.41;117.67;112.46;87.63;;;;WPAU;;2014-12-06;Ukraine;;Nikolaev;Nikolaev Open Championship
+Aleksandr Tarasov;M;B;Multi-ply;33.5;24-34;24-39;Amateur Open;103.1;110;;;;;;-220;220;230;;230;;;;;;230;1;139.75;138.34;132.10;72.03;Yes;Russia;;WPC;WPC;2014-10-25;Russia;KDA;Krasnodar;Amateur European Championships
+Aleksandr Tarasov;M;B;Raw;33.5;24-34;24-39;Open;105.3;120;;;;;;170;180;-182.5;;180;;;;;;180;3;108.43;107.45;102.61;80.49;Yes;Russia;;FPR;IPF;2014-10-04;Russia;KB;Nalchik;Republic of Kabardino-Balkarskaya Bench Press Championships
+Aleksandr Tarasov;M;B;Multi-ply;33;24-34;24-39;Pro Open;103.9;110;;;;;;240;-250;-250;;240;;;;;;240;2;145.36;143.95;137.45;74.89;;;;WPC;WPC;2014-04-18;Russia;KDA;Krasnodar;Eurasian Championships
+Aleksandr Tarasov;M;B;Raw;33;24-34;24-39;Pro Open;102.7;110;;;;;;-230;230;;;230;;;;;;230;1;139.98;138.54;132.29;104.05;;;;WPC-RUS;WPC;2013-12-15;Russia;KDA;Krasnodar;Power Cup
+Aleksandr Tarasov;M;B;Single-ply;32.5;24-34;24-39;Open;105.6;120;;;;;;170;-180;182.5;;182.5;;;;;;182.5;3;109.81;108.84;103.93;56.52;Yes;Russia;;FPR;IPF;2013-10-12;Russia;KB;Nalchik;Republic of Kabardino-Balkar Bench Press Championships
+Aleksandr Tarasov;M;B;Raw;32.5;24-34;24-39;Pro Open;104.5;110;;;;;;170;180;-190;;180;;;;;;180;2;108.77;107.74;102.88;80.78;;Russia;;WPC-RUS;WPC;2013-09-14;Russia;KDA;Gulkevichi;Krasnodar Krai Championships
+Aleksandr Tarasov;M;B;Multi-ply;32.5;24-34;24-39;Pro Open;102;110;;;;;;210;220;;;220;;;;;;220;1;134.27;132.86;126.87;69.26;;;;WPC-RUS;WPC;2013-07-13;Russia;KDA;Krasnodar;South Russia Championships
+Aleksandr Tarasov;M;B;Multi-ply;33;24-34;24-39;Pro Open;102.25;110;;;;;;-210;-225;-225;;;;;;;;;DQ;;;;;;;;IPA;;2013-05-30;Russia;KDA;Sochi;World Cup
+Aleksandr Tarasov;M;SBD;Raw;11.5;5-12;;Open;35.2;43;;;;;62.5;;;;;40;;;;;77.5;180;2;228.80;240.38;238.38;39.27;Yes;;;FPR;IPF;2013-05-18;Russia;IRK;Irkutsk;Irkutsk Oblast Powerlifting Cup
+Aleksandr Tarasov;M;B;Multi-ply;32.5;24-34;24-39;Pro Open;101.2;110;;;;;;-200;200;215;;215;;;;;;215;3;131.66;130.23;124.37;67.95;;Russia;;WPC;WPC;2013-04-04;Russia;KDA;Krasnodar;Eurasian Championships
+Aleksandr Tarasov;M;SBD;Raw;11.5;5-12;;Sub-Juniors;32;32;;;;;52.5;;;;;35;;;;;60;147.5;1;187.49;196.97;195.34;;Yes;;;FPR;IPF;2013-02-24;Russia;IRK;Zalari;Irkutsk Oblast Defener of the Fatherland Sub-Juniors Powerlifting Tournament
+Aleksandr Tarasov;M;B;Raw;32;24-34;24-39;Pro Open;97.8;100;;;;;;-160;160;170;;170;;;;;;170;2;105.67;104.41;99.77;78.71;;;;WPC-RUS;WPC;2012-06-07;Russia;KDA;Krasnodar;Krasnodar Cup
+Aleksandr Tarasov;M;B;Multi-ply;30.5;24-34;24-39;Pro Open;96.8;100;;;;;;;;;;;;;;;;;DQ;;;;;;;;WPC-RUS;WPC;2011-11-19;Russia;KDA;Krasnodar;Fitness Land Cup
+Aleksandr Tarasov;M;B;Raw;19.5;20-23;19-23;Pro Open;89.2;90;;;;;;110;115;120;;120;;;;;;120;8;77.94;76.96;73.79;58.12;;;;WPAU;;2011-06-11;Ukraine;;Nikolaev;Nikolaev Championships
+Aleksandr Tarasov;M;B;Multi-ply;30.5;24-34;24-39;Pro Open;98.1;100;;;;;;-190;195;-200;;195;;;;;;195;4;121.04;119.61;114.28;62.62;;;;WPC-RUS;WPC;2011-04-23;Russia;KDA;Krasnodar;Powerlifting And Bench Press Fitness Land Open Cup
+Aleksandr Tarasov;M;B;Multi-ply;30.5;24-34;24-39;Pro Open;96.7;100;;;;;;-185;185;192.5;;192.5;;;;;;192.5;1;120.26;118.80;113.56;62.29;;;;WPC-RUS;WPC;2011-03-25;Russia;ROS;Rostov-on-Don;Southern Federal District Championships
+Aleksandr Tarasov;M;B;Multi-ply;29.5;24-34;24-39;Pro Open;98.1;100;;;;;;-190;-200;-200;;;;;;;;;DQ;;;;;;;;WPC-RUS;WPC;2010-11-27;Russia;KDA;Krymsk;South Russia Bench Press Championships
+Aleksandr Tarasov;M;B;Raw;29.5;24-34;24-39;Pro Open;98.1;100;;;;;;-165;-167.5;-170;;;;;;;;;DQ;;;;;;;;WPC-RUS;WPC;2010-11-27;Russia;KDA;Krymsk;South Russia Bench Press Championships
+Aleksandr Tarasov;M;B;Multi-ply;29.5;24-34;24-39;Pro Open;101;110;;;;;;135;142.5;-160;;142.5;;;;;;142.5;8;87.34;86.38;82.50;45.08;;;;WPC-RUS;WPC;2010-04-18;Russia;STA;Stavropol;Stavropol Bench Press Cup

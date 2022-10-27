@@ -1,0 +1,35 @@
+﻿Name;Sex;Event;Equipment;Age;AgeClass;BirthYearClass;Division;BodyweightKg;WeightClassKg;Squat1Kg;Squat2Kg;Squat3Kg;Squat4Kg;Best3SquatKg;Bench1Kg;Bench2Kg;Bench3Kg;Bench4Kg;Best3BenchKg;Deadlift1Kg;Deadlift2Kg;Deadlift3Kg;Deadlift4Kg;Best3DeadliftKg;TotalKg;Place;Dots;Wilks;Glossbrenner;Goodlift;Tested;Country;State;Federation;ParentFederation;Date;MeetCountry;MeetState;MeetTown;MeetName
+Aleksey Usmanov;M;D;Raw;48;45-49;40-49;Pro Masters 40-49;86.4;90;;;;;;;;;;;165;185;205;;205;205;1;135.39;133.73;128.40;;;Russia;;WRPF;WRPF;2021-11-06;Russia;NVS;Novosibirsk;Steel Bear Tournament
+Aleksey Usmanov;M;D;Raw;48;45-49;40-49;Pro Open;86.4;90;;;;;;;;;;;165;185;205;;205;205;2;135.39;133.73;128.40;;;Russia;;WRPF;WRPF;2021-11-06;Russia;NVS;Novosibirsk;Steel Bear Tournament
+Aleksey Usmanov;M;D;Raw;48;45-49;40-49;Amateur Masters 45-49;87.6;90;;;;;;;;;;;200;220;-230;;220;220;1;144.24;142.44;136.68;;;Russia;;NAP;IPA;2021-04-03;Russia;KYA;Krasnoyarsk;Siberian Power Show
+Aleksey Usmanov;M;D;Raw;48;45-49;40-49;Amateur Open;87.6;90;;;;;;;;;;;200;220;-230;;220;220;1;144.24;142.44;136.68;;;Russia;;NAP;IPA;2021-04-03;Russia;KYA;Krasnoyarsk;Siberian Power Show
+Aleksey Usmanov;M;D;Raw;47;45-49;40-49;Pro Masters 40-49;86;90;;;;;;;;;;;190;210;-230;;210;210;1;139.03;137.35;131.90;;;Russia;;WRPF;WRPF;2020-12-17;Russia;MOW;Moscow;World Championships
+Aleksey Usmanov;M;D;Raw;47;45-49;40-49;Pro Open;86;90;;;;;;;;;;;190;210;-230;;210;210;5;139.03;137.35;131.90;;;Russia;;WRPF;WRPF;2020-12-17;Russia;MOW;Moscow;World Championships
+Aleksey Usmanov;M;D;Raw;46;45-49;40-49;Pro Masters 40-49;85.6;90;;;;;;;;;;;180;195;205;;205;205;1;136.06;134.42;129.12;;;Russia;;WRPF;WRPF;2019-09-14;Russia;KDA;Sochi;Sochi Power Pro Weekend
+Aleksey Usmanov;M;D;Raw;46;45-49;40-49;Pro Masters 45-49;81.3;82.5;;;;;;;;;;;190;200;-215;;200;200;2;136.62;135.18;130.15;;;Russia;;NAP;IPA;2019-06-07;Russia;KDA;Sochi;Olympia 6
+Aleksey Usmanov;M;D;Raw;46;45-49;40-49;Pro Open;81.3;82.5;;;;;;;;;;;190;200;-215;;200;200;2;136.62;135.18;130.15;;;Russia;;NAP;IPA;2019-06-07;Russia;KDA;Sochi;Olympia 6
+Aleksey Usmanov;M;D;Raw;46;45-49;40-49;Pro Masters 40-49;84.5;90;;;;;;;;;;;170;180;190;;190;190;1;127.00;125.51;120.63;;;Russia;;WRPF;WRPF;2019-04-27;Russia;NVS;Novosibirsk;Steel Bear Cup
+Aleksey Usmanov;M;B;Multi-ply;45;45-49;40-49;Pro Masters 40-49;81.6;82.5;;;;;;180;-200;200;;200;;;;;;200;2;136.33;134.87;129.84;72.07;;Russia;;NAP;IPA;2018-12-14;Russia;NVS;Berdsk;Steel Arena 8
+Aleksey Usmanov;M;B;Unlimited;45;45-49;40-49;Pro Masters 40-49;81.3;82.5;;;;;;-200;-210;210;-215;210;;;;;;210;1;143.45;141.94;136.66;75.87;;Russia;;WRPF;WRPF;2018-12-02;Russia;NVS;Novosibirsk;Best of the Best Tournament 2
+Aleksey Usmanov;M;B;Unlimited;45;45-49;40-49;Pro Masters 45-49;79.9;82.5;;;;;;-200;-200;-200;;;;;;;;;DQ;;;;;;Russia;;NAP;IPA;2018-09-28;Russia;SVE;Yekaterinburg;Golden Tiger 12
+Aleksey Usmanov;M;B;Unlimited;45;45-49;40-49;Pro Masters 45-49;80.7;82.5;;;;;;215;-230;-230;;215;;;;;;215;1;147.50;145.98;140.60;78.11;;Russia;;NAP;IPA;2018-06-07;Russia;KDA;Sochi;Olympia V
+Aleksey Usmanov;M;B;Multi-ply;45;45-49;40-49;Pro Open;81.65;82.5;;;;;;210;-220;220;;220;;;;;;220;5;149.91;148.30;142.77;79.24;;Russia;;NAP;IPA;2018-05-24;Russia;NVS;Berdsk;Challenge of Siberia 6
+Aleksey Usmanov;M;B;Multi-ply;45;45-49;40-49;Pro Masters 40-49;81.65;82.5;;;;;;210;-220;220;;220;;;;;;220;1;149.91;148.30;142.77;79.24;;Russia;;NAP;IPA;2018-05-24;Russia;NVS;Berdsk;Challenge of Siberia 6
+Aleksey Usmanov;M;B;Multi-ply;44;40-44;40-49;Pro Masters 40-49;80.5;82.5;;;;;;-180;180;;;180;;;;;;180;1;123.67;122.41;117.91;65.51;;Russia;;NAP;IPA;2017-12-15;Russia;NVS;Novosibirsk;Steel Arena 7
+Aleksey Usmanov;M;B;Multi-ply;44;40-44;40-49;Pro Open;80.5;82.5;;;;;;-180;180;;;180;;;;;;180;3;123.67;122.41;117.91;65.51;;Russia;;NAP;IPA;2017-12-15;Russia;NVS;Novosibirsk;Steel Arena 7
+Aleksey Usmanov;M;B;Unlimited;44;40-44;40-49;Pro Open;82;82.5;;;;;;-207.5;-210;210;;210;;;;;;210;3;142.75;141.20;135.90;75.40;;Russia;;NAP;IPA;2017-09-28;Russia;SVE;Yekaterinburg;Golden Tiger 11
+Aleksey Usmanov;M;B;Unlimited;44;40-44;40-49;Pro Masters 40-44;82;82.5;;;;;;-207.5;-210;210;;210;;;;;;210;1;142.75;141.20;135.90;75.40;;Russia;;NAP;IPA;2017-09-28;Russia;SVE;Yekaterinburg;Golden Tiger 11
+Aleksey Usmanov;M;B;Unlimited;44;40-44;40-49;Pro Masters 40-44;82;82.5;;;;;;190;200;210;;210;;;;;;210;1;142.75;141.20;135.90;75.40;;Russia;;NAP;IPA;2017-06-08;Russia;KDA;Sochi;Olympia IV
+Aleksey Usmanov;M;B;Unlimited;44;40-44;40-49;Pro Open;82;82.5;;;;;;190;200;210;;210;;;;;;210;1;142.75;141.20;135.90;75.40;;Russia;;NAP;IPA;2017-06-08;Russia;KDA;Sochi;Olympia IV
+Aleksey Usmanov;M;B;Single-ply;43;40-44;40-49;Pro Open;82.4;82.5;;;;;;180;-190;-190;;180;;;;;;180;1;122.01;120.67;116.12;64.40;;Russia;;NAP;IPA;2016-12-09;Russia;NVS;Novosibirsk;Steel Arena 6
+Aleksey Usmanov;M;B;Single-ply;43;40-44;40-49;Pro Masters 40-49;82.4;82.5;;;;;;180;-190;-190;;180;;;;;;180;1;122.01;120.67;116.12;64.40;;Russia;;NAP;IPA;2016-12-09;Russia;NVS;Novosibirsk;Steel Arena 6
+Aleksey Usmanov;M;B;Raw;43;40-44;40-49;Amateur Open;80.3;82.5;;;;;;132.5;137.5;142.5;;142.5;;;;;;142.5;5;98.04;97.06;93.50;72.81;Yes;Russia;;NAP;IPA;2016-05-19;Russia;NVS;Berdsk;Siberian Challenge
+Aleksey Usmanov;M;B;Raw;43;40-44;40-49;Amateur Masters 40-44;80.3;82.5;;;;;;132.5;137.5;142.5;;142.5;;;;;;142.5;1;98.04;97.06;93.50;72.81;Yes;Russia;;NAP;IPA;2016-05-19;Russia;NVS;Berdsk;Siberian Challenge
+Aleksey Usmanov;M;B;Raw;42;40-44;40-49;Pro Masters 40-49;81.85;82.5;;;;;;130;-135;135;;135;;;;;;135;2;91.86;90.87;87.47;68.30;;Russia;;NAP;IPA;2015-12-09;Russia;NVS;Novosibirsk;Steel Arena 5
+Aleksey Usmanov;M;B;Raw;42;40-44;40-49;Pro Open;81.85;82.5;;;;;;130;-135;135;;135;;;;;;135;14;91.86;90.87;87.47;68.30;;Russia;;NAP;IPA;2015-12-09;Russia;NVS;Novosibirsk;Steel Arena 5
+Aleksey Usmanov;M;B;Raw;42;40-44;40-49;Amateur Masters 40-49;81.75;82.5;;;;;;120;130;-142.5;;130;;;;;;130;2;88.52;87.57;84.29;65.81;Yes;Russia;;NAP;IPA;2015-05-15;Russia;NVS;Berdsk;Siberian Challenge
+Aleksey Usmanov;M;B;Raw;42;40-44;40-49;Amateur Open;81.75;82.5;;;;;;120;130;-142.5;;130;;;;;;130;7;88.52;87.57;84.29;65.81;Yes;Russia;;NAP;IPA;2015-05-15;Russia;NVS;Berdsk;Siberian Challenge
+Aleksey Usmanov;M;B;Raw;41;40-44;40-49;Pro Masters 40-49;82.1;82.5;;;;;;115;120;-130;;120;;;;;;120;2;81.51;80.62;77.59;60.61;;Russia;;NAP;IPA;2014-12-05;Russia;NVS;Novosibirsk;Steel Arena 4
+Aleksey Usmanov;M;B;Raw;41;40-44;40-49;Amateur Masters 40-44;82.1;82.5;;;;;;100;110;120;;120;;;;;;120;1;81.51;80.62;77.59;60.61;Yes;Russia;;NAP;IPA;2014-05-14;Russia;NVS;Berdsk;Siberian Challenge
+Aleksey Usmanov;M;B;Raw;40;40-44;40-49;Amateur Masters 40-44;80.4;82.5;;;;;;-140;-140;-140;;;;;;;;;DQ;;;;;Yes;Russia;;NAP;IPA;2013-12-05;Russia;NVS;Berdsk;Steel Arena 3
+Aleksey Usmanov;M;B;Raw;40;40-44;40-49;Amateur Masters 40-44;88.3;90;;;;;;130;137.5;140;;140;;;;;;140;4;91.41;90.26;86.58;68.15;Yes;Russia;;NAP;IPA;2013-06-12;Russia;NVS;Berdsk;Siberian Challenge

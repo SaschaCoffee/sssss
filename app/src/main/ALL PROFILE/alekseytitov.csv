@@ -1,0 +1,25 @@
+﻿Name;Sex;Event;Equipment;Age;AgeClass;BirthYearClass;Division;BodyweightKg;WeightClassKg;Squat1Kg;Squat2Kg;Squat3Kg;Squat4Kg;Best3SquatKg;Bench1Kg;Bench2Kg;Bench3Kg;Bench4Kg;Best3BenchKg;Deadlift1Kg;Deadlift2Kg;Deadlift3Kg;Deadlift4Kg;Best3DeadliftKg;TotalKg;Place;Dots;Wilks;Glossbrenner;Goodlift;Tested;Country;State;Federation;ParentFederation;Date;MeetCountry;MeetState;MeetTown;MeetName
+Aleksey Titov;M;B;Raw;39;35-39;24-39;Open;72.6;75;;;;;;125;-132.5;-132.5;;125;;;;;;125;1;91.60;91.16;88.20;67.34;;Russia;;RPU;;2022-03-25;Russia;SAM;Samara;Eurasian Cup
+Aleksey Titov;M;B;Raw;35;35-39;24-39;Open;86.3;90;;;;;;140;152.5;160;;160;;;;;;160;1;105.73;104.44;100.29;78.79;Yes;Russia;;RPU;;2021-10-09;Russia;UD;Izhevsk;Izhevsk Steel
+Aleksey Titov;M;D;Raw;48;45-49;40-49;Amateur Masters 45-49;73.95;75;;;;;;;;;;;160;170;-177.5;;170;170;1;123.07;122.34;118.28;;Yes;Russia;;WPC-RUS;WPC;2021-05-16;Russia;LEN;St. Petersburg;Northwestern Championships
+Aleksey Titov;M;B;Raw;38;35-39;24-39;Open;74.3;75;;;;;;127.5;130;132.5;;132.5;;;;;;132.5;2;95.63;95.04;91.87;70.51;;Russia;;RPU;;2021-03-19;Russia;SAM;Samara;Eurasian Cup
+Aleksey Titov;M;D;Raw;48;45-49;40-49;Amateur Masters 45-49;77.8;82.5;;;;;;;;;;;130;140;150;;150;150;1;105.18;104.26;100.58;;Yes;Russia;;WPC-RUS;WPC;2021-01-23;Russia;LEN;St. Petersburg;St. Petersburg Cup
+Aleksey Titov;M;B;Raw;37;35-39;24-39;Open;73.1;75;;;;;;115;-130;-130;;115;;;;;;115;1;83.89;83.45;80.72;61.73;;Russia;;RPU;;2020-12-12;Russia;SAM;Samara;Iron Legion
+Aleksey Titov;M;B;Raw;36;35-39;24-39;Open;74;75;;;;;;-125;125;127.5;;127.5;;;;;;127.5;1;92.27;91.71;88.67;68.00;;Russia;;RPU;;2019-12-14;Russia;SAM;Samara;Explosive Force Tournament
+Aleksey Titov;M;B;Raw;35;35-39;24-39;Open;70.6;75;;;;;;117.5;120;-122.5;;120;;;;;;120;2;89.61;89.34;86.55;65.62;Yes;Russia;;IPL;IPL;2018-09-14;Russia;SAM;Samara;Eastern European Championships
+Aleksey Titov;M;B;Raw;35;35-39;24-39;Open;72.2;75;;;;;;107.5;-117.5;-117.5;;107.5;;;;;;107.5;3;79.07;78.71;76.18;58.09;Yes;Russia;;RPU;;2018-03-03;Russia;SAM;Samara;Iron Legion Tournament
+Aleksey Titov;M;BD;Raw;38;35-39;24-39;Open;88.6;90;;;;;;-160;-160;160;;160;200;210;215;;215;375;1;244.42;241.34;231.47;;Yes;Russia;;RPU;;2017-12-14;Russia;VLG;Vologda;Russian North Tournament
+Aleksey Titov;M;B;Raw;38;35-39;24-39;Open;97.2;100;;;;;;140;155;162.5;;162.5;;;;;;162.5;4;101.28;100.07;95.63;75.46;Yes;Russia;;RPU;;2017-05-13;Russia;VLG;Vologda;Northwest District Championships
+Aleksey Titov;M;B;Raw;15;13-15;14-18;Teen 13-15;58.2;60;;;;;;62.5;67.5;70;;70;;;;;;70;1;60.60;61.41;60.07;42.56;Yes;Russia;;RPU;;2016-05-14;Russia;VLG;Vologda;North West Federal District Cup
+Aleksey Titov;M;SBD;Raw;29.5;24-34;24-39;Open;89.65;93;;;;;182.5;;;;;127.5;;;;;212.5;522.5;8;338.51;334.23;320.38;69.60;Yes;Russia;;FPR;IPF;2016-04-24;Russia;MUR;Murmansk;Murmansk Oblast Classic Powerlifting Championships
+Aleksey Titov;M;B;Raw;23;20-23;;Pro Juniors 20-23;74.6;75;;;;;;95;100;-105;;100;;;;;;100;1;71.99;71.52;69.12;53.10;;Russia;;WPC-RUS;WPC;2015-11-01;Russia;SA;;Sakha Championships
+Aleksey Titov;M;B;Raw;;;;Amateur Open;97.45;100;;;;;;145;-150;-150;;145;;;;;;145;18;90.27;89.19;85.23;67.25;Yes;Russia;;NAP;IPA;2015-10-16;Russia;SVE;Ekaterinbourg;Golden Tiger 9
+Aleksey Titov;M;B;Raw;26;24-34;24-39;Amateur Open;97.4;100;;;;;;145;-150;-150;;145;;;;;;145;8;90.29;89.21;85.25;67.27;Yes;Russia;;NAP;IPA;2014-10-17;Russia;SVE;Yekaterinburg;World Championships & Golden Tiger 8
+Aleksey Titov;M;SBD;Single-ply;22.5;20-23;19-23;Open;91.1;93;;;;;210;;;;;167.5;;;;;;;DQ;;;;;Yes;Russia;;FPR;IPF;2011-12-12;Russia;CHE;Chelyabinsk;Chelyabinsk Oblast Powerlifting Championships
+Aleksey Titov;M;B;Multi-ply;16.5;16-17;14-18;Pro Open;75.6;90;;;;;;75;-80;80;;80;;;;;;80;8;57.10;56.69;54.76;30.60;;Russia;;WPC-RUS;WPC;2010-10-31;Russia;KDA;Krymsk;Olympia Bench Press Cup
+Aleksey Titov;M;B;Raw;26.5;24-34;24-39;Open;107.7;110;;;;;;200;210;212.5;;212.5;;;;;;212.5;3;126.88;125.89;120.26;94.05;Yes;Russia;;FPR;IPF;2009-10-24;Russia;LEN;St. Petersburg;St. Petersburg Raw Bench Press Tournament
+Aleksey Titov;M;B;Single-ply;22.5;20-23;19-23;Juniors;91.8;100;;;;;;;160;167.5;;167.5;;;;;;167.5;4;107.25;105.88;101.39;55.83;Yes;Russia;;FPR;IPF;2005-05-02;Russia;LEN;St. Petersburg;St. Petersburg Bench Press Championships
+Aleksey Titov;M;SBD;Single-ply;21.5;20-23;19-23;Open;87.05;90;;;;;270;;;;;185;;;;;285;740;8;486.77;480.76;461.45;83.16;Yes;Russia;;FPR;IPF;2004-01-16;Russia;MOW;Moscow;Moscow City Powerlifting Championships
+Aleksey Titov;M;SBD;Single-ply;20.5;20-23;19-23;Juniors;90;90;;;;;265;;;;;195;;;;;265;725;1;468.79;462.84;443.58;80.00;Yes;Russia;;FPR;IPF;2003-02-15;Russia;MOW;Moscow;Moscow City Juniors Powerlifting Championships
+Aleksey Titov;M;SBD;Single-ply;19.5;20-23;19-23;Open;88.45;90;;;;;270;;;;;185;;;;;265;720;9;469.69;463.79;444.84;80.20;Yes;Russia;;FPR;IPF;2002-08-23;Russia;MOW;Moscow;Moscow City Powerlifting Cup & Single Event Championships
+Aleksey Titov;M;SBD;Single-ply;19.5;20-23;19-23;Open;88.1;90;;;;;;;;;;;;;;;;;DQ;;;;;Yes;Russia;;FPR;IPF;2002-04-19;Russia;MOW;Moscow;Moscow Students Games

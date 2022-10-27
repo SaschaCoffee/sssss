@@ -7,6 +7,7 @@ import android.database.Cursor;
 import android.database.sqlite.SQLiteDatabase;
 import android.database.sqlite.SQLiteOpenHelper;
 import android.util.Log;
+import android.widget.Toast;
 
 import androidx.annotation.Nullable;
 import java.io.BufferedReader;
@@ -110,9 +111,6 @@ public class DataBaseStatistic extends SQLiteOpenHelper {
 
                     storeContacts.add(new ProfileStats(name, date1));
                 }
-
-
-
                 anzahl++;
             }while(cursor.moveToNext());
 
@@ -121,12 +119,16 @@ public class DataBaseStatistic extends SQLiteOpenHelper {
 
     }
 
+    void cleartable(){
+        SQLiteDatabase db = this.getWritableDatabase();
+        db.delete(LIFTER,null,null);
+    }
+
     void csvcopy(Context contex, String openName){
         SQLiteDatabase db = this.getWritableDatabase();
 
-
         String x = openName;
-        String droptable = "drop table if exists "+ LIFTER;
+
         String myCSVFile = openName + ".csv";
         AssetManager manager = contex.getAssets();
         InputStream inStream = null;
@@ -149,7 +151,8 @@ public class DataBaseStatistic extends SQLiteOpenHelper {
                 ContentValues cv = new ContentValues();
                 cv.put(COLUMN_DATE, columns[36].trim());
                 cv.put(COLUMN_BEST_SQUAT, columns[14]);
-                db.insert(LIFTER,null, cv);
+
+                db.insert(LIFTER,null,cv);
             }
         }catch (IOException e){
             e.printStackTrace();

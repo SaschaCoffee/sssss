@@ -1,0 +1,23 @@
+﻿Name;Sex;Event;Equipment;Age;AgeClass;BirthYearClass;Division;BodyweightKg;WeightClassKg;Squat1Kg;Squat2Kg;Squat3Kg;Squat4Kg;Best3SquatKg;Bench1Kg;Bench2Kg;Bench3Kg;Bench4Kg;Best3BenchKg;Deadlift1Kg;Deadlift2Kg;Deadlift3Kg;Deadlift4Kg;Best3DeadliftKg;TotalKg;Place;Dots;Wilks;Glossbrenner;Goodlift;Tested;Country;State;Federation;ParentFederation;Date;MeetCountry;MeetState;MeetTown;MeetName
+Aleksey Ananin;M;D;Raw;44;40-44;40-49;Pro Open;96.1;100;;;;;;;;;;;307.5;317.5;-320;;317.5;317.5;1;198.92;196.48;187.84;;;Russia;;WPF-RUS;WPF;2021-04-25;Russia;MOW;Moscow;Grand Prix & Kremlin Press
+Aleksey Ananin;M;D;Raw;44;40-44;40-49;Pro Open;99.2;100;;;;;;;;;;;310;317.5;-322.5;;317.5;317.5;1;196.11;193.85;185.18;;;Russia;;WPF-RUS;WPF;2020-12-20;Russia;MOW;Moscow;Kremlin Press
+Aleksey Ananin;M;D;Raw;44;40-44;40-49;Pro Open;97.3;100;;;;;;;;;;;-307.5;315;-320;;315;315;3;196.25;193.89;185.29;;;Russia;;WPF;;2020-11-14;Russia;MOW;Moscow;World Championships
+Aleksey Ananin;M;D;Raw;43;40-44;40-49;Pro Masters 40-49;98;100;;;;;;;;;;;305;315;-320;;315;315;1;195.62;193.30;184.70;;;Russia;;WRPF;WRPF;2019-12-04;Russia;MOW;Moscow;World Championships
+Aleksey Ananin;M;D;Raw;43;40-44;40-49;Elite Pro Open;95.2;100;;;;;;;;;;;310;-320;-320;;310;310;2;195.07;192.65;184.23;;;Russia;;WPF-RUS;WPF;2019-10-20;Russia;MOW;Moscow;PROMotion Cup
+Aleksey Ananin;M;D;Raw;42;40-44;40-49;Pro Open;97.9;100;;;;;;;;;;;307.5;-317.5;-317.5;;307.5;307.5;1;191.05;188.78;180.38;;;Russia;;WRPF;WRPF;2019-05-25;Russia;;Taldom;Taldom Cup
+Aleksey Ananin;M;D;Raw;42;40-44;40-49;Masters 40-44;97.3;100;;;;;;;;;;;-305;315;-320;;315;315;1;196.25;193.89;185.29;;;Russia;;WPF;;2018-11-16;Russia;MOW;Moscow;World Championships
+Aleksey Ananin;M;D;Raw;41.5;40-44;40-49;Pro Open;94;100;;;;;;;;;;;295;305;310;;310;310;2;196.23;193.77;185.38;;;Russia;;WPF-RUS;WPF;2018-09-29;Russia;MOW;Moscow;ProMotion
+Aleksey Ananin;M;D;Raw;41.5;40-44;40-49;Open;96.4;100;;;;;;;;;;;285;-300;302.5;;302.5;302.5;3;189.25;186.94;178.70;;;Russia;;WPF;;2018-06-08;Russia;MOW;Moscow;European Championships
+Aleksey Ananin;M;D;Raw;41.5;40-44;40-49;Masters 40-44;96.4;100;;;;;;;;;;;285;-300;302.5;;302.5;302.5;1;189.25;186.94;178.70;;;Russia;;WPF;;2018-06-08;Russia;MOW;Moscow;European Championships
+Aleksey Ananin;M;D;Raw;39.5;35-39;40-49;O;98.5;100;;;;;;;;;;;295;-305;-305;;295;295;1;182.78;180.64;172.58;;;Russia;;Vityaz;;2016-11-05;Russia;MOW;Moscow;Ivan Poddubniy International Tournament
+Aleksey Ananin;M;D;Raw;39.5;35-39;40-49;M1;98.5;100;;;;;;;;;;;295;-305;-305;;295;295;1;182.78;180.64;172.58;;;Russia;;Vityaz;;2016-11-05;Russia;MOW;Moscow;Ivan Poddubniy International Tournament
+Aleksey Ananin;M;D;Raw;39.5;35-39;40-49;O;97.65;100;;;;;;;;;;;295;-305;-305;;295;295;2;183.49;181.30;173.25;;;Russia;;Vityaz;;2016-05-27;Russia;MOW;Moscow;World Cup
+Aleksey Ananin;M;D;Raw;39.5;35-39;40-49;Open;97.7;100;;;;;;;;;;;285;295;302.5;;302.5;302.5;3;188.11;185.87;177.61;;;Russia;;RPU;;2016-02-26;Russia;MOW;Moscow;Tournament of Strong Spirit and the Goblet of St George the Victorious
+Aleksey Ananin;M;D;Raw;39;35-39;;Amateur Open;99;100;;;;;;;;;;;285;290;-302.5;;290;290;6;179.28;177.21;169.29;;;Russia;;WRPF;WRPF;2015-12-03;Russia;MOW;Moscow;World Championships
+Aleksey Ananin;M;D;Raw;38.5;35-39;24-39;O;98.4;100;;;;;;;;;;;270;285;-295;;285;285;1;176.67;174.59;166.81;;;Russia;;Vityaz;;2015-10-10;Russia;MOW;Moscow;Ivan Poddubniy International Benchpress and Deadlift Tournament
+Aleksey Ananin;M;SBD;Raw;36.5;35-39;24-39;Open;95.5;105;;;;;215;;;;;170;;;;;250;635;3;398.99;394.06;376.80;82.01;Yes;Russia;;FPR;IPF;2013-02-16;Russia;MOW;Mytischi;Moscow Oblast Classic Powerlifting Championships
+Aleksey Ananin;M;SBD;Single-ply;35.5;35-39;24-39;Open;100.2;105;;;;;302.5;;;;;212.5;;;;;280;795;10;488.91;483.44;461.73;83.06;Yes;Russia;;FPR;IPF;2012-11-28;Russia;MOW;Moscow;Central Federal District and Moscow City Powerlifing Championships
+Aleksey Ananin;M;SBD;Single-ply;35.5;35-39;24-39;Open;98.75;105;295;307.5;;;307.5;200;205;210;;210;260;272.5;-282.5;;272.5;790;2;488.94;483.25;461.66;83.12;Yes;Russia;;FPR;IPF;2012-05-19;Russia;MOW;Zheleznodorozhnyy;Moscow Oblast Powerlifting Cup
+Aleksey Ananin;M;SBD;Single-ply;34.5;24-34;24-39;Open;101.8;105;;;;;312.5;;;;;205;;;;;260;777.5;15;474.93;469.89;448.70;80.62;Yes;Russia;;FPR;IPF;2011-11-30;Russia;MOW;Moscow;Central District Powerlifting Championships
+Aleksey Ananin;M;SBD;Raw;34.5;24-34;24-39;Open;98.75;105;200;220;-240;;220;160;170;175;;175;240;255;265;;265;660;3;408.48;403.73;385.69;83.88;Yes;Russia;;FPR;IPF;2011-05-28;Russia;MOW;Mytischi;Moscow Oblast Classic Powerlifting Cup
+Aleksey Ananin;M;SBD;Single-ply;23.5;24-34;24-39;Open;97.2;100;;;;;275;;;;;;;;;;;;DQ;;;;;Yes;Russia;;FPR;IPF;2010-07-17;Russia;MOW;Moscow;Moscow City Powerlifting Championships

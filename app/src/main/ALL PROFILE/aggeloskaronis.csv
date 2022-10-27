@@ -1,0 +1,23 @@
+﻿Name;Sex;Event;Equipment;Age;AgeClass;BirthYearClass;Division;BodyweightKg;WeightClassKg;Squat1Kg;Squat2Kg;Squat3Kg;Squat4Kg;Best3SquatKg;Bench1Kg;Bench2Kg;Bench3Kg;Bench4Kg;Best3BenchKg;Deadlift1Kg;Deadlift2Kg;Deadlift3Kg;Deadlift4Kg;Best3DeadliftKg;TotalKg;Place;Dots;Wilks;Glossbrenner;Goodlift;Tested;Country;State;Federation;ParentFederation;Date;MeetCountry;MeetState;MeetTown;MeetName
+Aggelos Karonis;M;SBD;Raw;33;24-34;24-39;Open;81.7;82.5;;;;;205;;;;;145;;;;;252.5;602.5;4;410.40;406.00;390.83;84.07;;Greece;;GPL;IPL;2019-11-16;Greece;ATT;Elefsis;Greek Strength Challenge
+Aggelos Karonis;M;SBD;Wraps;32.5;24-34;24-39;Open;81;82.5;195;205;-210;;205;135;142.5;-147.5;;142.5;230;240;245;;245;592.5;2;405.60;401.37;386.52;83.04;;Greece;;ESDT;WP;2019-05-03;Greece;;Pefki;Hellenic Powerlifting Championship
+Aggelos Karonis;M;D;Raw;32.5;24-34;24-39;Open;81;82.5;;;;;;;;;;;230;240;245;;245;245;1;167.72;165.97;159.83;;;Greece;;ESDT;WP;2019-05-03;Greece;;Pefki;Hellenic Powerlifting Championship
+Aggelos Karonis;M;BD;Raw;32.5;24-34;24-39;Open;81;82.5;;;;;;135;142.5;-147.5;;142.5;230;240;245;;245;387.5;2;265.27;262.50;252.79;;;Greece;;ESDT;WP;2019-05-03;Greece;;Pefki;Hellenic Powerlifting Championship
+Aggelos Karonis;M;S;Raw;32.5;24-34;24-39;Open;81;82.5;195;205;-210;;205;;;;;;;;;;;205;2;140.33;138.87;133.73;;;Greece;;ESDT;WP;2019-05-03;Greece;;Pefki;Hellenic Powerlifting Championship
+Aggelos Karonis;M;BD;Raw;32.5;24-34;24-39;Open;81;82.5;;;;;;135;142.5;-147.5;;142.5;230;240;245;;245;387.5;1;265.27;262.50;252.79;;;Greece;;ESDT;WP;2019-05-03;Greece;;Pefki;Hellenic Powerlifting Championship
+Aggelos Karonis;M;D;Raw;32.5;24-34;24-39;Open;81;82.5;;;;;;;;;;;230;240;245;;245;245;3;167.72;165.97;159.83;;;Greece;;ESDT;WP;2019-05-03;Greece;;Pefki;Hellenic Powerlifting Championship
+Aggelos Karonis;M;SBD;Wraps;32.5;24-34;24-39;Open;81;82.5;195;205;-210;;205;135;142.5;-147.5;;142.5;230;240;245;;245;592.5;1;405.60;401.37;386.52;83.04;;Greece;;ESDT;WP;2019-05-03;Greece;;Pefki;Hellenic Powerlifting Championship
+Aggelos Karonis;M;B;Raw;32.5;24-34;24-39;Open;81;82.5;;;;;;135;142.5;-147.5;;142.5;;;;;;142.5;3;97.55;96.53;92.96;72.48;;Greece;;ESDT;WP;2019-05-03;Greece;;Pefki;Hellenic Powerlifting Championship
+Aggelos Karonis;M;S;Raw;32.5;24-34;24-39;Open;81;82.5;195;205;-210;;205;;;;;;;;;;;205;1;140.33;138.87;133.73;;;Greece;;ESDT;WP;2019-05-03;Greece;;Pefki;Hellenic Powerlifting Championship
+Aggelos Karonis;M;B;Raw;32.5;24-34;24-39;Open;81;82.5;;;;;;135;142.5;-147.5;;142.5;;;;;;142.5;1;97.55;96.53;92.96;72.48;;Greece;;ESDT;WP;2019-05-03;Greece;;Pefki;Hellenic Powerlifting Championship
+Aggelos Karonis;M;D;Raw;32.5;24-34;24-39;Open;90;90;;;;;;;;;;;235;242.5;250;;250;250;2;161.65;159.60;152.96;;;Greece;;ESDT;WP;2018-12-01;Greece;;Tavros;Hellenic League
+Aggelos Karonis;M;S;Wraps;32.5;24-34;24-39;Open;90;90;200;210;217.5;;217.5;;;;;;;;;;;217.5;3;140.64;138.85;133.07;;;Greece;;ESDT;WP;2018-12-01;Greece;;Tavros;Hellenic League
+Aggelos Karonis;M;B;Raw;32.5;24-34;24-39;Open;90;90;;;;;;140;150;-157.5;;150;;;;;;150;4;96.99;95.76;91.78;72.33;;Greece;;ESDT;WP;2018-12-01;Greece;;Tavros;Hellenic League
+Aggelos Karonis;M;SBD;Wraps;32.5;24-34;24-39;Open;90;90;200;210;217.5;;217.5;140;150;-157.5;;150;235;242.5;250;;250;617.5;2;399.28;394.21;377.81;82.09;;Greece;;ESDT;WP;2018-12-01;Greece;;Tavros;Hellenic League
+Aggelos Karonis;M;SBD;Raw;31.5;24-34;24-39;Open;89.8;93;185;195;205;;205;135;142.5;147.5;;147.5;220;235;-247.5;;235;587.5;4;380.30;375.48;359.90;78.19;Yes;Greece;;HPF;IPF;2017-11-27;Greece;ATT;Athens;Greek Nationals
+Aggelos Karonis;M;SBD;Raw;30.5;24-34;24-39;Open;92.3;93;180;-192.5;200;;200;130;137.5;142.5;;142.5;215;227.5;237.5;;237.5;580;4;370.38;365.67;350.09;76.16;Yes;Greece;;HPF;IPF;2017-05-16;Greece;ATT;Athens;Pontiako Kypello I
+Aggelos Karonis;M;B;Raw;29.5;24-34;24-39;Open;88.9;90;;;;;;;;;;137.5;;;;;;137.5;8;89.46;88.34;84.71;66.71;Yes;Greece;;ESDT;WP;2016-05-21;Greece;;Athens;International & Hellenic Powerlifting Championships
+Aggelos Karonis;M;SBD;Wraps;29.5;24-34;24-39;Open;88.9;90;;;;;190;;;;;137.5;;;;;235;562.5;5;365.99;361.38;346.53;75.24;Yes;Greece;;ESDT;WP;2016-05-21;Greece;;Athens;International & Hellenic Powerlifting Championships
+Aggelos Karonis;M;BD;Raw;29.5;24-34;24-39;Open;88.9;90;;;;;;;;;;137.5;;;;;235;372.5;4;242.37;239.31;229.48;;Yes;Greece;;ESDT;WP;2016-05-21;Greece;;Athens;International & Hellenic Powerlifting Championships
+Aggelos Karonis;M;D;Raw;29.5;24-34;24-39;Open;88.9;90;;;;;;;;;;;;;;;235;235;6;152.90;150.98;144.77;;Yes;Greece;;ESDT;WP;2016-05-21;Greece;;Athens;International & Hellenic Powerlifting Championships
+Aggelos Karonis;M;D;Raw;28.5;24-34;24-39;Open;90;90;;;;;;;;;;;200;210;-225;;210;210;5;135.79;134.06;128.49;;;Greece;;ESDT;WP;2015-11-14;Greece;;;Hellenic Deadlift Cup

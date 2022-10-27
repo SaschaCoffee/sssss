@@ -1,0 +1,20 @@
+﻿Name;Sex;Event;Equipment;Age;AgeClass;BirthYearClass;Division;BodyweightKg;WeightClassKg;Squat1Kg;Squat2Kg;Squat3Kg;Squat4Kg;Best3SquatKg;Bench1Kg;Bench2Kg;Bench3Kg;Bench4Kg;Best3BenchKg;Deadlift1Kg;Deadlift2Kg;Deadlift3Kg;Deadlift4Kg;Best3DeadliftKg;TotalKg;Place;Dots;Wilks;Glossbrenner;Goodlift;Tested;Country;State;Federation;ParentFederation;Date;MeetCountry;MeetState;MeetTown;MeetName
+Aleksandr Buyan;M;SBD;Wraps;32;24-34;24-39;Open;97.3;100;265;275;282.5;;282.5;180;-187.5;;;180;-260;280;300;;300;762.5;1;475.04;469.33;448.53;97.59;;;;WRPF-Belarus;WRPF;2022-05-21;Belarus;;Minsk;6th Belarus Championships
+Aleksandr Buyan;M;D;Raw;31;24-34;24-39;Open;90.3;100;;;;;;;;;;;275;285;-295;;285;285;2;183.97;181.64;174.05;;;;;WPPL-Belarus;;2021-07-10;Belarus;;Alexandria;Mogilev Oblast Championship
+Aleksandr Buyan;M;BD;Raw;29;24-34;24-39;Open;100;100;;;;;;;;;;;;;;;;;NS;;;;;;;;WRPF-Belarus;WRPF;2019-12-28;Belarus;;Lida;Bear Tournament
+Aleksandr Buyan;M;D;Raw;29;24-34;24-39;Open;91.9;;;;;;;;;;;;322.5;-330;;;322.5;322.5;6;206.38;203.75;195.10;;;Belarus;;WRPF;WRPF;2019-12-22;Belarus;;Minsk;Adrenaline Grand Prix
+Aleksandr Buyan;M;SBD;Wraps;29;24-34;24-39;Open;93.2;100;280;290;-300;;290;190;-200;-200;;190;320;325;-330;;325;805;1;511.65;505.18;483.47;105.20;Yes;Bulgaria;;WRPF-Belarus;WRPF;2019-11-08;Belarus;;Minsk;4th Belarus Cup
+Aleksandr Buyan;M;D;Raw;29;24-34;24-39;Open;95.3;100;;;;;;;;;;;310;-322.5;-322.5;;310;310;1;194.97;192.55;184.13;;;;;WRPF-Belarus;WRPF;2019-07-28;Belarus;;Minsk;MP Verbitsky Cup
+Aleksandr Buyan;M;BD;Raw;29;24-34;24-39;Open;94.7;90+;;;;;;170;192.5;-200;;192.5;300;-312.5;-315;;300;492.5;2;310.67;306.79;293.43;;;;;WRPF-Belarus;WRPF;2019-04-26;Belarus;;Minsk;4th Belarus Championship
+Aleksandr Buyan;M;B;Single-ply;28;24-34;24-39;Open;93.9;100;;;;;;230;240;-250;;240;;;;;;240;3;152.00;150.09;143.60;78.94;;;;WRPF-Belarus;WRPF;2019-02-12;Belarus;;Minsk;Living Steel Tournament
+Aleksandr Buyan;M;SBD;Wraps;28;24-34;24-39;Open;94.4;100;250;270;290;;290;190;201;206;;206;-300;300;-320;;300;796;2;502.87;496.57;475.00;103.38;;Belarus;;WRPF-Belarus;WRPF;2018-11-30;Belarus;;Minsk;3rd Belarus Cup
+Aleksandr Buyan;M;D;Raw;28;24-34;24-39;Open;94.4;100;;;;;;;;;;;-300;300;-320;;300;300;2;189.52;187.15;179.02;;;Belarus;;WRPF-Belarus;WRPF;2018-11-30;Belarus;;Minsk;3rd Belarus Cup
+Aleksandr Buyan;M;SBD;Single-ply;26;24-34;24-39;Open;88.5;93;280;;;;280;200;210;-220;;210;295;;;;295;785;1;511.95;505.51;484.85;87.42;Yes;Belarus;;BelPF;IPF;2016-08-19;Belarus;;Minsk;Belarus Cup
+Aleksandr Buyan;M;B;Single-ply;26;24-34;24-39;Open;88.5;93;;;;;;200;210;-215;;210;;;;;;210;4;136.95;135.23;129.70;71.59;Yes;Belarus;;BelPF;IPF;2016-08-19;Belarus;;Minsk;Belarus Cup
+Aleksandr Buyan;M;SBD;Single-ply;25;24-34;24-39;Open;90;93;;;;;272.5;;;;;210;;;;;285;767.5;1;496.27;489.97;469.59;84.69;Yes;Belarus;;BelPF;IPF;2016-01-27;Belarus;;Oshmyany;Belarus Powerlifting Championships
+Aleksandr Buyan;M;SBD;Single-ply;21;20-23;19-23;Open;82.5;82.5;;;;;;;;;;165;;;;;;;DQ;;;;;Yes;Belarus;;BelPF;IPF;2011-05-03;Belarus;;Minsk;Belarus Students' Games
+Aleksandr Buyan;M;B;Single-ply;21;20-23;19-23;Open;82.5;82.5;;;;;;;;;;165;;;;;;165;4;111.77;110.53;106.36;58.98;Yes;Belarus;;BelPF;IPF;2011-05-03;Belarus;;Minsk;Belarus Students' Games
+Aleksandr Buyan;M;SBD;Single-ply;20;20-23;19-23;Open;82.5;82.5;;;;;220;;;;;160;;;;;247.5;627.5;2;425.06;420.37;404.48;72.72;Yes;Belarus;;BelPF;IPF;2010-12-08;Belarus;;Minsk;Belarus Students' Games
+Aleksandr Buyan;M;SBD;Single-ply;20;20-23;19-23;Open;82.1;82.5;200;-210;-210;;200;130;150;160;;160;210;225;235;;235;595;6;404.16;399.76;384.73;69.15;Yes;Belarus;;BelPF;IPF;2010-11-18;Belarus;;Lida;Belarus Cup
+Aleksandr Buyan;M;B;Single-ply;20;20-23;19-23;Open;82.1;82.5;;;;;;130;150;160;;160;;;;;;160;14;108.68;107.50;103.46;57.40;Yes;Belarus;;BelPF;IPF;2010-11-18;Belarus;;Lida;Belarus Cup
+Aleksandr Buyan;M;B;Single-ply;19;18-19;19-23;Open;80;82.5;;;;;;-130;130;140;;140;;;;;;140;12;96.54;95.58;92.09;51.19;Yes;;;BelPF;IPF;2009-11-19;Belarus;;Lida;Belarus Bench Press Cup

@@ -1,0 +1,34 @@
+﻿Name;Sex;Event;Equipment;Age;AgeClass;BirthYearClass;Division;BodyweightKg;WeightClassKg;Squat1Kg;Squat2Kg;Squat3Kg;Squat4Kg;Best3SquatKg;Bench1Kg;Bench2Kg;Bench3Kg;Bench4Kg;Best3BenchKg;Deadlift1Kg;Deadlift2Kg;Deadlift3Kg;Deadlift4Kg;Best3DeadliftKg;TotalKg;Place;Dots;Wilks;Glossbrenner;Goodlift;Tested;Country;State;Federation;ParentFederation;Date;MeetCountry;MeetState;MeetTown;MeetName
+Aleksandr Novinskiy;M;B;Raw;37;35-39;24-39;Pro Open;96.9;100;;;;;;195;210;-215;;210;;;;;;210;1;131.07;129.49;123.76;97.66;;Russia;;WRPF;WRPF;2021-05-29;Russia;PER;Perm;Greater Urals Tournament
+Aleksandr Novinskiy;M;B;Unlimited;37;35-39;24-39;Pro Open;96.85;100;;;;;;280;-300;;;280;;;;;;280;1;174.81;172.69;165.05;90.53;;Russia;;WRPF;WRPF;2021-05-29;Russia;PER;Perm;Greater Urals Tournament
+Aleksandr Novinskiy;M;B;Raw;37;35-39;24-39;Open;95.8;100;;;;;;207.5;215;-222.5;;215;;;;;;215;2;134.90;133.23;127.39;100.54;;Russia;;RPU;;2021-04-03;Russia;PER;Nytva;Traditions of Nytva
+Aleksandr Novinskiy;M;B;Unlimited;37;35-39;24-39;Open;95.75;100;;;;;;280;300;-312.5;;300;;;;;;300;1;188.27;185.95;177.79;97.60;;Russia;;RPU;;2021-04-03;Russia;PER;Nytva;Traditions of Nytva
+Aleksandr Novinskiy;M;B;Raw;36;35-39;24-39;Pro Open;98;100;;;;;;205;215;222.5;;222.5;;;;;;222.5;1;138.17;136.54;130.46;102.92;;Russia;;NAP;IPA;2020-02-22;Russia;KIR;Kirov;Power of Vyatka 2
+Aleksandr Novinskiy;M;B;Raw;36;35-39;24-39;Pro Open;97.2;100;;;;;;205;215;220;;220;;;;;;220;1;137.12;135.47;129.47;102.16;;Russia;;WRPF;WRPF;2020-02-15;Russia;PER;Perm;Become a Legend Open Tournament
+Aleksandr Novinskiy;M;B;Raw;36;35-39;24-39;Open;93.5;100;;;;;;-185;197.5;-210;;197.5;;;;;;197.5;2;125.34;123.75;118.42;93.46;;Russia;;RPU;;2019-12-21;Russia;PER;Krasnokamsk;Max Fit Club Tournament
+Aleksandr Novinskiy;M;B;Unlimited;35;35-39;24-39;Open;98.8;;;;;;;-350;350;370;-385;370;;;;;;370;13;228.94;226.28;216.17;118.37;;Russia;;RPU;;2018-12-01;Russia;MOW;Dolgoprudnyy;Rage of the Elements
+Aleksandr Novinskiy;M;B;Multi-ply;35;35-39;24-39;Open;99;100;;;;;;-350;350;370;;370;;;;;;370;1;228.74;226.10;215.99;118.25;;Russia;;RPU;;2018-10-21;Russia;UD;Izhevsk;Izhevsk Steel Tournament
+Aleksandr Novinskiy;M;B;Unlimited;35;35-39;24-39;Elite Open;98.6;100;;;;;;340;-360;360;;360;;;;;;360;2;222.96;220.35;210.52;115.30;;Russia;;NAP;IPA;2018-09-28;Russia;SVE;Yekaterinburg;Golden Tiger 12
+Aleksandr Novinskiy;M;B;Unlimited;34;24-34;24-39;Pro Open;95;100;;;;;;342.5;-370;-370;;342.5;;;;;;342.5;1;215.73;213.04;203.75;111.92;;Russia;;NAP;IPA;2018-05-19;Russia;SVE;Yekaterinburg;Gantelya VII
+Aleksandr Novinskiy;M;B;Unlimited;34;24-34;24-39;Open;97.7;100;;;;;;-350;-350;-360;;;;;;;;;DQ;;;;;;Russia;;WRPF;WRPF;2018-04-27;Russia;MOW;Moscow;European Championships
+Aleksandr Novinskiy;M;B;Unlimited;34;24-34;24-39;Open;95.5;;;;;;;-330;330;345;-352.5;345;;;;;;345;7;216.78;214.09;204.72;112.41;;Russia;;RPU;;2017-12-16;Russia;MOW;Dolgoprudny;Elemental Fury Tournament
+Aleksandr Novinskiy;M;B;Multi-ply;33;24-34;24-39;Open;99.4;100;;;;;;-325;-325;-325;;;;;;;;;DQ;;;;;;Russia;;RPU;;2017-03-18;Russia;SVE;Yekaterinburg;Gantelä Lift & Fit V- Rise of the Machines
+Aleksandr Novinskiy;M;B;Multi-ply;33;24-34;24-39;Open;93.3;100;;;;;;260;280;-295;;280;;;;;;280;2;177.88;175.63;168.07;92.44;;Russia;;RPU;;2016-09-10;Russia;SVE;Yekaterinburg;Lift & Fit IV Tournament
+Aleksandr Novinskiy;M;B;Raw;33;24-34;24-39;Open;93.3;100;;;;;;200;205;-207.5;;205;;;;;;205;2;130.23;128.58;123.05;97.11;;Russia;;RPU;;2016-09-10;Russia;SVE;Yekaterinburg;Lift & Fit IV Tournament
+Aleksandr Novinskiy;M;B;Raw;33;24-34;24-39;Open;91.3;100;;;;;;195;-205;-205;;195;;;;;;195;2;125.19;123.60;118.38;93.36;;Russia;;RPU;;2016-08-13;Russia;PER;Perm;Perm Tournament
+Aleksandr Novinskiy;M;B;Raw;32;24-34;24-39;Pro Open;92.15;100;;;;;;205;215;-220;;215;;;;;;215;2;137.40;135.66;129.88;102.47;;Russia;;NAP;IPA;2016-04-30;Russia;PER;Perm;Perm Period
+Aleksandr Novinskiy;M;B;Raw;32;24-34;24-39;Open;91.2;100;;;;;;205;212.5;217.5;;217.5;;;;;;217.5;1;139.71;137.93;132.12;104.19;;Russia;;RPU;;2016-03-26;Russia;SVE;Yekaterinburg;Ekaterinburg Cup
+Aleksandr Novinskiy;M;B;Raw;32;24-34;24-39;Pro Open;88;90;;;;;;200;207.5;-212.5;;207.5;;;;;;207.5;1;135.72;134.02;128.58;101.18;;Russia;;NAP;IPA;2015-11-14;Russia;PER;Perm;Perm Period
+Aleksandr Novinskiy;M;B;Raw;31;24-34;24-39;Pro Open;92.9;100;;;;;;195;205;-210;;205;;;;;;205;2;130.50;128.84;123.32;97.31;;Russia;;NAP;IPA;2015-05-10;Russia;PER;Perm;Volga Bench Press Cup
+Aleksandr Novinskiy;M;B;Raw;31;24-34;24-39;Pro Open;94;100;;;;;;-210;-210;-210;;;;;;;;;DQ;;;;;;Russia;;NAP;IPA;2015-04-05;Russia;SVE;Yekaterinbourg;European Championships
+Aleksandr Novinskiy;M;B;Raw;31;24-34;24-39;Pro Open;91.75;100;;;;;;207.5;-215;215;;215;;;;;;215;2;137.70;135.94;130.18;102.69;;Russia;;NAP;IPA;2014-11-29;Russia;PER;Perm;European Bench Press Cup
+Aleksandr Novinskiy;M;B;Raw;31;24-34;24-39;Pro Open;87.55;90;;;;;;200;-202.5;-205;;200;;;;;;200;2;131.17;129.53;124.30;97.77;;Russia;;NAP;IPA;2014-10-17;Russia;SVE;Yekaterinburg;World Championships & Golden Tiger 8
+Aleksandr Novinskiy;M;B;Raw;30;24-34;24-39;Pro Open;90.6;100;;;;;;200;207.5;-210;;207.5;;;;;;207.5;2;133.72;132.02;126.49;99.72;;Russia;;NAP;IPA;2014-04-18;Russia;SVE;Yekaterinbourg;European Championships
+Aleksandr Novinskiy;M;B;Raw;29;24-34;24-39;Pro Open;88.8;90;;;;;;190;-197.5;-197.5;;190;;;;;;190;4;123.70;122.14;117.13;92.23;;Russia;;NAP;IPA;2012-10-07;Russia;SVE;Yekaterinburg;Golden Tiger 6
+Aleksandr Novinskiy;M;B;Raw;29;24-34;24-39;Pro Open;90;90;;;;;;185;195;-202.5;;195;;;;;;195;2;126.09;124.49;119.31;94.03;;Russia;;NAP;IPA;2012-08-10;Russia;CHE;Chelyabinsk;Eurasian Championships
+Aleksandr Novinskiy;M;B;Multi-ply;25;24-34;24-39;Pro Open;74.9;75;;;;;;190;-200;-200;;190;;;;;;190;1;136.43;135.51;130.94;73.23;;Russia;;WPC-RUS;WPC;2009-05-23;Russia;SVE;Yekaterinburg;Koblov & Kurbanov Memorial Bench Press
+Aleksandr Novinskiy;M;B;Multi-ply;24;24-34;24-39;Open;74.5;75;;;;;;190;200;-205;;200;;;;;;200;4;144.10;143.18;138.39;77.44;;Russia;;WPC;WPC;2008-07-31;Russia;CHE;Chelyabinsk;Eurasian Championships
+Aleksandr Novinskiy;M;B;Multi-ply;24;24-34;24-39;Pro Open;73.5;75;;;;;;190;-200;200;;200;;;;;;200;1;145.37;144.56;139.80;78.34;;Russia;;WPC-RUS;WPC;2008-07-12;Russia;PER;Perm;Perm Bench Press Cup
+Aleksandr Novinskiy;M;B;Multi-ply;24;24-34;24-39;Pro Open;70.4;75;;;;;;170;180;185;;185;;;;;;185;2;138.42;138.04;133.74;75.33;;Russia;;WPC-RUS;WPC;2007-12-15;Russia;MOW;Pushkino;Golden Sable
+Aleksandr Novinskiy;M;B;Multi-ply;24;24-34;24-39;Pro Open;66.75;67.5;;;;;;150;157;-165;;157;;;;;;157;3;121.99;122.14;118.63;67.33;;Russia;;WPC-RUS;WPC;2007-10-06;Russia;;Ekaterinbourg;Golden Tiger Cup
+Aleksandr Novinskiy;M;B;Multi-ply;23;20-23;24-39;Pro Juniors 20-23;74;75;;;;;;170;180;187.5;;187.5;;;;;;187.5;1;135.68;134.87;130.39;73.02;;Russia;;WPC-RUS;WPC;2007-02-07;Russia;CHE;Chelyabinsk;Russian Championships

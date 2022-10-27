@@ -1,0 +1,5 @@
+﻿Name;Sex;Event;Equipment;Age;AgeClass;BirthYearClass;Division;BodyweightKg;WeightClassKg;Squat1Kg;Squat2Kg;Squat3Kg;Squat4Kg;Best3SquatKg;Bench1Kg;Bench2Kg;Bench3Kg;Bench4Kg;Best3BenchKg;Deadlift1Kg;Deadlift2Kg;Deadlift3Kg;Deadlift4Kg;Best3DeadliftKg;TotalKg;Place;Dots;Wilks;Glossbrenner;Goodlift;Tested;Country;State;Federation;ParentFederation;Date;MeetCountry;MeetState;MeetTown;MeetName
+Ace White;M;SBD;Single-ply;;;;pure;65.77;70;;;;;227.5;;;;;120;;;;;230;577.5;2;453.66;454.76;441.96;77.55;Yes;USA;MO;NASA;;1999-05-08;USA;KS;Kansas City;Kansas-Missouri State
+Ace White;M;SBD;Single-ply;;;;sm;65.77;70;;;;;227.5;;;;;120;;;;;230;577.5;1;453.66;454.76;441.96;77.55;Yes;USA;MO;NASA;;1999-05-08;USA;KS;Kansas City;Kansas-Missouri State
+Ace White;M;D;Raw;;;;dlpure;65.77;70;;;;;;;;;;;;;;;230;230;1;180.68;181.12;176.02;;Yes;USA;MO;NASA;;1999-05-08;USA;KS;Kansas City;Kansas-Missouri State
+Ace White;M;D;Raw;;;;dlsm;65.77;70;;;;;;;;;;;;;;;230;230;1;180.68;181.12;176.02;;Yes;USA;MO;NASA;;1999-05-08;USA;KS;Kansas City;Kansas-Missouri State

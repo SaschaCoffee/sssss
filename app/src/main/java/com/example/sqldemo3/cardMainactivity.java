@@ -1,6 +1,10 @@
 package com.example.sqldemo3;
 
+import android.app.Dialog;
+import android.content.DialogInterface;
 import android.os.Bundle;
+import android.view.ContextMenu;
+import android.view.KeyEvent;
 import android.view.View;
 import android.widget.Button;
 import android.widget.ProgressBar;
@@ -21,6 +25,7 @@ import com.google.firebase.database.DatabaseReference;
 import com.google.firebase.database.FirebaseDatabase;
 import com.google.firebase.database.ValueEventListener;
 
+import java.security.Key;
 import java.util.ArrayList;
 
 public class cardMainactivity extends AppCompatActivity {
@@ -32,11 +37,15 @@ public class cardMainactivity extends AppCompatActivity {
     private RecyclerView.Adapter mAdapter;
     private RecyclerView.LayoutManager mLayoutManager;
     private ProgressBar pgBar;
-    private TextView tv;
+    private TextView tv, tv_updown, tv_updown_third;
     int progr;
     private Button btn_add_data, btn_upload_data;
     private AlertDialog dialog;
     private String userid;
+    private int counter = 0;
+    KeyEvent cc;
+    int x = 1;
+
 
 
     @Override
@@ -48,25 +57,25 @@ public class cardMainactivity extends AppCompatActivity {
         btn_add_data = findViewById(R.id.btn_add_data);
         String childcard = "anzahl";
 
+
         user = FirebaseAuth.getInstance().getCurrentUser();
         reference = FirebaseDatabase.getInstance().getReference("cardprogress");
         userid = user.getUid();
 
 
 
-
         reference.child(childcard).addListenerForSingleValueEvent(new ValueEventListener() {
             @Override
             public void onDataChange(@NonNull DataSnapshot snapshot) {
-            try {
-                long model = snapshot.getValue(long.class);
-                progr = Integer.parseInt(String.valueOf(model));
+                try {
+                    long model = snapshot.getValue(long.class);
+                    progr = Integer.parseInt(String.valueOf(model));
 
-                updateCard(progr);
-                buildRecyclerView();
-            }catch (Exception e){
-                Toast.makeText(cardMainactivity.this, "dd", Toast.LENGTH_SHORT).show();
-            }
+                    updateCard(progr);
+                    buildRecyclerView();
+                }catch (Exception e){
+                    Toast.makeText(cardMainactivity.this, "dd", Toast.LENGTH_SHORT).show();
+                }
 
             }
 
@@ -78,21 +87,41 @@ public class cardMainactivity extends AppCompatActivity {
 
 
         AlertDialog.Builder builder = new AlertDialog.Builder(this);
+        dialogExtend xx = new dialogExtend();
         builder.setTitle("Enter Data");
 
         View view = getLayoutInflater().inflate(R.layout.custom_dialog, null);
 
         btn_upload_data = view.findViewById(R.id.btn_upload_data);
+        tv_updown = view.findViewById(R.id.tv_updown);
+        tv_updown_third = view.findViewById(R.id.tv_reps_third);
+
+
+        DialogInterface.OnKeyListener xxy = new DialogInterface.OnKeyListener() {
+            @Override
+            public boolean onKey(DialogInterface dialogInterface, int i, KeyEvent keyEvent) {
+                if (i == KeyEvent.KEYCODE_VOLUME_DOWN){
+                    tv_updown_third.setText("ES GEHT");
+                }
+                return true;
+            }
+        };
+
 
         createCard();
         buildRecyclerView();
         builder.setView(view);
+        builder.setOnKeyListener(xxy);
         dialog = builder.create();
+
 
         btn_add_data.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
                 dialog.show();
+
+                dialog.onKeyDown(x, cc);
+
             }
         });
 
@@ -108,6 +137,8 @@ public class cardMainactivity extends AppCompatActivity {
 
             }
         });
+
+
 
     }
 
@@ -152,5 +183,10 @@ public class cardMainactivity extends AppCompatActivity {
 
 
     }
+
+
+
+
+
 
 }

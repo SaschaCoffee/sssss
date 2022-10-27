@@ -1,0 +1,24 @@
+﻿Name;Sex;Event;Equipment;Age;AgeClass;BirthYearClass;Division;BodyweightKg;WeightClassKg;Squat1Kg;Squat2Kg;Squat3Kg;Squat4Kg;Best3SquatKg;Bench1Kg;Bench2Kg;Bench3Kg;Bench4Kg;Best3BenchKg;Deadlift1Kg;Deadlift2Kg;Deadlift3Kg;Deadlift4Kg;Best3DeadliftKg;TotalKg;Place;Dots;Wilks;Glossbrenner;Goodlift;Tested;Country;State;Federation;ParentFederation;Date;MeetCountry;MeetState;MeetTown;MeetName
+Alexander Papir;M;B;Raw;75.5;75-79;70-999;M8;78.1;82.5;;;;;;100;105;;;105;;;;;;105;1;73.45;72.80;70.22;54.43;;Israel;;NPA;;2021-05-28;Israel;;Rishon LeZion;Open Israel Championships
+Alexander Papir;M;B;Multi-ply;73.5;70-74;70-999;M7;80.2;82.5;;;;;;135;140;145;;145;;;;;;145;1;99.84;98.84;95.22;52.92;;Israel;;GPC-ISR;GPC;2019-11-15;Israel;;Arad;Israel Championships
+Alexander Papir;M;B;Raw;72.5;70-74;70-999;M7;81.6;82.5;;;;;;107.5;-112.5;112.5;;112.5;;;;;;112.5;1;76.69;75.87;73.03;57.00;;Israel;;NPA;;2018-10-26;Israel;;Eilat;European Cup
+Alexander Papir;M;B;Unlimited;72.5;70-74;70-999;M7;81.6;82.5;;;;;;150;160;;;160;;;;;;160;1;109.06;107.90;103.87;57.65;;Israel;;NPA;;2018-10-26;Israel;;Eilat;European Cup
+Alexander Papir;M;B;Multi-ply;71.5;70-74;70-999;M7;82.7;90;;;;;;130;-140;140;;140;;;;;;140;1;94.71;93.65;90.10;49.96;;Israel;;GPC-ISR;GPC;2017-11-17;Israel;;Ashdod;Israel Championships
+Alexander Papir;M;B;Multi-ply;71.5;70-74;70-999;M7;80;82.5;;;;;;140;-145;-145;;140;;;;;;140;1;96.54;95.58;92.09;51.19;;Israel;;GPC-ISR;GPC;2017-04-28;Israel;;Daliyat al-Karmel;Israel Championships
+Alexander Papir;M;D;Raw;71.5;70-74;70-999;M7;80;82.5;;;;;;;;;;;160;170;175;;175;175;1;120.67;119.47;115.12;;;Israel;;GPC-ISR;GPC;2017-04-28;Israel;;Daliyat al-Karmel;Israel Championships
+Alexander Papir;M;B;Raw;70.5;70-74;70-999;M7;80.4;82.5;;;;;;107.5;-112.5;-117.5;;107.5;;;;;;107.5;1;73.91;73.16;70.48;54.89;;Israel;;WPC-Israel;WPC;2016-04-07;Israel;;Kiryat Gat;Israel Championships
+Alexander Papir;M;B;Raw;69.5;65-69;70-999;M7;78.3;82.5;;;;;;107.5;-115;115;;115;;;;;;115;1;80.32;79.60;76.77;59.53;;Israel;;GPC-ISR;GPC;2015-12-04;Israel;;Bat Yam;Israel Championships
+Alexander Papir;M;B;Raw;69.5;65-69;70-999;M_MR_6_WPC;78.9;82.5;;;;;;100;105;107.5;;107.5;;;;;;107.5;1;74.74;74.04;71.38;55.43;;Israel;;WPC;WPC;2015-06-11;Latvia;;Riga;European Powerlifting Championships
+Alexander Papir;M;D;Single-ply;69.5;65-69;70-999;M_MES_6_WPC;79.6;82.5;;;;;;;;;;;160;170;177.5;;177.5;177.5;1;122.76;121.56;117.16;;;Israel;;WPC;WPC;2015-06-11;Latvia;;Riga;European Powerlifting Championships
+Alexander Papir;M;B;Single-ply;69.5;65-69;70-999;M_MES_6_WPC;80;82.5;;;;;;110;117.5;-122.5;;117.5;;;;;;117.5;1;81.02;80.22;77.29;42.97;;Israel;;WPC;WPC;2015-06-11;Latvia;;Riga;European Powerlifting Championships
+Alexander Papir;M;D;Raw;69.5;65-69;70-999;M_MR_6_WPC;78.9;82.5;;;;;;;;;;;150;;;;150;150;1;104.29;103.31;99.61;;;Israel;;WPC;WPC;2015-06-11;Latvia;;Riga;European Powerlifting Championships
+Alexander Papir;M;B;Raw;68.5;65-69;60-69;M6;77.7;82.5;;;;;;-102.5;-107.5;-107.5;;;;;;;;;DQ;;;;;;Israel;;IPC;;2014-08-09;Israel;;Petah Tikva;International Golden Cup
+Alexander Papir;M;SBD;Multi-ply;67.5;65-69;60-69;M6;76.5;82.5;120;140;155;;155;110;120;-125;;120;150;165;175;;175;450;1;318.83;316.33;305.39;54.60;;Israel;;GPC;GPC;2013-09-23;Hungary;;Eger;World Championships
+Alexander Papir;M;SBD;Wraps;67.5;65-69;60-69;M6;75.9;82.5;-110;110;-145;;110;95;100;-105;;100;140;155;;;155;365;2;259.89;257.95;249.12;52.89;;Israel;;GPC;GPC;2013-09-23;Hungary;;Eger;World Championships
+Alexander Papir;M;BD;Raw;67.5;65-69;60-69;M6;75;75;;;;;;95;102.5;-105;;102.5;150;165;172.5;;172.5;275;1;197.29;195.95;189.34;;;Israel;;NPA;;2013-07-12;Israel;;Rishon LeZion;Israeli Championships
+Alexander Papir;M;B;Raw;67.5;65-69;60-69;M6;75;75;;;;;;95;102.5;-105;;102.5;;;;;;102.5;1;73.54;73.04;70.57;54.28;;Israel;;NPA;;2013-07-12;Israel;;Rishon LeZion;Israeli Championships
+Alexander Papir;M;SBD;Wraps;66.5;65-69;60-69;M6;73.8;75;115;125;135;;135;95;-102.5;-102.5;;95;145;155;160;;160;390;1;282.72;281.07;271.77;57.34;;Israel;;GPC;GPC;2012-09-17;Slovakia;;Bardejov;World Championships
+Alexander Papir;M;B;Raw;66.5;65-69;60-69;M6;75;75;;;;;;95;102.5;-110;;102.5;;;;;;102.5;2;73.54;73.04;70.57;54.28;;Israel;;GPC;GPC;2012-09-17;Slovakia;;Bardejov;World Championships
+Alexander Papir;M;B;Multi-ply;65.5;65-69;60-69;M_MEM_6_WPC;74.3;75;;;;;;100;107.5;112.5;;112.5;;;;;;112.5;1;81.20;80.69;78.00;43.66;;Israel;;WPC;WPC;2011-11-14;Latvia;;Riga;World Championships
+Alexander Papir;M;B;Raw;65.5;65-69;60-69;M_MR_6_WPC;74.35;75;;;;;;-95;95;-105;;95;;;;;;95;1;68.54;68.11;65.83;50.54;;Israel;;WPC;WPC;2011-11-14;Latvia;;Riga;World Championships
+Alexander Papir;M;SBD;Raw;65.5;65-69;60-69;M_MR_6_WPC;74.3;75;95;-110;115;;115;92.5;-102.5;;;92.5;140;;;;140;347.5;1;250.81;249.25;240.93;50.91;;Israel;;WPC;WPC;2011-11-14;Latvia;;Riga;World Championships

@@ -1,0 +1,22 @@
+﻿Name;Sex;Event;Equipment;Age;AgeClass;BirthYearClass;Division;BodyweightKg;WeightClassKg;Squat1Kg;Squat2Kg;Squat3Kg;Squat4Kg;Best3SquatKg;Bench1Kg;Bench2Kg;Bench3Kg;Bench4Kg;Best3BenchKg;Deadlift1Kg;Deadlift2Kg;Deadlift3Kg;Deadlift4Kg;Best3DeadliftKg;TotalKg;Place;Dots;Wilks;Glossbrenner;Goodlift;Tested;Country;State;Federation;ParentFederation;Date;MeetCountry;MeetState;MeetTown;MeetName
+Aleksandr Trofimov;M;B;Raw;29;24-34;24-39;Open;89.2;90;;;;;;200;206;-207.5;;206;;;;;;206;1;133.80;132.11;126.67;99.77;Yes;Russia;;RPU;;2021-12-03;Russia;IRK;Irkutsk;National Cup
+Aleksandr Trofimov;M;B;Raw;28;24-34;24-39;Open;88.9;90;;;;;;200;-205;-205;;200;;;;;;200;1;130.13;128.49;123.21;97.03;Yes;Russia;;RPU;;2021-04-23;Russia;IRK;Irkutsk;The Power of Siberia
+Aleksandr Trofimov;M;B;Raw;28;24-34;24-39;Open;88.5;90;;;;;;195;-200;200;;200;;;;;;200;1;130.43;128.79;123.53;97.25;Yes;Russia;;RPU;;2020-12-04;Russia;IRK;Irkutsk;Baikal Cup
+Aleksandr Trofimov;M;B;Raw;28;24-34;24-39;Open;87.8;90;;;;;;195;-203;203;;203;;;;;;203;1;132.93;131.28;125.95;99.10;Yes;Russia;;RPU;;2020-11-14;Russia;KYA;Krasnoyarsk;National Cup
+Aleksandr Trofimov;M;B;Raw;27;24-34;24-39;Open;88.9;90;;;;;;195;-203;-203;;195;;;;;;195;1;126.88;125.28;120.13;94.60;Yes;Russia;;RPU;;2020-03-27;Russia;IRK;Irkutsk;Power of Siberia
+Aleksandr Trofimov;M;B;Single-ply;26.5;24-34;24-39;Open;88.55;93;;;;;;190;195;-197.5;;195;;;;;;195;G;127.13;125.54;120.40;66.45;Yes;Russia;;FPR;IPF;2019-12-21;Russia;IRK;Irkutsk;Irkutsk Bench Press Championships
+Aleksandr Trofimov;M;B;Raw;26.5;24-34;24-39;Open;88.55;93;;;;;;190;195;-197.5;;195;;;;;;195;1;127.13;125.54;120.40;94.79;Yes;Russia;;FPR;IPF;2019-12-21;Russia;IRK;Irkutsk;Irkutsk Bench Press Championships
+Aleksandr Trofimov;M;B;Raw;27;24-34;24-39;Open;88.5;90;;;;;;-190;190;-200;;190;;;;;;190;1;123.91;122.35;117.35;92.39;Yes;Russia;;RPU;;2019-12-07;Russia;IRK;Irkutsk;Baikal Cup
+Aleksandr Trofimov;M;B;Raw;27;24-34;24-39;Open;87.8;90;;;;;;190;-195;-195;;190;;;;;;190;1;124.42;122.87;117.89;92.75;Yes;Russia;;WPA;;2019-10-27;Russia;MOW;Moscow;Autumn World Cup
+Aleksandr Trofimov;M;B;Raw;26.5;24-34;24-39;Open;89.35;93;;;;;;180;185;-190;;185;;;;;;185;1;120.06;118.54;113.65;89.53;Yes;Russia;;FPR;IPF;2019-04-20;Russia;IRK;Irkutsk;Irkutsk Victory Cup
+Aleksandr Trofimov;M;B;Raw;26;24-34;24-39;Amateur Open;86.4;90;;;;;;185;190;-195;;190;;;;;;190;1;125.48;123.95;119.01;93.51;Yes;Russia;;WPC-RUS;WPC;2019-03-29;Russia;NVS;Novosibirsk;Russian Championships
+Aleksandr Trofimov;M;B;Raw;25.5;24-34;24-39;Open;88.95;93;;;;;;-180;180;-190;;180;;;;;;180;2;117.08;115.61;110.86;87.30;Yes;Russia;;FPR;IPF;2018-12-15;Russia;IRK;Irkutsk;Irkutsk Oblast Bench Press Championships
+Aleksandr Trofimov;M;B;Raw;25;24-34;24-39;Open;88.2;90;;;;;;170;175;-180;;175;;;;;;175;1;114.33;112.90;108.30;85.24;Yes;Russia;;WPA-RUS;WPA;2018-05-26;Russia;ZAB;Zabaykalsk;State Border Cup
+Aleksandr Trofimov;M;B;Raw;25.5;24-34;24-39;Open;88.2;93;;;;;;170;-172.5;-175;;170;;;;;;170;7;111.06;109.67;105.20;82.80;Yes;Russia;;FPR;IPF;2018-05-12;Russia;IRK;Irkutsk;Irkutsk Victory Cup
+Aleksandr Trofimov;M;SBD;Raw;33.5;24-34;24-39;Open;81.6;83;;;;;180;;;;;137.5;;;;;185;502.5;50;342.53;338.87;326.22;70.16;Yes;Russia;;FPR;IPF;2018-04-29;Russia;MOW;Moscow;Moscow Lights Tournament
+Aleksandr Trofimov;M;D;Raw;28.5;24-34;24-39;Amateur Open;83.4;90;;;;;;;;;;;215;225;-230;;225;225;2;151.49;149.76;144.03;;Yes;Russia;;WPF-RUS;WPF;2017-12-16;Russia;MOW;Moscow;Russian Championships
+Aleksandr Trofimov;M;D;Raw;33.5;24-34;24-39;Amateur Open;81.45;82.5;;;;;;;;;;;175;187.5;-195;;187.5;187.5;2;127.94;126.59;121.87;;Yes;Russia;;NAP;IPA;2016-04-16;Russia;SVE;Verkhnyaya Pyshma;European Championships
+Aleksandr Trofimov;M;SBD;Wraps;33.5;24-34;24-39;Amateur Open;81.45;82.5;140;-150;155;;155;-95;-95;95;;95;175;187.5;-195;;187.5;437.5;4;298.54;295.37;284.37;61.14;Yes;Russia;;NAP;IPA;2016-04-16;Russia;SVE;Verkhnyaya Pyshma;European Championships
+Aleksandr Trofimov;M;B;Raw;25.5;24-34;24-39;Pro Open;74.1;75;;;;;;-110;-110;110;;110;;;;;;110;1;79.53;79.05;76.42;58.62;;Russia;;WPC;WPC;2015-02-07;Russia;KDA;Krasnodar;Eastern Europe Championships
+Aleksandr Trofimov;M;D;Raw;25.5;24-34;24-39;Pro Open;74.1;75;;;;;;;;;;;150;-177.5;-177.5;;150;150;1;108.45;107.79;104.21;;;Russia;;WPC;WPC;2015-02-07;Russia;KDA;Krasnodar;Eastern Europe Championships
+Aleksandr Trofimov;M;B;Raw;25;24-34;24-39;Pro Open;74.6;75;;;;;;110;112.5;115;;115;;;;;;115;5;82.79;82.25;79.49;61.07;;Russia;;WPC-RUS;WPC;2014-09-21;Russia;KDA;Anapa;Fit Zone Cup

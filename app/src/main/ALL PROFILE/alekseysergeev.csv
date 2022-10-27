@@ -1,0 +1,27 @@
+﻿Name;Sex;Event;Equipment;Age;AgeClass;BirthYearClass;Division;BodyweightKg;WeightClassKg;Squat1Kg;Squat2Kg;Squat3Kg;Squat4Kg;Best3SquatKg;Bench1Kg;Bench2Kg;Bench3Kg;Bench4Kg;Best3BenchKg;Deadlift1Kg;Deadlift2Kg;Deadlift3Kg;Deadlift4Kg;Best3DeadliftKg;TotalKg;Place;Dots;Wilks;Glossbrenner;Goodlift;Tested;Country;State;Federation;ParentFederation;Date;MeetCountry;MeetState;MeetTown;MeetName
+Aleksey Sergeev;M;B;Unlimited;40;40-44;40-49;Open;73.8;75;;;;;;190;-205;-212.5;;190;;;;;;190;1;137.74;136.93;132.40;74.16;Yes;;;RPU;;2021-06-19;Russia;VLA;Suzdal;National Championships
+Aleksey Sergeev;M;B;Unlimited;40;40-44;40-49;Masters 40-44;73.8;75;;;;;;190;-205;-212.5;;190;;;;;;190;1;137.74;136.93;132.40;74.16;Yes;;;RPU;;2021-06-19;Russia;VLA;Suzdal;National Championships
+Aleksey Sergeev;M;B;Unlimited;40;40-44;40-49;Open;77.4;82.5;;;;;;180;-190;-200;;180;;;;;;180;1;126.61;125.54;121.14;67.53;;;;RPU;;2021-04-24;Russia;IVA;Ivanovo;Loft Fitness Tournament
+Aleksey Sergeev;M;B;Unlimited;39;35-39;24-39;Pro Open;78.8;82.5;;;;;;160;170;180;;180;;;;;;180;1;125.24;124.08;119.63;66.59;;;;WRPF;WRPF;2020-06-27;Russia;;Rodniki;Rodniki Iron Challenge
+Aleksey Sergeev;M;B;Multi-ply;38;35-39;24-39;Open;81.5;82.5;;;;;;170;185;-195;;185;;;;;;185;1;126.19;124.85;120.20;66.72;Yes;;;RPU;;2019-12-14;Russia;KOS;Kostroma;Ivan Susanin Cup
+Aleksey Sergeev;M;B;Unlimited;37.5;35-39;24-39;Amateur Open;78.1;80;;;;;;-187.5;-187.5;-187.5;;;;;;;;;DQ;;;;;Yes;;;FBPD;;2019-09-21;Russia;MOW;Moscow;Open European Cup
+Aleksey Sergeev;M;B;Unlimited;37.5;35-39;24-39;Amateur Open;78.1;80;;;;;;-187.5;-187.5;-187.5;;;;;;;;;DQ;;;;;Yes;;;FBPD;;2019-09-21;Russia;MOW;Moscow;Open European Cup
+Aleksey Sergeev;M;B;Multi-ply;38;35-39;24-39;Open;81.1;82.5;;;;;;195;202.5;-205;;202.5;;;;;;202.5;1;138.52;137.07;131.99;73.30;Yes;;;RPU;;2019-06-29;Russia;NIZ;Chkalovsk;Chkalovsk Cup
+Aleksey Sergeev;M;B;Multi-ply;38;35-39;24-39;Open;80.6;82.5;;;;;;190;197.5;-202.5;;197.5;;;;;;197.5;1;135.59;134.20;129.27;71.82;Yes;;;RPU;;2019-05-18;Russia;IVA;Ivanovo;Ivanovo-Voznesensk Tournament
+Aleksey Sergeev;M;D;Raw;19.5;20-23;19-23;Juniors 20-23;93.4;100;;;;;;;;;;;190;210;-215;;210;210;3;133.34;131.65;125.98;;Yes;;;RPU;;2018-12-01;Russia;MOW;Moscow;Central Federal District Championships
+Aleksey Sergeev;M;B;Single-ply;27.5;24-34;24-39;Open;65.2;66;;;;;;127.5;-135;135;;135;;;;;;135;1;106.74;107.08;104.11;59.32;Yes;;;FPR;IPF;2018-04-07;Russia;MOW;Moscow;Moscow City Bench Press Cup
+Aleksey Sergeev;M;SBD;Raw;26.5;24-34;24-39;Open;63.75;66;;;;;160;;;;;115;;;;;185;460;4;369.99;371.85;361.94;73.04;Yes;;;FPR;IPF;2017-11-02;Russia;NIZ;Arzamas;Russian Classic Powerlifting Cup
+Aleksey Sergeev;M;B;Single-ply;26.5;24-34;24-39;Open;64.6;66;;;;;;125;130;-135;;130;;;;;;130;1;103.51;103.91;101.08;57.69;Yes;;;FPR;IPF;2017-09-08;Russia;MOW;Moscow;Moscow City Bench Press Cup
+Aleksey Sergeev;M;D;Raw;27;24-34;24-39;Open;73.2;75;;;;;;;;;;;135;-150;-150;;135;135;3;98.39;97.86;94.66;;;;;WPA-RUS;WPA;2017-04-01;Russia;AMU;Blagoveschensk;Amur Cup
+Aleksey Sergeev;M;B;Raw;27;24-34;24-39;Open;73.2;75;;;;;;95;100;-102.5;;100;;;;;;100;1;72.88;72.49;70.12;53.64;;;;WPA-RUS;WPA;2017-04-01;Russia;AMU;Blagoveschensk;Amur Cup
+Aleksey Sergeev;M;B;Single-ply;26.5;24-34;24-39;Open;65.32;66;;;;;;120;125;130;;130;;;;;;130;1;102.65;102.95;100.09;57.02;Yes;;;FPR;IPF;2017-03-05;Russia;MOW;Moscow;Moscow City Bench Press Cup
+Aleksey Sergeev;M;B;Raw;32;24-34;24-39;Open;94;100;;;;;;130;140;-145;;140;;;;;;140;4;88.62;87.51;83.72;66.08;Yes;;;RPU;;2016-12-23;Russia;VLG;Vologda;Russian North Tournament
+Aleksey Sergeev;M;B;Raw;;;;Open;81.9;90;;;;;;125;130;-135;;130;;;;;;130;14;88.43;87.47;84.19;65.75;;;;RPU;;2016-05-09;Russia;MOW;Zheleznodorozhny;Zheleznodorozhny Bench Press Cup
+Aleksey Sergeev;M;D;Raw;26;24-34;24-39;Open;80.3;82.5;;;;;;;;;;;180;192.5;200;;200;200;4;137.61;136.22;131.23;;Yes;;;IPL;IPL;2016-04-21;Russia;MOW;Dolgoprudnyy;European Powerlifting Championships
+Aleksey Sergeev;M;B;Raw;25.5;24-34;24-39;Open;80;90;;;;;;115;122.5;-127.5;;122.5;;;;;;122.5;5;84.47;83.63;80.58;62.71;;;;RPU;;2015-09-12;Russia;MOW;Zheleznodorozhnyy;Zheleznodorozhny Cup
+Aleksey Sergeev;M;B;Raw;38.5;35-39;24-39;Pro Open;99;100;;;;;;165;180;-190;;180;;;;;;180;4;111.28;109.99;105.07;82.86;;Russia;;WPC-RUS;WPC;2015-05-30;Russia;VGG;Volgograd;Volgograd Oblast Championships
+Aleksey Sergeev;M;SBD;Single-ply;16.5;16-17;14-18;Sub-Juniors;73.45;74;;;;;150;;;;;85;;;;;130;365;6;265.42;263.95;255.27;45.45;Yes;;;FPR;IPF;2011-04-15;Russia;BRY;Kokino;Bryansk Oblast Sub-Juniors Powerlifting Championships
+Aleksey Sergeev;M;B;Single-ply;28.5;24-34;24-39;Open;81.9;82.5;;;;;;-175;-175;175;;175;;;;;;175;12;119.04;117.75;113.34;62.89;Yes;Belarus;;BelPF;IPF;2010-11-18;Belarus;;Lida;Belarus Cup
+Aleksey Sergeev;M;B;Single-ply;28.5;24-34;24-39;Open;84;90;;;;;;165;175;-180;;175;;;;;;175;12;117.35;115.99;111.52;61.77;Yes;;;BelPF;IPF;2010-06-18;Belarus;;Svetlahorsk;Belarus Bench Press Championships
+Aleksey Sergeev;M;B;Raw;28.5;24-34;24-39;O;85.3;90;;;;;;140;150;-155;;150;;;;;;150;7;99.75;98.55;94.68;74.30;Yes;Ukraine;;UDFPF;WDFPF;2010-06-05;Ukraine;;Odessa;Black Sea International Bench Press Cup
+Aleksey Sergeev;M;B;Single-ply;27.5;24-34;24-39;Open;81.6;82.5;;;;;;-155;155;-165;;155;;;;;;155;14;105.65;104.53;100.62;55.85;Yes;;;BelPF;IPF;2009-06-18;Belarus;;Gorki;Belarus Bench Press Championships

@@ -1,0 +1,37 @@
+﻿Name;Sex;Event;Equipment;Age;AgeClass;BirthYearClass;Division;BodyweightKg;WeightClassKg;Squat1Kg;Squat2Kg;Squat3Kg;Squat4Kg;Best3SquatKg;Bench1Kg;Bench2Kg;Bench3Kg;Bench4Kg;Best3BenchKg;Deadlift1Kg;Deadlift2Kg;Deadlift3Kg;Deadlift4Kg;Best3DeadliftKg;TotalKg;Place;Dots;Wilks;Glossbrenner;Goodlift;Tested;Country;State;Federation;ParentFederation;Date;MeetCountry;MeetState;MeetTown;MeetName
+Aaron Brown;M;SBD;Raw;16.5;16-17;14-18;MR-HS;61.9;67.5;100;-115;117.5;;117.5;75;85;-92.5;;85;120;137.5;-145;;137.5;340;1;279.84;281.97;274.88;54.84;Yes;USA;MN;USAPL;;2022-02-13;USA;MN;;Minnesota State High School Teen and Youth Championships
+Aaron Brown;M;SBD;Raw;15.5;16-17;14-18;MR-T2;62.1;66;95;105;115;;115;70;77.5;-85;;77.5;110;120;130;;130;322.5;1;264.76;266.70;259.95;51.93;Yes;USA;MN;USAPL;IPF;2021-04-24;USA;MN;;Minnesota High School Teen & Youth State Championships
+Aaron Brown;M;SBD;Wraps;43;40-44;40-49;M_MCR_1_APF;120.3;125;272.5;287.5;-292.5;;287.5;;;;;;;;;;;;DQ;;;;;;USA;;APF;WPC;2020-03-14;USA;MI;;Michigan State Meet
+Aaron Brown;M;SBD;Wraps;;40-44;40-49;MM1R;118.7;125;;;;;282.5;;;;;215;;;;;287.5;785;1;452.48;452.48;433.53;91.69;;USA;;UPA;;2019-06-01;USA;MI;Detroit;National Championship
+Aaron Brown;M;SBD;Single-ply;;;;Boys;80.06;82.1;;;;;154.22;;;;;92.99;;;;;170.1;417.3;5;287.62;284.76;274.36;49.23;Yes;USA;;THSPA;;2019-02-14;USA;TX;;Summit Boys Powerlifting Meet
+Aaron Brown;M;B;Raw;41;40-44;40-49;M_MR_1_APF;120.3;125;;;;;;200;217.5;-225;;217.5;;;;;;217.5;1;124.81;124.97;119.76;91.66;;USA;;APF;WPC;2018-03-10;USA;MI;Grand Rapids;Michigan State Meet
+Aaron Brown;M;B;Raw;40;40-44;40-49;M_MR_1_APF;117.4;125;;;;;;192.5;207.5;215;;215;;;;;;215;1;124.39;124.26;119.03;91.57;;USA;;APF;WPC;2017-03-11;USA;MI;;Michigan State Meet
+Aaron Brown;M;SBD;Single-ply;;;;Boys;70.31;74.8;;;;;161.03;;;;;83.91;;;;;138.35;383.29;12;287.03;286.27;277.37;49.14;Yes;USA;;THSPA;;2017-02-09;USA;TX;Brady;Brady High School
+Aaron Brown;M;SBD;Single-ply;;;;Boys;71.12;74.8;;;;;156.49;;;;;90.72;;;;;147.42;394.63;12;293.21;292.20;282.98;50.20;Yes;USA;;THSPA;;2017-02-02;USA;TX;San Saba;Powerlifting Meet
+Aaron Brown;M;SBD;Single-ply;;;;Boys;70.94;74.8;;;;;151.95;;;;;83.91;;;;;145.15;381.02;10;283.59;282.66;273.77;48.55;Yes;USA;;THSPA;;2017-01-26;USA;TX;BHS Burnet;Burnet Powerlifting Invitational
+Aaron Brown;M;SBD;Single-ply;;;;Boys;70.44;74.8;;;;;149.69;;;;;81.65;;;;;136.08;367.41;14;274.79;274.02;265.48;47.04;Yes;USA;;THSPA;;2017-01-19;USA;TX;Lampasas;Lampasas Badger Invitational
+Aaron Brown;M;B;Raw;;35-39;;Submasters 35-39;125;125;;;;;;;;;;197.5;;;;;;197.5;1;111.93;112.54;107.70;81.90;;USA;;USPF;;2016-02-06;USA;MI;;Michigan State Meet
+Aaron Brown;M;SBD;Multi-ply;39;35-39;;M_SEM_APF;116.8;125;-287.5;-287.5;287.5;;287.5;267.5;-275;280;;280;242.5;260;-272.5;;260;827.5;2;479.61;478.88;458.64;80.82;;USA;;APF;WPC;2015-03-27;USA;MI;Grand Rapids;Michigan State Meet
+Aaron Brown;M;B;Raw;37;35-39;24-39;M_OR_APF;114.4;125;;;;;;185;205;-212.5;;205;;;;;;205;2;119.68;119.28;114.16;88.30;;USA;;APF;WPC;2014-03-22;USA;MI;Grand Rapids;Michigan State Meet
+Aaron Brown;M;B;Raw;37;35-39;24-39;M_SR_APF;114.4;125;;;;;;185;205;-212.5;;205;;;;;;205;1;119.68;119.28;114.16;88.30;;USA;;APF;WPC;2014-03-22;USA;MI;Grand Rapids;Michigan State Meet
+Aaron Brown;M;SBD;Raw;36;35-39;24-39;M_SR_APF;118.3;125;249.48;263.08;-272.16;;263.08;190.51;206.38;210.92;;210.92;260.82;281.23;-297.1;;281.23;755.23;1;435.82;435.67;417.40;88.34;;USA;;APF;WPC;2013-01-26;USA;MI;Grand Rapids;Great Lakes Open
+Aaron Brown;M;SBD;Raw;36;35-39;24-39;M_SR_APF;118.3;125;249.48;263.08;-272.16;;263.08;190.51;206.38;210.92;;210.92;260.82;281.23;-297.1;;281.23;755.23;1;435.82;435.67;417.40;88.34;;USA;;APF;WPC;2013-01-26;USA;MI;Grand Rapids;Great Lakes Open
+Aaron Brown;M;BD;Raw;;;;M_OR_AAPF;117.21;125;;;;;;174.63;188.24;197.31;;197.31;249.48;278.96;283.5;;283.5;480.81;1;278.34;278.00;266.28;;Yes;USA;;APF;WPC;2012-10-06;USA;MI;;West Michigan Open
+Aaron Brown;M;SBD;Raw;;24-34;24-39;Seniors 30-34;78.47;82.5;-150;150;-157.5;;150;-92.5;92.5;97.5;;97.5;172.5;182.5;190;;190;437.5;2;305.17;302.40;291.62;62.32;Yes;USA;AZ;RAW;;2012-06-01;USA;NH;Hooksett;National Championships
+Aaron Brown;M;SBD;Multi-ply;;;;M_SEM_AAPF;107.95;110;238.14;260.82;274.42;;274.42;-226.8;226.8;-238.14;;226.8;-238.14;238.14;247.21;;247.21;748.43;1;446.46;443.07;423.26;75.56;Yes;USA;;APF;WPC;2012-05-05;USA;MI;;Great Lakes Open
+Aaron Brown;M;B;Single-ply;;;;Law-Fire Open;117.5;117.5;;;;;;;;;;;;;;;;;DQ;;;;;Yes;USA;MI;WABDL;;2011-04-02;USA;WI;Wisconsin Dells;World Cup
+Aaron Brown;M;D;Single-ply;;;;Law-Fire Open;117.5;117.5;;;;;;;;;;;;;;;260;260;1;150.39;150.24;143.91;;Yes;USA;MI;WABDL;;2011-04-02;USA;WI;Wisconsin Dells;World Cup
+Aaron Brown;M;B;Single-ply;;;;Juniors 20-25;82.5;82.5;;;;;;;;;;160;;;;;;160;5;108.38;107.19;103.13;57.20;Yes;USA;OR;WABDL;;2010-11-16;USA;NV;Las Vegas;World Championships
+Aaron Brown;M;D;Single-ply;;;;Class 1;82.5;82.5;;;;;;;;;;;;;;;255;255;1;172.74;170.83;164.37;;Yes;USA;OR;WABDL;;2010-11-16;USA;NV;Las Vegas;World Championships
+Aaron Brown;M;B;Single-ply;;;;Class 1;82.5;82.5;;;;;;;;;;160;;;;;;160;1;108.38;107.19;103.13;57.20;Yes;USA;OR;WABDL;;2010-11-16;USA;NV;Las Vegas;World Championships
+Aaron Brown;M;D;Single-ply;;;;Juniors 20-25;82.5;82.5;;;;;;;;;;;;;;;255;255;3;172.74;170.83;164.37;;Yes;USA;OR;WABDL;;2010-11-16;USA;NV;Las Vegas;World Championships
+Aaron Brown;M;D;Single-ply;;;;Law-Fire Open;110;110;;;;;;;;;;;;;;275.5;250;250;2;148.07;147.12;140.61;;Yes;USA;MI;WABDL;;2009-07-18;USA;MI;Lansing;Great Lakes Regional
+Aaron Brown;M;B;Multi-ply;;;;Open;110;110;;;;;;;;;;246;;;;;;246;1;145.70;144.77;138.36;74.83;Yes;USA;MI;WABDL;;2009-07-18;USA;MI;Lansing;Great Lakes Regional
+Aaron Brown;M;B;Multi-ply;;;;Law-Fire Open;110;110;;;;;;;;;;246;;;;;;246;1;145.70;144.77;138.36;74.83;Yes;USA;MI;WABDL;;2009-07-18;USA;MI;Lansing;Great Lakes Regional
+Aaron Brown;M;D;Single-ply;;;;Open;110;110;;;;;;;;;;;;;;275.5;250;250;2;148.07;147.12;140.61;;Yes;USA;MI;WABDL;;2009-07-18;USA;MI;Lansing;Great Lakes Regional
+Aaron Brown;M;D;Single-ply;;;;Open;110;110;;;;;;;;;;;;;;272.5;268;268;1;158.73;157.72;150.74;;Yes;USA;MI;WABDL;;2008-07-19;USA;MI;Lansing;Great Lakes Regional
+Aaron Brown;M;B;Multi-ply;;;;Law-Fire Open;110;110;;;;;;;;;;245;;;;;;245;1;145.11;144.18;137.80;74.53;Yes;USA;MI;WABDL;;2008-07-19;USA;MI;Lansing;Great Lakes Regional
+Aaron Brown;M;B;Multi-ply;;;;Open;110;110;;;;;;;;;;245;;;;;;245;1;145.11;144.18;137.80;74.53;Yes;USA;MI;WABDL;;2008-07-19;USA;MI;Lansing;Great Lakes Regional
+Aaron Brown;M;SBD;Raw;31;24-34;24-39;M_OR_APF;97.05;100;;;;;177.5;;;;;142.5;;;;;182.5;502.5;3;313.42;309.64;295.93;64.39;;USA;;APF;WPC;2008-01-26;USA;NC;Clayton;Clayton Fitness Meet
+Aaron Brown;M;SBD;Single-ply;;;;M-O;100;100;;;;;;;;;;190;;;;;255;;DQ;;;;;Yes;USA;;USAPL;IPF;2003-11-01;USA;MI;Plainwell;Great Lakes Open & Michigan State Meet
+Aaron Brown;M;SBD;Single-ply;;;;M-O;90;90;;;;;219.99;;;;;157.4;;;;;232.69;610.08;2;394.48;389.47;373.27;67.32;Yes;USA;;USAPL;IPF;2002-11-09;USA;MI;Plainwell;State Meet & Great Lakes Open

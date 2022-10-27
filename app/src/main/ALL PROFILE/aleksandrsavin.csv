@@ -1,0 +1,28 @@
+﻿Name;Sex;Event;Equipment;Age;AgeClass;BirthYearClass;Division;BodyweightKg;WeightClassKg;Squat1Kg;Squat2Kg;Squat3Kg;Squat4Kg;Best3SquatKg;Bench1Kg;Bench2Kg;Bench3Kg;Bench4Kg;Best3BenchKg;Deadlift1Kg;Deadlift2Kg;Deadlift3Kg;Deadlift4Kg;Best3DeadliftKg;TotalKg;Place;Dots;Wilks;Glossbrenner;Goodlift;Tested;Country;State;Federation;ParentFederation;Date;MeetCountry;MeetState;MeetTown;MeetName
+Aleksandr Savin;M;B;Raw;38;35-39;24-39;Open;65.3;67.5;;;;;;80;82.5;-85;;82.5;;;;;;82.5;1;65.16;65.35;63.54;47.07;Yes;Russia;;RPU;;2021-11-27;Russia;NIZ;Chkalovsk;Caspian Monster III
+Aleksandr Savin;M;D;Raw;37;35-39;24-39;Open;71.7;75;;;;;;;;;;;142.5;150;-155;;150;150;1;110.84;110.40;106.87;;Yes;Russia;;RPU;;2021-02-21;Russia;NIZ;Chkalovsk;Caspian Monster II & Rostislav Alekseev Cup
+Aleksandr Savin;M;B;Raw;33;24-34;24-39;Open;72.9;75;;;;;;125;130;-135;;130;;;;;;130;1;95.00;94.52;91.44;69.88;;Russia;;RPU;;2020-11-07;Russia;PER;Perm;Perm Championships
+Aleksandr Savin;M;D;Raw;37;35-39;24-39;Open;71.8;75;;;;;;;;;;;127.5;135;140;;140;140;1;103.35;102.93;99.64;;Yes;Russia;;RPU;;2020-10-03;Russia;NIZ;Chkalovsk;Chkalov Cup
+Aleksandr Savin;M;B;Raw;33;24-34;24-39;Open;90;90;;;;;;-185;-185;-185;;;;;;;;;DQ;;;;;Yes;Russia;;WPA-RUS;WPA;2019-12-21;Russia;NVS;Novosibirsk;Legion Tournament
+Aleksandr Savin;M;BD;Raw;36;35-39;24-39;Open;71;75;;;;;;75;80;-85;;80;115;120;125;;125;205;1;152.49;151.98;147.20;;Yes;Russia;;RPU;;2019-12-14;Russia;NIZ;Chkalovsk;Caspian Monster Tournament & Rostislav Alekseev Cup
+Aleksandr Savin;M;SBD;Raw;25.5;24-34;24-39;Open;103.1;105;;;;;210;;;;;150;;;;;240;600;8;364.57;360.90;344.60;74.71;Yes;Russia;;FPR;IPF;2019-12-04;Russia;BRY;Bryansk;Central District Powerlifting Championships
+Aleksandr Savin;M;SBD;Raw;25.5;24-34;24-39;Open;103;105;;;;;205;;;;;147.5;;;;;232.5;585;27;355.60;352.00;336.11;72.88;Yes;Russia;;FPR;IPF;2019-05-26;Russia;LEN;St. Petersburg;White Nights
+Aleksandr Savin;M;B;Multi-ply;32;24-34;24-39;Amateur Open;89.7;90;;;;;;235;247.5;;;247.5;;;;;;247.5;2;160.30;158.27;151.71;83.66;Yes;Russia;;WPC;WPC;2018-07-05;Russia;NVS;Novosibirsk;Eastern Europe Championships
+Aleksandr Savin;M;B;Unlimited;31;24-34;24-39;Amateur Open;89.7;90;;;;;;-230;-230;-230;;;;;;;;;DQ;;;;;Yes;Russia;;WPC-RUS;WPC;2018-04-07;Russia;NVS;Novosibirsk;Siberian Bear
+Aleksandr Savin;M;B;Single-ply;28;24-34;24-39;Pro Open;95.6;100;;;;;;245;-255;-255;;245;;;;;;245;4;153.87;151.97;145.31;79.78;;Russia;;WPC;WPC;2014-07-03;Russia;NVS;Novosibirsk;World Cup
+Aleksandr Savin;M;B;Multi-ply;27;24-34;24-39;Pro Open;94.7;100;;;;;;-250;-250;-250;;;;;;;;;DQ;;;;;;Russia;;NAP;IPA;2014-05-14;Russia;NVS;Berdsk;Siberian Challenge
+Aleksandr Savin;M;SBD;Raw;18.5;18-19;19-23;Juniors;117.6;120;;;;;250;;;;;195;;;;;300;745;2;430.79;430.40;412.28;87.37;Yes;Russia;;FPR;IPF;2014-03-26;Russia;TUL;Tula;Russian Classic Powerlifting Championships
+Aleksandr Savin;M;B;Raw;27.5;24-34;24-39;Pro Open;95.2;100;;;;;;185;192.5;197.5;;197.5;;;;;;197.5;2;124.28;122.73;117.37;92.64;;Russia;;WPC-RUS;WPC;2014-03-22;Russia;VLG;Vologda;Siberian Bear Tournament
+Aleksandr Savin;M;B;Raw;18.5;18-19;19-23;Juniors;118.35;120;;;;;;180;190;-200;;190;;;;;;190;3;109.63;109.59;105.00;80.64;Yes;Russia;;FPR;IPF;2014-03-10;Russia;MOW;Moscow;Russian Juniors & Sub-Juniors Classic Bench Press Championships
+Aleksandr Savin;M;SBD;Wraps;27;24-34;24-39;Pro Open;96.1;100;210;220;-227.5;;220;-182.5;182.5;-190;;182.5;230;-245;;;230;632.5;4;396.28;391.42;374.20;81.44;;Russia;;NAP;IPA;2013-12-05;Russia;NVS;Berdsk;Steel Arena 3
+Aleksandr Savin;M;B;Single-ply;27;24-34;24-39;Pro Open;90;90;;;;;;-220;-220;-220;;;;;;;;;DQ;;;;;;Russia;;WPC;WPC;2013-08-15;Russia;NVS;Novosibirsk;World Cup
+Aleksandr Savin;M;SBD;Raw;27;24-34;24-39;Pro Open;90;90;200;-207.5;-207.5;;200;175;-180;-180;;175;-220;-220;-220;;;;DQ;;;;;;Russia;;WPC;WPC;2013-08-15;Russia;NVS;Novosibirsk;World Cup
+Aleksandr Savin;M;B;Multi-ply;26.5;24-34;24-39;Pro Open;90;90;;;;;;-230;230;-235;;230;;;;;;230;2;148.72;146.83;140.72;77.59;;Russia;;NAP;IPA;2013-06-12;Russia;NVS;Berdsk;Siberian Challenge
+Aleksandr Savin;M;SBD;Wraps;26.5;24-34;24-39;Pro Open;90;90;200;210;-215;;210;-180;180;-185;;180;-240;-240;-240;;;;DQ;;;;;;Russia;;NAP;IPA;2013-06-12;Russia;NVS;Berdsk;Siberian Challenge
+Aleksandr Savin;M;SBD;Raw;16.5;16-17;14-18;Pro Open;90;90;-200;-205;-205;;;;;;;;;;;;;;DQ;;;;;;Russia;;NAP;IPA;2012-02-23;Russia;NVS;Berdsk;Russian Championships
+Aleksandr Savin;M;B;Multi-ply;24.5;24-34;24-39;Pro Open;90;90;;;;;;-230;-235;235;;235;;;;;;235;1;151.95;150.02;143.78;79.27;;Russia;;WPC;WPC;2011-11-25;Russia;NVS;Novosibirsk;Asian Cup
+Aleksandr Savin;M;B;Raw;27.5;24-34;24-39;Amateur Open;104.2;110;;;;;;170;180;-185;;180;;;;;;180;4;108.89;107.85;102.98;80.88;Yes;Russia;;WPC-RUS;WPC;2011-10-10;Russia;MOW;Khotkovo;PRODvijenie
+Aleksandr Savin;M;B;Multi-ply;23.5;24-34;24-39;M-O-E;94.4;100;;;;;;225;240;-245;;240;;;;;;240;2;151.62;149.72;143.22;78.71;;Russia;;GPC-RUS;GPC;2010-12-10;Russia;KRS;Kursk;National Championships
+Aleksandr Savin;M;B;Multi-ply;22.5;20-23;19-23;Pro Juniors 20-23;89.5;90;;;;;;-195;202.5;205;;205;;;;;;205;2;132.93;131.24;125.82;69.39;;Russia;;WPC-RUS;WPC;2009-10-02;Russia;SVE;Yekaterinburg;Golden Tiger
+Aleksandr Savin;M;B;Raw;25.5;24-34;24-39;Amateur Open;104;110;;;;;;150;160;-167.5;;160;;;;;;160;9;96.87;95.93;91.60;71.96;Yes;Russia;;WPC-RUS;WPC;2009-05-01;Russia;MOW;Moscow;Moscow Powerlifting and Bench Press Cup
+Aleksandr Savin;M;B;Multi-ply;20.5;20-23;19-23;Pro Open;87;90;;;;;;;;;;170;;;;;;170;3;111.86;110.48;106.05;58.60;;Russia;;WPC-RUS;WPC;2007-11-10;Russia;;Novosibirsk;Novosibirskaya Powerlifting and Bench Press Championships

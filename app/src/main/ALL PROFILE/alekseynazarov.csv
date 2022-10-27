@@ -1,0 +1,30 @@
+﻿Name;Sex;Event;Equipment;Age;AgeClass;BirthYearClass;Division;BodyweightKg;WeightClassKg;Squat1Kg;Squat2Kg;Squat3Kg;Squat4Kg;Best3SquatKg;Bench1Kg;Bench2Kg;Bench3Kg;Bench4Kg;Best3BenchKg;Deadlift1Kg;Deadlift2Kg;Deadlift3Kg;Deadlift4Kg;Best3DeadliftKg;TotalKg;Place;Dots;Wilks;Glossbrenner;Goodlift;Tested;Country;State;Federation;ParentFederation;Date;MeetCountry;MeetState;MeetTown;MeetName
+Aleksey Nazarov;M;D;Raw;31;24-34;24-39;Pro Open;99.9;100;;;;;;;;;;;270;280;-290;;280;280;2;172.42;170.47;162.82;;;Russia;;WRPF;WRPF;2021-11-27;Russia;VGG;Mikhailovka;Brutal Weekend
+Aleksey Nazarov;M;D;Raw;31;24-34;24-39;Amateur Open;99.9;100;;;;;;;;;;;270;280;-290;;280;280;1;172.42;170.47;162.82;;Yes;Russia;;WRPF;WRPF;2021-11-27;Russia;VGG;Mikhailovka;Brutal Weekend
+Aleksey Nazarov;M;SBD;Raw;31;24-34;24-39;Amateur Open;98.9;100;205;220;;;220;150;-155;-155;;150;295;-305;;;295;665;1;411.30;406.53;388.36;84.45;Yes;Russia;;WRPF;WRPF;2021-10-16;Russia;VGG;Volzhsky;Eurasian Cup
+Aleksey Nazarov;M;D;Raw;31;24-34;24-39;Amateur Open;98.9;100;;;;;;;;;;;295;-305;;;295;295;1;182.46;180.34;172.28;;Yes;Russia;;WRPF;WRPF;2021-10-16;Russia;VGG;Volzhsky;Eurasian Cup
+Aleksey Nazarov;M;SBD;Raw;31;24-34;24-39;Open;97.8;100;200;-215;220;;220;150;155;-160;;155;280;300;310;;310;685;1;425.78;420.71;402.01;87.46;Yes;Russia;;GPA;GPA;2021-04-03;Russia;VLG;Volzhsky;Eastern European Championships
+Aleksey Nazarov;M;D;Raw;31;24-34;24-39;Open;97.8;100;;;;;;;;;;;280;300;310;;310;310;1;192.69;190.40;181.93;;Yes;Russia;;GPA;GPA;2021-04-03;Russia;VLG;Volzhsky;Eastern European Championships
+Aleksey Nazarov;M;D;Raw;19;18-19;19-23;Amateur Teen 15-19;96.9;100;;;;;;;;;;;207.5;220;-237.5;;220;220;1;137.32;135.65;129.65;;Yes;Russia;;WPF-RUS;WPF;2021-03-21;Russia;MOW;Moscow;Bench Press & Deadlift Mastery Tournament
+Aleksey Nazarov;M;B;Raw;46;45-49;40-49;Amateur Masters 45-49;89.25;90;;;;;;125;130;135;;135;;;;;;135;1;87.66;86.55;82.98;65.37;Yes;Russia;;NAP;IPA;2020-11-21;Russia;ALT;Barnaul;Eurasian Championships
+Aleksey Nazarov;M;SBD;Raw;30;24-34;24-39;Open;98.8;100;190;205;215;;215;140;150;-160;;150;270;285;-300;;285;650;1;402.20;397.53;379.77;82.59;Yes;Russia;;RPU;;2020-08-29;Russia;VGG;Volzhsky;National Championships
+Aleksey Nazarov;M;D;Raw;30;24-34;24-39;Open;98.8;100;;;;;;;;;;;270;285;-300;;285;285;1;176.35;174.30;166.51;;Yes;Russia;;RPU;;2020-08-29;Russia;VGG;Volzhsky;National Championships
+Aleksey Nazarov;M;B;Unlimited;18;18-19;19-23;Teen 18-19;72.8;75;;;;;;130;140;-150;;140;;;;;;140;1;102.40;101.89;98.58;55.30;;Russia;;RPU;;2020-03-13;Russia;SAM;Samara;Eurasian Cup
+Aleksey Nazarov;M;B;Raw;45;45-49;40-49;Amateur Masters 40-49;89.45;90;;;;;;-125;-125;-125;;;;;;;;;DQ;;;;;Yes;Russia;;NAP;IPA;2019-12-14;Russia;NVS;Berdsk;Steel Arena 9
+Aleksey Nazarov;M;D;Raw;29;24-34;24-39;Open;99.2;100;;;;;;;;;;;265;275;-282.5;;275;275;1;169.86;167.91;160.39;;Yes;Russia;;RPU;;2019-10-05;Russia;VGG;Volzhsky;Southern District Championships
+Aleksey Nazarov;M;D;Raw;29;24-34;24-39;Open;98;100;;;;;;;;;;;265;275;-282.5;;275;275;1;170.78;168.75;161.24;;;Russia;;WRPF;WRPF;2019-04-06;Russia;VGG;Volzhsky;Eurasian Powerlifting Championships
+Aleksey Nazarov;M;B;Raw;17;16-17;14-18;Teen;76.2;82.5;;;;;;80;-90;-90;;80;;;;;;80;3;56.82;56.39;54.45;42.01;;Russia;;IPL;IPL;2019-03-15;Russia;SAM;Samara;Eurasian Cup
+Aleksey Nazarov;M;B;Raw;17;16-17;14-18;Teen 16-17;74.9;75;;;;;;70;80;-90;;80;;;;;;80;1;57.44;57.06;55.13;42.39;;Russia;;RPU;;2018-12-22;Russia;SAM;Samara;Explosive Power Tournament
+Aleksey Nazarov;M;D;Raw;28;24-34;24-39;Open;90;90;;;;;;;;;;;255;265;-275;;265;265;1;171.35;169.17;162.14;;Yes;Russia;;RPU;;2018-10-06;Russia;VGG;Volzhsky;Russian Championships
+Aleksey Nazarov;M;B;Raw;16;16-17;14-18;Teen 16-17;72.8;75;;;;;;-75;75;80;;80;;;;;;80;1;58.52;58.22;56.33;43.04;;Russia;;IPL;IPL;2018-09-14;Russia;SAM;Samara;Eastern European Championships
+Aleksey Nazarov;M;D;Raw;28;24-34;24-39;Open;98.6;100;;;;;;;;;;;-255;255;-265;;255;255;1;157.93;156.08;149.12;;Yes;Russia;;RPU;;2018-07-07;Russia;VGG;Volzhsky;High Voltage III
+Aleksey Nazarov;M;BD;Raw;28;24-34;24-39;Amateur Open;98;100;;;;;;130;-140;140;;140;260;-275;-275;;260;400;1;248.40;245.46;234.54;;Yes;Russia;;WRPF;WRPF;2018-03-31;Russia;VGG;Volzhsky;Eurasian Championships
+Aleksey Nazarov;M;D;Raw;28;24-34;24-39;Amateur Open;98;100;;;;;;;;;;;-260;260;;;260;260;3;161.46;159.55;152.45;;Yes;Russia;;WRPF;WRPF;2018-03-31;Russia;VGG;Volzhsky;Eurasian Championships
+Aleksey Nazarov;M;B;Raw;16;16-17;14-18;Teen 16-17;73.6;75;;;;;;50;60;75;;75;;;;;;75;1;54.47;54.16;52.37;40.11;;Russia;;RPU;;2018-03-03;Russia;SAM;Samara;Iron Legion Tournament
+Aleksey Nazarov;M;D;Raw;27;24-34;24-39;Open;98.3;100;;;;;;;;;;;220;235;245;;245;245;3;151.94;150.15;143.46;;Yes;Russia;;RPU;;2017-10-07;Russia;VGG;Volzhsky;Russian Championships
+Aleksey Nazarov;M;D;Raw;27;24-34;24-39;Amateur Open;95.3;100;;;;;;;;;;;205;215;222.5;;222.5;222.5;1;139.94;138.20;132.16;;Yes;Russia;;WPC-RUS;WPC;2017-06-04;Russia;VGG;Volgograd;Volgograd Championships
+Aleksey Nazarov;M;B;Raw;24.5;24-34;24-39;Open;120;120;;;;;;;;;;;;;;;;;NS;;;;;Yes;Russia;;FPR;IPF;2016-12-24;Russia;NVS;Novosibirsk;Novosibirsk New Year's Bench Press Tournament
+Aleksey Nazarov;M;SBD;Raw;24.5;24-34;24-39;Open;103.65;105;200;215;220;;220;160;170;;;170;220;235;-250;;235;625;7;378.92;375.20;358.26;77.63;Yes;Russia;;FPR;IPF;2016-06-04;Russia;NVS;Novosibirsk;Novosibirsk Classic Powerlifting & Bench Press Championships
+Aleksey Nazarov;M;SBD;Raw;25.5;24-34;24-39;Open;92.66;93;;;;;160;;;;;142.5;;;;;215;517.5;8;329.84;325.66;311.73;67.82;Yes;Russia;;FPR;IPF;2015-03-20;Russia;MOW;Moscow;Moscow City Juniors Sub-Juniors & Masters Powerlifting Championships
+Aleksey Nazarov;M;SBD;Single-ply;;;;Open;93;93;;;;;230;;;;;150;;;;;225;605;7;384.93;380.06;363.75;65.61;Yes;Russia;;FPR;IPF;2011-04-30;Russia;NVS;Novosibirsk;Novosibirsk Oblast Powerlifting Championships
+Aleksey Nazarov;M;SBD;Single-ply;21.5;20-23;19-23;Open;81.1;82.5;270;285;290;;290;167.5;175;-180;;175;265;-280;-280;;265;730;3;499.37;494.14;475.83;85.46;Yes;Russia;;FPR;IPF;1995-10-12;Russia;ME;Yoshkar-Ola;Russian Powerlifting Cup

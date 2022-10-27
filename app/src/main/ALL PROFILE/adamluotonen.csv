@@ -1,0 +1,24 @@
+﻿Name;Sex;Event;Equipment;Age;AgeClass;BirthYearClass;Division;BodyweightKg;WeightClassKg;Squat1Kg;Squat2Kg;Squat3Kg;Squat4Kg;Best3SquatKg;Bench1Kg;Bench2Kg;Bench3Kg;Bench4Kg;Best3BenchKg;Deadlift1Kg;Deadlift2Kg;Deadlift3Kg;Deadlift4Kg;Best3DeadliftKg;TotalKg;Place;Dots;Wilks;Glossbrenner;Goodlift;Tested;Country;State;Federation;ParentFederation;Date;MeetCountry;MeetState;MeetTown;MeetName
+Adam Luotonen;M;B;Raw;;;;Open;118;120;;;;;;;;;;220;;;;;;220;2;127.06;126.99;121.66;93.49;Yes;;;SSF;IPF;2020-02-02;Sweden;;;Elitserien herr KL BP
+Adam Luotonen;M;SBD;Raw;;;;Open;116.2;120;;;;;302.5;;;;;210;;;;;302.5;815;1;473.21;472.27;452.23;96.09;Yes;;;SSF;IPF;2019-12-14;Sweden;;;Lag SM Klassisk Styrkelyft
+Adam Luotonen;M;SBD;Raw;;;;Open;112.5;120;;;;;285;;;;;190;;;;;290;765;1;449.33;447.21;427.74;91.51;Yes;;;SSF;IPF;2019-11-09;Sweden;;;DM Klassisk Styrkelyft SÖSF
+Adam Luotonen;M;SBD;Raw;;;;Open;112.2;120;;;;;295;;;;;207.5;;;;;292.5;795;3;467.41;465.11;444.81;95.21;Yes;;;SSF;IPF;2019-06-27;Sweden;;;SM Klassisk Styrkelyft
+Adam Luotonen;M;B;Single-ply;;;;Open;112.15;120;;;;;;;;;;205;;;;;;205;1;120.55;119.95;114.71;61.86;Yes;;;SSF;IPF;2019-02-02;Sweden;;;Lag SM KL BP
+Adam Luotonen;M;SBD;Single-ply;;;;Open;111.55;120;;;;;292.5;;;;;202.5;;;;;292.5;787.5;1;463.98;461.50;441.27;78.38;Yes;;;SSF;IPF;2019-02-02;Sweden;;;Lag SM KL SL
+Adam Luotonen;M;B;Raw;;;;Open;104.6;105;;;;;;;;;;205;;;;;;205;2;123.83;122.66;117.13;91.95;Yes;;;SSF;IPF;2018-07-08;Sweden;;;SM i Klassisk Bänkpress
+Adam Luotonen;M;SBD;Raw;;;;Open;104.8;105;;;;;287.5;;;;;210.5;;;;;292.5;790.5;3;477.11;472.68;451.36;97.69;Yes;;;SSF;IPF;2018-07-05;Sweden;;;SM i Klassisk Styrkelyft
+Adam Luotonen;M;SBD;Raw;;;;Open;104.15;105;;;;;291.5;;;;;210;;;;;300;801.5;1;484.98;480.32;458.64;99.33;Yes;;;SSF;IPF;2017-07-03;Sweden;;;SM-veckan Borås - Klassisk styrkelyft
+Adam Luotonen;M;B;Raw;;;;Open;104.55;105;;;;;;;;;;205;;;;;;205;1;123.85;122.68;117.15;91.97;Yes;;;SSF;IPF;2017-07-03;Sweden;;;SM-veckan Borås - Klassisk bänkpress
+Adam Luotonen;M;SBD;Raw;;;;Open;104.3;105;;;;;280;;;;;206;;;;;285;771;2;466.25;461.81;440.96;95.49;Yes;;;SSF;IPF;2016-07-09;Sweden;;;SM-veckan Norrköping - Klassisk Styrkelyft
+Adam Luotonen;M;BD;Raw;;;;Open;106.25;120;;;;;;;;;;200;;;;;290;490;2;294.12;291.61;278.49;;Yes;;;SSF;IPF;2015-12-04;Sweden;;;Lag-SM - Klassisk styrkelyft
+Adam Luotonen;M;SBD;Raw;;;;Open;104.16;105;;;;;280;;;;;190;;;;;282.5;752.5;2;455.31;450.94;430.59;93.26;Yes;;;SSF;IPF;2015-07-02;Sweden;;Sundsvall;SM-veckan - klassisk styrkelyft
+Adam Luotonen;M;SBD;Raw;;;;Open;107.05;120;;;;;280;;;;;197.5;;;;;290;767.5;2;459.33;455.60;435.16;93.91;Yes;;;SSF;IPF;2014-12-06;Sweden;;;Lag-SM - Klassisk styrkelyft
+Adam Luotonen;M;SBD;Raw;;;;Open;103.96;105;;;;;280;;;;;200;;;;;285;765;2;463.24;458.75;438.04;94.89;Yes;;;SSF;IPF;2014-07-03;Sweden;;;SM KLSL
+Adam Luotonen;M;SBD;Raw;;;;Open;105.45;120;;;;;285;;;;;200;;;;;280;765;1;460.58;456.45;435.88;94.26;Yes;;;SSF;IPF;2013-12-07;Sweden;;;Lag-SM KLSL
+Adam Luotonen;M;SBD;Raw;;;;Open;103.95;105;;;;;271;;;;;200;;;;;280;751;2;454.78;450.37;430.04;93.16;Yes;;;SSF;IPF;2013-07-04;Sweden;;;SM Klassisk Styrkelyft
+Adam Luotonen;M;SBD;Raw;;;;Open;100.7;105;;;;;250;;;;;190;;;;;270;710;4;435.71;430.91;411.52;89.40;Yes;;;SSF;IPF;2011-12-30;Sweden;;;SM Klassisk SL
+Adam Luotonen;M;SBD;Raw;;;;Open;102.9;110;;;;;250;;;;;200;;;;;265;715;1;434.79;430.38;410.95;89.11;Yes;;;SSF;IPF;2010-08-14;Sweden;;;RM Klassisk styrkelyft
+Adam Luotonen;M;SBD;Single-ply;;;;Juniors;98.5;100;;;;;310;;;;;215;;;;;265;790;1;489.49;483.75;462.17;83.22;Yes;;;SSF;IPF;2009-03-28;Sweden;;;UJ-SM Styrkelyft
+Adam Luotonen;M;B;Single-ply;;;;Juniors;98.2;100;;;;;;;;;;222.5;;;;;;222.5;2;138.05;136.42;130.34;71.41;Yes;;;SSF;IPF;2008-11-15;Sweden;;;BP SM
+Adam Luotonen;M;SBD;Single-ply;;;;Juniors;98.2;100;;;;;285;;;;;210;;;;;275;;DQ;;;;;Yes;;;SSF;IPF;2008-11-01;Sweden;;;DM SL-Sydöstra
+Adam Luotonen;M;SBD;Single-ply;;;;Juniors;97.9;100;;;;;300;;;;;210;;;;;262.5;772.5;2;479.94;474.25;453.15;81.62;Yes;;;SSF;IPF;2008-03-08;Sweden;;;U/J SM SL

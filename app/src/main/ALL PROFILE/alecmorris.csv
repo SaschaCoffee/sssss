@@ -1,0 +1,20 @@
+﻿Name;Sex;Event;Equipment;Age;AgeClass;BirthYearClass;Division;BodyweightKg;WeightClassKg;Squat1Kg;Squat2Kg;Squat3Kg;Squat4Kg;Best3SquatKg;Bench1Kg;Bench2Kg;Bench3Kg;Bench4Kg;Best3BenchKg;Deadlift1Kg;Deadlift2Kg;Deadlift3Kg;Deadlift4Kg;Best3DeadliftKg;TotalKg;Place;Dots;Wilks;Glossbrenner;Goodlift;Tested;Country;State;Federation;ParentFederation;Date;MeetCountry;MeetState;MeetTown;MeetName
+Alec Morris;M;SBD;Single-ply;19;18-19;19-23;Boys;70.31;74.8;;;;;204.12;;;;;129.27;;;;;174.63;508.02;3;380.44;379.42;367.63;65.12;Yes;USA;;THSPA;;2020-02-27;USA;TX;Maud ISD;Maud Last Chance
+Alec Morris;M;SBD;Single-ply;19;18-19;19-23;Boys;68.95;74.8;;;;;204.12;;;;;127.01;;;;;174.63;505.76;3;383.94;383.46;371.86;65.70;Yes;USA;;THSPA;;2020-02-15;USA;TX;Pine Tree;Pine Tree Invitaitonal
+Alec Morris;M;SBD;Single-ply;19;18-19;19-23;Boys;69.4;74.8;;;;;204.12;;;;;117.93;;;;;174.63;496.68;1;375.33;374.68;363.24;64.24;Yes;USA;;THSPA;;2020-02-08;USA;TX;Sabine Jr High;Sabine Bo Bates Invitational
+Alec Morris;M;SBD;Single-ply;19;18-19;19-23;Boys;69.4;74.8;;;;;181.44;;;;;124.74;;;;;174.63;480.81;3;363.34;362.71;351.64;62.18;Yes;USA;;THSPA;;2020-01-25;USA;TX;Van;Van Invitational
+Alec Morris;M;SBD;Single-ply;19;18-19;19-23;Boys;70.22;74.8;;;;;181.44;;;;;124.74;;;;;167.83;474;5;355.28;354.36;343.37;60.82;Yes;USA;;THSPA;;2020-01-11;USA;TX;Lindale Texas;Lindale Invitational
+Alec Morris;M;SBD;Raw;18.5;18-19;19-23;MR-T3;138.1;120+;180;-190;190;;190;125;132.5;-137.5;;132.5;-215;220;230;;230;552.5;2;303.95;309.38;294.36;60.56;Yes;USA;WI;USAPL;IPF;2019-03-02;USA;WI;;WHSPA State Championship
+Alec Morris;M;SB;Single-ply;18;18-19;19-23;Boys;66.59;67.1;;;;;176.9;;;;;102.06;;;;;;278.96;12;217.14;217.45;211.21;;Yes;USA;;THSPA;;2019-02-16;USA;TX;Pine Tree Pirate Center;Pirate Invitational
+Alec Morris;M;SBD;Single-ply;18;18-19;19-23;Boys;65.68;67.1;;;;;158.76;;;;;102.06;;;;;154.22;415.04;1;326.37;327.20;318.01;55.79;Yes;USA;;THSPA;;2019-02-02;USA;TX;Gladewater Sabine;Sabine Bo Bates Invitational
+Alec Morris;M;SBD;Single-ply;18;18-19;19-23;Boys;66.95;67.1;;;;;170.1;;;;;106.59;;;;;154.22;430.91;1;334.10;334.43;324.75;57.14;Yes;USA;;THSPA;;2019-01-26;USA;TX;Mount Pleasant;Mount Pleasant Invitational
+Alec Morris;M;SBD;Single-ply;18;18-19;19-23;Boys;68.49;74.8;;;;;149.69;;;;;102.06;;;;;142.88;394.63;12;301.00;300.77;291.76;51.50;Yes;USA;;THSPA;;2019-01-12;USA;TX;Lindale Texas;Lindale Boys Invitational
+Alec Morris;M;SBD;Raw;17.5;18-19;14-18;MR-O;132.1;125+;147.5;-152.5;152.5;;152.5;102.5;105;-107.5;;105;192.5;205;210;;210;467.5;13;260.52;263.67;251.63;52.17;Yes;USA;WI;USAPL;IPF;2018-03-11;USA;WI;;WHSPA State Championship
+Alec Morris;M;SBD;Single-ply;17;16-17;14-18;Boys;65.41;67.1;;;;;145.15;;;;;97.52;;;;;149.69;392.36;7;309.49;310.37;301.72;52.89;Yes;USA;;THSPA;;2018-02-17;USA;TX;Troup;Troup Tiger Invitational
+Alec Morris;M;SBD;Single-ply;17;16-17;14-18;Boys;65.32;67.1;;;;;145.15;;;;;95.25;;;;;;;DQ;;;;;Yes;USA;;THSPA;;2018-02-09;USA;TX;Tyler Chapel Hill;Tyler Chapel Hill Boys
+Alec Morris;M;S;Single-ply;17;16-17;14-18;Boys;62.6;67.1;;;;;136.08;;;;;;;;;;;136.08;7;111.01;111.75;108.87;;Yes;USA;;THSPA;;2018-01-27;USA;TX;Sabine;Sabine Bo Bates Invitational
+Alec Morris;M;SBD;Single-ply;17;16-17;14-18;Boys;64.32;67.1;;;;;140.61;;;;;92.99;;;;;147.42;381.02;6;304.38;305.68;297.40;51.99;Yes;USA;;THSPA;;2018-01-06;USA;TX;Lindale;Lindale Invitational
+Alec Morris;M;SBD;Single-ply;16;16-17;14-18;Boys;62.1;67.1;;;;;120.2;;;;;81.65;;;;;133.81;335.66;10;275.56;277.58;270.55;47.00;Yes;USA;;THSPA;;2017-02-18;USA;TX;Bullard;Bullard Powerlifting Meet
+Alec Morris;M;SBD;Single-ply;16;16-17;14-18;Boys;61.87;67.1;;;;;124.74;;;;;79.38;;;;;133.81;337.93;8;278.24;280.37;273.33;47.45;Yes;USA;;THSPA;;2017-02-09;USA;TX;Winnsboro;Winnsboro High School Boys Invitational
+Alec Morris;M;SBD;Single-ply;16;16-17;14-18;Boys;63.78;67.1;;;;;117.93;;;;;70.31;;;;;122.47;310.71;16;249.82;251.07;244.37;42.66;Yes;USA;;THSPA;;2017-01-21;USA;TX;Troup;Troup Tiger Invitational
+Alec Morris;M;SBD;Single-ply;16;16-17;14-18;Boys;63.05;67.1;;;;;113.4;;;;;;;;;;;;DQ;;;;;Yes;USA;;THSPA;;2017-01-07;USA;TX;Lindale;Lindale Invitational

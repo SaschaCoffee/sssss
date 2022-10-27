@@ -1,0 +1,22 @@
+﻿Name;Sex;Event;Equipment;Age;AgeClass;BirthYearClass;Division;BodyweightKg;WeightClassKg;Squat1Kg;Squat2Kg;Squat3Kg;Squat4Kg;Best3SquatKg;Bench1Kg;Bench2Kg;Bench3Kg;Bench4Kg;Best3BenchKg;Deadlift1Kg;Deadlift2Kg;Deadlift3Kg;Deadlift4Kg;Best3DeadliftKg;TotalKg;Place;Dots;Wilks;Glossbrenner;Goodlift;Tested;Country;State;Federation;ParentFederation;Date;MeetCountry;MeetState;MeetTown;MeetName
+Alberto Velazquez;M;B;Raw;21;20-23;19-23;MJ;59;60;;;;;;75;85;95;;95;;;;;;95;1;81.31;82.29;80.43;57.32;;;;FEPOA;GPC;2016-05-07;Argentina;;Buenos Aires;Torneo Nacional de Banco y Despegue
+Alberto Velazquez;M;SBD;Wraps;16;16-17;14-18;MT2;57.3;60;80;100;105;;105;80;90;-100;;90;100;120;140;;140;335;2;293.91;298.27;292.04;56.31;;;;FEPOA;GPC;2015-08-21;Argentina;;Cordoba;Torneo Nacional de Potencia
+Alberto Velazquez;M;B;Raw;21;20-23;19-23;J;55.6;56;;;;;;80;90;-100;;90;;;;;;90;1;81.07;82.51;80.93;56.14;;Argentina;;GPC;GPC;2014-09-30;Argentina;;Puerto Iguazú;World Championships
+Alberto Velazquez;M;B;Raw;21;20-23;19-23;MJ;55.9;56;;;;;;60;70;85;90;85;;;;;;85;1;76.20;77.52;76.01;52.86;;;;FEPOA;GPC;2014-05-10;Argentina;;;Torneo Nacional de Banco
+Alberto Velazquez;M;SBD;Raw;;40-44;40-49;Amateur Masters 40-44;121.83;125;;;;;183.7;;;;;90.72;;;;;192.78;467.2;1;266.98;267.68;256.49;53.95;Yes;;;RPS;;2013-08-10;USA;NY;Rochester;NY State Championships
+Alberto Velazquez;M;SBD;Single-ply;;50-54;50-59;Masters 50-54;78.2;82.5;190;-200;-210;;190;120;130;-140;;130;180;190;-200;;190;510;1;356.49;353.30;340.76;61.04;;Mexico;;WPF;;2004-11-26;Mexico;;Chihuahua;World Championships
+Alberto Velazquez;M;SBD;Single-ply;;;;Natural;90;90;;;;;294.84;;;;;165.56;;;;;254.01;714.41;1;461.94;456.08;437.10;78.83;Yes;;;WNPF;;1993-11-11;USA;FL;Dayton Beach;World Championships
+Alberto Velazquez;M;SBD;Single-ply;;;;Lifetime;90;90;;;;;294.84;;;;;165.56;;;;;254.01;714.41;1;461.94;456.08;437.10;78.83;Yes;;;WNPF;;1993-11-11;USA;FL;Dayton Beach;World Championships
+Alberto Velazquez;M;B;Single-ply;;;;Lifetime;90;90;;;;;;;;;;167.83;;;;;;167.83;8;108.52;107.14;102.68;56.61;Yes;;;WNPF;;1992-11-13;USA;PA;Lancaster;World Championships
+Alberto Velazquez;M;D;Single-ply;;;;Lifetime;90;90;;;;;;;;;;;;;;;249.48;249.48;6;161.31;159.27;152.64;;Yes;;;WNPF;;1992-11-13;USA;PA;Lancaster;World Championships
+Alberto Velazquez;M;SBD;Single-ply;;;;Natural;90;90;;;;;285.76;;;;;167.83;;;;;249.48;703.07;1;454.61;448.84;430.16;77.58;Yes;;;WNPF;;1992-11-13;USA;PA;Lancaster;World Championships
+Alberto Velazquez;M;SBD;Single-ply;;;;Juniors;90;90;;;;;285.76;;;;;167.83;;;;;249.48;703.07;2;454.61;448.84;430.16;77.58;Yes;;;WNPF;;1992-11-13;USA;PA;Lancaster;World Championships
+Alberto Velazquez;M;SBD;Single-ply;;;;Natural;90;90;;;;;278.96;;;;;163.29;;;;;244.94;687.19;1;444.34;438.70;420.45;75.83;Yes;;;WNPF;;1992-07-11;USA;VA;Norfolk;Nationals
+Alberto Velazquez;M;SBD;Single-ply;;;;Lifetime;90;90;;;;;278.96;;;;;163.29;;;;;244.94;687.19;2;444.34;438.70;420.45;75.83;Yes;;;WNPF;;1992-07-11;USA;VA;Norfolk;Nationals
+Alberto Velazquez;M;D;Single-ply;;;;Lifetime;90;90;;;;;;;;;;;;;;;244.94;244.94;2;158.38;156.37;149.86;;Yes;;;WNPF;;1992-07-11;USA;VA;Norfolk;Nationals
+Alberto Velazquez;M;B;Single-ply;;;;Lifetime;90;90;;;;;;;;;;163.29;;;;;;163.29;1;105.58;104.24;99.91;55.08;Yes;;;WNPF;;1992-07-11;USA;VA;Norfolk;Nationals
+Alberto Velazquez;M;SBD;Single-ply;;;;Open;90;90;;;;;272.16;;;;;165.56;;;;;249.48;687.19;3;444.34;438.70;420.45;75.83;Yes;;;ADFPA;;1992-03-14;USA;FL;Lakeland;Central Florida
+Alberto Velazquez;M;SBD;Single-ply;;;;Open;90;90;;;;;260.82;;;;;154.22;;;;;231.33;646.37;4;417.94;412.64;395.47;71.33;Yes;;;ADFPA;;1989-05-06;USA;GA;Hinesville;Region III Championships
+Alberto Velazquez;M;SBD;Single-ply;;;;Open;82.5;82.5;;;;;244.94;;;;;;;;;;;;DQ;;;;;;;;USPF;IPF;1985-10-12;USA;FL;Miami;Southern States Championship
+Alberto Velazquez;M;SBD;Single-ply;;;;Novice;82.5;82.5;;;;;247.21;;;;;154.22;;;;;238.14;639.57;2;433.24;428.45;412.26;74.12;;;;USPF;IPF;1985-04-13;USA;FL;Tampa;Region IV Championships
+Alberto Velazquez;M;SBD;Single-ply;;;;Class II & Below;82.5;82.5;;;;;195.04;;;;;136.08;;;;;229.06;560.19;8;379.47;375.27;361.09;64.92;;;;USPF;IPF;1984-10-20;USA;FL;North Miami Beach;Southern States Championships

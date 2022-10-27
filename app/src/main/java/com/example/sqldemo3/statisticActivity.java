@@ -42,7 +42,7 @@ public class statisticActivity extends AppCompatActivity {
 
         try {
             DataBaseStatistic x = new DataBaseStatistic(this);
-
+            x.cleartable();
             x.csvcopy(this, str);
         } catch (Exception e) {
             Toast.makeText(this, "fehler", Toast.LENGTH_SHORT).show();
@@ -54,7 +54,6 @@ public class statisticActivity extends AppCompatActivity {
 
         ProfileStats d = all.get(all.size()-1);
         ProfileStats d2 = all.get(0);
-
         String date = d.getDate();
         String date11 = d2.getDate();
         first.setText(date);

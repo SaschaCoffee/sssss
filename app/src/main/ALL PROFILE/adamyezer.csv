@@ -1,0 +1,35 @@
+﻿Name;Sex;Event;Equipment;Age;AgeClass;BirthYearClass;Division;BodyweightKg;WeightClassKg;Squat1Kg;Squat2Kg;Squat3Kg;Squat4Kg;Best3SquatKg;Bench1Kg;Bench2Kg;Bench3Kg;Bench4Kg;Best3BenchKg;Deadlift1Kg;Deadlift2Kg;Deadlift3Kg;Deadlift4Kg;Best3DeadliftKg;TotalKg;Place;Dots;Wilks;Glossbrenner;Goodlift;Tested;Country;State;Federation;ParentFederation;Date;MeetCountry;MeetState;MeetTown;MeetName
+Adam Yezer;M;B;Raw;53;50-54;50-59;MR-M2;86.5;93;;;;;;130;137.5;-140;;137.5;;;;;;137.5;1;90.75;89.64;86.07;67.63;Yes;USA;NC;USAPL;IPF;2018-12-15;USA;SC;;South Carolina State Championships
+Adam Yezer;M;SBD;Raw;53;50-54;50-59;MR-M2;85.1;93;100;115;-125;;115;130;135;140;;140;160;165;;;165;420;1;279.65;276.32;265.49;57.41;Yes;USA;NC;USAPL;IPF;2018-08-18;USA;NC;;Southeast Regional
+Adam Yezer;M;SBD;Raw;52;50-54;50-59;Masters 50-54;82.5;82.5;;;;;137.5;;;;;137.5;;;;;187.5;462.5;1;313.29;309.83;298.12;64.22;;USA;NC;USPA;IPL;2018-02-24;USA;SC;Columbia;South Carolina Open
+Adam Yezer;M;B;Raw;52;50-54;50-59;Open;81.8;82.5;;;;;;;;;;130;;;;;;130;1;88.49;87.54;84.26;65.79;;USA;NC;USPA;IPL;2017-08-26;USA;NC;Raleigh;North Carolina State Championship
+Adam Yezer;M;B;Raw;52;50-54;50-59;Masters 50-54;81.8;82.5;;;;;;;;;;130;;;;;;130;1;88.49;87.54;84.26;65.79;;USA;NC;USPA;IPL;2017-08-26;USA;NC;Raleigh;North Carolina State Championship
+Adam Yezer;M;SBD;Raw;52;50-54;50-59;Open;81.8;82.5;;;;;132.5;;;;;130;;;;;177.5;440;4;299.50;296.28;285.19;61.36;;USA;NC;USPA;IPL;2017-08-26;USA;NC;Raleigh;North Carolina State Championship
+Adam Yezer;M;SBD;Raw;52;50-54;50-59;Masters 50-54;81.8;82.5;;;;;132.5;;;;;130;;;;;177.5;440;1;299.50;296.28;285.19;61.36;;USA;NC;USPA;IPL;2017-08-26;USA;NC;Raleigh;North Carolina State Championship
+Adam Yezer;M;SBD;Raw;51;50-54;50-59;MR-M2;82.2;83;102.5;125;-140;;125;132.5;-137.5;-137.5;;132.5;170;180;190;;190;447.5;3;303.76;300.44;289.13;62.25;Yes;USA;NC;USAPL;IPF;2016-10-13;USA;GA;Atlanta;Raw Nationals
+Adam Yezer;M;B;Raw;51;50-54;50-59;MR-M2;81.9;83;;;;;;127.5;132.5;-140;;132.5;;;;;;132.5;1;90.13;89.15;85.81;67.01;Yes;USA;NC;USAPL;IPF;2016-08-13;USA;SC;;Palmetto Classic
+Adam Yezer;M;SBD;Raw;51;50-54;50-59;MR-M2;81.9;83;102.5;-122.5;122.5;;122.5;127.5;132.5;-140;;132.5;165;175;187.5;;187.5;442.5;2;300.99;297.74;286.58;61.67;Yes;USA;NC;USAPL;IPF;2016-08-13;USA;SC;;Palmetto Classic
+Adam Yezer;M;B;Single-ply;50;50-54;50-59;M-M2a;81.6;83;;;;;;187.5;192.5;-197.5;;192.5;;;;;;192.5;1;131.22;129.81;124.97;69.36;Yes;USA;NC;USAPL;IPF;2015-12-12;USA;SC;;South Carolina State Championship
+Adam Yezer;M;B;Single-ply;49.5;45-49;50-59;M-O;81.5;83;;;;;;185;-190;-190;;185;;;;;;185;1;126.19;124.85;120.20;66.72;Yes;USA;;USAPL;IPF;2015-06-26;USA;GA;;Summer Showdown
+Adam Yezer;M;SBD;Raw;49;45-49;50-59;MR-M1b;81.5;83;;;;;127.5;;;;;140;;;;;177.5;445;1;303.55;300.32;289.12;62.17;Yes;USA;;USAPL;IPF;2015-03-21;USA;NC;;Battle on the Border IX
+Adam Yezer;M;B;Raw;49;45-49;50-59;MR-M1b;81.5;83;;;;;;;;;;140;;;;;;140;2;95.50;94.48;90.96;70.98;Yes;USA;;USAPL;IPF;2015-03-21;USA;NC;;Battle on the Border IX
+Adam Yezer;M;SBD;Single-ply;49;45-49;40-49;M-M1b;80.1;82.5;;;;;100;;;;;187.5;;;;;185;472.5;1;325.57;322.32;310.55;55.73;Yes;USA;;USAPL;IPF;2014-11-01;USA;NC;;Fall Festival of Power
+Adam Yezer;M;B;Single-ply;49;45-49;40-49;M-M1b;80.1;82.5;;;;;;;;;;187.5;;;;;;187.5;1;129.19;127.91;123.23;68.50;Yes;USA;;USAPL;IPF;2014-11-01;USA;NC;;Fall Festival of Power
+Adam Yezer;M;B;Raw;48;45-49;40-49;Open;82.5;82.5;;;;;;;;;;133.81;;;;;;133.81;1;90.64;89.64;86.25;67.42;;USA;NC;SPF;;2014-03-15;USA;VA;Norfolk;Shamrock Powerlifting and Bench Press
+Adam Yezer;M;B;Single-ply;46;45-49;40-49;Masters 1;74.2;83;;;;;;115;-165;-165;;115;;;;;;115;4;83.07;82.56;79.81;44.68;Yes;USA;;NAPF;IPF;2011-10-08;USA;FL;Miami;North American Bench Press Championships
+Adam Yezer;M;B;Single-ply;45;45-49;40-49;Masters 45-49;74.3;75;;;;;;;;;;170.1;;;;;;170.1;1;122.77;122.01;117.93;66.01;;USA;NC;SPF;;2011-04-16;USA;NC;;Carolina Classic Powerlifting Championship
+Adam Yezer;M;B;Single-ply;45;45-49;40-49;M-M1b;72.85;75;;;;;;167.5;-172.5;-172.5;;167.5;;;;;;167.5;1;122.46;121.85;117.88;66.12;Yes;USA;NC;USAPL;IPF;2010-08-28;USA;VA;Charlottesville;Bench Press Nationals
+Adam Yezer;M;B;Single-ply;44;40-44;40-49;Masters 40-44;70.76;75;;;;;;;;;;156.49;;;;;;156.49;1;116.68;116.31;112.67;63.42;;USA;NC;SPF;;2010-05-08;USA;SC;Chesney;Summerfest Push/Pull and Bench Press Championship
+Adam Yezer;M;B;Raw;43.5;40-44;40-49;M_MR_1_APF;82.5;82.5;;;;;;;;;;142.5;;;;;;142.5;1;96.53;95.46;91.85;71.80;;USA;NC;APF;WPC;2009-05-30;USA;NC;;Carolina Classic
+Adam Yezer;M;B;Raw;43;40-44;40-49;Open;78.93;79.8;;;;;;;;;;140.61;;;;;;140.61;3;97.74;96.82;93.35;72.49;;USA;;Hardcore;;2009-04-18;USA;TX;Mesquite;Kings of the Bench III
+Adam Yezer;M;B;Multi-ply;42.5;40-44;40-49;Open;75;75;;;;;;;;;;206.38;;;;;;206.38;1;148.06;147.06;142.09;79.46;;USA;;UPA;;2008-05-17;USA;NC;Raleigh;Battle of the Beasts
+Adam Yezer;M;B;Single-ply;42;40-44;40-49;M-O;74.8;75;;;;;;;;;;115;;;;;;115;2;82.64;82.10;79.33;44.37;Yes;USA;NC;USAPL;IPF;2008-03-15;USA;NC;Charlotte;Battle on the Border
+Adam Yezer;M;B;Single-ply;42;40-44;40-49;M-O;74.79;75;;;;;;;;;;115;;;;;;115;1;82.65;82.10;79.34;44.38;Yes;USA;NC;USAPL;IPF;2008-03-15;USA;NC;Charlotte;Battle on the Border
+Adam Yezer;M;B;Single-ply;42;40-44;40-49;M-O;75.98;82.5;;;;;;-167.38;-167.38;-167.38;;;;;;;;;DQ;;;;;Yes;USA;;USAPL;IPF;2007-08-11;USA;NC;;State Championships
+Adam Yezer;M;B;Single-ply;42;40-44;40-49;M-M1a;75.98;82.5;;;;;;-167.38;-167.38;-167.38;;;;;;;;;DQ;;;;;Yes;USA;;USAPL;IPF;2007-08-11;USA;NC;;State Championships
+Adam Yezer;M;B;Multi-ply;41;40-44;40-49;M_OEM_APF;79.82;82.5;;;;;;;;;;157.5;;;;;;157.5;1;108.75;107.68;103.76;57.69;;USA;;APF;WPC;2007-01-27;USA;NC;;Clayton Fitness North Carolina Meet
+Adam Yezer;M;BD;Single-ply;40.5;40-44;40-49;M-M1a;75;75;;;;;;;;;;147.42;;;;;160.12;307.54;1;220.64;219.14;211.74;;Yes;USA;;USAPL;IPF;2006-05-13;USA;FL;Davie;State Open
+Adam Yezer;M;SBD;Multi-ply;36;35-39;24-39;M_SEM_AAPF;75;75;;;;;242.5;;;;;137.5;;;;;205;585;2;419.69;416.85;402.78;71.87;;USA;;APF;WPC;2002-04-06;USA;FL;Gulf Breeze;Amateur Nationals
+Adam Yezer;M;B;Multi-ply;36;35-39;24-39;M_SEM_AAPF;75;75;;;;;;;;;;137.5;;;;;;137.5;1;98.65;97.98;94.67;52.94;;USA;;APF;WPC;2002-04-06;USA;FL;Gulf Breeze;Amateur Nationals
+Adam Yezer;M;B;Single-ply;33.5;24-34;24-39;Open;75;75;;;;;;;;;;138.35;;;;;;138.35;3;99.26;98.58;95.25;53.26;;USA;;USPF;;1999-06-12;USA;FL;Holiday;King of the BP - Ted Moylen Memorial
+Adam Yezer;M;SBD;Multi-ply;33.5;24-34;24-39;Open;75;75;;;;;142.88;;;;;124.74;;;;;226.8;494.42;1;354.71;352.30;340.41;60.75;;USA;;APF;WPC;1999-05-29;USA;FL;Daytona Beach;Florida State

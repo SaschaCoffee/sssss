@@ -1,0 +1,38 @@
+﻿Name;Sex;Event;Equipment;Age;AgeClass;BirthYearClass;Division;BodyweightKg;WeightClassKg;Squat1Kg;Squat2Kg;Squat3Kg;Squat4Kg;Best3SquatKg;Bench1Kg;Bench2Kg;Bench3Kg;Bench4Kg;Best3BenchKg;Deadlift1Kg;Deadlift2Kg;Deadlift3Kg;Deadlift4Kg;Best3DeadliftKg;TotalKg;Place;Dots;Wilks;Glossbrenner;Goodlift;Tested;Country;State;Federation;ParentFederation;Date;MeetCountry;MeetState;MeetTown;MeetName
+Aleksandr Shestunov;M;BD;Raw;41;40-44;40-49;Pro Masters 40-49;122.8;125;;;;;;190;-200;200;;200;290;310;320;;320;520;1;296.39;297.42;284.93;;;Russia;;WRPF;WRPF;2022-04-23;Russia;NVS;Novosibirsk;Steel Bear Tournament
+Aleksandr Shestunov;M;SBD;Wraps;41;40-44;40-49;Pro Masters 40-49;122.8;125;285;300;-310;;300;190;-200;200;;200;290;310;320;;320;820;1;467.38;469.01;449.31;94.37;;Russia;;WRPF;WRPF;2022-04-23;Russia;NVS;Novosibirsk;Steel Bear Tournament
+Aleksandr Shestunov;M;B;Raw;41;40-44;40-49;Pro Masters 40-49;122.8;125;;;;;;190;-200;200;;200;;;;;;200;1;114.00;114.39;109.59;83.55;;Russia;;WRPF;WRPF;2022-04-23;Russia;NVS;Novosibirsk;Steel Bear Tournament
+Aleksandr Shestunov;M;D;Raw;41;40-44;40-49;Pro Masters 40-49;122.8;125;;;;;;;;;;;290;310;320;;320;320;1;182.39;183.03;175.34;;;Russia;;WRPF;WRPF;2022-04-23;Russia;NVS;Novosibirsk;Steel Bear Tournament
+Aleksandr Shestunov;M;D;Raw;40;40-44;40-49;Pro Open;121;125;;;;;;;;;;;290;310;-330;;310;310;2;177.55;177.89;170.46;;;Russia;;WRPF;WRPF;2021-10-03;Russia;ALT;Novoaltaisk;City of Novoaltaisk Championships
+Aleksandr Shestunov;M;B;Raw;40;40-44;40-49;Pro Open;121;125;;;;;;-200;-200;;;;;;;;;;DQ;;;;;;Russia;;WRPF;WRPF;2021-10-03;Russia;ALT;Novoaltaisk;City of Novoaltaisk Championships
+Aleksandr Shestunov;M;D;Raw;40;40-44;40-49;Pro Masters;121;125;;;;;;;;;;;290;310;-330;;310;310;1;177.55;177.89;170.46;;;Russia;;WRPF;WRPF;2021-10-03;Russia;ALT;Novoaltaisk;City of Novoaltaisk Championships
+Aleksandr Shestunov;M;B;Raw;40;40-44;40-49;Pro Masters;121;125;;;;;;-200;-200;;;;;;;;;;DQ;;;;;;Russia;;WRPF;WRPF;2021-10-03;Russia;ALT;Novoaltaisk;City of Novoaltaisk Championships
+Aleksandr Shestunov;M;D;Raw;40;40-44;40-49;Open;119.2;125;;;;;;;;;;;300;330;;;330;330;1;189.95;190.02;182.08;;;Russia;;RPU;;2021-05-08;Russia;AL;Zmeinogorsk;Zmeinogorsk City Cup
+Aleksandr Shestunov;M;B;Raw;40;40-44;40-49;Open;119.2;125;;;;;;200;210;-217.5;;210;;;;;;210;1;120.87;120.92;115.87;88.85;;Russia;;RPU;;2021-05-08;Russia;AL;Zmeinogorsk;Zmeinogorsk City Cup
+Aleksandr Shestunov;M;B;Raw;40;40-44;40-49;Masters 40-44;119.2;125;;;;;;200;210;-217.5;;210;;;;;;210;1;120.87;120.92;115.87;88.85;;Russia;;RPU;;2021-05-08;Russia;AL;Zmeinogorsk;Zmeinogorsk City Cup
+Aleksandr Shestunov;M;D;Raw;40;40-44;40-49;Masters 40-44;119.2;125;;;;;;;;;;;300;330;;;330;330;1;189.95;190.02;182.08;;;Russia;;RPU;;2021-05-08;Russia;AL;Zmeinogorsk;Zmeinogorsk City Cup
+Aleksandr Shestunov;M;B;Raw;40;40-44;40-49;Pro Open;121.7;125;;;;;;200;205;207.5;;207.5;;;;;;207.5;1;118.62;118.92;113.95;87.02;;Russia;;WRPF;WRPF;2021-04-10;Russia;NVS;Novosibirsk;Steel Bear 3
+Aleksandr Shestunov;M;B;Raw;40;40-44;40-49;Pro Masters 40-49;121.7;125;;;;;;200;205;207.5;;207.5;;;;;;207.5;1;118.62;118.92;113.95;87.02;;Russia;;WRPF;WRPF;2021-04-10;Russia;NVS;Novosibirsk;Steel Bear 3
+Aleksandr Shestunov;M;B;Raw;39;35-39;40-49;Pro Open;122.4;125;;;;;;202.5;210;215;;215;;;;;;215;1;122.67;123.06;117.90;89.94;;Russia;;WRPF;WRPF;2021-02-28;Russia;ALT;Novaltaisk;Novaltaisk City Cup
+Aleksandr Shestunov;M;D;Raw;39;35-39;40-49;Pro Open;122.4;125;;;;;;;;;;;290;310;322.5;;322.5;322.5;1;184.01;184.59;176.85;;;Russia;;WRPF;WRPF;2021-02-28;Russia;ALT;Novaltaisk;Novaltaisk City Cup
+Aleksandr Shestunov;M;B;Raw;39;35-39;24-39;Open;121.5;125;;;;;;200;210;-215;;210;;;;;;210;1;120.11;120.39;115.36;88.13;;Russia;;RPU;;2020-12-19;Russia;ALT;Rubtsovsk;Rubtsovsk New Year's Cup
+Aleksandr Shestunov;M;D;Raw;39;35-39;24-39;Open;121.5;125;;;;;;;;;;;300;320;;;320;320;1;183.03;183.46;175.79;;;Russia;;RPU;;2020-12-19;Russia;ALT;Rubtsovsk;Rubtsovsk New Year's Cup
+Aleksandr Shestunov;M;D;Raw;39;35-39;24-39;Pro Open;120.5;125;;;;;;;;;;;290;300;-310;;300;300;1;172.05;172.31;165.12;;;Russia;;WRPF;WRPF;2020-10-04;Russia;ALT;Novoaltaysk;Novoaltaysk Championships
+Aleksandr Shestunov;M;B;Raw;39;35-39;24-39;Pro Open;120.5;125;;;;;;205;-210;-210;;205;;;;;;205;1;117.57;117.75;112.83;86.33;;Russia;;WRPF;WRPF;2020-10-04;Russia;ALT;Novoaltaysk;Novoaltaysk Championships
+Aleksandr Shestunov;M;SBD;Raw;39;35-39;24-39;Pro Open;120.5;125;230;250;;;250;205;-210;-210;;205;290;300;-310;;300;755;1;433.00;433.65;415.56;87.61;;Russia;;WRPF;WRPF;2020-10-04;Russia;ALT;Novoaltaysk;Novoaltaysk Championships
+Aleksandr Shestunov;M;B;Raw;38;35-39;24-39;Pro Open;119;125;;;;;;200;210;215;;215;;;;;;215;1;123.82;123.85;118.67;91.03;;Russia;;WRPF;WRPF;2019-11-29;Russia;NVS;Novosibirsk;Steel Bear 2
+Aleksandr Shestunov;M;B;Raw;38;35-39;24-39;Open;118.6;125;;;;;;200;-210;210;;210;;;;;;210;1;121.08;121.07;116.00;89.04;;Russia;;RPU;;2019-11-16;Russia;ALT;Rubtsovsk;Rubtsovsk Championships
+Aleksandr Shestunov;M;D;Raw;38;35-39;24-39;Open;118.6;125;;;;;;;;;;;270;;;;270;270;1;155.67;155.66;149.14;;;Russia;;RPU;;2019-11-16;Russia;ALT;Rubtsovsk;Rubtsovsk Championships
+Aleksandr Shestunov;M;B;Raw;37;35-39;24-39;Pro Open;118.7;125;;;;;;192.5;205;210;;210;;;;;;210;2;121.05;121.04;115.98;89.01;;Russia;;WPC-RUS;WPC;2019-03-29;Russia;NVS;Novosibirsk;Russian Championships
+Aleksandr Shestunov;M;D;Raw;37;35-39;24-39;Pro Open;118.7;125;;;;;;;;;;;290;305;-315;;305;305;2;175.80;175.80;168.44;;;Russia;;WPC-RUS;WPC;2019-03-29;Russia;NVS;Novosibirsk;Russian Championships
+Aleksandr Shestunov;M;B;Raw;37;35-39;24-39;Open;116;125;;;;;;190;197.5;202.5;;202.5;;;;;;202.5;1;117.65;117.40;112.41;86.69;;Russia;;RPU;;2019-03-16;Russia;ALT;Rubtovsk;Rubtovsk Bench Press Cup
+Aleksandr Shestunov;M;D;Raw;37;35-39;24-39;Pro Open;117.4;125;;;;;;;;;;;280;305;312.5;;312.5;312.5;1;180.80;180.61;173.00;;;Russia;;WRPF;WRPF;2018-12-02;Russia;NVS;Novosibirsk;Best of the Best Tournament 2
+Aleksandr Shestunov;M;D;Raw;37;35-39;24-39;Pro Open;117.4;125;;;;;;;;;;;280;300;;;300;300;1;173.57;173.39;166.08;;;Russia;;WRPF;WRPF;2018-12-02;Russia;NVS;Novosibirsk;Novosibirsk Open Tournament
+Aleksandr Shestunov;M;D;Raw;37;35-39;24-39;Open;116.5;125;;;;;;;;;;;290;310;;;310;310;1;179.83;179.52;171.91;;;Russia;;RPU;;2018-09-22;Russia;ALT;Rubtovsk;Rubtovsk Championships
+Aleksandr Shestunov;M;D;Raw;37;35-39;24-39;Pro Open;121.05;125;;;;;;;;;;;290;310;-320;-320;310;310;1;177.52;177.87;170.45;;;Russia;;WRPF;WRPF;2018-04-29;Russia;NVS;Novosibirsk;Best of the Best Tournament
+Aleksandr Shestunov;M;D;Raw;37;35-39;24-39;Pro Open;119.5;125;;;;;;;;;;;280;-300;-300;;280;280;1;161.03;161.14;154.40;;;Russia;;WPC-RUS;WPC;2018-04-07;Russia;NVS;Novosibirsk;Siberian Bear
+Aleksandr Shestunov;M;D;Raw;36;35-39;24-39;Open;120;125;;;;;;;;;;;280;300;310;;310;310;1;178.03;178.23;170.79;;;Russia;;RPU;;2018-02-23;Russia;;Rubtsovsk;Rubtsovsk Cup
+Aleksandr Shestunov;M;B;Raw;33;24-34;24-39;Pro Open;117.9;125;;;;;;200;207.5;;;207.5;;;;;;207.5;1;119.88;119.80;114.77;88.21;;Russia;;WPC-RUS;WPC;2014-12-21;Russia;ALT;Barnaul;Siberia Cup
+Aleksandr Shestunov;M;B;Raw;31;24-34;24-39;Pro Open;120;125;;;;;;170;180;185;;185;;;;;;185;1;106.25;106.36;101.92;78.05;;Russia;;WPC-RUS;WPC;2012-11-03;Russia;;;Siberian Bench Press Championships
+Aleksandr Shestunov;M;B;Raw;30;24-34;24-39;Amateur Open;113.55;125;;;;;;170;-175;-175;;170;;;;;;170;2;99.52;99.12;94.84;73.47;Yes;Russia;;NAP;IPA;2012-02-23;Russia;NVS;Berdsk;Russian Championships
+Aleksandr Shestunov;M;B;Raw;30;24-34;24-39;Pro Open;114.8;125;;;;;;-160;160;170;;170;;;;;;170;1;99.13;98.82;94.59;73.11;;Russia;;WPC-RUS;WPC;2011-12-11;Russia;ALT;Barnaul;Siberian Bench Press Championships

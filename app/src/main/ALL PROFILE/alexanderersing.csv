@@ -1,0 +1,32 @@
+﻿Name;Sex;Event;Equipment;Age;AgeClass;BirthYearClass;Division;BodyweightKg;WeightClassKg;Squat1Kg;Squat2Kg;Squat3Kg;Squat4Kg;Best3SquatKg;Bench1Kg;Bench2Kg;Bench3Kg;Bench4Kg;Best3BenchKg;Deadlift1Kg;Deadlift2Kg;Deadlift3Kg;Deadlift4Kg;Best3DeadliftKg;TotalKg;Place;Dots;Wilks;Glossbrenner;Goodlift;Tested;Country;State;Federation;ParentFederation;Date;MeetCountry;MeetState;MeetTown;MeetName
+Alexander Ersing;M;BD;Raw;;;;smp;78.02;82.5;;;;;;;;;;152.5;;;;;245;397.5;1;278.24;275.78;266.02;;Yes;USA;WI;NASA;;2022-05-21;USA;OH;;Ohio State
+Alexander Ersing;M;BD;Raw;;;24-39;sm1;78.02;82.5;;;;;;;;;;152.5;;;;;245;397.5;1;278.24;275.78;266.02;;Yes;USA;WI;NASA;;2022-05-21;USA;OH;;Ohio State
+Alexander Ersing;M;D;Multi-ply;;;;Pro;;;;;;;;;;;;;237.5;245;-260;;245;245;9;;;;;;USA;;XPC;XPC;2022-03-04;USA;OH;Grove City;Arnolds
+Alexander Ersing;M;BD;Raw;;;;open;74.96;75;;;;;;;;;;147.5;;;;;237.5;385;1;276.30;274.44;265.18;;Yes;USA;WI;NASA;;2021-12-18;USA;IL;;Illinois Christmas Regional
+Alexander Ersing;M;B;Raw;;;24-39;bpsm1;74.96;75;;;;;;;;;;147.5;;;;;;147.5;1;105.86;105.14;101.59;78.13;Yes;USA;WI;NASA;;2021-12-18;USA;IL;;Illinois Christmas Regional
+Alexander Ersing;M;BD;Raw;;;24-39;sm1;74.96;75;;;;;;;;;;147.5;;;;;237.5;385;1;276.30;274.44;265.18;;Yes;USA;WI;NASA;;2021-12-18;USA;IL;;Illinois Christmas Regional
+Alexander Ersing;M;BD;Raw;;;24-39;sm1;74.93;75;;;;;;;;;;147.5;;;;;65;212.5;1;152.54;151.52;146.41;;Yes;USA;WI;NASA;;2021-09-25;USA;IN;;Indiana Regional
+Alexander Ersing;M;B;Raw;;;24-39;sm1;74.93;75;;;;;;;;;;147.5;;;;;;147.5;1;105.88;105.17;101.62;78.14;Yes;USA;WI;NASA;;2021-09-25;USA;IN;;Indiana Regional
+Alexander Ersing;M;BD;Raw;;35-39;;sm2;74.84;75;;;;;;;;;;147.5;;;;;250;397.5;1;285.57;283.66;274.11;;Yes;USA;WI;NASA;;2021-03-13;USA;IN;;Indiana State
+Alexander Ersing;M;BD;Raw;;;;open;74.84;75;;;;;;;;;;147.5;;;;;250;397.5;1;285.57;283.66;274.11;;Yes;USA;WI;NASA;;2021-03-13;USA;IN;;Indiana State
+Alexander Ersing;M;BD;Raw;;;;open;74.84;75;;;;;;;;;;147.5;;;;;250;397.5;1;285.57;283.66;274.11;;Yes;USA;WI;NASA;;2021-03-13;USA;IN;;Indiana State
+Alexander Ersing;M;BD;Raw;;35-39;;sm2;74.84;75;;;;;;;;;;147.5;;;;;250;397.5;1;285.57;283.66;274.11;;Yes;USA;WI;NASA;;2021-03-13;USA;IN;;Indiana State
+Alexander Ersing;M;BD;Raw;;;24-39;sm1;74.84;75;;;;;;;;;;145;;;;;260;405;1;290.95;289.02;279.29;;Yes;USA;WI;NASA;;2020-12-19;USA;IL;;Illinois Christmas Classic
+Alexander Ersing;M;BD;Raw;;;;open;74.84;75;;;;;;;;;;145;;;;;260;405;1;290.95;289.02;279.29;;Yes;USA;WI;NASA;;2020-12-19;USA;IL;;Illinois Christmas Classic
+Alexander Ersing;M;BD;Raw;;;;smp;74.84;75;;;;;;;;;;145;;;;;260;405;1;290.95;289.02;279.29;;Yes;USA;WI;NASA;;2020-12-19;USA;IL;;Illinois Christmas Classic
+Alexander Ersing;M;BD;Raw;;;;pure;74.84;75;;;;;;;;;;145;;;;;260;405;1;290.95;289.02;279.29;;Yes;USA;WI;NASA;;2020-12-19;USA;IL;;Illinois Christmas Classic
+Alexander Ersing;M;BD;Raw;;;;pure;74.03;75;;;;;;;;;;142.5;;;;;252.5;395;1;285.77;284.05;274.61;;Yes;USA;WI;NASA;;2020-10-24;USA;IA;;Iowa Regional
+Alexander Ersing;M;BD;Raw;;;24-39;sm1;74.03;75;;;;;;;;;;142.5;;;;;252.5;395;1;285.77;284.05;274.61;;Yes;USA;WI;NASA;;2020-10-24;USA;IA;;Iowa Regional
+Alexander Ersing;M;BD;Raw;;;;smp;74.03;75;;;;;;;;;;142.5;;;;;252.5;395;1;285.77;284.05;274.61;;Yes;USA;WI;NASA;;2020-10-24;USA;IA;;Iowa Regional
+Alexander Ersing;M;BD;Raw;;;;open;74.03;75;;;;;;;;;;142.5;;;;;252.5;395;1;285.77;284.05;274.61;;Yes;USA;WI;NASA;;2020-10-24;USA;IA;;Iowa Regional
+Alexander Ersing;M;BD;Raw;;;24-39;sm1;74.89;75;;;;;;;;;;145;;;;-240;235;380;1;272.88;271.05;261.92;;Yes;USA;WI;NASA;;2019-06-22;USA;KS;;USA Nationals
+Alexander Ersing;M;BD;Raw;;;24-39;sm1;74.89;75;;;;;;;;;;145;;;;-240;235;380;1;272.88;271.05;261.92;;Yes;USA;WI;NASA;;2019-06-22;USA;KS;;USA Nationals
+Alexander Ersing;M;B;Raw;;;24-39;bpsm1;74.89;75;;;;;;;;;;145;;;;;;145;1;104.12;103.43;99.94;76.84;Yes;USA;WI;NASA;;2019-06-22;USA;KS;;USA Nationals
+Alexander Ersing;M;BD;Single-ply;30.5;24-34;24-39;M-O;79.1;83;;;;;;-137.5;137.5;142.5;;142.5;227.5;-237.5;-237.5;;227.5;370;1;256.85;254.42;245.27;;Yes;USA;WI;USAPL;IPF;2018-11-17;USA;WI;;Gainsgiving Open
+Alexander Ersing;M;D;Raw;;;24-39;sm1;77.2;82.5;;;;;;;;;;;;;;;237.5;237.5;1;167.32;165.93;160.13;;Yes;USA;WI;NASA;;2018-06-09;USA;;;Grand Nationals
+Alexander Ersing;M;D;Raw;29;24-34;24-39;Open;74.39;75;;;;;;;;;;;;;;;230;230;1;165.87;164.83;159.32;;Yes;USA;;WPA;;2016-10-06;USA;OR;Portland;World Championships
+Alexander Ersing;M;SBD;Wraps;29;24-34;24-39;Open;74.84;75;149.69;165.56;-183.7;;165.56;138.35;142.88;149.69;-156.49;149.69;226.8;244.94;-263.08;;244.94;560.19;1;402.44;399.76;386.30;81.76;Yes;USA;WI;APA;WPA;2016-03-19;USA;MI;St. Johns;Michigan Open Championships
+Alexander Ersing;M;BD;Raw;28;24-34;24-39;Open;74.75;75;;;;;;;;;;136.08;;;;;240.4;376.48;1;270.67;268.89;259.85;;;USA;WI;SPF;;2015-04-25;USA;AR;Little Rock;Little Rock Classic
+Alexander Ersing;M;BD;Raw;26.5;24-34;24-39;MR-O;74.8;75;;;;;;;;;;147.4;;;;;195;342.4;1;246.07;244.44;236.21;;Yes;USA;;USAPL;IPF;2014-01-18;USA;WI;;Wisconsin State Open
+Alexander Ersing;M;B;Raw;26.5;24-34;24-39;MR-O;74.8;75;;;;;;;;;;147.4;;;;;;147.4;1;105.93;105.23;101.69;78.16;Yes;USA;;USAPL;IPF;2014-01-18;USA;WI;;Wisconsin State Open
+Alexander Ersing;M;B;Raw;25;24-34;24-39;Open;72.12;75;;;;;;-102.06;113.4;127.01;;127.01;;;;;;127.01;1;93.48;93.07;90.08;68.67;Yes;USA;;APA;WPA;2012-06-16;USA;IL;Peoria;Illinois Summer Iron Bash

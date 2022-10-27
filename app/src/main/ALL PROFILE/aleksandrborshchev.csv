@@ -1,0 +1,23 @@
+﻿Name;Sex;Event;Equipment;Age;AgeClass;BirthYearClass;Division;BodyweightKg;WeightClassKg;Squat1Kg;Squat2Kg;Squat3Kg;Squat4Kg;Best3SquatKg;Bench1Kg;Bench2Kg;Bench3Kg;Bench4Kg;Best3BenchKg;Deadlift1Kg;Deadlift2Kg;Deadlift3Kg;Deadlift4Kg;Best3DeadliftKg;TotalKg;Place;Dots;Wilks;Glossbrenner;Goodlift;Tested;Country;State;Federation;ParentFederation;Date;MeetCountry;MeetState;MeetTown;MeetName
+Aleksandr Borshchev;M;B;Multi-ply;33;24-34;24-39;Open;97.4;100;;;;;;300;315;-330;;315;;;;;;315;1;196.15;193.80;185.21;101.54;;Russia;;IPL;IPL;2019-11-15;Russia;MOW;Dolgoprudny;World Cup
+Aleksandr Borshchev;M;B;Multi-ply;32;24-34;24-39;Pro Open;98.75;100;;;;;;-280;-280;-290;;;;;;;;;DQ;;;;;;Russia;;WRPF;WRPF;2018-11-10;Russia;;Saratov;Steel Character Torunament II
+Aleksandr Borshchev;M;B;Unlimited;32;24-34;24-39;Open;97.6;100;;;;;;250;270;290;;290;;;;;;290;1;180.42;178.27;170.35;93.38;;Russia;;RPU;;2018-10-06;Russia;VGG;Volzhsky;Russian Championships
+Aleksandr Borshchev;M;B;Unlimited;32;24-34;24-39;Pro Open;100;100;;;;;;260;280;295;;295;;;;;;295;1;181.58;179.53;171.47;93.79;;Russia;;WRPF;WRPF;2018-04-21;Russia;SAR;Saratov;Saratov Championships
+Aleksandr Borshchev;M;B;Unlimited;31;24-34;24-39;Open;98.6;100;;;;;;272.5;-285;-285;;272.5;;;;;;272.5;2;168.77;166.79;159.35;87.27;;Russia;;WRPF;WRPF;2017-10-25;Russia;MOW;Moscow;Amateur World Championships
+Aleksandr Borshchev;M;B;Multi-ply;31;24-34;24-39;Open;93.4;100;;;;;;235;-250;-250;;235;;;;;;235;1;149.21;147.33;140.98;77.54;;Russia;;RPU;;2017-07-07;Russia;PNZ;Penza;InMotion Bench Press & Deadlift Tournament
+Aleksandr Borshchev;M;B;Raw;29;24-34;24-39;Pro Open;97.1;100;;;;;;197.5;202.5;-207.5;;202.5;;;;;;202.5;2;126.28;124.75;119.23;94.08;;Russia;;WRPF;WRPF;2015-05-03;Russia;MOW;Moscow;Russian Open Championship
+Aleksandr Borshchev;M;B;Raw;28;24-34;24-39;Pro Open;97.9;100;;;;;;185;195;200;;200;;;;;;200;1;124.26;122.78;117.32;92.56;;Russia;;WPC-RUS;WPC;2014-11-29;Russia;SAR;Saratov;Silver Bar
+Aleksandr Borshchev;M;B;Raw;27;24-34;24-39;Pro Open;97.9;100;;;;;;180;190;-192.5;;190;;;;;;190;1;118.04;116.64;111.46;87.93;;Russia;;NAP;IPA;2013-03-29;Russia;SAR;Saratov;Asian Championships
+Aleksandr Borshchev;M;B;Multi-ply;27;24-34;24-39;Pro Open;97.9;100;;;;;;-240;247.5;-257.5;;247.5;;;;;;247.5;1;153.77;151.94;145.19;79.56;;Russia;;NAP;IPA;2013-03-29;Russia;SAR;Saratov;Asian Championships
+Aleksandr Borshchev;M;B;Multi-ply;26;24-34;24-39;Pro Open;99.6;100;;;;;;-240;-255;-255;;;;;;;;;DQ;;;;;;Russia;;WPC-RUS;WPC;2013-03-17;Russia;SAR;Engels;Volga Cup
+Aleksandr Borshchev;M;B;Raw;26;24-34;24-39;Pro Open;99.6;100;;;;;;180;190;-195;;190;;;;;;190;1;117.15;115.82;110.63;87.21;;Russia;;WPC-RUS;WPC;2013-03-17;Russia;SAR;Engels;Volga Cup
+Aleksandr Borshchev;M;B;Multi-ply;26;24-34;24-39;Pro Open;98.7;100;;;;;;250;262.5;267.5;;267.5;;;;;;267.5;1;165.59;163.67;156.36;85.63;;Russia;;NAP;IPA;2012-11-17;Russia;SAR;Saratov;Privolzhsky Championships
+Aleksandr Borshchev;M;B;Multi-ply;26;24-34;24-39;Amateur Open;98.65;100;;;;;;245;-255;255;-272.5;255;;;;;;255;1;157.89;156.05;149.08;81.65;Yes;Russia;;WPC;WPC;2012-04-18;Russia;ROS;Rostov-on-Don;European Championships
+Aleksandr Borshchev;M;B;Multi-ply;;;;Pro Open;97.4;100;;;;;;-250;-250;-250;;;;;;;;;DQ;;;;;;Russia;;WPC-RUS;WPC;2012-03-18;Russia;SAR;Engels;Saratov Bench Press & Deadlift Championships
+Aleksandr Borshchev;M;B;Raw;;;;Pro Open;97.4;100;;;;;;180;190;-195;;190;;;;;;190;3;118.32;116.90;111.71;88.14;;Russia;;WPC-RUS;WPC;2012-03-18;Russia;SAR;Engels;Saratov Bench Press & Deadlift Championships
+Aleksandr Borshchev;M;B;Single-ply;22;20-23;19-23;Pro Open;98;100;;;;;;260;270;280;;280;;;;;;280;1;173.88;171.82;164.18;89.96;;Russia;;WPC-RUS;WPC;2008-11-13;Russia;SAR;Saratov;Silver Bar Povolzhye Championships
+Aleksandr Borshchev;M;B;Raw;22;20-23;19-23;Pro Open;98;100;;;;;;205;215;-220;;215;;;;;;215;1;133.52;131.93;126.06;99.45;;Russia;;WPC-RUS;WPC;2008-11-13;Russia;SAR;Saratov;Silver Bar Povolzhye Championships
+Aleksandr Borshchev;M;B;Multi-ply;21;20-23;19-23;Pro Juniors 20-23;98.7;100;;;;;;250;265;-270;;265;;;;;;265;2;164.05;162.14;154.90;84.83;;Russia;;WPC-RUS;WPC;2008-03-18;Russia;ROS;Rostov-on-Don;Russian National Championships
+Aleksandr Borshchev;M;SBD;Multi-ply;21;20-23;19-23;J 20-23;99.25;100;-325;-340;-350;;;;;;;;;;;;;;DQ;;;;;;Russia;;WPC;WPC;2007-10-29;Russia;SAM;Togliatti;World Championships
+Aleksandr Borshchev;M;SBD;Multi-ply;20;20-23;19-23;Pro Juniors 20-23;89.7;90;270;290;312.5;;312.5;185;195;-205;;195;280;-300;-310;;280;787.5;3;510.06;503.59;482.71;87.06;;Russia;;WPC;WPC;2006-08-16;Russia;SAM;Togliatti;European Cup
+Aleksandr Borshchev;M;B;Multi-ply;20;20-23;19-23;Pro Juniors 20-23;88.6;90;;;;;;180;195;-207.5;;195;;;;;;195;4;127.10;125.50;120.36;66.43;;Russia;;WPC;WPC;2006-08-16;Russia;SAM;Togliatti;European Cup

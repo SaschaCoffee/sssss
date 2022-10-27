@@ -1,0 +1,47 @@
+﻿Name;Sex;Event;Equipment;Age;AgeClass;BirthYearClass;Division;BodyweightKg;WeightClassKg;Squat1Kg;Squat2Kg;Squat3Kg;Squat4Kg;Best3SquatKg;Bench1Kg;Bench2Kg;Bench3Kg;Bench4Kg;Best3BenchKg;Deadlift1Kg;Deadlift2Kg;Deadlift3Kg;Deadlift4Kg;Best3DeadliftKg;TotalKg;Place;Dots;Wilks;Glossbrenner;Goodlift;Tested;Country;State;Federation;ParentFederation;Date;MeetCountry;MeetState;MeetTown;MeetName
+AJ Alvarez;M;SBD;Wraps;23;20-23;24-39;Open;103.5;110;;;;;292.5;;;;;210;;;;;310;812.5;3;492.90;488.02;465.98;100.99;;USA;TX;USPA;IPL;2018-08-25;USA;TX;;The Tribute
+AJ Alvarez;M;SBD;Raw;23;20-23;24-39;MR-C;101.73;105;275;-287.5;-287.5;;275;185;192.5;198;;198;270;285;-307.5;;285;758;1;463.15;458.23;437.57;94.98;Yes;USA;TX;USAPL;IPF;2018-04-19;USA;TX;College Station;Collegiate Nationals
+AJ Alvarez;M;SBD;Raw;23;20-23;24-39;MR-C;99.5;105;247.5;262.5;;;262.5;175;185;;;185;267.5;282.5;-292.5;;282.5;730;1;450.31;445.17;425.22;92.44;Yes;USA;TX;USAPL;IPF;2018-03-11;USA;TX;;Spring Break Bash
+AJ Alvarez;M;SBD;Wraps;22;20-23;19-23;Open;100;100;;;;;307.54;;;;;200.03;;;;;317.51;825.08;2;507.85;502.13;479.59;104.23;;USA;;SPF;;2017-07-08;USA;TX;;Battle on the Bay
+AJ Alvarez;M;SBD;Wraps;22;20-23;19-23;Juniors;100;100;;;;;307.54;;;;;200.03;;;;;317.51;825.08;1;507.85;502.13;479.59;104.23;;USA;;SPF;;2017-07-08;USA;TX;;Battle on the Bay
+AJ Alvarez;M;SBD;Raw;22;20-23;19-23;MR-C;105.1;120;270;285;292.5;;292.5;187.5;197.5;-207.5;;197.5;282.5;297.5;-310;;297.5;787.5;2;474.76;470.42;449.21;97.19;Yes;USA;TX;USAPL;IPF;2017-04-07;USA;TX;;Collegiate National Championship
+AJ Alvarez;M;SBD;Raw;21.5;20-23;19-23;MR-C;100.4;105;245;262.5;-275;;262.5;175;185;-190;;185;275;280;287.5;;287.5;735;2;451.63;446.60;426.53;92.68;Yes;USA;TX;USAPL;IPF;2016-12-03;USA;TX;San Antonio;Southern Regional Championships
+AJ Alvarez;M;SBD;Single-ply;21;20-23;19-23;Juniors;100;100;;;;;322.05;;;;;244.94;;;;;292.11;859.1;1;528.79;522.84;499.37;89.84;;USA;;SPF;;2016-07-09;USA;TX;Corpus Christi;Texas State Powerlifting Championship
+AJ Alvarez;M;SBD;Single-ply;20;20-23;19-23;M-Jr;102.6;105;312.5;322.5;337.5;;337.5;230;235;240;;240;287.5;-312.5;-312.5;;287.5;865;2;526.65;521.23;497.71;89.36;Yes;USA;;USAPL;IPF;2015-05-15;USA;TX;;Men's and Women's Nationals
+AJ Alvarez;M;SBD;Raw;20;20-23;19-23;MR-Jr;103.2;105;;;;;270;;;;;185;;;;;290;745;1;452.49;447.95;427.73;92.73;Yes;USA;;USAPL;IPF;2015-03-08;USA;TX;San Antonio;Texas Strength Classic
+AJ Alvarez;M;SBD;Single-ply;20;20-23;19-23;Juniors;100;100;;;;;340;;;;;240;;;;;302.5;882.5;1;543.19;537.08;512.97;92.29;;USA;;SPF;;2015-01-10;USA;TX;Corpus Christi;Bar Benders on the Bay
+AJ Alvarez;M;SBD;Single-ply;19;18-19;19-23;M-T3;92.6;93;;;;;295;;;;;220;;;;;265;780;2;497.31;491.00;470.01;84.78;Yes;USA;;USAPL;IPF;2014-06-20;USA;PA;;32nd Annual Men's National Powerlifting Championships
+AJ Alvarez;M;SBD;Single-ply;19;18-19;19-23;M-T3;98.2;100;;;;;315;;;;;217.5;;;;;297.5;830;1;514.97;508.89;486.22;87.57;Yes;USA;;USAPL;IPF;2014-04-26;USA;TX;San Antonio;Texas State Championships
+AJ Alvarez;M;SBD;Raw;19;18-19;19-23;MR-T3;99.6;100;;;;;250;;;;;175;;;;;277.5;702.5;1;433.15;428.22;409.03;88.92;Yes;USA;;USAPL;IPF;2014-03-09;USA;TX;;Gulf Coast Championships
+AJ Alvarez;M;SBD;Raw;18.5;18-19;19-23;MR-T3;98.1;100;;;;;267.5;;;;;170;;;;;257.5;695;1;431.40;426.30;407.32;88.61;Yes;USA;;USAPL;IPF;2013-12-07;USA;TX;San Antonio;Texas Regional Championships
+AJ Alvarez;M;SBD;Single-ply;18;18-19;19-23;M-HS;88.9;90;227.5;272.5;295;;295;-142.5;142.5;-190;;142.5;227.5;250;280;;280;717.5;1;466.84;460.96;442.02;79.70;Yes;USA;;USAPL;IPF;2013-04-20;USA;TX;San Antonio;State Championships
+AJ Alvarez;M;SBD;Single-ply;18;18-19;19-23;M-T3;88.9;90;227.5;272.5;295;;295;-142.5;142.5;-190;;142.5;227.5;250;280;;280;717.5;2;466.84;460.96;442.02;79.70;Yes;USA;;USAPL;IPF;2013-04-20;USA;TX;San Antonio;State Championships
+AJ Alvarez;M;SBD;Single-ply;18;18-19;19-23;M-O;88.9;90;227.5;272.5;295;;295;-142.5;142.5;-190;;142.5;227.5;250;280;;280;717.5;1;466.84;460.96;442.02;79.70;Yes;USA;;USAPL;IPF;2013-04-20;USA;TX;San Antonio;State Championships
+AJ Alvarez;M;SBD;Single-ply;18;18-19;19-23;Boys;88.27;89.8;;;;;306.17;;;;;183.7;;;;;265.35;755.23;1;493.19;487.01;467.15;84.22;Yes;USA;;THSPA;;2013-03-23;USA;TX;Abilene;Div 3 State Meet
+AJ Alvarez;M;SBD;Single-ply;18;18-19;19-23;Boys;88.9;89.8;;;;;303.91;;;;;158.76;;;;;244.94;707.6;1;460.40;454.60;435.92;78.60;Yes;USA;;THSPA;;2013-03-09;USA;TX;Bishop;Region 5 D3 Championship
+AJ Alvarez;M;SBD;Single-ply;18;18-19;19-23;Boys;96.34;99.7;;;;;258.55;;;;;140.61;;;;;;;DQ;;;;;Yes;USA;;THSPA;;2013-02-23;USA;TX;Southwest;PSJA Southwest
+AJ Alvarez;M;SBD;Single-ply;18;18-19;19-23;Boys;95.53;99.7;;;;;235.87;;;;;138.35;;;;;226.8;601.01;4;377.58;372.91;356.57;64.29;Yes;USA;;THSPA;;2013-02-16;USA;TX;Los Fresnos;Los Fresnos Invitational
+AJ Alvarez;M;SBD;Single-ply;18;18-19;19-23;Boys;90.04;99.7;;;;;297.1;;;;;165.56;;;;;235.87;698.53;1;451.57;445.84;427.28;77.06;Yes;USA;;THSPA;;2013-02-09;USA;TX;Gregory-Portland;G-P Invitational-Boys
+AJ Alvarez;M;SBD;Single-ply;18;18-19;19-23;Boys;94.62;99.7;;;;;231.33;;;;;136.08;;;;;213.19;580.6;3;366.39;361.81;346.07;62.41;Yes;USA;;THSPA;;2013-02-02;USA;TX;LaJoya ISD;LaJoya Invitational
+AJ Alvarez;M;SBD;Single-ply;18;18-19;19-23;Boys;89.95;99.7;;;;;294.84;;;;;183.7;;;;;265.35;743.89;1;481.13;475.03;455.28;82.11;Yes;USA;;THSPA;;2013-01-12;USA;TX;Bishop;Bishop Badger Invitational
+AJ Alvarez;M;SBD;Single-ply;18;18-19;19-23;Boys;95.62;99.7;;;;;204.12;;;;;124.74;;;;;206.38;535.24;1;336.12;331.96;317.41;57.22;Yes;USA;;THSPA;;2013-01-10;USA;TX;Zapata;Zapata High School Powerlifting Meet
+AJ Alvarez;M;SBD;Single-ply;17;16-17;14-18;Boys;89.81;89.8;;;;;201.85;;;;;122.47;;;;;213.19;537.51;4;347.92;343.51;329.25;59.38;Yes;USA;;THSPA;;2012-02-25;USA;TX;PSJA SOUTHWEST;PSJA SOUTHWEST BOYS
+AJ Alvarez;M;SBD;Single-ply;17;16-17;14-18;Varsity;90.04;99.7;;;;;283.5;;;;;129.27;;;;;244.94;657.71;3;425.18;419.78;402.31;72.56;Yes;USA;;THSPA;;2012-02-04;USA;TX;Calallen Corpus Christi Texas;Calallen Asa Chambless Powerlifting Classic
+AJ Alvarez;M;SBD;Single-ply;17;16-17;14-18;Boys;88.36;89.8;;;;;208.65;;;;;117.93;;;;;204.12;530.7;7;346.38;342.04;328.08;59.15;Yes;USA;;THSPA;;2012-02-04;USA;TX;Mission Vets;Mission Vets Invitational
+AJ Alvarez;M;SBD;Single-ply;17;16-17;14-18;Boys;87.86;89.8;;;;;201.85;;;;;113.4;;;;;195.04;510.29;6;334.04;329.88;316.49;57.05;Yes;USA;;THSPA;;2012-01-28;USA;TX;Berta Cabaza Middle School;Greyhound Invitational
+AJ Alvarez;M;SBD;Single-ply;17;16-17;14-18;Boys;87.63;89.8;;;;;192.78;;;;;108.86;;;;;192.78;494.42;2;324.10;320.07;307.12;55.36;Yes;USA;;THSPA;;2012-01-14;USA;TX;Zapata;Zapata Powerlifting Meet
+AJ Alvarez;M;SBD;Single-ply;17;16-17;14-18;Boys;92.53;99.7;;;;;240.4;;;;;145.15;;;;;238.14;623.69;2;397.79;392.74;375.97;67.82;Yes;USA;;THSPA;;2012-01-07;USA;TX;;Tuloso-Midway Warrior Classic
+AJ Alvarez;M;SBD;Single-ply;16;16-17;14-18;Boys;86.23;89.8;;;;;215.46;;;;;124.74;;;;;219.99;560.19;7;370.35;365.84;351.29;63.29;Yes;USA;;THSPA;;2011-03-12;USA;TX;Kingsville;Region V Div III Meet
+AJ Alvarez;M;SBD;Single-ply;16;16-17;14-18;Boys;89.36;89.8;;;;;;;;;;;;;;;;;DQ;;;;;Yes;USA;;THSPA;;2011-02-26;USA;TX;Kingsville;3rd Annual Brahma Bash
+AJ Alvarez;M;SBD;Single-ply;16;16-17;14-18;Boys;80.47;82.1;;;;;165.56;;;;;99.79;;;;;176.9;442.25;15;303.90;300.82;289.77;52.01;Yes;USA;;THSPA;;2011-02-26;USA;TX;PSJA Southwest;Southwest Powerlifting
+AJ Alvarez;M;SBD;Single-ply;16;16-17;14-18;Boys;59.24;59.8;;;;;129.27;;;;;68.04;;;;;117.93;315.25;9;268.90;272.04;265.84;45.75;Yes;USA;;THSPA;;2011-02-19;USA;TX;Stephenville;Stephenville High School
+AJ Alvarez;M;SBD;Single-ply;16;16-17;14-18;Junior Varsity;87.45;89.8;;;;;206.38;;;;;117.93;;;;;219.99;544.31;1;357.19;352.75;338.51;61.01;Yes;USA;;THSPA;;2011-02-18;USA;TX;Corpus Christi Texas;Asa Chambless Powerlifting Classic
+AJ Alvarez;M;SBD;Single-ply;16;16-17;14-18;Boys;80.38;82.1;;;;;158.76;;;;;92.99;;;;;176.9;428.64;17;294.75;291.76;281.06;50.45;Yes;USA;;THSPA;;2011-02-12;USA;TX;;Mission Veterans Memorial Power Meet
+AJ Alvarez;M;SBD;Single-ply;16;16-17;14-18;Boys;88.09;89.8;;;;;206.38;;;;;111.13;;;;;208.65;526.17;2;343.97;339.67;325.85;58.74;Yes;USA;;THSPA;;2011-02-12;USA;TX;Gregory-Portland Texas;GP Wildcat Powerlifting Invitational
+AJ Alvarez;M;SBD;Single-ply;16;16-17;14-18;Boys;87.45;89.8;;;;;199.58;;;;;111.13;;;;;213.19;523.9;2;343.79;339.52;325.82;58.73;Yes;USA;;THSPA;;2011-02-05;USA;TX;Riviera;Riviera Baffin Bay Bash Classic
+AJ Alvarez;M;SBD;Single-ply;16;16-17;14-18;Boys;88.45;89.8;;;;;192.78;;;;;106.59;;;;;208.65;508.02;2;331.41;327.25;313.87;56.59;Yes;USA;;THSPA;;2011-01-29;USA;TX;San Diego Texas;San Diego Brush Country Classic
+AJ Alvarez;M;SBD;Single-ply;16;16-17;14-18;Boys;80.92;82.1;;;;;151.95;;;;;90.72;;;;;172.37;415.04;17;284.28;281.33;270.93;48.65;Yes;USA;;THSPA;;2011-01-22;USA;TX;Cigarroa;Cigarroa Toro Invitational
+AJ Alvarez;M;SBD;Single-ply;16;16-17;14-18;Boys;88.54;89.8;;;;;170.1;;;;;102.06;;;;;185.97;458.13;8;298.70;294.95;282.89;51.01;Yes;USA;;THSPA;;2011-01-08;USA;TX;Tuloso-Midway;Warrior Classic
+AJ Alvarez;M;SBD;Single-ply;15;13-15;14-18;Boys;74.12;74.8;;;;;;;;;;;;;;;;;DQ;;;;;Yes;USA;;THSPA;;2010-02-27;USA;TX;WEHS;WEHS 4th Annual Invitational
+AJ Alvarez;M;SBD;Single-ply;15;13-15;14-18;Boys;76.2;82.1;;;;;104.33;;;;;72.57;;;;;140.61;317.51;5;225.51;223.79;216.09;38.62;Yes;USA;;THSPA;;2010-02-20;USA;TX;Weslaco;Weslaco Powerlifting Meet
+AJ Alvarez;M;SBD;Single-ply;15;13-15;14-18;Boys;75.21;82.1;;;;;113.4;;;;;72.57;;;;;120.2;306.17;15;219.26;217.74;210.37;37.55;Yes;USA;;THSPA;;2010-02-06;USA;TX;Pharr-Valley View;Valley View Invitational

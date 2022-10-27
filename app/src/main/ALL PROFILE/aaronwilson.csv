@@ -1,0 +1,20 @@
+﻿Name;Sex;Event;Equipment;Age;AgeClass;BirthYearClass;Division;BodyweightKg;WeightClassKg;Squat1Kg;Squat2Kg;Squat3Kg;Squat4Kg;Best3SquatKg;Bench1Kg;Bench2Kg;Bench3Kg;Bench4Kg;Best3BenchKg;Deadlift1Kg;Deadlift2Kg;Deadlift3Kg;Deadlift4Kg;Best3DeadliftKg;TotalKg;Place;Dots;Wilks;Glossbrenner;Goodlift;Tested;Country;State;Federation;ParentFederation;Date;MeetCountry;MeetState;MeetTown;MeetName
+Aaron Wilson;M;SBD;Raw;34;24-34;24-39;M_OR_CPF;74.6;75;145;155;160;;160;102.5;110;115;;115;195;205;210;;210;485;1;349.14;346.89;335.25;70.91;;Canada;;CPF;WPC;2016-11-19;Canada;ON;Mississauga;Fall at Forge
+Aaron Wilson;M;B;Raw;25;24-34;24-39;M_OR_AAPF;75;75;;;;;;;;;;120;;;;;;120;1;86.09;85.51;82.62;63.54;Yes;Canada;;WPC;WPC;2012-07-21;USA;MI;Romulus;CanAm Bench Press Championships
+Aaron Wilson;M;SBD;Raw;;;;Open;73.9;74;;;;;140;;;;;107.5;;;;;187.5;435;2;315.07;313.20;302.82;63.91;Yes;Canada;ON;CPU;IPF;2011-08-28;Canada;ON;London;London Open
+Aaron Wilson;M;SBD;Multi-ply;30;24-34;24-39;M_OEM_APF;115.4;125;-422.5;422.5;-440;;422.5;62.5;;;;62.5;125;;;;125;610;2;355.04;354.11;339.01;59.87;;Canada;;APF;WPC;2010-02-06;USA;KS;;Best in the Midwest
+Aaron Wilson;M;BD;Multi-ply;;20-23;;M_JEM_APF;82.5;82.5;;;;;;;;;;152.5;;;;;200;352.5;1;238.78;236.14;227.22;;;Canada;;APF;WPC;2009-08-29;USA;MI;Detroit;Detroit Barbell Open
+Aaron Wilson;M;SBD;Single-ply;;;;Open;73.4;75;;;;;155;;;;;115;;;;;212.5;482.5;1;351.02;349.09;337.62;60.11;Yes;Canada;ON;CPU;IPF;2009-08-29;Canada;ON;London;London Open
+Aaron Wilson;M;SBD;Multi-ply;;;;Open;110;110;396.89;408.23;421.84;;421.84;308.44;317.51;;;317.51;308.44;317.51;326.59;;326.59;1065.94;1;631.32;627.30;599.54;106.73;;Canada;;SPF;;2009-08-21;USA;OH;Sharonville;PRO-AM
+Aaron Wilson;M;SBD;Multi-ply;34;24-34;24-39;M_OEM_APF;109.1;110;;;;;385;;;;;320;;;;;300;1005;2;597.08;592.95;566.58;100.99;;Canada;;APF;WPC;2009-06-13;USA;FL;Palm Beach Gardens;Senior Nationals
+Aaron Wilson;M;SBD;Single-ply;;;;Open;67.5;67.5;;;;;152.5;;;;;110;;;;;210;472.5;1;364.18;364.30;353.63;62.29;Yes;Canada;ON;CPU;IPF;2009-04-25;Canada;ON;St. Thomas;St. Thomas Open
+Aaron Wilson;M;B;Multi-ply;;;;M_OEM_APF;125;125;;;;;;;;;;;;;;;;;DQ;;;;;;Canada;;APF;WPC;2009-03-22;USA;NE;Omaha;Spring Open
+Aaron Wilson;M;SBD;Multi-ply;22;20-23;19-23;M_OEM_APF;77.6;82.5;;;;;147.42;;;;;134.72;;;;;182.34;464.93;2;326.51;323.71;312.33;55.91;;Canada;;APF;WPC;2009-01-17;USA;MI;Bay City;Battle of the Bay
+Aaron Wilson;M;SBD;Single-ply;;;;Open;75;75;;;;;152.5;;;;;102.5;;;;;182.5;437.5;1;313.87;311.75;301.22;53.75;Yes;Canada;ON;CPU;IPF;2008-02-23;Canada;ON;St. Thomas;St. Thomas Open
+Aaron Wilson;M;B;Single-ply;;;;Open;78.9;82.5;;;;;;;;;;107.5;;;;;;107.5;1;74.74;74.04;71.38;39.73;Yes;Canada;ON;CPU;IPF;2007-07-21;Canada;ON;Ottawa;Capital Barbell 1st Annual
+Aaron Wilson;M;B;Multi-ply;;;;Open;108.7;110;;;;;;-345;-345;;;;;;;;;;DQ;;;;;;Canada;;WPC;WPC;2007-03-03;USA;OH;Columbus;WPO World Record Bench Bash
+Aaron Wilson;M;B;Multi-ply;;;;Open;109.3;110;;;;;;345;-352.5;-352.5;;345;;;;;;345;2;204.83;203.43;194.39;105.23;;Canada;;WPC;WPC;2006-03-04;USA;OH;Columbus;WPO World Record Bench Bash
+Aaron Wilson;M;B;Multi-ply;;;;Open;109;110;;;;;;-320;320;-325;;320;;;;;;320;3;190.18;188.85;180.45;97.72;;Canada;;WPC;WPC;2005-11-05;Finland;;Helsinki;WPO European Bench Bash For Cash
+Aaron Wilson;M;B;Multi-ply;;;;Open;108.5;110;;;;;;-320;-332.5;-332.5;;;;;;;;;DQ;;;;;;Canada;;WPC;WPC;2005-10-29;USA;IL;Chicago;WPO Bench Bash for Cash
+Aaron Wilson;M;B;Multi-ply;;;;M_OEM_APF;108.5;110;;;;;;305;-317.5;317.5;;317.5;;;;;;317.5;1;189.03;187.65;179.28;97.15;;Canada;;APF;WPC;2005-07-09;USA;IL;Willowbrook;Chicago Summer Bash
+Aaron Wilson;M;B;Multi-ply;;;;M_OEM_APF;110;110;;;;;;295;-307.5;307.5;;307.5;;;;;;307.5;1;182.12;180.96;172.95;93.54;;Canada;;APF;WPC;2005-06-03;USA;MI;Detroit;Nationals

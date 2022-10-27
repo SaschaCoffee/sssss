@@ -1,0 +1,30 @@
+﻿Name;Sex;Event;Equipment;Age;AgeClass;BirthYearClass;Division;BodyweightKg;WeightClassKg;Squat1Kg;Squat2Kg;Squat3Kg;Squat4Kg;Best3SquatKg;Bench1Kg;Bench2Kg;Bench3Kg;Bench4Kg;Best3BenchKg;Deadlift1Kg;Deadlift2Kg;Deadlift3Kg;Deadlift4Kg;Best3DeadliftKg;TotalKg;Place;Dots;Wilks;Glossbrenner;Goodlift;Tested;Country;State;Federation;ParentFederation;Date;MeetCountry;MeetState;MeetTown;MeetName
+Aleksey Khromenkov;M;D;Raw;63;60-64;60-69;Masters 60-64;98.1;100;;;;;;;;;;;155;175;190;;190;190;1;117.94;116.54;111.35;;;;;RPU;;2021-09-05;Ukraine;;Koktebel;Crimean Power Pro
+Aleksey Khromenkov;M;D;Raw;63;60-64;60-69;Pro Masters 60-69;97.9;100;;;;;;;;;;;175;-190;200;;200;200;1;124.26;122.78;117.32;;;;;WRPF;WRPF;2021-06-06;Russia;;Simferopol;Iron Vacation
+Aleksey Khromenkov;M;D;Raw;62;60-64;60-69;Pro Masters 60-69;100;100;;;;;;;;;;;185;200;-215;;200;200;1;123.10;121.72;116.25;;;;;WRPF;WRPF;2020-09-27;Ukraine;;Simferopol;Power of Atlantis
+Aleksey Khromenkov;M;BD;Raw;62;60-64;60-69;Masters 60-64;99.4;100;;;;;;105;115;125;;125;175;-190;200;;200;325;1;200.57;198.27;189.39;;;;;RPU;;2020-08-29;Ukraine;;Koktebel;Crimea Power Pro
+Aleksey Khromenkov;M;B;Raw;62;60-64;60-69;Masters 60-64;99.7;100;;;;;;105;115;125;;125;;;;;;125;1;77.04;76.17;72.75;57.35;;;;RPU;;2019-11-09;Russia;;Simferopol;Southern Federal District Championships
+Aleksey Khromenkov;M;BD;Raw;61;60-64;60-69;Masters 60-64;97.6;100;;;;;;110;120;-130;;120;185;200;210;;210;330;1;205.31;202.85;193.85;;;;;RPU;;2019-06-22;Russia;;Feodosiya;Black Sea Cup
+Aleksey Khromenkov;M;B;Raw;61;60-64;60-69;Pro Masters 60-69;99.4;100;;;;;;105;112.5;115;;115;;;;;;115;1;70.97;70.16;67.02;52.83;;;;WRPF;WRPF;2019-06-02;Russia;;Simferopol;Iron Holidays III
+Aleksey Khromenkov;M;BD;Raw;61;60-64;60-69;Masters 60-69;101.9;110;;;;;;105;115;;;115;165;185;200;;200;315;1;192.34;190.30;181.72;;;;;WRPF;WRPF;2019-03-09;Russia;;Simferopol;The Power of Atlants III
+Aleksey Khromenkov;M;D;Raw;60;60-64;60-69;Pro Masters 60-64;98.4;100;;;;;;;;;;;175;190;205;;205;205;1;127.08;125.58;119.98;;;;;WRPF;WRPF;2018-09-22;Russia;;Rostov-on-Don;Southern Capital Tournament
+Aleksey Khromenkov;M;B;Raw;60;60-64;60-69;Masters 60-64;98.5;100;;;;;;105;115;125;;125;;;;;;125;1;77.45;76.54;73.13;57.68;;;;RPU;;2018-08-19;Russia;;Feodosiya;Black Sea Cup
+Aleksey Khromenkov;M;D;Raw;60;60-64;60-69;Masters 60-64;100;100;;;;;;;;;;;180;195;-205;;195;195;1;120.03;118.67;113.35;;;;;RPU;;2018-08-04;Ukraine;;Koktebel;Crimea Power Pro
+Aleksey Khromenkov;M;B;Raw;59;55-59;60-69;Pro Masters 50-59;97.2;100;;;;;;110;-120;130;;130;;;;;;130;1;81.03;80.05;76.51;60.37;;;;WRPF;WRPF;2017-05-28;Russia;;Kerch;Iron Vacation Tournament
+Aleksey Khromenkov;M;B;Raw;59;55-59;50-59;Masters 50-59;100;100;;;;;;110;120;130;;130;;;;;;130;4;80.02;79.12;75.57;59.56;;Russia;;WRPF;WRPF;2016-11-17;Russia;MOW;Moscow;Amateur World Championships
+Aleksey Khromenkov;M;B;Raw;58;55-59;50-59;Masters 55-59;99.3;100;;;;;;110;117.5;120;;120;;;;;;120;1;74.09;73.24;69.96;55.16;;;;RPU;;2016-09-17;Russia;;Kerch;Iron Holiday Tournament
+Aleksey Khromenkov;M;B;Raw;58;55-59;50-59;Amateur Masters 50-59;97.2;100;;;;;;105;117.5;125;;125;;;;;;125;2;77.91;76.97;73.56;58.05;;Russia;;WRPF;WRPF;2015-12-03;Russia;MOW;Moscow;World Championships
+Aleksey Khromenkov;M;B;Raw;57;55-59;50-59;Masters 55-59;96.3;100;;;;;;95;105;112.5;;112.5;;;;;;112.5;1;70.42;69.56;66.49;52.48;;;;RPU;;2015-07-26;Ukraine;;Evpatoriya;Crimean Masters Tournament
+Aleksey Khromenkov;M;B;Raw;57;55-59;50-59;Pro Masters 55-59;96.2;100;;;;;;105;115;122.5;;122.5;;;;;;122.5;1;76.71;75.77;72.44;57.17;;Ukraine;;WPC-RUS;WPC;2015-05-09;Russia;NIZ;Nizhny Novgorod;Open Tournament Victory Cup
+Aleksey Khromenkov;M;B;Raw;57;55-59;50-59;Pro Masters 55-59;95.8;100;;;;;;105;115;120;;120;;;;;;120;2;75.29;74.36;71.10;56.12;;Ukraine;;WPC-RUS;WPC;2015-03-21;Russia;KDA;Tuapse;Black Sea Bench Press & Deadlift Cup
+Aleksey Khromenkov;M;B;Raw;56;55-59;50-59;Masters 2;97.5;105;;;;;;107.5;117.5;120;;120;;;;;;120;1;74.69;73.80;70.52;55.64;Yes;;;FPR;IPF;2014-06-28;Russia;;Yalta;Yalta Southern Capital Bench Press Cup
+Aleksey Khromenkov;M;B;Raw;56;55-59;50-59;Masters 2;93;93;;;;;;105;115;-117.5;;115;;;;;;115;1;73.17;72.24;69.14;54.56;Yes;Ukraine;;FPR;IPF;2014-04-27;Ukraine;;Simferopol;Simferopol Bench Press Championships
+Aleksey Khromenkov;M;B;Raw;52;50-54;50-59;M3;97.5;100;;;;;;130;137.5;140;;140;;;;;;140;2;87.14;86.10;82.28;64.92;;;;UkrainePO;;2010-02-19;Ukraine;;Ternopil';Ukrainian Championships
+Aleksey Khromenkov;M;B;Raw;52;50-54;50-59;M3;95.5;100;;;;;;125;132.5;135;;135;;;;;;135;1;84.83;83.78;80.11;63.23;;Ukraine;;UkrainePO;;2009-10-23;Ukraine;;Melitopol;Ukrainian Bench Press Cup
+Aleksey Khromenkov;M;B;Raw;51;50-54;50-59;M;93;100;;;;;;112.5;117.5;120;;120;;;;;;120;1;76.35;75.38;72.15;56.93;;Ukraine;;UkrainePO;;2009-07-04;Ukraine;;Krasnye Peschery;Tavrika Cup
+Aleksey Khromenkov;M;B;Multi-ply;51;50-54;50-59;M3;92.4;100;;;;;;105;112.5;115;;115;;;;;;115;1;73.40;72.47;69.37;38.18;;Ukraine;;WPC-UKR;WPC;2009-03-18;Ukraine;;Kryvyi Rig;Ukrainian Bench Press Championships & Vitaliy Ponomarenko BP Memorial
+Aleksey Khromenkov;M;B;Raw;51;50-54;50-59;M3;91.3;100;;;;;;102.5;107.5;112.5;;112.5;;;;;;112.5;1;72.22;71.31;68.30;53.86;;;;UkrainePO;;2009-02-19;Ukraine;;Ostrog;Ukrainian Championships
+Aleksey Khromenkov;M;B;Raw;51;50-54;50-59;M3;92.4;100;;;;;;105;112.5;115;;115;;;;;;115;1;73.40;72.47;69.37;54.73;;;;WPC-UKR;WPC;2009-02-14;Ukraine;;Kryvyi Rig;V.Pomomarenko Bench Press Memorial
+Aleksey Khromenkov;M;B;Raw;50;50-54;50-59;M3;90;90;;;;;;97.5;102.5;;;102.5;;;;;;102.5;1;66.28;65.44;62.71;49.42;;Ukraine;;UkrainePO;;2008-09-26;Ukraine;;Lutsk;Ukrainian Bench Press Cup
+Aleksey Khromenkov;M;B;Single-ply;50;50-54;50-59;M3;87.6;90;;;;;;105;110;;;110;;;;;;110;4;72.12;71.22;68.34;37.75;Yes;;;UDFPF;WDFPF;2008-02-14;Ukraine;;Nikolaev;Open Championships
+Aleksey Khromenkov;M;SBD;Single-ply;46;45-49;40-49;Open;88.3;90;150;160;-170;;160;105;115;-120;;115;170;180;;;180;455;8;297.08;293.36;281.39;50.73;Yes;Ukraine;;UkrainePF;IPF;2003-11-29;Ukraine;;Sevastopol;Crimean Powerlifting Championships

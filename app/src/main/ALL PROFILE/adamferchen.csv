@@ -1,0 +1,40 @@
+﻿Name;Sex;Event;Equipment;Age;AgeClass;BirthYearClass;Division;BodyweightKg;WeightClassKg;Squat1Kg;Squat2Kg;Squat3Kg;Squat4Kg;Best3SquatKg;Bench1Kg;Bench2Kg;Bench3Kg;Bench4Kg;Best3BenchKg;Deadlift1Kg;Deadlift2Kg;Deadlift3Kg;Deadlift4Kg;Best3DeadliftKg;TotalKg;Place;Dots;Wilks;Glossbrenner;Goodlift;Tested;Country;State;Federation;ParentFederation;Date;MeetCountry;MeetState;MeetTown;MeetName
+Adam Ferchen;M;SBD;Wraps;28;24-34;24-39;Open;99.3;100;320;337.5;347.5;;347.5;187.5;200;-210;;200;320;337.5;-342.5;;337.5;885;1;546.40;540.13;515.95;112.18;;USA;NY;USA-UA;;2019-08-30;USA;CA;Mountain View;Boss of Bosses 6
+Adam Ferchen;M;SBD;Wraps;28;24-34;24-39;Open;98.6;100;;;;;330;;;;;207.5;;;;;330;867.5;1;537.26;530.99;507.29;110.33;;USA;NY;USPA;IPL;2019-04-13;USA;OH;Cleveland;The Battle XXII
+Adam Ferchen;M;SBD;Raw;27;24-34;24-39;Open;97.6;100;;;;;295;;;;;195;;;;;350;840;1;522.60;516.36;493.43;107.35;;USA;NY;USPA;IPL;2018-08-25;USA;TX;;The Tribute
+Adam Ferchen;M;SBD;Wraps;27;24-34;24-39;Open;98.4;100;;;;;335;;;;;197.5;;;;;340;872.5;1;540.85;534.50;510.66;111.07;;USA;NY;IPL;IPL;2018-06-09;USA;IL;Rosemont;Chicago Fit Expo
+Adam Ferchen;M;D;Raw;;;;Open;107.9;110;;;;;;;;;;;;;;;342.5;342.5;1;204.35;202.79;193.72;;;USA;NY;USPA;IPL;2018-04-21;USA;NY;Oneonta;Central New York Pro/Am
+Adam Ferchen;M;SBD;Wraps;26;24-34;24-39;Open;98.5;100;;;;;332.5;;;;;207.5;;;;;327.5;867.5;2;537.50;531.21;507.51;110.38;;USA;NY;USPA;IPL;2018-01-06;USA;CA;Los Angeles;American Cup
+Adam Ferchen;M;SBD;Raw;26;24-34;24-39;Open;98.3;100;;;;;300;;;;;205;;;;;347.5;852.5;1;528.69;522.47;499.18;108.58;;USA;NY;IPL;IPL;2017-11-02;USA;NV;Las Vegas;Worlds
+Adam Ferchen;M;SBD;Raw;26;24-34;24-39;Open;98.9;100;;;;;287.5;;;;;210;;;;;317.5;815;1;504.07;498.23;475.96;103.50;;USA;NY;USPA;IPL;2017-10-07;USA;NY;Bohemia;Long Island Columbus Day Classic
+Adam Ferchen;M;SBD;Wraps;26;24-34;24-39;HW;90;90;;;;;285;;;;;202.5;;;;;317.5;805;3;520.51;513.91;492.53;107.02;;USA;NY;USPA;IPL;2017-04-15;USA;CA;Del Mar;CETC US Open Powerlifting Championships
+Adam Ferchen;M;B;Raw;;;;Pro Open;100.33;110;;;;;;;;;;215.46;;;;;;215.46;2;132.43;130.95;125.07;98.55;;USA;;RPS;;2016-12-10;USA;NY;Marcy;4th Annual Tom Brown Biggunz
+Adam Ferchen;M;SBD;Wraps;25;24-34;24-39;Open;89.8;90;;;;;287.5;;;;;193;;;;;345;825.5;1;534.37;527.59;505.69;109.86;;USA;NY;IPL;IPL;2016-11-10;USA;NV;Las Vegas;World Powerlifting Championships
+Adam Ferchen;M;SBD;Wraps;;;;Pro Open;89.54;90;;;;;294.84;;;;;192.78;;;;;;;DQ;;;;;;USA;;RPS;;2016-08-06;USA;NY;Buffalo;New York State Powerlifting Championships
+Adam Ferchen;M;SBD;Raw;25;24-34;24-39;Open;97.2;100;;;;;267.5;;;;;207.5;;;;;317.5;792.5;3;493.96;488.01;466.39;101.48;;USA;NY;USPA;IPL;2016-06-25;USA;IL;Rosemont;Chicago Fit Expo
+Adam Ferchen;M;SBD;Wraps;25;24-34;24-39;Open;99.6;100;;;;;302.5;;;;;195;;;;;-310;;DQ;;;;;;USA;NY;USPA;IPL;2016-04-16;USA;NY;Oneonta;Central New York Pro/Am
+Adam Ferchen;M;SBD;Wraps;24;24-34;24-39;Open;89.99;90;;;;;300;;;;;187.5;;;;;322.5;810;1;523.78;517.13;495.62;107.69;;USA;NY;USPA;IPL;2016-02-20;USA;OH;Dayton;Love to Lift Powerlifting Meet
+Adam Ferchen;M;BD;Raw;;;;Pro Open;97.79;100;;;;;;;;;;206.38;;;;;335.66;542.04;1;336.93;332.92;318.12;;;USA;;RPS;;2015-12-12;USA;NY;Utica;3rd Annual Tom Brown Memorial Biggunz Classic
+Adam Ferchen;M;SBD;Wraps;;;;Open;97.89;100;;;;;294.84;;;;;197.31;;;;;306.17;798.32;1;496.01;490.12;468.32;101.88;;USA;;XPS;;2015-11-21;USA;NY;Syracuse;Beasts of New York
+Adam Ferchen;M;SBD;Wraps;24;24-34;24-39;Open;90;90;;;;;275;;;;;195;;;;;307.5;777.5;1;502.73;496.35;475.70;103.36;;USA;NY;USPA;IPL;2015-11-07;USA;OH;Dayton;The Ohio Cup
+Adam Ferchen;M;SBD;Wraps;;;;Open;100;100;;;;;317.51;;;;;197.31;;;;;317.51;832.34;1;512.32;506.55;483.81;105.15;;USA;;XPS;;2015-06-06;USA;NY;Syracuse;Syracuse Strongest
+Adam Ferchen;M;SBD;Wraps;24;24-34;24-39;Open;89.99;90;;;;;300;;;;;187.5;;;;;322.5;810;1;523.78;517.13;495.62;107.69;;USA;NY;USPA;IPL;2015-02-21;USA;OH;Dayton;Dirty Gym Love to Lift Open Powerlifting Meet
+Adam Ferchen;M;BD;Raw;23;20-23;;Juniors 20-23;97.98;100;;;;;;;;;;193;;;;;317.5;510.5;1;317.05;313.29;299.35;;;USA;;USPA;IPL;2014-12-06;USA;NY;Utica;2nd Annual Tom Brown Memorial Ironman
+Adam Ferchen;M;SBD;Raw;23;20-23;;Juniors 20-23;89.4;90;;;;;257.5;;;;;185;;;;;300;742.5;1;481.73;475.63;455.98;99.04;;USA;NY;IPL;IPL;2014-11-05;USA;NV;Las Vegas;World Powerlifting Benchpress and Deadlift Championships
+Adam Ferchen;M;SBD;Raw;23;20-23;;Open;89.4;90;;;;;257.5;;;;;185;;;;;300;742.5;3;481.73;475.63;455.98;99.04;;USA;NY;IPL;IPL;2014-11-05;USA;NV;Las Vegas;World Powerlifting Benchpress and Deadlift Championships
+Adam Ferchen;M;SBD;Raw;22;20-23;19-23;Juniors 20-23;97.7;100;;;;;272.5;;;;;187.5;;;;;295;755;1;469.50;463.90;443.29;96.44;;USA;;USPA;IPL;2013-11-09;USA;NY;Niagara Falls;New York State Powerlifting Championship
+Adam Ferchen;M;SBD;Raw;22;20-23;19-23;Open;97.7;100;;;;;272.5;;;;;187.5;;;;;295;755;1;469.50;463.90;443.29;96.44;;USA;;USPA;IPL;2013-11-09;USA;NY;Niagara Falls;New York State Powerlifting Championship
+Adam Ferchen;M;SBD;Wraps;;20-23;;Pro Juniors 20-23;97.79;100;;;;;272.16;;;;;188.24;;;;;294.84;755.23;1;469.45;463.87;443.25;96.43;;USA;;RPS;;2013-08-10;USA;NY;Rochester;NY State Championships
+Adam Ferchen;M;SBD;Wraps;;;;Pro Open;97.79;100;;;;;272.16;;;;;188.24;;;;;294.84;755.23;2;469.45;463.87;443.25;96.43;;USA;;RPS;;2013-08-10;USA;NY;Rochester;NY State Championships
+Adam Ferchen;M;BD;Raw;22;20-23;19-23;Juniors 20-23;97.7;100;;;;;;;;;;185;;;;;280;465;1;289.16;285.72;273.02;;;USA;;USPA;IPL;2013-07-13;USA;NY;Angola;New York State Benchpress and Deadlift III
+Adam Ferchen;M;B;Raw;22;20-23;19-23;Open;97.7;100;;;;;;;;;;185;;;;;;185;1;115.04;113.67;108.62;85.70;;USA;;USPA;IPL;2013-07-13;USA;NY;Angola;New York State Benchpress and Deadlift III
+Adam Ferchen;M;BD;Raw;22;20-23;19-23;Open;97.7;100;;;;;;;;;;185;;;;;280;465;1;289.16;285.72;273.02;;;USA;;USPA;IPL;2013-07-13;USA;NY;Angola;New York State Benchpress and Deadlift III
+Adam Ferchen;M;B;Raw;22;20-23;19-23;Juniors 20-23;97.7;100;;;;;;;;;;185;;;;;;185;1;115.04;113.67;108.62;85.70;;USA;;USPA;IPL;2013-07-13;USA;NY;Angola;New York State Benchpress and Deadlift III
+Adam Ferchen;M;B;Raw;22;20-23;19-23;Juniors 20-23;87.45;90;;;;;;;;;;182.5;;;;;;182.5;1;119.76;118.27;113.50;89.27;;USA;;USPA;IPL;2013-02-16;USA;NY;Buffalo;New York State Red Brick Bench Press Championship X
+Adam Ferchen;M;B;Raw;22;20-23;19-23;Open;87.45;90;;;;;;;;;;182.5;;;;;;182.5;1;119.76;118.27;113.50;89.27;;USA;;USPA;IPL;2013-02-16;USA;NY;Buffalo;New York State Red Brick Bench Press Championship X
+Adam Ferchen;M;B;Raw;21;20-23;19-23;Open;88.18;90;;;;;;;;;;165;;;;;;165;1;107.81;106.46;102.12;80.37;;USA;;USPA;IPL;2012-11-10;USA;NY;Niagara Falls;New York State Powerlifting Championship
+Adam Ferchen;M;B;Raw;21;20-23;19-23;Open;88.18;90;;;;;;;;;;165;;;;;;165;1;107.81;106.46;102.12;80.37;;USA;;USPA;IPL;2012-11-10;USA;NY;Niagara Falls;New York State Powerlifting Championship
+Adam Ferchen;M;B;Raw;;18-19;;Teen 17-19;90;90;;;;;;;;;;151.95;;;;;;151.95;1;98.25;97.00;92.97;73.27;;USA;;SSA;;2009-02-21;USA;NY;Lewiston;Red Brick Championships
+Adam Ferchen;M;B;Multi-ply;;;;Open;82.5;82.5;;;;;;;;;;124.74;;;;;;124.74;2;84.50;83.56;80.41;44.59;;USA;;SSA;;2008-07-13;USA;NY;Niagara Falls;Battle of the Bench Gods
+Adam Ferchen;M;D;Raw;;;;M_OR_AAPF;75;75;;;;;;;;;;;;;;;213.19;213.19;1;152.95;151.91;146.78;;Yes;USA;;APF;WPC;2007-02-17;USA;NY;Tribes Hill;CandyAzz Classic
+Adam Ferchen;M;D;Raw;;13-15;;M_TR_1_AAPF;75;75;;;;;;;;;;;;;;;213.19;213.19;1;152.95;151.91;146.78;;Yes;USA;;APF;WPC;2007-02-17;USA;NY;Tribes Hill;CandyAzz Classic

@@ -1,0 +1,34 @@
+﻿Name;Sex;Event;Equipment;Age;AgeClass;BirthYearClass;Division;BodyweightKg;WeightClassKg;Squat1Kg;Squat2Kg;Squat3Kg;Squat4Kg;Best3SquatKg;Bench1Kg;Bench2Kg;Bench3Kg;Bench4Kg;Best3BenchKg;Deadlift1Kg;Deadlift2Kg;Deadlift3Kg;Deadlift4Kg;Best3DeadliftKg;TotalKg;Place;Dots;Wilks;Glossbrenner;Goodlift;Tested;Country;State;Federation;ParentFederation;Date;MeetCountry;MeetState;MeetTown;MeetName
+Aleksandr Rabinovich;M;B;Raw;51;50-54;50-59;M3;78.8;82.5;;;;;;170;177.5;-185;;177.5;;;;;;177.5;1;123.50;122.35;117.97;91.58;;Israel;;NPA;;2018-10-26;Israel;;Eilat;European Cup
+Aleksandr Rabinovich;M;B;Raw;51;50-54;50-59;O;78.8;82.5;;;;;;170;177.5;-185;;177.5;;;;;;177.5;1;123.50;122.35;117.97;91.58;;Israel;;NPA;;2018-10-26;Israel;;Eilat;European Cup
+Aleksandr Rabinovich;M;B;Raw;51;50-54;50-59;Pro Open;79.1;82.5;;;;;;160;170;177.5;;177.5;;;;;;177.5;3;123.22;122.05;117.66;91.40;;Israel;;NAP;IPA;2018-06-07;Russia;KDA;Sochi;Olympia V
+Aleksandr Rabinovich;M;B;Raw;51;50-54;50-59;Pro Masters 50-54;79.1;82.5;;;;;;160;170;177.5;;177.5;;;;;;177.5;1;123.22;122.05;117.66;91.40;;Israel;;NAP;IPA;2018-06-07;Russia;KDA;Sochi;Olympia V
+Aleksandr Rabinovich;M;B;Unlimited;51;50-54;50-59;Pro Open;79.1;82.5;;;;;;215;227.5;235;;235;;;;;;235;1;163.14;161.59;155.78;86.68;;Israel;;NAP;IPA;2018-06-07;Russia;KDA;Sochi;Olympia V
+Aleksandr Rabinovich;M;B;Unlimited;51;50-54;50-59;Pro Masters 50-54;79.1;82.5;;;;;;215;227.5;235;;235;;;;;;235;1;163.14;161.59;155.78;86.68;;Israel;;NAP;IPA;2018-06-07;Russia;KDA;Sochi;Olympia V
+Aleksandr Rabinovich;M;B;Raw;50;50-54;50-59;Pro Masters 50-54;74.3;75;;;;;;152.5;160;165;;165;;;;;;165;1;119.09;118.35;114.40;87.81;;Israel;;NAP;IPA;2017-09-28;Russia;SVE;Yekaterinburg;Golden Tiger 11
+Aleksandr Rabinovich;M;B;Raw;50;50-54;50-59;Pro Open;74.3;75;;;;;;152.5;160;165;;165;;;;;;165;2;119.09;118.35;114.40;87.81;;Israel;;NAP;IPA;2017-09-28;Russia;SVE;Yekaterinburg;Golden Tiger 11
+Aleksandr Rabinovich;M;B;Raw;50;50-54;50-59;M3;76.2;82.5;;;;;;162.5;175;-182.5;;175;;;;;;175;1;124.29;123.34;119.10;91.89;;Israel;;GPC-ISR;GPC;2017-04-28;Israel;;Daliyat al-Karmel;Israel Championships
+Aleksandr Rabinovich;M;B;Raw;49;45-49;40-49;M2;72.7;75;;;;;;132.5;140;150;;150;;;;;;150;1;109.82;109.28;105.73;80.75;;Israel;;GPC-ISR;GPC;2016-12-16;Israel;;Netanya;Israel Championships
+Aleksandr Rabinovich;M;B;Raw;49;45-49;40-49;Pro Masters 40-49;80.85;82.5;;;;;;167.5;175;180;;180;;;;;;180;1;123.35;122.08;117.57;91.64;;Israel;;WRPF-Belarus;WRPF;2016-05-13;Belarus;;Borisov;Belarus Championships
+Aleksandr Rabinovich;M;B;Raw;49;45-49;40-49;Pro Open;80.85;82.5;;;;;;;;180;;180;;;;;;180;1;123.35;122.08;117.57;91.64;;Israel;;WRPF-Belarus;WRPF;2016-05-13;Belarus;;Borisov;Belarus Championships
+Aleksandr Rabinovich;M;B;Raw;49;45-49;40-49;Pro Open;79.5;82.5;;;;;;170;180;-185;;180;;;;;;180;1;124.58;123.37;118.91;92.45;;Israel;;WPC-RUS;WPC;2016-04-23;Russia;MOW;Moscow;Moscow Kremlin Bench Press Championships
+Aleksandr Rabinovich;M;B;Raw;49;45-49;40-49;Pro Masters 45-49;79.5;82.5;;;;;;170;180;-185;;180;;;;;;180;1;124.58;123.37;118.91;92.45;;Israel;;WPC-RUS;WPC;2016-04-23;Russia;MOW;Moscow;Moscow Kremlin Bench Press Championships
+Aleksandr Rabinovich;M;B;Raw;49;45-49;40-49;M2;78.8;82.5;;;;;;162.5;170;175;;175;;;;;;175;1;121.76;120.63;116.31;90.29;;Israel;;WPC-Israel;WPC;2016-04-07;Israel;;Kiryat Gat;Israel Championships
+Aleksandr Rabinovich;M;B;Raw;49;45-49;40-49;O;78.8;82.5;;;;;;162.5;170;175;;175;;;;;;175;1;121.76;120.63;116.31;90.29;;Israel;;WPC-Israel;WPC;2016-04-07;Israel;;Kiryat Gat;Israel Championships
+Aleksandr Rabinovich;M;B;Multi-ply;48;45-49;40-49;O;79;82.5;;;;;;-185;-185;;;;;;;;;;DQ;;;;;;Israel;;GPC-ISR;GPC;2015-12-04;Israel;;Bat Yam;Israel Championships
+Aleksandr Rabinovich;M;B;Raw;48;45-49;40-49;O;79;82.5;;;;;;167.5;177.5;182.5;;182.5;;;;;;182.5;1;126.79;125.59;121.08;94.04;;Israel;;GPC-ISR;GPC;2015-12-04;Israel;;Bat Yam;Israel Championships
+Aleksandr Rabinovich;M;B;Raw;48;45-49;40-49;Pro Open;80.4;82.5;;;;;;165;175;-182.5;;175;;;;;;175;2;120.32;119.10;114.73;89.35;;Israel;;WPC-RUS;WPC;2015-10-24;Russia;MOW;Moscow;PROMotion
+Aleksandr Rabinovich;M;B;Raw;48;45-49;40-49;Pro Masters 45-49;80.4;82.5;;;;;;165;175;-182.5;;175;;;;;;175;1;120.32;119.10;114.73;89.35;;Israel;;WPC-RUS;WPC;2015-10-24;Russia;MOW;Moscow;PROMotion
+Aleksandr Rabinovich;M;B;Single-ply;48;45-49;40-49;M_MES_2_WPC;75;75;;;;;;165;175;182.5;;182.5;;;;;;182.5;1;130.93;130.04;125.65;70.26;;Israel;;WPC;WPC;2015-06-11;Latvia;;Riga;European Powerlifting Championships
+Aleksandr Rabinovich;M;B;Raw;48;45-49;40-49;M_OR_WPC;74.2;75;;;;;;157.5;167.5;170;;170;;;;;;170;3;122.81;122.05;117.98;90.53;;Israel;;WPC;WPC;2015-06-11;Latvia;;Riga;European Powerlifting Championships
+Aleksandr Rabinovich;M;B;Raw;48;45-49;40-49;M_MR_2_WPC;74.2;75;;;;;;157.5;167.5;170;;170;;;;;;170;1;122.81;122.05;117.98;90.53;;Israel;;WPC;WPC;2015-06-11;Latvia;;Riga;European Powerlifting Championships
+Aleksandr Rabinovich;M;B;Raw;48;45-49;40-49;Open;74.3;75;;;;;;150;160;167.5;;167.5;;;;;;167.5;2;120.89;120.14;116.13;89.14;;Israel;;WPA;;2015-03-27;Russia;MOW;Moscow;Eurasian Championships
+Aleksandr Rabinovich;M;B;Raw;48;45-49;40-49;Masters 45-49;74.3;75;;;;;;150;160;167.5;;167.5;;;;;;167.5;1;120.89;120.14;116.13;89.14;;Israel;;WPA;;2015-03-27;Russia;MOW;Moscow;Eurasian Championships
+Aleksandr Rabinovich;M;B;Raw;47;45-49;40-49;O;79.4;82.5;;;;;;157.5;165;172.5;;172.5;;;;;;172.5;2;119.48;118.33;114.05;88.65;;Israel;;NPA;;2014-11-22;Israel;;Eilat;European Cup
+Aleksandr Rabinovich;M;B;Raw;47;45-49;40-49;M2;79.4;82.5;;;;;;157.5;165;172.5;;172.5;;;;;;172.5;2;119.48;118.33;114.05;88.65;;Israel;;NPA;;2014-11-22;Israel;;Eilat;European Cup
+Aleksandr Rabinovich;M;B;Raw;47;45-49;40-49;Pro Open;73.8;75;;;;;;150;160;165;;165;;;;;;165;2;119.61;118.92;114.98;88.12;;Israel;;WPC-RUS;WPC;2014-04-26;Russia;MOW;Moscow;Kremlin Bench
+Aleksandr Rabinovich;M;B;Raw;47;45-49;40-49;Pro Masters 45-49;73.8;75;;;;;;150;160;165;;165;;;;;;165;1;119.61;118.92;114.98;88.12;;Israel;;WPC-RUS;WPC;2014-04-26;Russia;MOW;Moscow;Kremlin Bench
+Aleksandr Rabinovich;M;B;Raw;46;45-49;40-49;M_MR_2_WPC;73.3;75;;;;;;155;162.5;-170;;162.5;;;;;;162.5;1;118.33;117.68;113.82;87.10;;Israel;;WPC;WPC;2013-10-26;Czechia;;Pargue;World Championship
+Aleksandr Rabinovich;M;B;Raw;46;45-49;40-49;M_OR_WPC;73.3;75;;;;;;155;162.5;-170;;162.5;;;;;;162.5;3;118.33;117.68;113.82;87.10;;Israel;;WPC;WPC;2013-10-26;Czechia;;Pargue;World Championship
+Aleksandr Rabinovich;M;B;Raw;46;45-49;40-49;M2;72.4;75;;;;;;150;157.5;165;;165;;;;;;165;1;121.13;120.57;116.68;89.02;;Israel;;GPC;GPC;2013-09-23;Hungary;;Eger;World Championships
+Aleksandr Rabinovich;M;B;Raw;46;45-49;40-49;M2;80.7;82.5;;;;;;150;160;170;;170;;;;;;170;1;116.63;115.43;111.17;86.63;;Israel;;GPC;GPC;2013-05-20;Serbia;;Knjaževac;European Championships

@@ -1,0 +1,30 @@
+﻿Name;Sex;Event;Equipment;Age;AgeClass;BirthYearClass;Division;BodyweightKg;WeightClassKg;Squat1Kg;Squat2Kg;Squat3Kg;Squat4Kg;Best3SquatKg;Bench1Kg;Bench2Kg;Bench3Kg;Bench4Kg;Best3BenchKg;Deadlift1Kg;Deadlift2Kg;Deadlift3Kg;Deadlift4Kg;Best3DeadliftKg;TotalKg;Place;Dots;Wilks;Glossbrenner;Goodlift;Tested;Country;State;Federation;ParentFederation;Date;MeetCountry;MeetState;MeetTown;MeetName
+Aleksandr Oreshkin;M;B;Unlimited;38;35-39;24-39;Pro Open;120.1;125;;;;;;280;300;-310;;300;;;;;;300;2;172.24;172.44;165.25;88.23;;Russia;;NAP;IPA;2021-02-27;Russia;;Sevastopal;Hero City Cup
+Aleksandr Oreshkin;M;B;Unlimited;38;35-39;24-39;Open;120.4;125;;;;;;300;-315;315;;315;;;;;;315;1;180.71;180.96;173.41;92.56;;Russia;;WPA-RUS;WPA;2020-10-23;Russia;MOW;Zelenograd;World Cup
+Aleksandr Oreshkin;M;B;Raw;38;35-39;24-39;Pro Open;118.4;125;;;;;;200;-207.5;-207.5;;200;;;;;;200;2;115.38;115.35;110.51;84.86;;Russia;;NAP;IPA;2020-08-29;Russia;KDA;Sochi;Golden Tiger Sochi
+Aleksandr Oreshkin;M;B;Unlimited;36;35-39;24-39;Pro Open;119.5;125;;;;;;290;305;315;;315;;;;;;315;1;181.16;181.28;173.70;92.80;;Russia;;NAP;IPA;2019-06-23;Russia;;Gurzuf;Tavriki Cup
+Aleksandr Oreshkin;M;B;Unlimited;36;35-39;24-39;Open;121.9;125;;;;;;280;300;310;;310;;;;;;310;1;177.12;177.59;170.17;90.70;;Russia;;WPA;;2019-06-01;Russia;MOW;Moscow;European Cup
+Aleksandr Oreshkin;M;B;Unlimited;35;35-39;24-39;Amateur Open;124.7;125;;;;;;280;290;295;;295;;;;;;295;1;167.32;168.19;160.98;85.67;Yes;Russia;;NAP;IPA;2017-09-28;Russia;SVE;Yekaterinburg;Golden Tiger 11
+Aleksandr Oreshkin;M;B;Raw;34;24-34;24-39;Amateur Open;129.15;140;;;;;;190;200;;;200;;;;;;200;1;112.21;113.25;108.23;81.82;Yes;Russia;;NAP;IPA;2017-06-08;Russia;KDA;Sochi;Olympia IV
+Aleksandr Oreshkin;M;B;Unlimited;34;24-34;24-39;Amateur Open;129.15;140;;;;;;-270;270;282.5;;282.5;;;;;;282.5;1;158.50;159.97;152.87;81.16;Yes;Russia;;NAP;IPA;2017-06-08;Russia;KDA;Sochi;Olympia IV
+Aleksandr Oreshkin;M;B;Unlimited;34;24-34;24-39;O;127.3;140;;;;;;255;265;272.5;;272.5;;;;;;272.5;1;153.56;154.73;147.97;78.63;Yes;Russia;;Vityaz;;2017-05-20;Russia;MOW;Moscow;World Championships
+Aleksandr Oreshkin;M;B;Raw;34;24-34;24-39;Amateur Open;124.7;125;;;;;;190;197.5;-202.5;;197.5;;;;;;197.5;1;112.02;112.60;107.78;81.98;Yes;Russia;;WPC-RUS;WPC;2017-04-23;Russia;MOW;Moscow;Kremlin Gym Competition
+Aleksandr Oreshkin;M;B;Raw;33;24-34;24-39;O;122.55;125;;;;;;207.5;-215;215;;215;;;;;;215;1;122.63;123.03;117.87;89.90;;Russia;;Vityaz;;2015-12-25;Russia;MOW;Moscow;Vladimir Kravtsov's European Championships
+Aleksandr Oreshkin;M;B;Raw;33;24-34;24-39;Open;122.3;125;;;;;;205;210;-215;;210;;;;;;210;1;119.85;120.22;115.18;87.88;;Russia;;RPU;;2015-12-19;Russia;MOW;Serpukhov;Serpukhov Championships
+Aleksandr Oreshkin;M;B;Raw;33;24-34;24-39;Open;122.8;125;;;;;;205;212.5;-217.5;;212.5;;;;;;212.5;2;121.12;121.54;116.44;88.77;;Russia;;RPU;;2015-12-12;Russia;VLG;Vologda;Russian Cup
+Aleksandr Oreshkin;M;B;Raw;33;24-34;24-39;Open;123.1;125;;;;;;202.5;210;;;210;;;;;;210;1;119.60;120.05;115.00;87.64;;Russia;;GPA;GPA;2015-11-06;Russia;MOW;Moscow;Eastern European Cup
+Aleksandr Oreshkin;M;B;Raw;32;24-34;24-39;Open;118.8;125;;;;;;192.5;200;-202.5;;200;;;;;;200;1;115.25;115.26;110.43;84.74;Yes;Russia;;RPU;;2015-07-26;Ukraine;;Evpatoriya;Crimean Masters Tournament
+Aleksandr Oreshkin;M;B;Raw;32;24-34;24-39;Open;120.2;125;;;;;;192.5;197.5;-202.5;;197.5;;;;;;197.5;2;113.36;113.50;108.77;83.26;Yes;Russia;;RPU;;2015-06-20;Russia;VLA;Suzdal;Russian Cup
+Aleksandr Oreshkin;M;B;Raw;32;24-34;24-39;Open;115.6;125;;;;;;190;-197.5;-197.5;;190;;;;;;190;1;110.52;110.25;105.55;81.47;Yes;Russia;;WPA-RUS;WPA;2015-05-05;Russia;KLU;;Central Federal District Championships
+Aleksandr Oreshkin;M;B;Raw;32;24-34;24-39;O;115.4;125;;;;;;190;195;-200;;195;;;;;;195;1;113.50;113.20;108.37;83.67;Yes;Russia;;Vityaz;;2015-03-14;Russia;MOW;Moscow;Russian Cup
+Aleksandr Oreshkin;M;B;Raw;32;24-34;24-39;Amateur Open;117.3;125;;;;;;185;190;-195;;190;;;;;;190;2;109.96;109.84;105.21;80.95;Yes;Russia;;WPC;WPC;2014-12-04;Russia;KRS;Kursk;European Cup
+Aleksandr Oreshkin;M;B;Raw;32;24-34;24-39;O;118.4;125;;;;;;185;190;-195;;190;;;;;;190;2;109.61;109.58;104.99;80.62;Yes;Russia;;Vityaz;;2014-10-26;Russia;MOW;Moscow;Ivan Poddubniy International Tournament
+Aleksandr Oreshkin;M;B;Raw;32;24-34;24-39;Amateur Open;118.7;125;;;;;;180;-185;185;;185;;;;;;185;1;106.64;106.63;102.17;78.41;Yes;Russia;;WPC-RUS;WPC;2014-09-27;Russia;KLU;Kaluga;Adrenaline
+Aleksandr Oreshkin;M;B;Raw;31;24-34;24-39;Open;120.2;125;;;;;;180;185;190;;190;;;;;;190;2;109.06;109.19;104.64;80.10;Yes;Russia;;WPA-RUS;WPA;2014-04-12;Russia;KLU;Obninsk;Russian Bench Press Championships
+Aleksandr Oreshkin;M;B;Raw;31;24-34;24-39;O;125.2;140;;;;;;180;185;187.5;;187.5;;;;;;187.5;1;106.21;106.81;102.20;77.70;Yes;Russia;;Vityaz;;2013-12-20;Russia;MOW;Moscow;Cup of Russia
+Aleksandr Oreshkin;M;B;Raw;31;24-34;24-39;Amateur Open;125.6;140;;;;;;172.5;177.5;180;;180;;;;;;180;1;101.86;102.47;98.02;74.49;Yes;Russia;;WPC-RUS;WPC;2013-10-03;Russia;KLU;Kaluga;Adrenaline
+Aleksandr Oreshkin;M;B;Raw;30;24-34;24-39;Pro Open;123.9;125;;;;;;182.5;187.5;-190;;187.5;;;;;;187.5;2;106.57;107.04;102.50;78.04;;Russia;;WPC-RUS;WPC;2012-11-24;Russia;MOW;Serpukhov;Serpukhov Bench Press Championships
+Aleksandr Oreshkin;M;B;Raw;30;24-34;24-39;Amateur Open;124;125;;;;;;180;185;187.5;;187.5;;;;;;187.5;1;106.54;107.02;102.48;78.01;Yes;Russia;;WPC-RUS;WPC;2012-09-29;Russia;KLU;Balabanovo;Adrenalin
+Aleksandr Oreshkin;M;B;Raw;29;24-34;24-39;Open;128.1;125+;;;;;;185;190;192.5;;192.5;;;;;;192.5;2;108.27;109.17;104.37;79.02;;Russia;;BB;;2011-12-10;Russia;;;National Championship
+Aleksandr Oreshkin;M;B;Raw;28;24-34;24-39;Open;125.5;125+;;;;;;180;-187.5;187.5;;187.5;;;;;;187.5;1;106.13;106.76;102.13;77.62;;Russia;;BB;;2010-12-18;Russia;;;National Championship
+Aleksandr Oreshkin;M;B;Raw;27;24-34;24-39;Amateur Open;122.1;125;;;;;;175;180;;;180;;;;;;180;5;102.79;103.08;98.77;75.38;Yes;Russia;;WPC;WPC;2010-08-17;Russia;MOW;Moscow;Eurasian Championships

@@ -1,0 +1,33 @@
+﻿Name;Sex;Event;Equipment;Age;AgeClass;BirthYearClass;Division;BodyweightKg;WeightClassKg;Squat1Kg;Squat2Kg;Squat3Kg;Squat4Kg;Best3SquatKg;Bench1Kg;Bench2Kg;Bench3Kg;Bench4Kg;Best3BenchKg;Deadlift1Kg;Deadlift2Kg;Deadlift3Kg;Deadlift4Kg;Best3DeadliftKg;TotalKg;Place;Dots;Wilks;Glossbrenner;Goodlift;Tested;Country;State;Federation;ParentFederation;Date;MeetCountry;MeetState;MeetTown;MeetName
+Aleksandr Savchenko;M;SBD;Raw;35.5;35-39;24-39;Open;91.1;93;;;;;245;;;;;175;;;;;260;680;11;437.03;431.47;413.30;89.86;Yes;Russia;;FPR;IPF;2021-05-19;Russia;VLA;Suzdal;Russian Classic Powerlifting Championships
+Aleksandr Savchenko;M;B;Raw;40;40-44;40-49;Amateur Masters 40-44;79;82.5;;;;;;100;130;147.5;;147.5;;;;;;147.5;1;102.47;101.51;97.86;76.00;Yes;Russia;;NAP;IPA;2018-12-16;Russia;SVE;Yekateriburg;Eurasian Union Championships
+Aleksandr Savchenko;M;D;Raw;35.5;35-39;24-39;Amateur Open;88.2;90;;;;;;;;;;;225;-235;;;225;225;2;146.99;145.15;139.24;;Yes;Russia;;WPC-RUS;WPC;2018-04-01;Russia;LEN;St. Petersburg;St. Petersburg Cup
+Aleksandr Savchenko;M;D;Raw;19.5;20-23;19-23;J;94.8;100;;;;;;;;;;;210;220;225;;225;225;2;141.86;140.09;133.99;;Yes;Ukraine;;RAW-UKR;;2017-12-17;Ukraine;;Vishnevoe;Open Cup
+Aleksandr Savchenko;M;D;Raw;19.5;20-23;19-23;O;94.8;100;;;;;;;;;;;210;220;225;;225;225;3;141.86;140.09;133.99;;Yes;Ukraine;;RAW-UKR;;2017-12-17;Ukraine;;Vishnevoe;Open Cup
+Aleksandr Savchenko;M;B;Raw;19.5;20-23;19-23;O;90.9;100;;;;;;140;-145;-145;;140;;;;;;140;8;90.07;88.93;85.19;67.17;Yes;;;RAW-UKR;;2017-10-22;Ukraine;;Kyiv;International Bench Press Championships
+Aleksandr Savchenko;M;B;Raw;19.5;20-23;19-23;J;90.9;100;;;;;;140;-145;-145;;140;;;;;;140;2;90.07;88.93;85.19;67.17;Yes;Ukraine;;RAW-UKR;;2017-10-22;Ukraine;;Kyiv;International Bench Press Championships
+Aleksandr Savchenko;M;B;Unlimited;32;24-34;24-39;Amateur Open;89;90;;;;;;230;242.5;-255;;242.5;;;;;;242.5;2;157.69;155.70;149.30;82.37;Yes;Russia;;NAP;IPA;2017-09-28;Russia;SVE;Yekaterinburg;Golden Tiger 11
+Aleksandr Savchenko;M;D;Raw;35;35-39;24-39;Open;89.2;90;;;;;;;;;;;235;250;-260;;250;250;2;162.38;160.33;153.72;;;;;RPU;;2017-06-17;Russia;LEN;St. Petersburg;St. Petersburg & Leningrad Championships
+Aleksandr Savchenko;M;B;Raw;19.5;20-23;19-23;J;95.8;100;;;;;;147.5;-152.5;-152.5;;147.5;;;;;;147.5;1;92.55;91.41;87.39;68.98;Yes;Ukraine;;RAW-UKR;;2017-05-14;Ukraine;;Vishnevoe;Kyev Bench Press & Dead Lift Championships
+Aleksandr Savchenko;M;D;Raw;19.5;20-23;19-23;O;95.8;100;;;;;;;;;;;180;205;215;;215;215;1;134.90;133.23;127.39;;Yes;Ukraine;;RAW-UKR;;2017-05-14;Ukraine;;Vishnevoe;Kyev Bench Press & Dead Lift Championships
+Aleksandr Savchenko;M;B;Raw;19.5;20-23;19-23;O;95.8;100;;;;;;147.5;-152.5;-152.5;;147.5;;;;;;147.5;6;92.55;91.41;87.39;68.98;Yes;Ukraine;;RAW-UKR;;2017-05-14;Ukraine;;Vishnevoe;Kyev Bench Press & Dead Lift Championships
+Aleksandr Savchenko;M;D;Raw;19.5;20-23;19-23;J;95.8;100;;;;;;;;;;;180;205;215;;215;215;1;134.90;133.23;127.39;;Yes;Ukraine;;RAW-UKR;;2017-05-14;Ukraine;;Vishnevoe;Kyev Bench Press & Dead Lift Championships
+Aleksandr Savchenko;M;D;Raw;34;24-34;24-39;Open;89.2;90;;;;;;;;;;;240;-260;-260;;240;240;3;155.89;153.92;147.57;;;;;RPU;;2016-12-17;Russia;LEN;St. Petersburg;Neva Battle
+Aleksandr Savchenko;M;D;Raw;34;24-34;24-39;Open;88.2;90;;;;;;;;;;;220;235;240;;240;240;2;156.79;154.83;148.52;;;;;RPU;;2016-09-17;Russia;;Kerch;Iron Holiday Tournament
+Aleksandr Savchenko;M;D;Raw;34;24-34;24-39;Pro Open;89.1;90;;;;;;;;;;;230;240;-245;;240;240;1;155.98;154.01;147.67;;;;;WPC-RUS;WPC;2016-04-07;Russia;LEN;St. Petersburg;Northwestern Federal District Championships
+Aleksandr Savchenko;M;D;Raw;33;24-34;24-39;Open;89.3;90;;;;;;;;;;;210;225;-235;;225;225;1;146.06;144.21;138.26;;;;;RPU;;2015-12-27;Russia;LEN;St. Petersburg;Battle of the Neva
+Aleksandr Savchenko;M;SBD;Wraps;;;;Amateur Open;87.15;90;207;215;220;;220;155;160;165;;165;225;237.5;245;;245;630;4;414.16;409.04;392.59;85.10;Yes;Russia;;NAP;IPA;2015-10-16;Russia;SVE;Ekaterinbourg;Golden Tiger 9
+Aleksandr Savchenko;M;B;Raw;;;;Pro Open;91.4;100;;;;;;155;160;165;;165;;;;;;165;11;105.87;104.52;100.11;78.95;;Russia;;NAP;IPA;2015-10-16;Russia;SVE;Ekaterinbourg;Golden Tiger 9
+Aleksandr Savchenko;M;D;Raw;32.5;24-34;24-39;Open;87.7;90;;;;;;;;;;;220;235;-240;;235;235;1;153.98;152.06;145.91;;;;;RPU;;2015-08-02;Russia;LEN;Kronshtadt;Leningrad Championships
+Aleksandr Savchenko;M;D;Raw;32.5;24-34;24-39;Open;89.3;90;;;;;;;;;;;245;-260;;;245;245;2;159.04;157.03;150.55;;;;;RPU;;2015-05-17;Russia;LEN;St. Petersburg;St. Petersburg Cup
+Aleksandr Savchenko;M;SBD;Raw;33;24-34;24-39;Open;87.7;90;170;180;190;;190;140;150;-155;;150;240;250;-260;;250;590;1;386.59;381.78;366.32;79.45;;;;RPU;;2015-03-26;Russia;MOW;Moscow;Eastern European Championships
+Aleksandr Savchenko;M;D;Raw;33;24-34;24-39;Open;87.7;90;;;;;;;;;;;250;;;;250;250;1;163.81;161.77;155.22;;;;;RPU;;2015-03-26;Russia;MOW;Moscow;Eastern European Championships
+Aleksandr Savchenko;M;D;Raw;32.5;24-34;24-39;Open;89.5;90;;;;;;;;;;;220;235;240;;240;240;2;155.62;153.65;147.30;;;;;RPU;;2015-02-15;Russia;LEN;St. Petersburg;St. Petersburg and Leningrad Region Powerlifting Championships
+Aleksandr Savchenko;M;B;Raw;32.5;24-34;24-39;Pro Open;88.5;90;;;;;;137.5;142.5;-145;;142.5;;;;;;142.5;4;92.93;91.77;88.01;69.29;;Russia;;WPC-RUS;WPC;2015-01-31;Russia;LEN;St. Petersburg;St. Petersburg Cup
+Aleksandr Savchenko;M;D;Raw;32.5;24-34;24-39;Pro Open;88.5;90;;;;;;;;;;;210;220;230;;230;230;1;150.00;148.11;142.06;;;Russia;;WPC-RUS;WPC;2015-01-31;Russia;LEN;St. Petersburg;St. Petersburg Cup
+Aleksandr Savchenko;M;B;Raw;36;35-39;24-39;Amateur Open;82.5;82.5;;;;;;130;-135;-135;;130;;;;;;130;7;88.06;87.09;83.80;65.50;Yes;Russia;;WPC;WPC;2014-07-03;Russia;NVS;Novosibirsk;World Cup
+Aleksandr Savchenko;M;B;Raw;35;35-39;24-39;Amateur Open;81.55;82.5;;;;;;125;130;135;;135;;;;;;135;9;92.05;91.07;87.68;68.43;Yes;;;NAP;IPA;2013-12-05;Russia;NVS;Berdsk;Steel Arena 3
+Aleksandr Savchenko;M;B;Raw;35;35-39;24-39;Amateur Open;81.6;82.5;;;;;;120;-125;-132.5;;120;;;;;;120;11;81.80;80.92;77.90;60.80;Yes;Russia;;WPC;WPC;2013-08-15;Russia;NVS;Novosibirsk;World Cup
+Aleksandr Savchenko;M;B;Raw;34.5;24-34;24-39;Amateur Open;81.5;82.5;;;;;;115;-122.5;-125;;115;;;;;;115;10;78.44;77.61;74.72;58.31;Yes;Russia;;NAP;IPA;2013-06-12;Russia;NVS;Berdsk;Siberian Challenge
+Aleksandr Savchenko;M;SBD;Single-ply;24.5;24-34;24-39;Open;80.85;82.5;;;;;215;;;;;150;;;;;230;595;23;407.75;403.53;388.63;69.78;Yes;Russia;;FPR;IPF;2007-05-22;Russia;LEN;St. Petersburg;St. Petersburg Cup
+Aleksandr Savchenko;M;SBD;Single-ply;24.5;24-34;24-39;Open;82;82.5;;;;;205;;;;;150;;;;;220;575;9;390.85;386.61;372.10;66.87;Yes;;;FPR;IPF;2007-01-26;Russia;LEN;St. Petersburg;St. Petersburg Powerlifting Championships

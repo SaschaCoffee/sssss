@@ -1,0 +1,20 @@
+﻿Name;Sex;Event;Equipment;Age;AgeClass;BirthYearClass;Division;BodyweightKg;WeightClassKg;Squat1Kg;Squat2Kg;Squat3Kg;Squat4Kg;Best3SquatKg;Bench1Kg;Bench2Kg;Bench3Kg;Bench4Kg;Best3BenchKg;Deadlift1Kg;Deadlift2Kg;Deadlift3Kg;Deadlift4Kg;Best3DeadliftKg;TotalKg;Place;Dots;Wilks;Glossbrenner;Goodlift;Tested;Country;State;Federation;ParentFederation;Date;MeetCountry;MeetState;MeetTown;MeetName
+Adam Nash;M;D;Raw;36;35-39;24-39;Pro;;;;;;;;;;;;;;;;;;;NS;;;;;;;;BPU;WPC;2021-10-16;England;;Rotherham;Andy Bolton Deadlift Challenge
+Adam Nash;M;BD;Raw;;;;M-C-Open;166;120+;;;;;;-210;210;-217.5;;210;320;340;-350;;340;550;1;287.98;299.85;280.15;;Yes;England;SW;EPA;IPF;2018-10-28;England;;;Mick Barry Bench Press and Deadlift Open Championships
+Adam Nash;M;SBD;Raw;;;;M-C-Open;167.5;120+;285;300;310;;310;190;200;-207.5;;200;300;320;330;;330;840;1;438.81;457.31;427.35;85.67;Yes;England;SW;EPA;IPF;2018-04-14;England;;;South West Open
+Adam Nash;M;SBD;Raw;;;;M-C-Open;162.9;120+;280;292.5;302.5;;302.5;185;195;-197.5;;195;300;315;325;;325;822.5;4;432.78;449.70;421.13;84.70;Yes;;;BP;IPF;2017-10-21;UK;;;British Men's Classic Championships
+Adam Nash;M;SBD;Raw;;;;M-C-Open;165.7;120+;260;280;-290;;280;180;190;200;;200;280;300;320;;320;800;1;419.08;436.26;407.70;81.89;Yes;England;YNE;EPA;IPF;2016-11-05;England;;;YNE Open
+Adam Nash;M;BD;Raw;;;;M-C-G;161.7;120+;;;;;;190;200;-210;;200;290;300;310;;310;510;G;268.87;279.15;261.65;;Yes;;;EPA;IPF;2016-04-02;England;;;YNE Classic Bench & Push Pull
+Adam Nash;M;SBD;Single-ply;;;;M-E-Open;160;120+;-380;-380;-390;;;;;;;;;;;;;;DQ;;;;;Yes;England;SW;BP;IPF;2012-06-24;UK;;;British Senior Championships
+Adam Nash;M;B;Single-ply;;;;M-E-Open;159.3;120+;;;;;;280;302.5;-307.5;;302.5;;;;;;302.5;1;160.10;165.94;155.81;82.85;Yes;England;SW;BP;IPF;2012-02-11;UK;;;British Bench Press Championships
+Adam Nash;M;SBD;Single-ply;26.5;24-34;24-39;Open;159.26;120+;350;370;-380;;370;255;-280;-280;;255;280;300;315;;315;940;11;497.54;515.67;484.21;83.14;Yes;UK;;IPF;IPF;2011-11-08;Czechia;;Pilsen;World Powerlifting Championships
+Adam Nash;M;SBD;Single-ply;26.5;24-34;24-39;Open;156.6;120+;350;-370;370;;370;270;-285;-285;;270;280;300;-312.5;;300;940;2;499.74;516.93;486.34;83.49;Yes;UK;;EPF;IPF;2011-09-16;Netherlands;;Cuijk;Western European Powerlifting Championships
+Adam Nash;M;SBD;Single-ply;;;;M-E-Open;156.4;120+;355;375;;;375;270;285;297.5;;297.5;280;300;310;;310;982.5;1;522.51;540.40;508.49;87.30;Yes;;;BP;IPF;2011-07-30;UK;;;British Powerlifting Championships
+Adam Nash;M;SBD;Single-ply;;;;M-E-Open;152.8;125+;;;;;370;;;;;260;;;;;310;940;G;503.00;518.74;489.77;84.02;Yes;;;EPA;IPF;2010-11-20;England;;Kidlington;British University and College Powerlifting Championships
+Adam Nash;M;SBD;Single-ply;25.5;24-34;24-39;Open;152.2;125+;340;355;-365;;355;245;-255;-255;;245;280;-300;-300;;280;880;2;471.39;485.90;458.90;78.74;Yes;UK;;EPF;IPF;2010-09-24;Luxembourg;;Hamm;Western European Powerlifting Championships
+Adam Nash;M;SBD;Single-ply;;;;M-E-Open;152.1;125+;350;-370;-370;;350;255;-267.5;267.5;;267.5;260;282.5;300;;300;917.5;1;491.56;506.66;478.53;82.11;Yes;;;EPA;IPF;2010-04-18;England;;Cheltenham;SW Open Championships
+Adam Nash;M;SBD;Single-ply;;;;M-E-Open;145.5;125+;;;;;320;;;;;242.5;;;;;287.5;850;2;460.88;472.33;447.58;77.01;Yes;England;YNE;EPA;IPF;2009-08-22;England;;Northampton;All England Championships
+Adam Nash;M;SBD;Single-ply;;;;M-E-Open;143.8;125+;;;;;315;;;;;230;;;;;290;835;3;454.21;464.78;440.85;75.91;Yes;;;BP;IPF;2009-06-27;England;;Birmingham;British Senior Powerlifting Championships
+Adam Nash;M;SBD;Single-ply;;;;M-E-Open;139.5;125+;;;;;285;;;;;220;;;;;220;725;2;397.71;405.35;385.39;66.51;Yes;England;YNE;EPA;IPF;2009-04-04;England;;Ashington;YNE Senior Powerlifting Championships
+Adam Nash;M;SBD;Single-ply;;;;M-E-G;142.9;125+;;;;;280;;;;;240;;;;;280;800;G;435.92;445.70;422.97;72.86;Yes;England;YNE;EPA;IPF;2009-01-31;England;;Ashington;YNE Masters
+Adam Nash;M;SBD;Single-ply;;;;fs;127.6;143;;;;;195;;;;;112.5;;;;;205;512.5;2;288.60;290.87;278.14;48.42;Yes;USA;TN;NASA;;1997-04-11;USA;TX;Garland;High School Nationals

@@ -1,0 +1,85 @@
+﻿Name;Sex;Event;Equipment;Age;AgeClass;BirthYearClass;Division;BodyweightKg;WeightClassKg;Squat1Kg;Squat2Kg;Squat3Kg;Squat4Kg;Best3SquatKg;Bench1Kg;Bench2Kg;Bench3Kg;Bench4Kg;Best3BenchKg;Deadlift1Kg;Deadlift2Kg;Deadlift3Kg;Deadlift4Kg;Best3DeadliftKg;TotalKg;Place;Dots;Wilks;Glossbrenner;Goodlift;Tested;Country;State;Federation;ParentFederation;Date;MeetCountry;MeetState;MeetTown;MeetName
+Åge Berntsen;M;SBD;Single-ply;;;40-49;Masters 40-49;121;120+;320;;;;320;220;;;;220;240;;;;240;780;1;446.73;447.59;428.91;75.14;Yes;Norway;;NSF;IPF;2022-02-12;Norway;;Elnesvågen;RM styrkeløft og benkpress utstyr
+Åge Berntsen;M;B;Single-ply;;;40-49;Masters 40-49;153;120+;;;;;;230;-300;-300;;230;;;;;;230;1;123.03;126.90;119.80;63.45;Yes;Norway;;NSF;IPF;2021-12-11;Norway;;Trondheim;Åpent stevne
+Åge Berntsen;M;SBD;Raw;;;40-49;Masters 40-49;152.8;120+;200;220;240;;240;120;130;140;;140;250;260;270;;270;650;1;347.82;358.71;338.67;68.51;Yes;Norway;;NSF;IPF;2021-08-27;Norway;;Trøndertun;Klubbstevne
+Åge Berntsen;M;B;Single-ply;;;40-49;Masters 40-49;153.5;120+;;;;;;-270;-270;-270;;;;;;;;;DQ;;;;;Yes;Norway;;NSF;IPF;2021-07-09;Norway;;Trøndertun;Klubbstevne
+Åge Berntsen;M;SBD;Single-ply;;;;Open;151.6;120+;-360;-360;-360;;;;;;;;;;;;;;DQ;;;;;Yes;Norway;;NSF;IPF;2021-06-26;Norway;;Askim;NM styrkeløft utstyr
+Åge Berntsen;M;SBD;Single-ply;;;40-49;Masters 40-49;152.95;120+;340;360;;;360;100;120;130;;130;280;-300;-300;;280;770;1;411.93;424.87;401.10;68.81;Yes;Norway;;NSF;IPF;2019-11-23;Norway;;Bergen;NM Styrkeløft utstyr ungdom junior veteran
+Åge Berntsen;M;SBD;Raw;;;40-49;Masters 40-49;152;120+;220;250;;;250;100;120;;;120;220;250;;;250;620;1;332.23;342.40;323.41;65.48;Yes;Norway;;NSF;IPF;2019-10-05;Norway;;Elnesvågen;RM styrkeløft utstyrsfritt region midt
+Åge Berntsen;M;SBD;Single-ply;;;40-49;Masters 40-49;152.01;120+;-320;320;-350;;320;80;100;120;;120;275;300;;;300;740;1;396.53;408.67;386.00;66.24;Yes;Norway;;NSF;IPF;2019-10-05;Norway;;Elnesvågen;RM styrkeløft utstyr region midt
+Åge Berntsen;M;B;Single-ply;;;40-49;Masters 40-49;151.5;120+;;;;;;260;-280;-302.5;;260;;;;;;260;2;139.45;143.66;135.72;71.86;Yes;Norway;;NSF;IPF;2019-03-23;Norway;;Fredrikstad;NM benkpress utstyr
+Åge Berntsen;M;B;Single-ply;;;40-49;Masters 40-49;152.04;120+;;;;;;260;-280;-300;;260;;;;;;260;1;139.31;143.58;135.62;71.81;Yes;Norway;;NSF;IPF;2019-02-15;Norway;;Gimse;Åpent stevne
+Åge Berntsen;M;SBD;Single-ply;;;40-49;Masters 40-49;149.6;120+;340;355;-380;;355;100;240;-250;;240;270;290;307.5;;307.5;902.5;1;485.68;499.54;472.42;81.13;Yes;Norway;;NSF;IPF;2018-11-24;Norway;;Askim;NM Styrkeløft utstyr ungdom junior og veteran
+Åge Berntsen;M;B;Single-ply;;;40-49;Masters 40-49;150.1;120+;;;;;;260;-280;-300;;260;;;;;;260;1;139.79;143.84;136.00;71.99;Yes;Norway;;NSF;IPF;2018-09-29;Norway;;Gimse;Åpent stevne
+Åge Berntsen;M;SBD;Single-ply;;;40-49;Masters 40-49;152.2;120+;340;370;;;370;180;200;;;200;280;-300;;;280;850;1;455.32;469.34;443.26;76.06;Yes;Norway;;NSF;IPF;2018-04-21;Norway;;Trondheim;Klubbstevne
+Åge Berntsen;M;B;Single-ply;;;40-49;Masters 40-49;152.4;120+;;;;;;190;;;;190;;;;;;190;2;101.74;104.89;99.05;52.45;Yes;Norway;;NSF;IPF;2018-03-24;Norway;;Oslo;NM benkpress utstyr
+Åge Berntsen;M;SBD;Raw;;;40-49;Masters 40-49;149.1;120+;250;260;;;260;120;140;;;140;275;285;;;285;685;1;368.96;379.33;358.83;72.87;Yes;Norway;;NSF;IPF;2017-12-02;Norway;;Gimse;Klubbstevne
+Åge Berntsen;M;SBD;Single-ply;;;40-49;Masters 40-49;150.83;120+;340;355;-360;;355;-240;-240;-250;;;285;295;300;;300;;DQ;;;;;Yes;Norway;;NSF;IPF;2017-11-25;Norway;;Oslo;NM styrkeløft ungdom junior og veteran
+Åge Berntsen;M;B;Single-ply;;;40-49;Masters 40-49;149.41;120+;;;;;;240;250;-260;;250;;;;;;250;1;134.58;138.40;130.90;69.29;Yes;Norway;;NSF;IPF;2017-09-08;Norway;;Gimse;Åpent stevne
+Åge Berntsen;M;SBD;Single-ply;43.5;40-44;40-49;Masters 1;147.31;120+;320;-330;-330;;320;100;;;;100;270;290;-295;;290;710;7;383.68;393.84;372.89;64.10;Yes;Norway;;EPF;IPF;2017-07-11;Czechia;;Pilsen;European Masters Championships
+Åge Berntsen;M;SBD;Single-ply;;;40-49;Masters 40-49;148.7;120+;340;;;;340;150;230;;;230;280;300;-310;;300;870;1;468.95;481.96;456.00;78.34;Yes;Norway;;NSF;IPF;2017-05-06;Norway;;Gimse;Klubbmesterskap
+Åge Berntsen;M;B;Single-ply;;;40-49;Masters 40-49;146.9;120+;;;;;;100;;;;100;;;;;;100;2;54.08;55.49;52.55;27.81;Yes;Norway;;NSF;IPF;2017-03-25;Norway;;Frogner;NM Benkpress
+Åge Berntsen;M;SBD;Single-ply;;;40-49;Masters 40-49;150.4;120+;320;340;-360;;340;230;-240;-250;;230;280;300;305;;305;875;1;470.20;483.95;457.49;78.55;Yes;Norway;;NSF;IPF;2017-01-27;Norway;;Gimse;Åpent stevne
+Åge Berntsen;M;SBD;Raw;;;;Open;149.4;120+;240;260;280;;280;120;140;150;;150;260;280;-300;;280;710;1;382.22;393.06;371.76;75.47;Yes;Norway;;NSF;IPF;2016-12-10;Norway;;Trøndertun folkehøyskole;Åpent stevne
+Åge Berntsen;M;SBD;Single-ply;;;40-49;Masters 40-49;150.73;120+;-340;-350;350;;350;215;;;;215;280;-290;;;280;845;2;453.82;467.22;441.59;75.81;Yes;Norway;;NSF;IPF;2015-11-19;Norway;;Lurahallen;NM Styrkeløft Ungdom / Junior / Veteran
+Åge Berntsen;M;SBD;Single-ply;41.5;40-44;40-49;Masters 1;146.7;120+;320;330;335;;335;-220;;;;;270;-285;285;;285;;DQ;;;;;Yes;Norway;;IPF;IPF;2015-09-28;USA;CO;Aurora;World Masters Powerlifting Championships
+Åge Berntsen;M;SBD;Single-ply;41.5;40-44;40-49;Masters 1;147.85;120+;340;350;-355;;350;230;240;-245;;240;270;290;-302.5;;290;880;3;475.07;487.89;461.81;79.37;Yes;Norway;;EPF;IPF;2015-07-14;Czechia;;Pilsen;European Masters Powerlifting Championships
+Åge Berntsen;M;B;Single-ply;;;40-49;Masters 40-49;148.7;120+;;;;;;230;240;247.5;;247.5;;;;;;247.5;1;133.41;137.11;129.72;68.66;Yes;Norway;;NSF;IPF;2015-03-21;Norway;;Brumunddal;NM Benkpress
+Åge Berntsen;M;B;Single-ply;;;40-49;Masters 40-49;148.3;120+;;;;;;225;235;245;;245;;;;;;245;1;132.16;135.78;128.49;68.00;Yes;Norway;;NSF;IPF;2014-12-13;Norway;;Gruva;Klubbstevne
+Åge Berntsen;M;SBD;Single-ply;;;40-49;Masters 40-49;147.62;120+;320;342.5;351;;351;215;225;-235;;225;275;290;295;;295;871;1;470.41;483.01;457.24;78.59;Yes;Norway;;NSF;IPF;2014-11-21;Norway;;Bergen;NM ungdom junior og veteran
+Åge Berntsen;M;SBD;Single-ply;;;40-49;Masters 40-49;147;120+;320;-340;-350;;320;220;-230;;;220;280;300;;;300;840;1;454.19;466.09;441.37;75.88;Yes;Norway;;NSF;IPF;2014-09-27;Norway;;Fræna;Midt-Norsk Styrkeløft
+Åge Berntsen;M;SBD;Single-ply;40.5;40-44;40-49;Masters 1;146.44;120+;320;335;340;;340;210;-215;215;;215;260;275;282.5;;282.5;837.5;4;453.30;464.96;440.41;75.74;Yes;Norway;;EPF;IPF;2014-07-08;Czechia;;Pilsen;European Masters Powerlifting Championships
+Åge Berntsen;M;B;Single-ply;;;40-49;Masters 40-49;145.4;120+;;;;;;205;210;215;;215;;;;;;215;4;116.60;119.48;113.23;59.93;Yes;Norway;;NSF;IPF;2014-03-22;Norway;;Bergen;NM Benkpress
+Åge Berntsen;M;SBD;Raw;;;40-49;Masters 40-49;144.5;120+;200;220;240;;240;-120;130;140;;140;220;240;260;;260;640;1;347.67;355.99;337.53;68.90;Yes;Norway;;NSF;IPF;2013-12-14;Norway;;Gruva;Klubbstevne
+Åge Berntsen;M;SBD;Single-ply;;;40-49;Masters 40-49;144.8;120+;310;320;330;;330;190;-200;-200;;190;270;280;-285;;280;800;2;434.34;444.85;421.71;72.58;Yes;Norway;;NSF;IPF;2013-11-22;Norway;;Frogner;NM Ung-Jun-Vet
+Åge Berntsen;M;SBD;Single-ply;;;40-49;Masters 40-49;145.3;120+;300;320;;;320;195;205;;;205;270;280;;;280;805;1;436.64;447.41;424.02;72.96;Yes;Norway;;NSF;IPF;2013-09-07;Norway;;Trondheim;Midt-Norsk styrkeløft
+Åge Berntsen;M;SBD;Single-ply;39.5;35-39;40-49;Masters 1;145.12;120+;300;320;-335;;320;-210;-210;-210;;;275;282.5;-287.5;;282.5;;DQ;;;;;Yes;Norway;;EPF;IPF;2013-07-09;Luxembourg;;Hamm;European Masters Powerlifting Championships
+Åge Berntsen;M;SBD;Single-ply;;;40-49;Masters 40-49;144.9;120+;300;320;;;320;220;-225;-230;;220;275;;;;275;815;1;442.40;453.15;429.55;73.93;Yes;Norway;;NSF;IPF;2013-04-27;Norway;;Gruva melhus;Åpent stevne
+Åge Berntsen;M;SBD;Single-ply;;;40-49;Masters 40-49;148.6;120+;300;320;340;;340;210;215;220;;220;270;285;292.5;;292.5;852.5;1;459.60;472.31;446.89;76.78;Yes;Norway;;NSF;IPF;2013-02-09;Norway;;Elnesvågen;RM Styrkeløft Midt Norge
+Åge Berntsen;M;SBD;Single-ply;;;;Open;148.3;120+;300;310;320;;320;210;215;220;;220;260;280;-300;;280;820;1;442.32;454.43;430.04;73.89;Yes;Norway;;NSF;IPF;2012-12-08;Norway;;Gruva;Klubbstevne
+Åge Berntsen;M;SBD;Single-ply;;;;Open;145.3;120+;320;-340;;;320;-230;-230;;;;280;-302.5;;;280;;DQ;;;;;Yes;Norway;;NSF;IPF;2012-10-06;Norway;;Skognhallen;Midt-Norsk Styrkeløft
+Åge Berntsen;M;B;Single-ply;;;;Open;145.6;120+;;;;;;215;220;-225;;220;;;;;;220;6;119.26;122.24;115.83;61.30;Yes;Norway;;NSF;IPF;2012-03-24;Norway;;Molde;NM Benkpress
+Åge Berntsen;M;SBD;Single-ply;;;;Open;146.3;120+;300;320;;;320;-215;215;-230;;215;280;300;;;300;835;1;452.07;463.63;439.19;75.53;Yes;Norway;;NSF;IPF;2012-01-28;Norway;;Gruva;Klubbstevne
+Åge Berntsen;M;S;Single-ply;;;;Open;144.3;120+;-330;;;;;;;;;;;;;;;;DQ;;;;;Yes;Norway;;NSF;IPF;2011-12-10;Norway;;Gruva;Klubbmesterskap
+Åge Berntsen;M;B;Single-ply;;;;Open;145.4;120+;;;;;;230;235;-242.5;;235;;;;;;235;1;127.44;130.60;123.76;65.50;Yes;Norway;;NSF;IPF;2011-08-20;Norway;;Gruva;Klubbstevne
+Åge Berntsen;M;SBD;Single-ply;;;;Open;145.2;120+;280;300;;;300;200;210;;;210;250;270;;;270;780;1;423.16;433.56;410.91;70.71;Yes;Norway;;NSF;IPF;2011-01-28;Norway;;Melhus;Klubb stevne
+Åge Berntsen;M;SBD;Single-ply;;;;Open;145.2;125+;320;-330;-340;;320;215;225;-230;;225;275;285;292.5;;292.5;837.5;1;454.36;465.52;441.21;75.92;Yes;Norway;;NSF;IPF;2010-12-11;Norway;;Melhus;Åpent stevne
+Åge Berntsen;M;SBD;Single-ply;;;;Open;144.1;125+;310;320;330;;330;215;220;225;;225;270;275;280;;280;835;1;453.95;464.64;440.65;75.86;Yes;Norway;;NSF;IPF;2010-08-21;Norway;;Melhus;Klubbmesterskap
+Åge Berntsen;M;SBD;Single-ply;;;;Open;143.5;125+;300;-335;;;300;230;-235;-235;;230;280;-290;;;280;810;1;440.86;451.00;427.86;73.68;Yes;Norway;;NSF;IPF;2010-05-08;Norway;;Gruva Melhus;Klubbstevne
+Åge Berntsen;M;SBD;Single-ply;;;;Open;142;125+;320;340;350;;350;225;230;-235;;230;280;-290;-290;;280;860;1;469.44;479.57;455.34;78.48;Yes;Norway;;NSF;IPF;2009-12-12;Norway;;Melhus;Klubbstevne
+Åge Berntsen;M;B;Single-ply;;;;Open;141.3;125+;;;;;;-230;-235;;;;;;;;;;DQ;;;;;Yes;Norway;;NSF;IPF;2009-08-15;Norway;;Gruva;Klubbstevne
+Åge Berntsen;M;SBD;Single-ply;;;;Open;141;125+;-320;320;335;;335;-215;220;225;;225;270;280;-290;;280;840;1;459.42;468.90;445.46;76.81;Yes;Norway;;NSF;IPF;2009-05-02;Norway;;Gruva;Klubbmesterskap
+Åge Berntsen;M;B;Single-ply;;;;Open;142.3;125+;;;;;;-235;-240;-240;;;;;;;;;DQ;;;;;Yes;Norway;;NSF;IPF;2008-12-12;Norway;;Melhus;Klubbstevne
+Åge Berntsen;M;B;Single-ply;;;;Open;139.5;125+;;;;;;-235;240;-250;;240;;;;;;240;1;131.66;134.19;127.58;67.54;Yes;Norway;;NSF;IPF;2008-08-16;Norway;;Melhus;Klubbmesterskap
+Åge Berntsen;M;B;Single-ply;;;;Open;138.2;125+;;;;;;220;225;-227.5;;225;;;;;;225;1;123.76;125.98;119.86;63.46;Yes;Norway;;NSF;IPF;2008-06-06;Norway;;Melhus;Klubbmesterskap
+Åge Berntsen;M;B;Single-ply;;;;Open;137.9;125+;;;;;;210;-215;-215;;210;;;;;;210;1;115.58;117.62;111.92;59.27;Yes;Norway;;NSF;IPF;2007-12-14;Norway;;Melhus;Klubbstevne
+Åge Berntsen;M;SBD;Single-ply;;;;Open;135.4;125+;310;325;332.5;;332.5;222.5;-227.5;-227.5;;222.5;275;285;290;;290;845;1;467.50;474.64;452.17;78.26;Yes;Norway;;NSF;IPF;2007-10-20;Norway;;Røros;Regionmesterskap
+Åge Berntsen;M;B;Single-ply;;;;Open;136;125+;;;;;;225;-232.5;-235;;225;;;;;;225;1;124.32;126.29;120.27;63.72;Yes;Norway;;NSF;IPF;2007-08-18;Norway;;Melhus;Klubbmesterskap
+Åge Berntsen;M;B;Single-ply;;;;Open;135;125+;;;;;;-230;230;-235;;230;;;;;;230;3;127.36;129.25;123.16;65.27;Yes;Norway;;NSF;IPF;2007-06-30;Norway;;Frogner;NM benkpress
+Åge Berntsen;M;B;Single-ply;;;;Open;135.4;125+;;;;;;;;;;205;;;;;;205;1;113.42;115.15;109.70;58.13;Yes;Norway;;NSF;IPF;2007-04-13;Norway;;Melhus;Klubbmesterskap
+Åge Berntsen;M;SBD;Single-ply;;;;Open;135.8;125+;;;;;310;;;;;220;;;;;285;815;1;450.52;457.57;435.81;75.41;Yes;Norway;;NSF;IPF;2007-01-13;Norway;;Melhus;Midt-norsk
+Åge Berntsen;M;B;Single-ply;;;;Open;134.1;125+;;;;;;;;;;210;;;;;;210;1;116.51;118.14;112.63;59.70;Yes;Norway;;NSF;IPF;2006-08-19;Norway;;Melhus;Klubbmesterskap
+Åge Berntsen;M;SBD;Single-ply;;;;Open;139.5;125+;;;;;300;;;;;210;;;;;282.5;792.5;1;434.74;443.09;421.28;72.71;Yes;Norway;;NSF;IPF;2006-05-19;Norway;;Gruva;Klubbmesterskap
+Åge Berntsen;M;SBD;Single-ply;;;;Open;138.3;125+;;;;;330;;;;;220;;;;;270;820;1;450.93;459.07;436.74;75.43;Yes;Norway;;NSF;IPF;2006-04-22;Norway;;Skogn;RM
+Åge Berntsen;M;B;Single-ply;;;;Open;138.4;125+;;;;;;;;;;230;;;;;;230;1;126.45;128.75;122.48;64.85;Yes;Norway;;NSF;IPF;2005-05-20;Norway;;Melhus;Klubbmesterskap
+Åge Berntsen;M;SBD;Single-ply;;;;Open;133.7;125+;;;;;325;;;;;232.5;;;;;275;832.5;1;462.28;468.58;446.81;77.42;Yes;Norway;;NSF;IPF;2005-02-05;Norway;;Melhus;Midt-norsk
+Åge Berntsen;M;B;Single-ply;;;;Open;133.8;125+;;;;;;;;;;230;;;;;;230;1;127.69;129.44;123.42;65.42;Yes;Norway;;NSF;IPF;2004-12-18;Norway;;Melhus;KM-Benkpress
+Åge Berntsen;M;SBD;Single-ply;;;;Open;131.9;125+;;;;;330;;;;;225;;;;;280;835;1;465.53;471.07;449.59;78.00;Yes;Norway;;NSF;IPF;2004-05-22;Norway;;Melhus;KM
+Åge Berntsen;M;B;Single-ply;;;;Open;131.7;125+;;;;;;;;;;220;;;;;;220;1;122.71;124.15;118.50;62.85;Yes;Norway;;NSF;IPF;2004-04-02;Norway;;Melhus;Klubbmesterskap
+Åge Berntsen;M;B;Single-ply;;;;Open;132.2;125+;;;;;;;;;;175;;;;;;175;1;97.50;98.69;94.18;49.94;Yes;Norway;;NSF;IPF;2003-12-06;Norway;;Melhus;KM benkpress
+Åge Berntsen;M;SBD;Single-ply;;;;Open;131.3;125+;;;;;310;;;;;175;;;;;275;760;2;424.29;429.10;409.65;71.10;Yes;Norway;;NSF;IPF;2003-10-11;Norway;;Skognhallen;Regionmesterskap
+Åge Berntsen;M;SBD;Single-ply;;;;Open;130.7;125+;;;;;320;;;;;175;;;;;270;765;1;427.66;432.27;412.80;71.68;Yes;Norway;;NSF;IPF;2003-08-16;Norway;;Melhus;Midtnorsk
+Åge Berntsen;M;SBD;Single-ply;;;;Open;126.8;125+;;;;;305;;;;;170;;;;;265;740;1;417.53;420.49;402.22;70.07;Yes;Norway;;NSF;IPF;2003-05-24;Norway;;Melhus;Kretsmesterskap
+Åge Berntsen;M;B;Single-ply;;;;Open;128.5;125+;;;;;;;;;;170;;;;;;170;1;95.53;96.36;92.11;48.91;Yes;Norway;;NSF;IPF;2002-12-14;Norway;;Melhus;KM Benkpress
+Åge Berntsen;M;SBD;Single-ply;;;;Open;122;125;;;;;280;;;;;155;;;;;252.5;687.5;1;392.69;393.78;377.31;66.03;Yes;Norway;;NSF;IPF;2002-05-25;Norway;;Melhus;Kretsmesterskap
+Åge Berntsen;M;B;Single-ply;;;;Open;124.2;125;;;;;;;;;;155;;;;;;155;1;88.03;88.44;84.68;45.07;Yes;Norway;;NSF;IPF;2001-12-28;Norway;;Trondheim;KM Benk
+Åge Berntsen;M;SBD;Single-ply;;;;Open;115.7;125;;;;;300;;;;;155;;;;;260;715;2;415.78;414.79;397.13;70.10;Yes;Norway;;NSF;IPF;2001-10-13;Norway;;Skogn;Regionsmesterskap
+Åge Berntsen;M;SBD;Single-ply;;;;Open;122.7;125;;;;;300;;;;;160;;;;;260;720;2;410.49;411.89;394.59;69.00;Yes;Norway;;NSF;IPF;2001-05-26;Norway;;Skognhallen;KM
+Åge Berntsen;M;SBD;Single-ply;;;;Open;126.5;125+;;;;;;;;;;;;;;;;;DQ;;;;;Yes;Norway;;NSF;IPF;2001-02-10;Norway;;Lademoen;Midt-Norsk Mesterskap
+Åge Berntsen;M;B;Single-ply;;;;Open;125;125;;;;;;;;;;165;;;;;;165;1;93.51;94.02;89.98;47.88;Yes;Norway;;NSF;IPF;2000-11-11;Norway;;Skogn;KM Benkpress
+Åge Berntsen;M;SBD;Single-ply;;;;Open;124;125;;;;;310;;;;;160;;;;;270;740;1;420.47;422.38;404.45;70.64;Yes;Norway;;NSF;IPF;2000-10-14;Norway;;Skogn;Regionsmesterskap
+Åge Berntsen;M;SBD;Single-ply;;;;Open;123.5;125;;;;;305;;;;;160;;;;;260;725;1;412.48;414.17;396.68;69.31;Yes;Norway;;NSF;IPF;2000-05-27;Norway;;Skogn;Kretsmesterskap
+Åge Berntsen;M;SBD;Single-ply;;;;Open;117.8;125;270;290;-300;;290;130;-140;-140;;130;250;260;-270;;260;680;1;392.97;392.68;376.17;66.19;Yes;Norway;;NSF;IPF;1998-05-02;Norway;;Lademoen Skole;KM Trønderlag
+Åge Berntsen;M;SBD;Single-ply;;;19-23;Juniors 19-23;84.6;90;195;-205;205;;205;100;105;-110;;105;200;210;212.5;;212.5;522.5;3;349.02;344.91;331.49;59.67;Yes;Norway;;NSF;IPF;1991-11-30;Norway;;NTHI - idrettsbygg;Åpent klubbmesterskap
+Åge Berntsen;M;SBD;Single-ply;;;19-23;Juniors 19-23;82.8;90;170;185;190;;190;85;92.5;100;;100;190;-200;-200;;190;480;2;324.48;320.86;308.68;55.51;Yes;Norway;;NSF;IPF;1991-05-25;Norway;;Lademoen skole;Kretsmesterskap
+Åge Berntsen;M;B;Single-ply;;18-19;14-18;Teen 14-18;75.6;82.5;;;;;;70;-75;-75;;70;;;;;;70;5;49.97;49.60;47.91;26.77;Yes;Norway;;NSF;IPF;1988-08-27;Norway;;Mandal;NM benkpress

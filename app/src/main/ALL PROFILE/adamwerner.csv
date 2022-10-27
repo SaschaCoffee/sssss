@@ -1,0 +1,13 @@
+﻿Name;Sex;Event;Equipment;Age;AgeClass;BirthYearClass;Division;BodyweightKg;WeightClassKg;Squat1Kg;Squat2Kg;Squat3Kg;Squat4Kg;Best3SquatKg;Bench1Kg;Bench2Kg;Bench3Kg;Bench4Kg;Best3BenchKg;Deadlift1Kg;Deadlift2Kg;Deadlift3Kg;Deadlift4Kg;Best3DeadliftKg;TotalKg;Place;Dots;Wilks;Glossbrenner;Goodlift;Tested;Country;State;Federation;ParentFederation;Date;MeetCountry;MeetState;MeetTown;MeetName
+Adam Werner;M;SBD;Raw;39;35-39;24-39;Pro MR-O;109.5;110;305;-317.5;-317.5;;305;205;-212.5;212.5;;212.5;300;310;317.5;;317.5;835;3;495.39;492.08;470.25;101.12;;USA;;WRPF;WRPF;2017-08-25;USA;CA;Mountain View;Boss of Bosses 4
+Adam Werner;M;SBD;Wraps;38;35-39;24-39;Amateur Open;109.41;110;;;;;;;;;;;;;;;;;DQ;;;;;Yes;USA;;RPS;;2016-10-22;USA;OH;Columbus;Lexen Fall Classic
+Adam Werner;M;SBD;Wraps;37.5;35-39;24-39;Pro;109.36;110;;;;;303.91;;;;;219.99;;;;;306.17;830.07;3;492.71;489.37;467.64;100.58;;USA;;XPC;XPC;2016-03-04;USA;OH;Columbus;Elite Finals
+Adam Werner;M;SBD;Raw;36.5;35-39;24-39;Pro Open;109.77;110;;;;;294.84;;;;;204.12;;;;;299.37;798.32;1;473.19;470.11;449.28;96.57;;USA;;RPS;;2015-08-22;USA;OH;Grove City;LexenXtreme Dog Days
+Adam Werner;M;SBD;Raw;35;35-39;24-39;Open;108.45;110;;;;;292.5;;;;;205;;;;;300;797.5;3;474.89;471.41;450.38;97.00;;USA;OH;USPA;IPL;2014-01-25;USA;CA;Los Angeles;American Cup
+Adam Werner;M;SBD;Raw;34;24-34;24-39;Open;109.5;110;;;;;290;;;;;202.5;;;;;300;792.5;1;470.18;467.04;446.31;95.97;;USA;OH;USPA;IPL;2013-01-19;USA;CA;Los Angeles;American Cup
+Adam Werner;M;SBD;Multi-ply;33.5;24-34;24-39;Amateur;110;110;;;;;272.16;;;;;185.97;;;;;292.57;750.7;1;444.61;441.78;422.23;75.17;Yes;USA;;XPC;XPC;2012-03-04;USA;OH;Columbus;International Open
+Adam Werner;M;SBD;Wraps;33;24-34;24-39;smp;109.5;110;;;;;275;;;;;175;;;;;277.5;727.5;1;431.62;428.73;409.71;88.10;Yes;USA;OH;NASA;;2011-10-22;USA;OH;;Ohio Regional
+Adam Werner;M;SBD;Raw;32;24-34;24-39;open;108.86;110;;;;;252.5;;;;;170;;;;;265;687.5;1;408.80;405.90;387.83;83.48;Yes;USA;OH;NASA;;2010-10-30;USA;OH;;Ohio Regional
+Adam Werner;M;SBD;Wraps;31.5;24-34;24-39;sm1;99.84;100;;;;;240;;;;;165;;;;;250;655;1;403.44;398.88;380.99;82.81;Yes;USA;OH;NASA;;2010-06-19;USA;OH;Springfield;USA Nationals
+Adam Werner;M;SBD;Single-ply;31.5;24-34;24-39;smp;99.88;100;;;;;237.5;;;;;165;;;;;245;647.5;1;398.75;394.25;376.56;67.75;Yes;USA;OH;NASA;;2010-04-10;USA;OH;Springfield;Ohio State
+Adam Werner;M;B;Raw;29.5;24-34;24-39;pure;89.9;90;;;;;;;;;;160;;;;;;160;1;103.51;102.20;97.95;77.19;Yes;USA;OH;NASA;;2008-06-21;USA;;;USA Nationals

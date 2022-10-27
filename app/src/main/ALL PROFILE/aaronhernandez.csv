@@ -1,0 +1,38 @@
+﻿Name;Sex;Event;Equipment;Age;AgeClass;BirthYearClass;Division;BodyweightKg;WeightClassKg;Squat1Kg;Squat2Kg;Squat3Kg;Squat4Kg;Best3SquatKg;Bench1Kg;Bench2Kg;Bench3Kg;Bench4Kg;Best3BenchKg;Deadlift1Kg;Deadlift2Kg;Deadlift3Kg;Deadlift4Kg;Best3DeadliftKg;TotalKg;Place;Dots;Wilks;Glossbrenner;Goodlift;Tested;Country;State;Federation;ParentFederation;Date;MeetCountry;MeetState;MeetTown;MeetName
+Aaron Hernandez;M;SBD;Single-ply;;;;Boys;49.26;51.7;;;;;124.74;;;;;72.57;;;;;145.15;342.46;6;345.75;356.14;351.79;57.90;Yes;USA;;THSPA;;2022-03-05;USA;TX;Dickinson;R4 D1 Regional Championship
+Aaron Hernandez;M;SBD;Single-ply;;;;Boys;48.72;51.7;;;;;111.13;;;;;68.04;;;;;133.81;312.98;1;319.50;329.47;325.63;53.44;Yes;USA;;THSPA;;2022-02-19;USA;TX;The Woodlands;Highlander Powerlifting Meet
+Aaron Hernandez;M;SBD;Single-ply;;;;Boys;66.22;67.1;;;;;151.95;;;;;90.72;;;;;158.76;401.43;6;313.76;314.34;305.40;53.64;Yes;USA;;THSPA;;2022-02-19;USA;TX;Cedar Hill;Longhorn Invitational
+Aaron Hernandez;M;SBD;Single-ply;;;;Boys;65.77;67.1;;;;;131.54;;;;;83.91;;;;;136.08;351.53;5;276.15;276.81;269.03;47.20;Yes;USA;;THSPA;;2022-02-12;USA;TX;Hillsboro;Hillsboro Invitational
+Aaron Hernandez;M;SBD;Single-ply;;;;Boys;49.17;51.7;;;;;115.67;;;;;70.31;;;;;138.35;324.32;2;328.03;337.96;333.86;54.92;Yes;USA;;THSPA;;2022-02-05;USA;TX;Conroe Ninth Grade Campus;Conroe Invitational
+Aaron Hernandez;M;SBD;Single-ply;;;;Boys;97.52;99.7;;;;;117.93;;;;;72.57;;;;;142.88;333.39;5;207.49;205.01;195.91;35.29;Yes;USA;;THSPA;;2022-01-27;USA;TX;Sam Rayburn;Texan Tough Classic
+Aaron Hernandez;M;SBD;Single-ply;;;;Boys;64.95;67.1;;;;;111.13;;;;;83.91;;;;;117.93;312.98;12;248.19;249.04;242.18;42.41;Yes;USA;;THSPA;;2022-01-22;USA;TX;Dublin;Dublin Powerlifting Invitational
+Aaron Hernandez;M;SBD;Single-ply;;;;Boys;48.53;51.7;;;;;106.59;;;;;68.04;;;;;129.27;303.91;1;311.47;321.31;317.63;52.07;Yes;USA;;THSPA;;2022-01-22;USA;TX;Oak Ridge;War Eagle Invitational
+Aaron Hernandez;M;SBD;Single-ply;;;;Boys;51.71;51.7;;;;;99.79;;;;;61.23;;;;;115.67;276.69;3;266.42;273.11;269.05;44.85;Yes;USA;;THSPA;;2022-01-15;USA;TX;Grand Oaks H.S.;Grand Oaks Invitational
+Aaron Hernandez;M;SBD;Raw;20;20-23;19-23;Open;114;125;-220;-235;235;;235;175;182.5;-192.5;;182.5;250;270;300;-320;300;717.5;1;419.42;417.89;399.89;85.32;;USA;AZ;WRPF;WRPF;2021-04-22;USA;AZ;Yuma;Territorial Takeover
+Aaron Hernandez;M;SBD;Raw;20;20-23;19-23;Juniors 20-23;114;125;-220;-235;235;;235;175;182.5;-192.5;;182.5;250;270;300;-320;300;717.5;1;419.42;417.89;399.89;85.32;;USA;AZ;WRPF;WRPF;2021-04-22;USA;AZ;Yuma;Territorial Takeover
+Aaron Hernandez;M;SBD;Raw;19;18-19;19-23;Open;89.9;90;187.5;200;-210;;200;152.5;160.5;-165;;160.5;235;247.5;265;;265;625.5;1;404.68;399.54;382.94;83.20;;USA;AZ;USPA;IPL;2019-11-09;USA;AZ;Yuma;Territorial Cup
+Aaron Hernandez;M;SBD;Raw;19;18-19;19-23;Juniors 18-19;89.9;90;187.5;200;-210;;200;152.5;160.5;-165;;160.5;235;247.5;265;;265;625.5;1;404.68;399.54;382.94;83.20;;USA;AZ;USPA;IPL;2019-11-09;USA;AZ;Yuma;Territorial Cup
+Aaron Hernandez;M;SBD;Raw;19;18-19;19-23;Juniors 18-19;99.2;100;;;;;222.5;;;;;167.5;;;;;235;625;2;386.05;381.60;364.53;79.26;Yes;USA;AZ;USPA;IPL;2019-07-11;USA;NV;Las Vegas;Drug Tested National Championships
+Aaron Hernandez;M;SBD;Single-ply;;;;Boys;59.87;59.8;;;;;111.13;;;;;70.31;;;;;136.08;317.51;5;268.47;271.33;264.99;45.71;Yes;USA;;THSPA;;2019-02-19;USA;TX;Newton;Newton Invitational
+Aaron Hernandez;M;SBD;Single-ply;;;;Boys;59.87;59.8;;;;;106.59;;;;;68.04;;;;;131.54;306.17;7;258.88;261.64;255.53;44.07;Yes;USA;;THSPA;;2019-02-07;USA;TX;Jasper;Iron Dawg Invitational
+Aaron Hernandez;M;SBD;Single-ply;;;;Boys;59.87;59.8;;;;;102.06;;;;;65.77;;;;;129.27;297.1;4;251.21;253.89;247.96;42.77;Yes;USA;;THSPA;;2019-01-31;USA;TX;Jasper;Woodville Varsity Boys Invitational
+Aaron Hernandez;M;SBD;Single-ply;;;;Boys;59.87;59.8;;;;;92.99;;;;;65.77;;;;;65.77;224.53;6;189.85;191.88;187.39;32.32;Yes;USA;;THSPA;;2019-01-17;USA;TX;Jasper;Buna Invitational
+Aaron Hernandez;M;SBD;Raw;18;18-19;;Open;97;100;;;;;212.5;;;;;160;;;;;260;632.5;1;394.60;389.83;372.58;81.07;;USA;AZ;USPA;IPL;2018-11-17;USA;AZ;Yuma;Sonoran Desert Open
+Aaron Hernandez;M;SBD;Raw;18;18-19;;Juniors 18-19;97;100;;;;;212.5;;;;;160;;;;;260;632.5;1;394.60;389.83;372.58;81.07;;USA;AZ;USPA;IPL;2018-11-17;USA;AZ;Yuma;Sonoran Desert Open
+Aaron Hernandez;M;SBD;Raw;26;24-34;24-39;M_OR_APF;71.67;75;125;152.5;157.5;;157.5;102.5;115;-125;;115;165;185;190;;190;462.5;1;341.85;340.49;329.64;69.04;;USA;;APF;WPC;2018-07-15;USA;TX;;Texas Firefighter Powerlifting Meet
+Aaron Hernandez;M;SBD;Raw;18;18-19;;Juniors 18-19;93;100;;;;;187.5;;;;;143;;;;;235;565.5;1;359.80;355.24;340.00;73.98;;USA;AZ;USPA;IPL;2018-05-19;USA;CA;Imperial;Battle for the Desert
+Aaron Hernandez;M;SBD;Raw;18;18-19;;Open;93;100;;;;;187.5;;;;;143;;;;;235;565.5;3;359.80;355.24;340.00;73.98;;USA;AZ;USPA;IPL;2018-05-19;USA;CA;Imperial;Battle for the Desert
+Aaron Hernandez;M;SBD;Single-ply;;;;Boys;101.15;109.7;;;;;117.93;;;;;102.06;;;;;142.88;362.87;7;222.26;219.85;209.95;37.74;Yes;USA;;THSPA;;2018-02-03;USA;TX;Calallen;Asa Chambless Powerlifting Classic
+Aaron Hernandez;M;SBD;Single-ply;;;;Boys;54.88;55.7;;;;;65.77;;;;;56.7;;;;;104.33;226.8;3;206.68;210.63;206.76;34.98;Yes;USA;;THSPA;;2017-02-21;USA;TX;Newton Texas;Newton High School JV Meet
+Aaron Hernandez;M;SBD;Single-ply;;;;Boys;54.88;55.7;;;;;61.23;;;;;52.16;;;;;102.06;215.46;3;196.35;200.09;196.42;33.23;Yes;USA;;THSPA;;2017-02-09;USA;TX;Jasper Texas;Jasper JV Iron Dawg Invitational
+Aaron Hernandez;M;SBD;Single-ply;;;;Junior Varsity;55.34;55.7;;;;;52.16;;;;;54.43;;;;;95.25;201.85;2;182.57;185.91;182.40;30.92;Yes;USA;;THSPA;;2017-02-02;USA;TX;Kirbyville Texas;Kirbyville Meet
+Aaron Hernandez;M;SBD;Wraps;;;;hs;112.04;125;;;;;132.5;;;;;85;;;;;167.5;385;1;226.47;225.33;215.49;46.14;Yes;USA;AZ;NASA;;2016-11-05;USA;;;Western States Nationals
+Aaron Hernandez;M;SBD;Single-ply;;;;Boys;108.68;109.7;;;;;217.72;;;;;161.03;;;;;181.44;560.19;3;333.31;330.91;316.17;56.39;Yes;USA;;THSPA;;2016-02-27;USA;TX;Raymondville;Raymondville Invitational
+Aaron Hernandez;M;SBD;Single-ply;;;;Boys;110.86;124.7;;;;;215.46;;;;;149.69;;;;;192.78;557.92;3;329.48;327.56;313.14;55.68;Yes;USA;;THSPA;;2016-02-04;USA;TX;Brownsville;Brownsville Pace Tri-Meet Boys Division
+Aaron Hernandez;M;SBD;Single-ply;;;;Boys;112.94;124.7;;;;;206.38;;;;;142.88;;;;;192.78;542.04;11;317.92;316.52;302.78;53.67;Yes;USA;;THSPA;;2016-01-30;USA;TX;Brownsville;Brownsville Lopez Invitational Boys
+Aaron Hernandez;M;SBD;Single-ply;;;;Boys;111.77;124.7;;;;;201.85;;;;;138.35;;;;;161.03;501.22;10;295.10;293.56;280.71;49.85;Yes;USA;;THSPA;;2016-01-23;USA;TX;Brownsville;4th Annual Viking Invitational
+Aaron Hernandez;M;SBD;Wraps;;;;hs;118.39;125;;;;;140;;;;;75;;;;;165;380;1;219.23;219.17;209.98;44.44;Yes;USA;AZ;NASA;;2015-05-02;USA;AZ;;Arizona State
+Aaron Hernandez;M;SBD;Single-ply;;;;Boys;82.28;89.8;;;;;151.95;;;;;108.86;;;;;190.51;451.32;9;306.18;302.83;291.41;52.38;Yes;USA;;THSPA;;2010-03-13;USA;TX;Waco La Vega;Region 2 Division 3 Championships
+Aaron Hernandez;M;SBD;Single-ply;;;;Boys;81.47;82.1;;;;;165.56;;;;;115.67;;;;;204.12;485.34;3;331.13;327.61;315.41;56.66;Yes;USA;;THSPA;;2010-02-19;USA;TX;Lago Vista;Lago Vista Invitational
+Aaron Hernandez;M;SBD;Single-ply;;;;Boys;81.83;82.1;;;;;163.29;;;;;111.13;;;;;188.24;462.66;3;314.86;311.47;299.80;53.87;Yes;USA;;THSPA;;2010-02-09;USA;TX;Riesel;Riesel
+Aaron Hernandez;M;SBD;Single-ply;;;;Boys;80.47;82.1;;;;;165.56;;;;;111.13;;;;;174.63;451.32;5;310.14;306.99;295.71;53.08;Yes;USA;;THSPA;;2010-01-16;USA;TX;Moody;3rd Annual Moody Invitational

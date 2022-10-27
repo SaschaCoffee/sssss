@@ -1,0 +1,22 @@
+﻿Name;Sex;Event;Equipment;Age;AgeClass;BirthYearClass;Division;BodyweightKg;WeightClassKg;Squat1Kg;Squat2Kg;Squat3Kg;Squat4Kg;Best3SquatKg;Bench1Kg;Bench2Kg;Bench3Kg;Bench4Kg;Best3BenchKg;Deadlift1Kg;Deadlift2Kg;Deadlift3Kg;Deadlift4Kg;Best3DeadliftKg;TotalKg;Place;Dots;Wilks;Glossbrenner;Goodlift;Tested;Country;State;Federation;ParentFederation;Date;MeetCountry;MeetState;MeetTown;MeetName
+Aleksan Sanosyan;M;D;Raw;50;50-54;50-59;Masters 50-54;112.2;125;;;;;;;;;;;230;-235;235;;235;235;1;138.16;137.48;131.48;;;Russia;;WPA;;2020-09-12;Russia;KRS;Novorossiysk;Eastern European Cup
+Aleksan Sanosyan;M;D;Raw;49;45-49;40-49;Pro Masters 45-49;128.8;140;;;;;;;;;;;240;245;;;245;245;1;137.57;138.80;132.67;;;Russia;;WPC-RUS;WPC;2019-12-07;Russia;KDA;Krasnodar;New Year CIS Cup
+Aleksan Sanosyan;M;D;Raw;49;45-49;40-49;Pro Masters 45-49;125;125;;;;;;;;;;;230;240;-250;;240;240;1;136.02;136.76;130.88;;;Russia;;WPC;WPC;2019-09-28;Russia;KDA;;Eurasian Championships
+Aleksan Sanosyan;M;D;Raw;48;45-49;40-49;Pro Masters 45-49;124.9;125;;;;;;;;;;;230;-240;-240;;230;230;1;130.39;131.09;125.45;;;Russia;;WPC;WPC;2018-09-29;Russia;KDA;Novorossiysk;Eurasian Cup
+Aleksan Sanosyan;M;B;Raw;48;45-49;40-49;Pro Masters 45-49;124.9;125;;;;;;140;145;-150;;145;;;;;;145;1;82.20;82.64;79.09;60.15;;Russia;;WPC;WPC;2018-09-29;Russia;KDA;Novorossiysk;Eurasian Cup
+Aleksan Sanosyan;M;D;Raw;47;45-49;40-49;Amateur Masters 45-49;124.7;125;;;;;;;;;;;230;240;-250;;240;240;1;136.12;136.83;130.97;;Yes;Russia;;WPC;WPC;2017-07-16;Russia;KDA;Krasnodar;Eursasian Championships
+Aleksan Sanosyan;M;B;Raw;47;45-49;40-49;Amateur Masters 45-49;124.7;125;;;;;;140;150;160;;160;;;;;;160;1;90.75;91.22;87.31;66.41;Yes;Russia;;WPC;WPC;2017-07-16;Russia;KDA;Krasnodar;Eursasian Championships
+Aleksan Sanosyan;M;SBD;Raw;46;45-49;40-49;Pro Masters 45-49;123.4;125;150;-165;165;;165;130;140;145;;145;-210;220;-245;;220;530;1;301.62;302.83;290.04;60.87;;Russia;;GPC-RUS;GPC;2017-04-01;Russia;;;Russian Championships
+Aleksan Sanosyan;M;D;Raw;45.5;45-49;40-49;Pro Masters 45-49;125;125;;;;;;;;;;;210;230;-240;;230;230;1;130.35;131.06;125.43;;;Russia;;WPC-RUS;WPC;2016-12-18;Russia;KDA;Krasnodar;Southern Federal District New Year's Cup
+Aleksan Sanosyan;M;B;Raw;45.5;45-49;40-49;Pro Masters 45-49;125;125;;;;;;130;140;-145;;140;;;;;;140;1;79.35;79.78;76.35;58.05;;Russia;;WPC-RUS;WPC;2016-12-18;Russia;KDA;Krasnodar;Southern Federal District New Year's Cup
+Aleksan Sanosyan;M;D;Raw;44.5;40-44;40-49;Amateur Masters 45-49;125;125;;;;;;;;;;;200;210;225;;225;225;1;127.52;128.22;122.70;;Yes;Russia;;WPC-RUS;WPC;2015-12-20;Russia;KDA;Krasnodar;Power Cup
+Aleksan Sanosyan;M;B;Raw;44.5;40-44;40-49;Amateur Masters 45-49;125;125;;;;;;-140;140;-150;;140;;;;;;140;1;79.35;79.78;76.35;58.05;Yes;Russia;;WPC-RUS;WPC;2015-12-20;Russia;KDA;Krasnodar;Power Cup
+Aleksan Sanosyan;M;B;Raw;44.5;40-44;40-49;Amateur Masters 45-49;125;125;;;;;;140;145;150;;150;;;;;;150;1;85.01;85.48;81.80;62.20;Yes;Russia;;WPC-RUS;WPC;2015-10-10;Russia;KDA;Krasnodar;Russian Cup
+Aleksan Sanosyan;M;D;Raw;44.5;40-44;40-49;Amateur Masters 45-49;125;125;;;;;;;;;;;200;-215;222.5;;222.5;222.5;1;126.10;126.79;121.34;;Yes;Russia;;WPC-RUS;WPC;2015-10-10;Russia;KDA;Krasnodar;Russian Cup
+Aleksan Sanosyan;M;B;Raw;44;40-44;40-49;Pro Open;125;125;;;;;;135;140;-145;;140;;;;;;140;1;79.35;79.78;76.35;58.05;;Russia;;WPC-RUS;WPC;2015-02-21;Russia;MOW;Moscow;Good Gym Cup
+Aleksan Sanosyan;M;D;Raw;44;40-44;40-49;Amateur Open;126;140;;;;;;;;;;;180;200;-222.5;;200;200;2;113.07;113.79;108.80;;Yes;Russia;;WPC-RUS;WPC;2014-12-14;Russia;KDA;Krasnodar;Cup of Power
+Aleksan Sanosyan;M;B;Raw;44;40-44;40-49;Amateur Masters 40-44;126;140;;;;;;135;145;-155;;145;;;;;;145;1;81.97;82.50;78.88;59.93;Yes;Russia;;WPC-RUS;WPC;2014-12-14;Russia;KDA;Krasnodar;Cup of Power
+Aleksan Sanosyan;M;B;Raw;44;40-44;40-49;Pro Open;121.2;125;;;;;;-130;-135;135;;135;;;;;;135;2;77.28;77.44;74.21;56.71;;Russia;;WPC-RUS;WPC;2014-09-21;Russia;KDA;Anapa;Fit Zone Cup
+Aleksan Sanosyan;M;B;Raw;43;40-44;40-49;Pro Open;126;140;;;;;;135;142.5;-150;;142.5;;;;;;142.5;2;80.56;81.07;77.52;58.89;;Russia;;WPC-RUS;WPC;2014-04-27;Russia;KDA;Novorossiysk;Sta-Fit Bench Press
+Aleksan Sanosyan;M;B;Raw;42.5;40-44;40-49;Amateur Masters 40-44;125;125;;;;;;135;-145;;;135;;;;;;135;2;76.51;76.93;73.62;55.98;Yes;Russia;;WPC-RUS;WPC;2013-07-13;Russia;KDA;Krasnodar;South Russia Championships
+Aleksan Sanosyan;M;B;Raw;42;40-44;40-49;Amateur Open;123.5;125;;;;;;-145;;152.5;;152.5;;;;;;152.5;1;86.76;87.12;83.44;63.56;Yes;Russia;;WPC-RUS;WPC;2012-12-28;Russia;KDA;Novorossiysk;Sta-Fit Cup

@@ -1,0 +1,19 @@
+﻿Name;Sex;Event;Equipment;Age;AgeClass;BirthYearClass;Division;BodyweightKg;WeightClassKg;Squat1Kg;Squat2Kg;Squat3Kg;Squat4Kg;Best3SquatKg;Bench1Kg;Bench2Kg;Bench3Kg;Bench4Kg;Best3BenchKg;Deadlift1Kg;Deadlift2Kg;Deadlift3Kg;Deadlift4Kg;Best3DeadliftKg;TotalKg;Place;Dots;Wilks;Glossbrenner;Goodlift;Tested;Country;State;Federation;ParentFederation;Date;MeetCountry;MeetState;MeetTown;MeetName
+Aleksey Churkin;M;B;Unlimited;34;24-34;24-39;Open;97.8;100;;;;;;237.5;250;-282.5;;250;;;;;;250;2;155.39;153.54;146.72;80.41;;;;RPU;;2022-05-15;Russia;KEM;Novokuznetsk;Heritage of the Merkits
+Aleksey Churkin;M;B;Unlimited;34;24-34;24-39;Pro Open;97;100;;;;;;230;240;-262.5;;240;;;;;;240;1;149.73;147.92;141.37;77.53;;;;WRPF;WRPF;2022-04-23;Russia;NVS;Novosibirsk;Steel Bear Tournament
+Aleksey Churkin;M;B;Unlimited;34;24-34;24-39;Pro Open;97;100;;;;;;285;-310;-310;;285;;;;;;285;1;177.80;175.65;167.88;92.07;;;;WRPF;WRPF;2022-04-23;Russia;NVS;Novosibirsk;Steel Bear Tournament
+Aleksey Churkin;M;B;Unlimited;34;24-34;24-39;Amateur Open;99.7;100;;;;;;250;262.5;-302.5;;262.5;;;;;;262.5;1;161.78;159.95;152.78;83.59;Yes;;;WRPF;WRPF;2021-11-06;Russia;NVS;Novosibirsk;Steel Bear Tournament
+Aleksey Churkin;M;B;Unlimited;33;24-34;24-39;Amateur Open;99;100;;;;;;-232.5;-232.5;232.5;;232.5;;;;;;232.5;1;143.74;142.07;135.72;74.30;Yes;;;WRPF;WRPF;2021-04-10;Russia;NVS;Novosibirsk;Steel Bear 3
+Aleksey Churkin;M;B;Unlimited;33;24-34;24-39;Pro Open;100;100;;;;;;200;220;232.5;;232.5;;;;;;232.5;1;143.11;141.50;135.15;73.92;;;;WRPF;WRPF;2021-02-13;Russia;NVS;Novosibirsk;Ironheart Tournament
+Aleksey Churkin;M;B;Raw;33;24-34;24-39;Pro Open;100;100;;;;;;145;-152.5;152.5;;152.5;;;;;;152.5;1;93.87;92.81;88.64;69.86;;;;WRPF;WRPF;2021-02-13;Russia;NVS;Novosibirsk;Ironheart Tournament
+Aleksey Churkin;M;B;Multi-ply;32;24-34;24-39;Amateur Open;98.55;100;;;;;;-232.5;-232.5;232.5;;232.5;;;;;;232.5;1;144.02;142.34;135.99;74.48;Yes;;;NAP;IPA;2019-12-14;Russia;NVS;Berdsk;Steel Arena 9
+Aleksey Churkin;M;D;Raw;31;24-34;24-39;Pro Open;96.4;100;;;;;;;;;;;230;240;-250;;240;240;4;150.15;148.32;141.78;;;;;WRPF;WRPF;2019-04-28;Russia;NVS;Novosibirsk;Best of the Best Tournament III
+Aleksey Churkin;M;B;Multi-ply;31;24-34;24-39;Amateur Open;96.1;100;;;;;;240;-260;270;;270;;;;;;270;1;169.16;167.09;159.74;87.67;Yes;;;WRPF;WRPF;2019-04-27;Russia;NVS;Novosibirsk;Steel Bear Cup
+Aleksey Churkin;M;B;Unlimited;29;24-34;24-39;Amateur Open;95.7;100;;;;;;220;-240;240;;240;;;;;;240;1;150.66;148.80;142.27;78.11;Yes;;;NAP;IPA;2019-04-06;Russia;ALT;Barnaul;Eurasian Cup
+Aleksey Churkin;M;SBD;Multi-ply;31;24-34;24-39;Amateur Open;95.7;100;240;-250;250;;250;220;-240;240;;240;220;230;;;230;720;1;451.97;446.39;426.81;76.94;Yes;;;NAP;IPA;2019-04-06;Russia;ALT;Barnaul;Eurasian Cup
+Aleksey Churkin;M;D;Raw;31;24-34;24-39;Pro Open;98.2;100;;;;;;;;;;;220;230;-240;;230;230;1;142.70;141.02;134.74;;;;;WRPF;WRPF;2018-12-02;Russia;NVS;Novosibirsk;Best of the Best Tournament 2
+Aleksey Churkin;M;B;Multi-ply;31;24-34;24-39;Pro Open;98.2;100;;;;;;220;-230;230;-250;230;;;;;;230;1;142.70;141.02;134.74;73.82;;;;WRPF;WRPF;2018-12-02;Russia;NVS;Novosibirsk;Novosibirsk Open Tournament
+Aleksey Churkin;M;D;Raw;31;24-34;24-39;Open;98.7;100;;;;;;;;;;;220;230;-240;;230;230;3;142.38;140.72;134.44;;;;;IPL;IPL;2018-11-09;Russia;KYA;Krasnoyarsk;Eurasian Championships
+Aleksey Churkin;M;B;Multi-ply;31;24-34;24-39;Open;98.7;100;;;;;;-190;190;200;;200;;;;;;200;1;123.81;122.37;116.90;64.02;;;;IPL;IPL;2018-11-09;Russia;KYA;Krasnoyarsk;Eurasian Championships
+Aleksey Churkin;M;SBD;Wraps;30;24-34;24-39;Amateur Open;98.15;100;160;170;180;;180;115;-120;120;;120;210;220;-235;;220;520;9;322.70;318.89;304.69;66.28;Yes;;;NAP;IPA;2018-05-24;Russia;NVS;Berdsk;Challenge of Siberia 6
+Aleksey Churkin;M;D;Raw;30;24-34;24-39;Pro Open;99.6;100;;;;;;;;;;;200;220;230;-240;230;230;7;141.82;140.20;133.92;;;;;WRPF;WRPF;2018-04-29;Russia;NVS;Novosibirsk;Best of the Best Tournament

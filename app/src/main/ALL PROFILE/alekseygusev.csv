@@ -1,0 +1,24 @@
+﻿Name;Sex;Event;Equipment;Age;AgeClass;BirthYearClass;Division;BodyweightKg;WeightClassKg;Squat1Kg;Squat2Kg;Squat3Kg;Squat4Kg;Best3SquatKg;Bench1Kg;Bench2Kg;Bench3Kg;Bench4Kg;Best3BenchKg;Deadlift1Kg;Deadlift2Kg;Deadlift3Kg;Deadlift4Kg;Best3DeadliftKg;TotalKg;Place;Dots;Wilks;Glossbrenner;Goodlift;Tested;Country;State;Federation;ParentFederation;Date;MeetCountry;MeetState;MeetTown;MeetName
+Aleksey Gusev;M;B;Raw;40;40-44;40-49;Masters 40-44;70;75;;;;;;110;115;117.5;;117.5;;;;;;117.5;1;88.26;88.05;85.33;64.55;Yes;;;RPU;;2021-07-17;Russia;NIZ;Chkalovsk;Chkalov Cup
+Aleksey Gusev;M;B;Raw;38;35-39;24-39;Open;70.4;75;;;;;;115;-117.5;117.5;;117.5;;;;;;117.5;1;87.91;87.67;84.94;64.36;Yes;;;RPU;;2019-06-29;Russia;NIZ;Chkalovsk;Chkalovsk Cup
+Aleksey Gusev;M;B;Raw;25.5;24-34;24-39;O;101.5;110;;;;;;140;147.5;155;;155;;;;;;155;4;94.80;93.78;89.56;70.51;Yes;Russia;;Vityaz;;2018-12-22;Russia;MOW;Moscow;European Championships
+Aleksey Gusev;M;B;Raw;38;35-39;24-39;Pro Open;75;75;;;;;;75;-77.5;-77.5;;75;;;;;;75;1;53.81;53.44;51.64;39.71;;;;WPC-RUS;WPC;2018-05-06;Russia;NIZ;Nizhny Novgorod;Victory Cup
+Aleksey Gusev;M;SBD;Raw;33.5;24-34;24-39;Open;91.7;93;;;;;202.5;;;;;;;;;;;;DQ;;;;;Yes;;;FPR;IPF;2018-04-29;Russia;MOW;Moscow;Moscow Lights Tournament
+Aleksey Gusev;M;B;Raw;38;35-39;24-39;Pro Open;72;75;;;;;;70;72.5;75;;75;;;;;;75;1;55.26;55.03;53.26;40.59;;;;WPC-RUS;WPC;2018-01-26;Russia;NIZ;Nizhny Novgorod;Russian Cup
+Aleksey Gusev;M;B;Raw;37;35-39;24-39;Open;74;75;;;;;;75;-80;;;75;;;;;;75;1;54.27;53.95;52.16;40.00;;;;RPU;;2017-05-27;Russia;NIZ;Nizhny Novgorod;Volga Championships
+Aleksey Gusev;M;B;Raw;37.5;35-39;24-39;Pro Open;74;75;;;;;;70;72.5;75;;75;;;;;;75;2;54.27;53.95;52.16;40.00;;Russia;;WPC-RUS;WPC;2017-05-13;Russia;NIZ;Nizhny Novgorod;Victory Cup
+Aleksey Gusev;M;B;Raw;37;35-39;24-39;Open;74;75;;;;;;65;67.5;;;67.5;;;;;;67.5;1;48.85;48.55;46.94;36.00;;;;RPU;;2017-03-05;Russia;NIZ;Nizhny Novgorod;Yuri Vsevolodovich Cup
+Aleksey Gusev;M;B;Raw;36.5;35-39;24-39;Pro Open;74;75;;;;;;62.5;65;;;65;;;;;;65;1;47.04;46.76;45.20;34.66;;Russia;;WPC-RUS;WPC;2016-12-11;Russia;NIZ;Nizhny Novgorod;Privolzhky Federal District Championships
+Aleksey Gusev;M;B;Raw;22;20-23;19-23;Pro Juniors 20-23;89.9;90;;;;;;145;152.5;157.5;;157.5;;;;;;157.5;1;101.90;100.60;96.42;75.99;;;;WPC-RUS;WPC;2016-10-22;Russia;OMS;Omsk;Siberian Cup
+Aleksey Gusev;M;B;Raw;36.5;35-39;24-39;Pro Open;75;75;;;;;;60;;;;60;;;;;;60;1;43.05;42.75;41.31;31.77;;Russia;;WPC-RUS;WPC;2016-05-14;Russia;NIZ;Nizhny Novgorod;Victory Cup
+Aleksey Gusev;M;SBD;Raw;31.5;24-34;24-39;Open;91.62;93;;;;;180;;;;;145;;;;;187.5;512.5;12;328.46;324.28;310.55;67.54;Yes;;;FPR;IPF;2016-05-02;Russia;MOW;Moscow;Moscow Lights
+Aleksey Gusev;M;B;Raw;;20-23;;Pro Juniors 20-23;89.9;90;;;;;;145;152.5;160;;160;;;;;;160;1;103.51;102.20;97.95;77.19;;;;WPC-RUS;WPC;2016-03-04;Russia;OMS;Omsk;Siberian Federal District Championships
+Aleksey Gusev;M;B;Raw;36;35-39;24-39;Open;74;75;;;;;;60;;;;60;;;;;;60;1;43.42;43.16;41.73;32.00;;;;RPU;;2016-02-13;Russia;NIZ;Nizhny Novgorod;Nizhny Novgorod Bench Press Championships
+Aleksey Gusev;M;B;Raw;;20-23;;Pro Juniors 20-23;88.1;90;;;;;;140;147.5;152.5;;152.5;;;;;;152.5;1;99.69;98.44;94.43;74.32;;;;WPC-RUS;WPC;2015-10-24;Russia;OMS;Omsk;Siberian Federal District Championships
+Aleksey Gusev;M;B;Raw;;18-19;;Pro Teen 18-19;80.1;82.5;;;;;;120;127.5;130;;130;;;;;;130;2;89.58;88.68;85.44;66.51;;;;WPC;WPC;2013-02-16;Russia;SVE;Yekaterinburg;Eastern European Championships
+Aleksey Gusev;M;B;Raw;17.5;18-19;14-18;Pro Teen 18-19;78.3;82.5;;;;;;120;125;127.5;;127.5;;;;;;127.5;1;89.05;88.25;85.11;66.00;;Russia;;WPC;WPC;2012-08-15;Russia;NVS;Novosibirsk;European Cup
+Aleksey Gusev;M;B;Raw;17.5;18-19;14-18;Pro Teen;76;82.5;;;;;;115;120;125;;125;;;;;;125;1;88.93;88.26;85.23;65.73;;;;WPC-RUS;WPC;2012-05-27;Russia;OMS;Omsk;Omsk Bench Press Championships
+Aleksey Gusev;M;B;Single-ply;16.5;16-17;14-18;Open;78;82.5;;;;;;90;95;-100;;95;;;;;;95;12;66.51;65.92;63.59;35.42;Yes;Russia;;FPR;IPF;2010-05-09;Russia;KDA;Yaroslavskaya;Krasnodar Oblast Bench Press Championships
+Aleksey Gusev;M;SBD;Single-ply;17.5;18-19;14-18;Sub-Juniors;74.7;75;;;;;150;;;;;102.5;;;;;190;442.5;4;318.28;316.19;305.57;54.51;Yes;Belarus;;BelPF;IPF;2009-04-04;Belarus;;Oshmyany;Belarus Sub-Juniors Powerlifting Championships
+Aleksey Gusev;M;B;Multi-ply;;16-17;14-18;Pro Teen 16-17;53.2;56;;;;;;85;90;95;;95;;;;;;95;1;89.06;91.04;89.54;53.88;;;;WPC-RUS;WPC;2009-02-26;Russia;CHE;Chelyabinsk;Russian National Championships
+Aleksey Gusev;M;SBD;Single-ply;18.5;18-19;19-23;Juniors;79.15;82.5;;;;;210;;;;;145;;;;;220;575;8;399.01;395.23;380.99;68.31;Yes;;;FPR;IPF;2008-11-21;Russia;LEN;St. Petersburg;St. Petersburg Juniors Sub-Juniors & Masters Powerlifting Championships

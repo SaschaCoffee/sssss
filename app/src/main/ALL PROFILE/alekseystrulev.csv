@@ -1,0 +1,32 @@
+﻿Name;Sex;Event;Equipment;Age;AgeClass;BirthYearClass;Division;BodyweightKg;WeightClassKg;Squat1Kg;Squat2Kg;Squat3Kg;Squat4Kg;Best3SquatKg;Bench1Kg;Bench2Kg;Bench3Kg;Bench4Kg;Best3BenchKg;Deadlift1Kg;Deadlift2Kg;Deadlift3Kg;Deadlift4Kg;Best3DeadliftKg;TotalKg;Place;Dots;Wilks;Glossbrenner;Goodlift;Tested;Country;State;Federation;ParentFederation;Date;MeetCountry;MeetState;MeetTown;MeetName
+Aleksey Strulev;M;B;Raw;48;45-49;40-49;Open;99;100;;;;;;155;165;-167.5;;165;;;;;;165;2;102.01;100.83;96.32;75.95;;Russia;;RPU;;2019-12-07;Russia;MOW;Klin;Klinsky Breakthrough
+Aleksey Strulev;M;B;Raw;48;45-49;40-49;Masters 45-49;97.7;100;;;;;;155;165;-167.5;;165;;;;;;165;1;102.61;101.38;96.88;76.43;;Russia;;RPU;;2019-12-07;Russia;MOW;Klin;Klinsky Breakthrough
+Aleksey Strulev;M;B;Raw;48;45-49;40-49;Masters 45-49;97.7;100;;;;;;150;160;165;;165;;;;;;165;1;102.61;101.38;96.88;76.43;;Russia;;RPU;;2019-11-30;Russia;MOW;Lobnya;Krasnaya Polyana Boundary Tournament
+Aleksey Strulev;M;B;Raw;48;45-49;40-49;Open;97.7;100;;;;;;150;160;165;;165;;;;;;165;1;102.61;101.38;96.88;76.43;;Russia;;RPU;;2019-11-30;Russia;MOW;Lobnya;Krasnaya Polyana Boundary Tournament
+Aleksey Strulev;M;B;Raw;48;45-49;40-49;Masters 45-49;99.3;100;;;;;;155;165;-170;;165;;;;;;165;1;101.87;100.70;96.19;75.84;;Russia;;RPU;;2019-11-09;Russia;TVE;Tver;Athanasius Nikitin Cup
+Aleksey Strulev;M;B;Raw;48;45-49;40-49;Open;99.3;100;;;;;;155;165;-170;;165;;;;;;165;3;101.87;100.70;96.19;75.84;;Russia;;RPU;;2019-11-09;Russia;TVE;Tver;Athanasius Nikitin Cup
+Aleksey Strulev;M;B;Raw;48;45-49;40-49;Masters 45-49;99.3;100;;;;;;155;162.5;167.5;;167.5;;;;;;167.5;1;103.41;102.23;97.65;76.99;;Russia;;RPU;;2019-05-04;Russia;TVE;Tver;Great Victory Cup
+Aleksey Strulev;M;B;Raw;48;45-49;40-49;Masters 45-49;99.3;100;;;;;;150;160;165;;165;;;;;;165;1;101.87;100.70;96.19;75.84;;Russia;;RPU;;2019-03-30;Russia;KDA;Krasnodar;Decathlon Cup & Krasnodar Powerlifting Championships
+Aleksey Strulev;M;B;Raw;48;45-49;40-49;Masters 45-49;99.3;100;;;;;;150;160;165;;165;;;;;;165;1;101.87;100.70;96.19;75.84;;Russia;;RPU;;2019-03-30;Russia;KDA;Krasnodar;Decathlon Cup & Krasnodar Powerlifting Championships
+Aleksey Strulev;M;B;Raw;47;45-49;40-49;Pro Masters 40-49;99.8;100;;;;;;150;160;165;;165;;;;;;165;1;101.65;100.50;95.99;75.66;;Russia;;WRPF;WRPF;2019-03-02;Russia;MOW;Klin;Klin City Cup
+Aleksey Strulev;M;B;Raw;47;45-49;40-49;Pro Open;99.8;100;;;;;;150;160;165;;165;;;;;;165;1;101.65;100.50;95.99;75.66;;Russia;;WRPF;WRPF;2019-03-02;Russia;MOW;Klin;Klin City Cup
+Aleksey Strulev;M;B;Raw;47;45-49;40-49;Pro Masters 45-49;99.2;100;;;;;;150;160;162.5;;162.5;;;;;;162.5;2;100.37;99.22;94.78;74.73;;Russia;;NAP;IPA;2019-02-23;Russia;MOW;Dmitrov;European Cup
+Aleksey Strulev;M;B;Raw;47;45-49;40-49;Masters 45-49;99;100;;;;;;135;145;150;;150;;;;;;150;2;92.73;91.66;87.56;69.05;;Russia;;RPU;;2018-12-09;Russia;;Klin;Klin Breakthrough Tournament
+Aleksey Strulev;M;B;Raw;47;45-49;40-49;Masters 45-49;98.7;100;;;;;;145;155;160;;160;;;;;;160;1;99.05;97.89;93.52;73.76;;Russia;;IPL;IPL;2018-05-25;Russia;MOW;Dolgoprudnyy;European Championships
+Aleksey Strulev;M;B;Raw;47;45-49;40-49;Pro Masters 45-49;99;100;;;;;;145;155;160;;160;;;;;;160;2;98.92;97.77;93.40;73.65;;Russia;;WPF-RUS;WPF;2018-04-22;Russia;MOW;Moscow;Kremlin Press
+Aleksey Strulev;M;B;Raw;46;45-49;40-49;M1;98.1;100;;;;;;150;160;165;;165;;;;;;165;2;102.42;101.21;96.70;76.28;;Russia;;Vityaz;;2017-11-04;Russia;MOW;Moscow;Ivan Poddubniy European Cup
+Aleksey Strulev;M;B;Raw;46;45-49;40-49;M1;97.2;100;;;;;;150;155;-160;;155;;;;;;155;1;96.61;95.45;91.22;71.98;;Russia;;Vityaz;;2017-05-20;Russia;MOW;Moscow;World Championships
+Aleksey Strulev;M;S;Raw;46;45-49;40-49;Masters 45-49;98;100;160;170;-180;;170;;;;;;;;;;;170;1;105.57;104.32;99.68;;;Russia;;IPL;IPL;2017-04-20;Russia;MOW;Dolgoprudny;European Championships
+Aleksey Strulev;M;B;Raw;45;45-49;40-49;M1;97.7;100;;;;;;140;145;147.5;;147.5;;;;;;147.5;1;91.72;90.63;86.60;68.33;Yes;Russia;;Vityaz;;2017-03-18;Russia;MOW;Moscow;World Cup
+Aleksey Strulev;M;B;Raw;45;45-49;40-49;M1;96.8;100;;;;;;135;140;145;;145;;;;;;145;1;90.55;89.45;85.49;67.47;Yes;Russia;;Vityaz;;2016-12-24;Russia;MOW;Moscow;Vladimir Kravtsov's European Championships
+Aleksey Strulev;M;S;Raw;45;45-49;40-49;Masters 45-49;96.4;100;150;160;170;;170;;;;;;;;;;;170;1;106.36;105.06;100.43;;;Russia;;GPA;GPA;2016-12-08;Russia;MOW;Dolgoprudny;World Championships
+Aleksey Strulev;M;B;Raw;44;40-44;40-49;M1;95.9;100;;;;;;140;145;150;;150;;;;;;150;1;94.07;92.91;88.83;70.11;Yes;Russia;;Vityaz;;2015-12-25;Russia;MOW;Moscow;Vladimir Kravtsov's European Championships
+Aleksey Strulev;M;B;Raw;44;40-44;40-49;Masters 40-44;94;100;;;;;;140;145;-150;;145;;;;;;145;3;91.79;90.63;86.71;68.43;Yes;Russia;;WPA-RUS;WPA;2015-12-19;Russia;MOW;Moscow;Russian Championships
+Aleksey Strulev;M;B;Raw;44;40-44;40-49;Amateur Masters 40-44;98.1;100;;;;;;140;147.5;152.5;;152.5;;;;;;152.5;1;94.66;93.54;89.38;70.50;Yes;Russia;;WPC-RUS;WPC;2015-04-25;Russia;MOW;Moscow;Moscow Bench Press Championships
+Aleksey Strulev;M;B;Raw;44;40-44;40-49;Masters 40-44;98.8;100;;;;;;-140;150;155;;155;;;;;;155;4;95.91;94.79;90.56;71.42;Yes;Russia;;WPA;;2015-03-27;Russia;MOW;Moscow;Eurasian Championships
+Aleksey Strulev;M;B;Raw;43;40-44;40-49;Amateur Masters 40-44;100;100;;;;;;140;147.5;150;;150;;;;;;150;2;92.33;91.29;87.19;68.72;Yes;Russia;;WPC-RUS;WPC;2015-02-20;Russia;MOW;Moscow;Megapolis Tournament
+Aleksey Strulev;M;B;Raw;43;40-44;40-49;Masters 40-44;96.1;100;;;;;;130;137.5;140;;140;;;;;;140;3;87.71;86.64;82.83;65.37;Yes;Russia;;WPA-RUS;WPA;2014-12-20;Russia;MOW;Moscow;Russian Cup
+Aleksey Strulev;M;B;Raw;43;40-44;40-49;Amateur Masters 40-44;96.5;100;;;;;;130;140;142.5;;142.5;;;;;;142.5;2;89.11;88.02;84.14;66.40;Yes;Russia;;WPC-RUS;WPC;2014-10-16;Russia;MOW;Moscow;Moscow PROmovement Championships
+Aleksey Strulev;M;B;Raw;43;40-44;40-49;Amateur Masters 40-44;89.5;90;;;;;;130;-140;-140;;130;;;;;;130;4;84.30;83.23;79.79;62.86;Yes;Russia;;WPC-RUS;WPC;2014-04-26;Russia;MOW;Moscow;Kremlin Bench
+Aleksey Strulev;M;B;Raw;42;40-44;40-49;Amateur Masters 40-44;89.5;90;;;;;;125;130;135;;135;;;;;;135;4;87.54;86.43;82.85;65.27;Yes;Russia;;WPC-RUS;WPC;2014-02-20;Russia;MOW;Moscow;Megapolis Championships
+Aleksey Strulev;M;B;Raw;42;40-44;40-49;Amateur Masters 40-44;92.4;100;;;;;;125;132.5;135;;135;;;;;;135;2;86.16;85.07;81.44;64.25;Yes;Russia;;WPC-RUS;WPC;2013-10-10;Russia;MOW;Moscow;PROdvijenie Championships

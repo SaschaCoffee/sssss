@@ -1,0 +1,25 @@
+﻿Name;Sex;Event;Equipment;Age;AgeClass;BirthYearClass;Division;BodyweightKg;WeightClassKg;Squat1Kg;Squat2Kg;Squat3Kg;Squat4Kg;Best3SquatKg;Bench1Kg;Bench2Kg;Bench3Kg;Bench4Kg;Best3BenchKg;Deadlift1Kg;Deadlift2Kg;Deadlift3Kg;Deadlift4Kg;Best3DeadliftKg;TotalKg;Place;Dots;Wilks;Glossbrenner;Goodlift;Tested;Country;State;Federation;ParentFederation;Date;MeetCountry;MeetState;MeetTown;MeetName
+Aaron Rubin;M;B;Raw;47;45-49;40-49;M-2;90;90;;;;;;142.5;150;-157.5;;150;;;;;;150;1;96.99;95.76;91.78;72.33;;Canada;;GPC-CAN;GPC;2021-09-25;Canada;AB;Calgary;Nationals
+Aaron Rubin;M;B;Raw;46;45-49;40-49;M2;89.75;90;;;;;;145;155;-160;;155;;;;;;155;1;100.36;99.09;94.98;74.84;;Canada;;GPC;GPC;2020-10-17;Canada;SK;Regina;World Championships
+Aaron Rubin;M;B;Raw;46;45-49;40-49;M-2;90.1;100;;;;;;137.5;145;-155;;145;;;;;;145;1;93.70;92.51;88.66;69.88;;Canada;;GPC-CAN;GPC;2020-08-14;Canada;SK;Regina;National Championships
+Aaron Rubin;M;B;Multi-ply;45;45-49;40-49;M-E2;88.4;90;;;;;;195;-217.5;-217.5;;195;;;;;;195;1;127.25;125.65;120.52;66.52;;Canada;;GPC-CAN;GPC;2019-09-07;Canada;SK;Regina;South Sask Push/Pull
+Aaron Rubin;M;B;Multi-ply;45;45-49;40-49;M-E2;88.7;90;;;;;;180;205;215;;215;;;;;;215;1;140.05;138.29;132.62;73.19;;Canada;;GPC-CAN;GPC;2019-05-11;Canada;AB;Edmonton;National Championships
+Aaron Rubin;M;B;Raw;45;45-49;40-49;M-2;89.9;90;;;;;;142.5;152.5;-167.5;;152.5;;;;;;152.5;1;98.66;97.41;93.36;73.57;;Canada;;GPC-CAN;GPC;2019-05-11;Canada;AB;Edmonton;National Championships
+Aaron Rubin;M;B;Multi-ply;44;40-44;40-49;M-E1;91.2;100;;;;;;-220;-220;-220;;;;;;;;;DQ;;;;;;Canada;;GPC-CAN;GPC;2018-12-01;Canada;SK;Regina;South Sask Push Pull
+Aaron Rubin;M;B;Multi-ply;44;40-44;40-49;M-E1;94.95;100;;;;;;-215;-215;-215;;;;;;;;;DQ;;;;;;Canada;;GPC-CAN;GPC;2018-05-05;Canada;SK;Regina;National Championships
+Aaron Rubin;M;B;Raw;44;40-44;40-49;M_MR_1_CPF;94.3;100;;;;;;-162.5;-162.5;;;;;;;;;;DQ;;;;;;Canada;;CPF;WPC;2017-11-04;Canada;SK;Regina;Shell Shock II
+Aaron Rubin;M;B;Multi-ply;44;40-44;40-49;M_MEM_1_CPF;94.3;100;;;;;;215;-230;-230;;215;;;;;;215;1;135.89;134.19;128.37;70.55;;Canada;;CPF;WPC;2017-11-04;Canada;SK;Regina;Shell Shock II
+Aaron Rubin;M;B;Multi-ply;42;40-44;40-49;M-E1;87.7;90;;;;;;-220;-220;-220;;;;;;;;;DQ;;;;;;Canada;;GPC-CAN;GPC;2016-11-12;Canada;SK;Regina;South Sask Push Pull
+Aaron Rubin;M;B;Raw;42;40-44;40-49;M-1;95;100;;;;;;142.5;157.5;-167.5;;157.5;;;;;;157.5;2;99.20;97.97;93.69;73.95;;Canada;;GPC-CAN;GPC;2016-05-08;Canada;;Edmonton;Canadian Nationals
+Aaron Rubin;M;B;Multi-ply;42;40-44;40-49;M-E1;93.5;100;;;;;;220;227.5;-230;;227.5;;;;;;227.5;1;144.38;142.55;136.41;75.02;;Canada;;GPC-CAN;GPC;2016-05-08;Canada;;Edmonton;Canadian Nationals
+Aaron Rubin;M;B;Multi-ply;41;40-44;40-49;M1;94.1;100;;;;;;215;-225;-227.5;;215;;;;;;215;1;136.03;134.32;128.50;70.63;;Canada;;GPC;GPC;2015-09-13;USA;NV;Las Vegas;World Championships
+Aaron Rubin;M;B;Raw;41;40-44;40-49;M-1;94.8;100;;;;;;142.5;152.5;-162.5;;152.5;;;;;;152.5;1;96.15;94.95;90.81;71.68;;Canada;;GPC-CAN;GPC;2015-05-09;Canada;;;Canadian Nationals
+Aaron Rubin;M;B;Multi-ply;41;40-44;40-49;M-E1;94.6;100;;;;;;215;-222.5;-222.5;;215;;;;;;215;1;135.69;133.99;128.16;70.42;;Canada;;GPC-CAN;GPC;2015-05-09;Canada;;;Canadian Nationals
+Aaron Rubin;M;B;Multi-ply;40;40-44;40-49;Masters 40-44;96.16;100;;;;;;;;;;-225;;;;;;;DQ;;;;;;Canada;;IPL;IPL;2014-11-05;USA;NV;Las Vegas;World Powerlifting Benchpress and Deadlift Championships
+Aaron Rubin;M;SBD;Multi-ply;39;35-39;;MOE;88.6;90;-255;255;-265;;255;-200;-200;-200;;;-250;;;;;255;4;166.20;164.11;157.40;28.38;;Canada;;GPC-CAN;GPC;2013-05-03;Canada;;;Canadian Nationals
+Aaron Rubin;M;SBD;Multi-ply;39;35-39;;Open;87.36;90;;;;;-265;;;;;200;;;;;265;;DQ;;;;;;Canada;;IPL;IPL;2012-11-09;USA;NV;Las Vegas;World Powerlifting Benchpress and Deadlift Championships
+Aaron Rubin;M;SBD;Multi-ply;38;35-39;24-39;MOE;86.95;90;222.5;247.5;252.5;;252.5;185;-197.5;-197.5;;185;200;220;237.5;;237.5;675;1;444.28;438.81;421.20;75.91;;Canada;;GPC-CAN;GPC;2012-01-01;Canada;;;Canadian Nationals
+Aaron Rubin;M;SBD;Multi-ply;37.5;35-39;24-39;O;86.95;90;-297.5;-297.5;-297.5;;;-195;-195;-200;;;;;;;;;DQ;;;;;;Canada;;GPC;GPC;2011-11-12;Ireland;;Limerick;World Championships
+Aaron Rubin;M;SBD;Multi-ply;37;35-39;24-39;MOE;86.8;90;225;250;275;;275;125;192.5;-205;;192.5;225;250;-265;;250;717.5;1;472.69;466.88;448.18;80.76;;Canada;;GPC-CAN;GPC;2011-08-06;Canada;;;Bruce Greig Memorial
+Aaron Rubin;M;SBD;Multi-ply;37;35-39;24-39;MOE;80.45;82.5;225;-250;-255;;225;-167.5;-167.5;-167.5;-167.5;;;;;;;;DQ;;;;;;Canada;;GPC-CAN;GPC;2011-05-28;Canada;AB;Calgary;Nationals
+Aaron Rubin;M;SBD;Multi-ply;36;35-39;24-39;MOE;81.3;82.5;125;137.5;165;;165;125;-135;-135;;125;150;167.5;192.5;;192.5;482.5;2;329.59;326.11;313.99;56.40;;Canada;;GPC-CAN;GPC;2010-05-29;Canada;AB;Calgary;Nationals

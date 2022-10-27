@@ -1,0 +1,14 @@
+﻿Name;Sex;Event;Equipment;Age;AgeClass;BirthYearClass;Division;BodyweightKg;WeightClassKg;Squat1Kg;Squat2Kg;Squat3Kg;Squat4Kg;Best3SquatKg;Bench1Kg;Bench2Kg;Bench3Kg;Bench4Kg;Best3BenchKg;Deadlift1Kg;Deadlift2Kg;Deadlift3Kg;Deadlift4Kg;Best3DeadliftKg;TotalKg;Place;Dots;Wilks;Glossbrenner;Goodlift;Tested;Country;State;Federation;ParentFederation;Date;MeetCountry;MeetState;MeetTown;MeetName
+Al Davis;M;B;Raw;;;;Open;141.16;136.5+;;;;;;250;277.5;-292.5;;277.5;;;;;;277.5;2;151.72;154.88;147.12;109.62;;USA;;Hardcore;;2015-07-16;USA;TX;Houston;Clash of the Titans VIII
+Al Davis;M;B;Multi-ply;40;40-44;40-49;M_OEM_APF;139.07;140;;;;;;250;272.5;282.5;;282.5;;;;;;282.5;1;155.11;158.02;150.27;79.56;;USA;;APF;WPC;2013-06-22;USA;TX;;Show of Strength
+Al Davis;M;B;Raw;;;;Open;139.3;;;;;;;265.35;281.23;-288.03;;281.23;;;;;;281.23;2;154.34;157.27;149.54;111.65;;USA;;Hardcore;;2012-10-20;USA;NV;Las Vegas;Kings of the Bench VIII
+Al Davis;M;B;Raw;;;;Open;139.71;;;;;;;272.16;-290.3;-290.3;;272.16;;;;;;272.16;2;149.24;152.13;144.63;107.93;;USA;;Hardcore;;2012-03-31;USA;TX;Dallas;Kings of the Bench VI
+Al Davis;M;B;Raw;;;;Heavy;137.08;79.8+;;;;;;-294.84;-294.84;-294.84;;;;;;;;;DQ;;;;;;USA;;Hardcore;;2011-04-02;USA;TX;Mesquite;Kings of the Bench V
+Al Davis;M;B;Raw;;;;M-HW;135.8;140;;;;;;290;-300;-300;;290;;;;;;290;1;160.31;162.82;155.07;116.28;;USA;;RUPC;;2011-01-22;USA;FL;Tampa;Raw Unity IV
+Al Davis;M;B;Raw;;;;Open;135.26;140;;;;;;;;;;294.84;;;;;;294.84;1;163.17;165.64;157.81;118.41;;USA;TX;SPF;;2010-11-06;USA;TX;Dallas;Fall Madness
+Al Davis;M;B;Raw;;;;Open;134.26;113.8+;;;;;;274.42;288.03;-294.84;;288.03;;;;;;288.03;1;159.75;162.01;154.44;116.01;;USA;;Hardcore;;2010-04-10;USA;TX;Mesquite;Kings of the Bench IV
+Al Davis;M;B;Raw;;;;M-HW;134;140;;;;;;275;287.5;-295;;287.5;;;;;;287.5;1;159.54;161.76;154.22;115.89;;USA;;RUPC;;2010-01-30;USA;FL;Tampa;Raw Unity III
+Al Davis;M;B;Raw;;;;Open;127.91;125.1+;;;;;;;;;;254.01;;;;;;254.01;1;142.93;144.10;137.77;104.33;;USA;;Hardcore;;2009-04-18;USA;TX;Mesquite;Kings of the Bench III
+Al Davis;M;B;Raw;34;24-34;24-39;Open;127.01;125.1+;;;;;;274.42;-283.5;-283.5;;274.42;;;;;;274.42;1;154.76;155.88;149.10;113.04;;USA;;Hardcore;;2007-09-28;USA;NV;Las Vegas;Kings of the Bench II
+Al Davis;M;B;Raw;;;;Open;132;;;;;;;;;;;274.42;;;;;;274.42;1;152.96;154.79;147.73;111.28;;USA;;Hardcore;;2007-08-10;USA;TX;Dallas;Clash of the Titans
+Al Davis;M;SBD;Single-ply;;20-23;;M-Jr;82.5;82.5;;;;;185.97;;;;;127.01;;;;;206.38;519.36;2;351.81;347.92;334.77;60.19;Yes;USA;MI;USAPL;IPF;2001-02-10;USA;MI;Niles;Michigan High School PL Champs

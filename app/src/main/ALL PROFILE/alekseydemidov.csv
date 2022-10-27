@@ -1,0 +1,20 @@
+﻿Name;Sex;Event;Equipment;Age;AgeClass;BirthYearClass;Division;BodyweightKg;WeightClassKg;Squat1Kg;Squat2Kg;Squat3Kg;Squat4Kg;Best3SquatKg;Bench1Kg;Bench2Kg;Bench3Kg;Bench4Kg;Best3BenchKg;Deadlift1Kg;Deadlift2Kg;Deadlift3Kg;Deadlift4Kg;Best3DeadliftKg;TotalKg;Place;Dots;Wilks;Glossbrenner;Goodlift;Tested;Country;State;Federation;ParentFederation;Date;MeetCountry;MeetState;MeetTown;MeetName
+Aleksey Demidov;M;D;Raw;37;35-39;24-39;Open;98.4;100;;;;;;;;;;;262.5;272.5;;;272.5;272.5;2;168.92;166.93;159.49;;;Russia;;RPU;;2018-12-09;Russia;;Astrakhan;Southern Gates of Russia
+Aleksey Demidov;M;D;Raw;36;35-39;24-39;Pro Open;98.3;100;;;;;;;;;;;-260;260;;;260;260;2;161.24;159.34;152.24;;;Russia;;WRPF;WRPF;2018-03-31;Russia;VGG;Volzhsky;Eurasian Championships
+Aleksey Demidov;M;SBD;Wraps;36;35-39;24-39;Pro Open;98.3;100;-212.5;-220;-220;;;;;;;;;;;;;;DQ;;;;;;Russia;;WRPF;WRPF;2018-03-31;Russia;VGG;Volzhsky;Eurasian Championships
+Aleksey Demidov;M;BD;Raw;36;35-39;24-39;Pro Open;98.3;100;;;;;;145;150;155;;155;245;255;-265;;255;410;2;254.27;251.27;240.08;;;Russia;;WRPF;WRPF;2018-03-31;Russia;VGG;Volzhsky;Eurasian Championships
+Aleksey Demidov;M;B;Raw;36;35-39;24-39;Amateur Open;73;75;;;;;;130;135;140;;140;;;;;;140;1;102.22;101.69;98.37;75.20;;Russia;;WPC-RUS;WPC;2018-03-16;Russia;SAM;Samara;Samara Championships
+Aleksey Demidov;M;D;Multi-ply;35.5;35-39;24-39;Open;97.4;100;;;;;;;;;;;260;270;-280;;270;270;1;168.13;166.12;158.75;;;Russia;;RPU;;2017-11-18;Russia;;Astrahan;Astrakhan Championships
+Aleksey Demidov;M;D;Raw;36;35-39;24-39;Open;94.9;100;;;;;;;;;;;245;255;265;;265;265;1;167.00;164.92;157.73;;;Russia;;RPU;;2017-10-07;Russia;VGG;Volzhsky;Russian Championships
+Aleksey Demidov;M;S;Wraps;36;35-39;24-39;Open;94.9;100;200;210;-220;;210;;;;;;;;;;;210;2;132.34;130.69;124.99;;;Russia;;RPU;;2017-10-07;Russia;VGG;Volzhsky;Russian Championships
+Aleksey Demidov;M;B;Raw;24;24-34;24-39;Pro Open;73.9;75;;;;;;130;135;-140;;135;;;;;;135;1;97.78;97.20;93.98;72.05;;Russia;;WRPF;WRPF;2017-06-10;Russia;SAM;Samara;Samara Open Championships
+Aleksey Demidov;M;B;Raw;24;24-34;24-39;Amateur Open;67.1;67.5;;;;;;125;130;-135;;130;;;;;;130;1;100.63;100.71;97.79;73.08;Yes;Russia;;WPC-RUS;WPC;2017-03-04;Russia;SAM;Samara;Samara Open Championship
+Aleksey Demidov;M;B;Raw;34.5;24-34;24-39;Pro Open;95.9;100;;;;;;-152.5;-157.5;-160;;;;;;;;;DQ;;;;;;Russia;;WPC-RUS;WPC;2016-11-12;Russia;SAR;Saratov;Silver Bar
+Aleksey Demidov;M;D;Raw;34.5;24-34;24-39;Pro Open;95.9;100;;;;;;;;;;;-225;230;245;;245;245;2;153.65;151.76;145.09;;;Russia;;WPC-RUS;WPC;2016-11-12;Russia;SAR;Saratov;Silver Bar
+Aleksey Demidov;M;D;Raw;34.5;24-34;24-39;Pro Open;96.6;100;;;;;;;;;;;220;230;240;;240;240;3;150.01;148.18;141.64;;;Russia;;WPC-RUS;WPC;2016-10-08;Russia;AST;Astrakhan;Astrakhan Oblast Championships
+Aleksey Demidov;M;B;Raw;34.5;24-34;24-39;Pro Open;96.6;100;;;;;;155;-160;160;;160;;;;;;160;4;100.01;98.79;94.43;74.52;;Russia;;WPC-RUS;WPC;2016-10-08;Russia;AST;Astrakhan;Astrakhan Oblast Championships
+Aleksey Demidov;M;B;Raw;34;24-34;24-39;Pro Open;93.3;100;;;;;;150;-155;-157.5;;150;;;;;;150;3;95.29;94.09;90.04;71.05;;Russia;;WPC-RUS;WPC;2016-04-09;Russia;AST;Astrakhan;Lower Volga Cup
+Aleksey Demidov;M;D;Raw;34;24-34;24-39;Pro Open;93.3;100;;;;;;;;;;;210;220;-225;;220;220;2;139.76;137.99;132.06;;;Russia;;WPC-RUS;WPC;2016-04-09;Russia;AST;Astrakhan;Lower Volga Cup
+Aleksey Demidov;M;B;Raw;23.5;24-34;24-39;Amateur Juniors 20-23;71;75;;;;;;127.5;-135;-135;;127.5;;;;;;127.5;4;94.84;94.53;91.55;69.51;Yes;Russia;;WPC-RUS;WPC;2016-03-05;Russia;SAM;Togliatty;Samara Oblast Championships
+Aleksey Demidov;M;B;Raw;23.5;24-34;24-39;Amateur Juniors 20-23;71;75;;;;;;127.5;-135;-135;;127.5;;;;;;127.5;4;94.84;94.53;91.55;69.51;Yes;Russia;;WPC-RUS;WPC;2016-03-05;Russia;SAM;Togliatty;Samara Oblast Championships
+Aleksey Demidov;M;SBD;Single-ply;18.5;18-19;19-23;Juniors;88.15;93;;;;;125;;;;;80;;;;;160;365;7;238.53;235.54;225.95;40.74;Yes;Russia;;FPR;IPF;2012-10-19;Russia;BRY;Suzemka;Bryansk Oblast Powerlifting Cup & Juniors Powerlifting Championships

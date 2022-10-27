@@ -1,0 +1,26 @@
+﻿Name;Sex;Event;Equipment;Age;AgeClass;BirthYearClass;Division;BodyweightKg;WeightClassKg;Squat1Kg;Squat2Kg;Squat3Kg;Squat4Kg;Best3SquatKg;Bench1Kg;Bench2Kg;Bench3Kg;Bench4Kg;Best3BenchKg;Deadlift1Kg;Deadlift2Kg;Deadlift3Kg;Deadlift4Kg;Best3DeadliftKg;TotalKg;Place;Dots;Wilks;Glossbrenner;Goodlift;Tested;Country;State;Federation;ParentFederation;Date;MeetCountry;MeetState;MeetTown;MeetName
+Aleksey Orlov;M;B;Raw;31;24-34;24-39;Open;81.45;82.5;;;;;;120;125;-135;;125;;;;;;125;2;85.30;84.39;81.25;63.40;;Russia;;RPU;;2019-11-16;Russia;VLG;Veliky Ustyug;Veliky Ustyug Cup
+Aleksey Orlov;M;SBD;Multi-ply;;;;Amateur Open;89.4;90;240;245;260;;260;170;190;210;;210;240;260;-270;;260;730;1;473.62;467.63;448.30;80.85;Yes;Russia;;NAP;IPA;2019-10-06;Russia;SVE;Yekaterinburg;Golden Tiger 13
+Aleksey Orlov;M;B;Raw;23;20-23;19-23;Pro Juniors 20-23;73.6;75;;;;;;-100;100;-110;;100;;;;;;100;1;72.62;72.21;69.83;53.48;;Russia;;WPC-RUS;WPC;2019-04-19;Russia;SAR;;Volsk Championships
+Aleksey Orlov;M;B;Raw;30;24-34;24-39;Open;81.9;82.5;;;;;;120;125;130;;130;;;;;;130;3;88.43;87.47;84.19;65.75;;Russia;;RPU;;2019-02-23;Russia;VLG;Velikiy Ustyug;Velikiy Ustyug Championships
+Aleksey Orlov;M;SBD;Raw;26.5;24-34;24-39;Open;92.35;93;;;;;240;;;;;167.5;;;;;252.5;660;9;421.35;416.00;398.26;86.64;Yes;Russia;;FPR;IPF;2018-12-06;Russia;KHA;Khabarovsk;Far Eastern Classic Powerlifting Championships
+Aleksey Orlov;M;B;Raw;28;24-34;24-39;Amateur Open;86.5;90;;;;;;130;135;140;;140;;;;;;140;1;92.40;91.27;87.63;68.86;Yes;Russia;;WRPF;WRPF;2018-11-02;Russia;SAM;Togliatti;Invincible Power Tournament
+Aleksey Orlov;M;SBD;Wraps;28;24-34;24-39;Amateur Open;90;90;240;-252.5;252.5;;252.5;180;190;200;;200;230;250;270;;270;722.5;1;467.17;461.24;442.05;96.05;Yes;Russia;;NAP;IPA;2018-09-28;Russia;SVE;Yekaterinburg;Golden Tiger 12
+Aleksey Orlov;M;SBD;Wraps;23;20-23;;Juniors 20-23;87.6;90;-260;-260;260;;260;140;150;-155;;150;250;260;270;;270;680;1;445.83;440.28;422.48;91.62;;Russia;;RPU;;2018-08-25;Russia;ROS;Taganrog;New Wave Championships
+Aleksey Orlov;M;D;Raw;22;20-23;19-23;Pro Juniors 20-23;87.3;90;;;;;;;;;;;250;265;270;;270;270;1;177.34;175.14;168.08;;;Russia;;WPC-RUS;WPC;2018-06-09;Russia;ROS;Rostov-on-Don;North Caucasus' Championships
+Aleksey Orlov;M;D;Raw;26;24-34;24-39;Pro Open;89.7;90;;;;;;;;;;;260;-275;-275;;260;260;3;168.40;166.27;159.37;;;Russia;;NAP;IPA;2016-09-30;Russia;SVE;Yekaterinburg;Golden Tiger 10
+Aleksey Orlov;M;B;Raw;27;24-34;24-39;Amateur Open;73.6;75;;;;;;135;145;-150;;145;;;;;;145;1;105.30;104.70;101.25;77.55;Yes;Russia;;WRPF;WRPF;2016-08-26;Russia;TYU;Tyumen;Russian Championships
+Aleksey Orlov;M;D;Raw;25.5;24-34;24-39;Pro Open;89.2;90;;;;;;;;;;;260;-280;-280;;260;260;1;168.88;166.74;159.87;;;Russia;;WPC;WPC;2016-04-24;Russia;KDA;Krasnodar;Eurasian Championships
+Aleksey Orlov;M;B;Raw;35.5;35-39;24-39;Pro Open;64.1;67.5;;;;;;80;85;-90;;85;;;;;;85;1;68.08;68.39;66.55;48.99;;Russia;;WPC-RUS;WPC;2016-03-23;Russia;SAR;Engels;Iron Bull Tournament
+Aleksey Orlov;M;D;Raw;25.5;24-34;24-39;Amateur Open;90;90;;;;;;;;;;;-280;280;-290;;280;280;1;181.05;178.75;171.31;;Yes;Russia;;NAP;IPA;2016-03-05;Russia;CHE;Chelyabinsk;Russian Championships
+Aleksey Orlov;M;B;Raw;23.5;24-34;24-39;Amateur Open;92;100;;;;;;120;130;-140;;130;;;;;;130;5;83.15;82.09;78.60;62.01;Yes;Russia;;WPC-RUS;WPC;2015-09-27;Russia;KLU;Obninsk;Adrenaline
+Aleksey Orlov;M;D;Raw;19.5;20-23;19-23;Amateur Teen 18-19;85.2;90;;;;;;;;;;;200;210;222.5;;222.5;222.5;1;148.05;146.29;140.55;;Yes;Russia;;WPC-RUS;WPC;2015-06-13;Russia;ROS;Rostov-on-Don;North Caucasus' Championships
+Aleksey Orlov;M;B;Raw;34.5;24-34;24-39;Pro Open;67.5;67.5;;;;;;75;80;-82.5;;80;;;;;;80;1;61.66;61.68;59.87;44.82;;Russia;;WPC-RUS;WPC;2015-03-21;Russia;SAR;Engels;Iron Bull Tournament
+Aleksey Orlov;M;D;Raw;19;18-19;19-23;Pro Open;86;90;;;;;;;;;;;180;195;210;;210;210;1;139.03;137.35;131.90;;;Russia;;WPC-RUS;WPC;2015-02-22;Russia;ROS;Taganrog;Taganrog Championships
+Aleksey Orlov;M;B;Raw;26.5;24-34;24-39;Open;74;75;;;;;;117.5;-125;-125;;117.5;;;;;;117.5;3;85.03;84.52;81.71;62.66;Yes;Russia;;RPU;;2015-02-21;Russia;VLG;Velikiy Ustyug;Vologda Powerlifting Championships
+Aleksey Orlov;M;B;Raw;26.5;24-34;24-39;Open;76.55;83;;;;;;135;145;-150;;145;;;;;;145;6;102.69;101.88;98.36;75.96;Yes;Russia;;FPR;IPF;2015-02-05;Russia;SVE;Nizhny Tagil;Ural Bench Press Championships
+Aleksey Orlov;M;SBD;Single-ply;25.5;24-34;24-39;Open;92.45;93;;;;;325;;;;;185;;;;;290;800;6;510.46;503.98;482.47;87.03;Yes;Russia;;FPR;IPF;2014-12-01;Russia;PER;Osa;Volga Powerlifting Championships
+Aleksey Orlov;M;B;Raw;20;20-23;19-23;Amateur Juniors 20-23;72.6;75;;;;;;-100;102.5;-105;;102.5;;;;;;102.5;3;75.11;74.75;72.33;55.22;Yes;Russia;;WPC-RUS;WPC;2014-10-15;Russia;VLA;;Vladimir Cup
+Aleksey Orlov;M;SBD;Single-ply;23.5;24-34;24-39;Open;92.25;93;;;;;310;;;;;185;;;;;;;DQ;;;;;Yes;Russia;;FPR;IPF;2014-05-19;Russia;LEN;St. Petersburg;White Nights
+Aleksey Orlov;M;SBD;Single-ply;22.5;20-23;19-23;Open;91.5;93;;;;;310;;;;;175;;;;;;;DQ;;;;;Yes;Russia;;FPR;IPF;2013-05-20;Russia;LEN;St. Petersburg;White Nights
+Aleksey Orlov;M;B;Raw;23.5;24-34;24-39;Pro Open;70.6;75;;;;;;112.5;-117.5;-117.5;;112.5;;;;;;112.5;5;84.01;83.76;81.14;61.52;;Russia;;WPC-RUS;WPC;2012-03-24;Russia;VLG;Vologda;North-Eastern Championships

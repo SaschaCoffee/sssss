@@ -1,0 +1,10 @@
+﻿Name;Sex;Event;Equipment;Age;AgeClass;BirthYearClass;Division;BodyweightKg;WeightClassKg;Squat1Kg;Squat2Kg;Squat3Kg;Squat4Kg;Best3SquatKg;Bench1Kg;Bench2Kg;Bench3Kg;Bench4Kg;Best3BenchKg;Deadlift1Kg;Deadlift2Kg;Deadlift3Kg;Deadlift4Kg;Best3DeadliftKg;TotalKg;Place;Dots;Wilks;Glossbrenner;Goodlift;Tested;Country;State;Federation;ParentFederation;Date;MeetCountry;MeetState;MeetTown;MeetName
+Aleksey Schekunov;M;D;Raw;33.5;24-34;24-39;Pro Open;88;90;;;;;;;;;;;230;250;267.5;;267.5;267.5;1;174.97;172.78;165.76;;;Russia;;WPF-RUS;WPF;2018-09-29;Russia;MOW;Moscow;ProMotion
+Aleksey Schekunov;M;D;Raw;33.5;24-34;24-39;Open;87.1;90;;;;;;;;;;;250;260;270;;270;270;3;177.55;175.36;168.31;;;Russia;;IPL;IPL;2018-05-25;Russia;MOW;Dolgoprudnyy;European Championships
+Aleksey Schekunov;M;BD;Raw;33.5;24-34;24-39;Open;87.1;90;;;;;;-170;170;177.5;;177.5;250;260;270;;270;447.5;3;294.28;290.64;278.96;;;Russia;;IPL;IPL;2018-05-25;Russia;MOW;Dolgoprudnyy;European Championships
+Aleksey Schekunov;M;SBD;Raw;33.5;24-34;24-39;Open;87.1;90;210;220;-230;;220;-170;170;177.5;;177.5;250;260;270;;270;667.5;4;438.95;433.53;416.10;90.19;;Russia;;IPL;IPL;2018-05-25;Russia;MOW;Dolgoprudnyy;European Championships
+Aleksey Schekunov;M;SBD;Wraps;31.5;24-34;24-39;Pro Open;83.6;90;170;180;187.5;;187.5;145;152.5;160;;160;220;235;-252.5;;235;582.5;2;391.66;387.17;372.31;80.34;;Russia;;WPC-RUS;WPC;2016-06-04;Russia;MOW;Moscow;Moscow Cup
+Aleksey Schekunov;M;D;Raw;30.5;24-34;24-39;Open;81;82.5;;;;;;;;;;;220;235;-255;;235;235;2;160.87;159.20;153.30;;;Russia;;WPA-RUS;WPA;2015-12-19;Russia;MOW;Moscow;Russian Championships
+Aleksey Schekunov;M;B;Raw;30.5;24-34;24-39;Pro Open;82.2;82.5;;;;;;155;-170;-170;;155;;;;;;155;1;105.21;104.06;100.15;78.24;;Russia;;WPC-RUS;WPC;2015-09-27;Russia;KLU;Obninsk;Adrenaline
+Aleksey Schekunov;M;D;Raw;30.5;24-34;24-39;Open;79.1;82.5;;;;;;;;;;;185;200;215;;215;215;2;149.25;147.84;142.52;;Yes;Russia;;WPA;;2015-03-27;Russia;MOW;Moscow;Eurasian Championships
+Aleksey Schekunov;M;B;Raw;30.5;24-34;24-39;Amateur Open;80.3;82.5;;;;;;130;137.5;-145;;137.5;;;;;;137.5;6;94.60;93.65;90.22;70.25;Yes;Russia;;WPC-RUS;WPC;2015-02-20;Russia;MOW;Moscow;Megapolis Tournament

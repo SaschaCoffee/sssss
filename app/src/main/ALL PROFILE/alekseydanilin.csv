@@ -1,0 +1,21 @@
+﻿Name;Sex;Event;Equipment;Age;AgeClass;BirthYearClass;Division;BodyweightKg;WeightClassKg;Squat1Kg;Squat2Kg;Squat3Kg;Squat4Kg;Best3SquatKg;Bench1Kg;Bench2Kg;Bench3Kg;Bench4Kg;Best3BenchKg;Deadlift1Kg;Deadlift2Kg;Deadlift3Kg;Deadlift4Kg;Best3DeadliftKg;TotalKg;Place;Dots;Wilks;Glossbrenner;Goodlift;Tested;Country;State;Federation;ParentFederation;Date;MeetCountry;MeetState;MeetTown;MeetName
+Aleksey Danilin;M;B;Raw;26;24-34;24-39;Open;104.2;;;;;;;165;175;-182.5;;175;;;;;;175;7;105.87;104.86;100.12;78.64;;Russia;;RPU;;2018-09-16;Russia;MOW;Moscow;22nd Fire & Rescue Squad Memory Cup
+Aleksey Danilin;M;D;Raw;33.5;24-34;24-39;PFM;103.3;110;;;;;;;;;;;255;-265;;;255;255;1;154.82;153.27;146.35;;;Russia;;Vityaz;;2016-05-27;Russia;MOW;Moscow;World Cup
+Aleksey Danilin;M;B;Raw;33.5;24-34;24-39;PFM;103.85;110;;;;;;170;180;-190;;180;;;;;;180;2;109.04;107.98;103.11;81.01;;Russia;;Vityaz;;2016-05-27;Russia;MOW;Moscow;World Cup
+Aleksey Danilin;M;D;Raw;33.5;24-34;24-39;PFM;106.4;110;;;;;;;;;;;255;265;-270;;265;265;1;158.98;157.63;150.54;;;Russia;;Vityaz;;2016-04-02;Russia;MOW;Moscow;Russian Cup
+Aleksey Danilin;M;D;Raw;32.5;24-34;24-39;PFM;103.7;110;;;;;;;;;;;250;260;-272.5;;260;260;2;157.60;156.06;149.01;;;Russia;;Vityaz;;2015-12-25;Russia;MOW;Moscow;Vladimir Kravtsov's European Championships
+Aleksey Danilin;M;SBD;Wraps;32.5;24-34;24-39;Submasters 33-39;104;110;220;230;-240;;230;170;175;-180;;175;247.5;255;-262.5;;255;660;1;399.59;395.73;377.86;81.85;;Russia;;WPA-RUS;WPA;2015-12-19;Russia;MOW;Moscow;Russian Championships
+Aleksey Danilin;M;D;Raw;32.5;24-34;24-39;PFM;97.9;100;;;;;;;;;;;215;222.5;-230;;222.5;222.5;1;138.24;136.60;130.52;;;Russia;;Vityaz;;2015-10-10;Russia;MOW;Moscow;Ivan Poddubniy International Benchpress and Deadlift Tournament
+Aleksey Danilin;M;B;Raw;32.5;24-34;24-39;PFM;104.65;110;;;;;;-170;170;177.5;;177.5;;;;;;177.5;3;107.19;106.19;101.40;79.60;;Russia;;Vityaz;;2015-05-16;Russia;MOW;Moscow;Russia Championships
+Aleksey Danilin;M;D;Raw;32.5;24-34;24-39;PFM;104.65;110;;;;;;;;;;;250;257.5;-262.5;;257.5;257.5;1;155.51;154.05;147.10;;;Russia;;Vityaz;;2015-05-16;Russia;MOW;Moscow;Russia Championships
+Aleksey Danilin;M;SBD;Wraps;32.5;24-34;24-39;Open;104.3;110;235;-245;-245;;235;165;170;175;;175;240;247.5;-255;;247.5;657.5;3;397.61;393.82;376.05;81.43;;Russia;;WPA;;2015-03-27;Russia;MOW;Moscow;Eurasian Championships
+Aleksey Danilin;M;B;Raw;32.5;24-34;24-39;PFM;102.8;110;;;;;;167.5;-175;-175;;167.5;;;;;;167.5;1;101.90;100.86;96.31;75.74;;Russia;;Vityaz;;2015-03-14;Russia;MOW;Moscow;Russian Cup
+Aleksey Danilin;M;D;Raw;32.5;24-34;24-39;PFM;97.5;100;;;;;;;;;;;235;242.5;250;;250;250;1;155.61;153.74;146.92;;;Russia;;Vityaz;;2015-03-14;Russia;MOW;Moscow;Russian Cup
+Aleksey Danilin;M;D;Raw;31.5;24-34;24-39;PFM;99.3;100;;;;;;;;;;;215;222.5;227.5;;227.5;227.5;1;140.46;138.85;132.63;;;Russia;;Vityaz;;2014-12-26;Russia;MOW;Moscow;Vladimir Kravtsov's European Championships
+Aleksey Danilin;M;B;Raw;31.5;24-34;24-39;PFM;100.5;110;;;;;;-165;165;-167.5;;165;;;;;;165;3;101.34;100.22;95.71;75.41;;Russia;;Vityaz;;2014-12-26;Russia;MOW;Moscow;Vladimir Kravtsov's European Championships
+Aleksey Danilin;M;B;Raw;31.5;24-34;24-39;PFM;98;100;;;;;;-165;-165;165;;165;;;;;;165;4;102.47;101.25;96.75;76.32;;Russia;;Vityaz;;2014-10-26;Russia;MOW;Moscow;Ivan Poddubniy International Tournament
+Aleksey Danilin;M;B;Raw;31.5;24-34;24-39;PFM;99;100;;;;;;160;165;-170;;165;;;;;;165;1;102.01;100.83;96.32;75.95;;Russia;;Vityaz;;2014-04-05;Russia;MOW;Moscow;CFO Championships
+Aleksey Danilin;M;B;Raw;31.5;24-34;24-39;Pro Open;97.2;100;;;;;;-172.5;-175;-175;;;;;;;;;DQ;;;;;;Russia;;WPC-RUS;WPC;2014-02-20;Russia;MOW;Moscow;Megapolis Championships
+Aleksey Danilin;M;B;Raw;30.5;24-34;24-39;Pro Open;97.1;100;;;;;;157.5;165;170;;170;;;;;;170;2;106.01;104.73;100.09;78.98;;Russia;;WPC-RUS;WPC;2013-12-15;Russia;MOW;Moscow;VAO Bench Press & Deadlift Cup
+Aleksey Danilin;M;B;Raw;30.5;24-34;24-39;Pro Open;96.35;100;;;;;;150;157.5;165;;165;;;;;;165;6;103.25;101.99;97.50;76.95;;Russia;;WPC-RUS;WPC;2013-11-23;Russia;MOW;Moscow;WILD Athletic Bench Press Cup
+Aleksey Danilin;M;B;Raw;30;24-34;24-39;Pro Open;97;100;;;;;;140;147.5;157.5;;157.5;;;;;;157.5;14;98.26;97.07;92.78;73.21;;Russia;;WPC-RUS;WPC;2013-06-13;Russia;MOW;Moscow;Russian Championships

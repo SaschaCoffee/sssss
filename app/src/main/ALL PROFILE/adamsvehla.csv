@@ -1,0 +1,43 @@
+﻿Name;Sex;Event;Equipment;Age;AgeClass;BirthYearClass;Division;BodyweightKg;WeightClassKg;Squat1Kg;Squat2Kg;Squat3Kg;Squat4Kg;Best3SquatKg;Bench1Kg;Bench2Kg;Bench3Kg;Bench4Kg;Best3BenchKg;Deadlift1Kg;Deadlift2Kg;Deadlift3Kg;Deadlift4Kg;Best3DeadliftKg;TotalKg;Place;Dots;Wilks;Glossbrenner;Goodlift;Tested;Country;State;Federation;ParentFederation;Date;MeetCountry;MeetState;MeetTown;MeetName
+Adam Švehla;M;D;Raw;41;40-44;40-49;M1;141.1;140+;;;;;;;;;;;320;335;-345;;335;335;1;183.19;186.98;177.62;;;Czechia;;GPC;GPC;2022-06-29;Czechia;;Trutnov;European Championships
+Adam Švehla;M;D;Raw;40;40-44;40-49;M40-49;138.7;140;;;;;;;;;;;320;342.5;-355;;342.5;342.5;1;188.19;191.66;182.30;;;Czechia;;FCST;GPC;2021-11-06;Czechia;;Hošťálková;Otevřené Mezinárodní Mistrovství ČR v mrtvém tahu
+Adam Švehla;M;D;Raw;40;40-44;40-49;M1;142.5;140+;;;;;;;;;;;320;347.5;;;347.5;347.5;1;189.50;193.68;183.84;;;Czechia;;GPC;GPC;2021-10-18;Poland;;Pabianice;World Championships
+Adam Švehla;M;D;Raw;39;35-39;24-39;O;139.2;140;;;;;;;;;;;305;-352.5;-352.5;;305;305;1;167.42;170.58;162.21;;;Czechia;;GPC;GPC;2020-09-01;Slovakia;;Trnava;European Championships
+Adam Švehla;M;D;Raw;39;35-39;24-39;Open;142.9;120+;;;;;;;;;;;305;350;-360;;350;350;2;190.72;194.99;185.05;;;Czechia;;FCST;GPC;2020-08-08;Czechia;;Otvovice;Extrifit Cup
+Adam Švehla;M;D;Raw;38;35-39;24-39;Open;140.5;100+;;;;;;;;;;;290;310;317.5;;317.5;317.5;1;173.82;177.33;168.51;;;Czechia;;WRPF-Slovakia;WRPF;2019-11-23;Slovakia;;Trnava;International Winter Cup
+Adam Švehla;M;B;Raw;38;35-39;24-39;Open;140.5;100+;;;;;;210;215;-222.5;;215;;;;;;215;7;117.71;120.08;114.11;85.08;;Czechia;;WRPF-Slovakia;WRPF;2019-11-23;Slovakia;;Trnava;International Winter Cup
+Adam Švehla;M;D;Raw;38;35-39;24-39;O;140;140;;;;;;;;;;;;;;;;;DQ;;;;;;Czechia;;GPC;GPC;2019-10-20;Slovakia;;Nové Zámky;World Championships
+Adam Švehla;M;B;Raw;38;35-39;24-39;O;140;140;;;;;;220;-225;-225;;220;;;;;;220;3;120.56;122.94;116.85;87.18;;Czechia;;GPC;GPC;2019-10-20;Slovakia;;Nové Zámky;World Championships
+Adam Švehla;M;D;Raw;38;35-39;24-39;O;138.9;140;;;;;;;;;;;310;-340;;;310;310;2;170.26;173.44;164.95;;;Czechia;;GPC;GPC;2019-05-20;Hungary;;Tiszakécske;European Championships
+Adam Švehla;M;D;Raw;38;35-39;24-39;O;139.1;140;;;;;;;;;;;310;330;-340;;330;330;1;181.18;184.59;175.53;;;Czechia;;CAST;GPC;2019-04-12;Slovakia;;Lucenec;Medzinárodné Majstrovstvá Slovenskej republiky v silovom
+Adam Švehla;M;D;Raw;37;35-39;24-39;O;133.1;140;;;;;;;;;;;320;330;-335;;330;330;2;183.49;185.88;177.30;;;Czechia;;GPC;GPC;2018-09-16;Hungary;;Eger;World Championships
+Adam Švehla;M;D;Raw;37;35-39;24-39;O;134.1;140;;;;;;;;;;;315;325;-330;;325;325;1;180.31;182.84;174.31;;;Czechia;;GPC;GPC;2018-05-26;France;;Nancy;European Championships
+Adam Švehla;M;D;Raw;37;35-39;24-39;O;132.9;140;;;;;;;;;;;300;310;320;;320;320;1;178.01;180.30;171.99;;;Czechia;;GPC;GPC;2018-04-20;Hungary;;Győr;Visegrad World Cup
+Adam Švehla;M;D;Raw;36;35-39;24-39;Open;137.2;100+;;;;;;;;;;;310;335;;;335;335;2;184.64;187.78;178.74;;;Czechia;;WRPF;WRPF;2018-01-12;Slovakia;;Bratislava;International Winter Cup
+Adam Švehla;M;B;Raw;36;35-39;24-39;Open;137.2;100+;;;;;;205;-215;;;205;;;;;;205;4;112.99;114.91;109.38;81.87;;Czechia;;WRPF;WRPF;2018-01-12;Slovakia;;Bratislava;International Winter Cup
+Adam Švehla;M;BD;Raw;36;35-39;24-39;Open;137.2;100+;;;;;;205;-215;;;205;310;335;;;335;540;1;297.63;302.69;288.12;;;Czechia;;WRPF;WRPF;2018-01-12;Slovakia;;Bratislava;International Winter Cup
+Adam Švehla;M;B;Raw;36;35-39;24-39;O;140.85;140+;;;;;;210;220;-225;;220;;;;;;220;3;120.36;122.83;116.70;86.98;;Czechia;;GPC;GPC;2017-09-14;Czechia;;Trutnov;World Championships
+Adam Švehla;M;D;Raw;36;35-39;24-39;O;140.85;140+;;;;;;;;;;;320;-327.5;-327.5;;320;320;2;175.07;178.66;169.74;;;Czechia;;GPC;GPC;2017-09-14;Czechia;;Trutnov;World Championships
+Adam Švehla;M;B;Raw;36;35-39;24-39;O;142.7;140+;;;;;;205;212.5;-220;;212.5;;;;;;212.5;3;115.84;118.41;112.39;83.59;;Czechia;;GPC;GPC;2017-06-25;Poland;;Biala Podlaska;European Championships
+Adam Švehla;M;D;Raw;36;35-39;24-39;O;142.5;140+;;;;;;;;;;;300;312.5;-317.5;;312.5;312.5;1;170.41;174.17;165.33;;;Czechia;;GPC;GPC;2017-06-25;Poland;;Biala Podlaska;European Championships
+Adam Švehla;M;D;Raw;35;35-39;24-39;Open;136.2;100+;;;;;;;;;;;300;-307.5;;;300;300;7;165.70;168.35;160.33;;;Czechia;;WPC-SVK;WPC;2016-12-03;Slovakia;;Terchová;International Christmas Cup
+Adam Švehla;M;B;Raw;35;35-39;24-39;Open;136.2;100+;;;;;;210;215;-220;;215;;;;;;215;7;118.75;120.65;114.90;86.11;;Czechia;;WPC-SVK;WPC;2016-12-03;Slovakia;;Terchová;International Christmas Cup
+Adam Švehla;M;B;Raw;35;35-39;24-39;O;135;140;;;;;;200;207.5;-212.5;;207.5;;;;;;207.5;3;114.90;116.61;111.11;83.40;;Czechia;;GPC;GPC;2016-10-21;Slovakia;;Zalesie;Carpathian Cup
+Adam Švehla;M;D;Raw;35;35-39;24-39;O;135;140;;;;;;;;;;;280;300;310;;310;310;1;171.66;174.21;166.00;;;Czechia;;GPC;GPC;2016-10-21;Slovakia;;Zalesie;Carpathian Cup
+Adam Švehla;M;B;Raw;35;35-39;24-39;Open;140.8;140+;;;;;;200;-215;-215;;200;;;;;;200;2;109.43;111.67;106.10;79.08;;Czechia;;GPA;GPA;2016-05-27;Croatia;;Zadar;European Championships
+Adam Švehla;M;B;Raw;34;24-34;24-39;O;137.5;140;;;;;;190;200;-210;;200;;;;;;200;2;110.16;112.07;106.66;79.81;;Czechia;;GPC;GPC;2015-10-23;Czechia;;Trutnov;Carpathian World Cup
+Adam Švehla;M;D;Raw;34;24-34;24-39;O;139.6;140;;;;;;;;;;;300;315;-322.5;;315;315;1;172.77;176.10;167.42;;;Czechia;;GPC;GPC;2015-06-15;UK;;Eastbourne;European Championships
+Adam Švehla;M;B;Raw;33;24-34;24-39;M_OR_WPC;138;140;;;;;;220;-230;-230;;220;;;;;;220;2;121.06;123.21;117.23;87.66;;Czechia;;WPC;WPC;2014-11-25;Slovakia;;Bratislava;World Cup
+Adam Švehla;M;B;Raw;33;24-34;24-39;O;135.8;140;;;;;;220;-225;;;220;;;;;;220;1;121.61;123.52;117.64;88.21;;Czechia;;GPC;GPC;2014-10-24;Slovakia;;Bardejov;Carpathian Cup
+Adam Švehla;M;B;Raw;33;24-34;24-39;O;140.6;140+;;;;;;220;225;-230;;225;;;;;;225;2;123.16;125.65;119.40;89.01;;Czechia;;GPC;GPC;2014-06-02;Czechia;;Trutnov;European Championships
+Adam Švehla;M;B;Raw;32;24-34;24-39;M_OR_WPC;134.3;140;;;;;;220;-225;-225;;220;;;;;;220;2;122.01;123.74;117.95;88.60;;Czechia;;WPC;WPC;2013-10-26;Czechia;;Pargue;World Championship
+Adam Švehla;M;B;Raw;32;24-34;24-39;Open;135.5;115+;;;;;;210;215;-225;;215;;;;;;215;3;118.92;120.75;115.03;86.28;;Czechia;;IRP;;2013-06-21;Czechia;;Praha;European Single Lift Championships
+Adam Švehla;M;B;Raw;31;24-34;24-39;M_OR_APF;134.25;140;;;;;;215;220;-225;;220;;;;;;220;6;122.02;123.75;117.96;88.61;;Czechia;;APF;WPC;2012-12-07;USA;FL;Miami;Masters Mr Olympia
+Adam Švehla;M;D;Raw;31;24-34;24-39;Open;134;115+;;;;;;;;;;;310;-320;-320;;310;310;4;172.03;174.42;166.29;;;Czechia;;IRP;;2012-11-17;Germany;;Berlin;World Single Lift Championships
+Adam Švehla;M;B;Raw;31;24-34;24-39;Open;134;115+;;;;;;210;220;-225;;220;;;;;;220;6;122.08;123.78;118.01;88.68;;Czechia;;IRP;;2012-11-17;Germany;;Berlin;World Single Lift Championships
+Adam Švehla;M;SBD;Wraps;31;24-34;24-39;O;136.5;140;;;;;250;;;;;210;;;;;300;760;2;419.50;426.35;405.97;83.69;;Czechia;;CAST;GPC;2012-05-05;Czechia;;Trutnov;Mistrovství ČR v silovém trojboji s mezinárodní účastí
+Adam Švehla;M;B;Raw;30;24-34;24-39;Open;126.6;115+;;;;;;;;;;207.5;;;;;;207.5;2;117.13;117.94;112.83;85.59;;Czechia;;IRP;;2011-11-12;Poland;;Gdansk;European Single Lift Championships
+Adam Švehla;M;D;Raw;30;24-34;24-39;Open;126.6;115+;;;;;;;;;;;;;;;290;290;1;163.71;164.84;157.69;;;Czechia;;IRP;;2011-11-12;Poland;;Gdansk;European Single Lift Championships
+Adam Švehla;M;SBD;Wraps;30;24-34;24-39;M_OCR_WPC;129.6;140;205;215;-222.5;;215;190;200;-205;;200;250;270;-285;;270;685;3;383.92;387.65;370.38;77.06;;Czechia;;WPC;WPC;2011-06-25;Czechia;;Praha;European Championships
+Adam Švehla;M;B;Raw;30;24-34;24-39;O;127.1;140;;;;;;190;-200;200;;200;;;;;;200;2;112.76;113.59;108.65;82.36;;Czechia;;GPC;GPC;2011-06-12;Hungary;;Eger;European Championships
+Adam Švehla;M;SBD;Wraps;30;24-34;24-39;O;128.6;140;210;230;-250;;230;180;190;-200;;190;250;270;-285;;270;690;3;387.63;391.03;373.77;77.87;;Czechia;;CAST;GPC;2011-04-02;Czechia;;Trutnov;MČR V Silovém Trojboji
