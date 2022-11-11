@@ -12,8 +12,6 @@ import androidx.annotation.NonNull;
 
 public class dialogExtend implements View.OnClickListener {
 
-
-
     public boolean onKey(View view, int i, KeyEvent keyEvent) {
         if (i == KeyEvent.KEYCODE_VOLUME_DOWN){
           return false;

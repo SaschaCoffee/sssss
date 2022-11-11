@@ -22,12 +22,7 @@ public class sbdActivity extends AppCompatActivity {
 
         Calendar calendar = Calendar.getInstance();
         String currentDate = DateFormat.getDateInstance().format(calendar.getTime());
-
         TextView date = findViewById(R.id.tv_currentDate);
         date.setText(currentDate);
-
-
-
-
     }
 }
