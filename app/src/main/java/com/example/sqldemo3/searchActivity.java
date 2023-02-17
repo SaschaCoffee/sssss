@@ -77,11 +77,6 @@ public class searchActivity extends AppCompatActivity {
                             selectedState = stateSpinner.getSelectedItem().toString();      //Obtain the selected State
 
                             int parentID = parent.getId();
-
-
-
-
-
                         }
 
                         @Override

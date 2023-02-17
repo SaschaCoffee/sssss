@@ -32,23 +32,7 @@ public class MainActivity extends AppCompatActivity {
         btn_add.setOnClickListener(new View.OnClickListener() {
          public void onClick(View v) {
 
-             final String name = et_name.getText().toString();
-             final String ph_no = et_age.getText().toString();
 
-             ModelAdd modeladd;
-             DataBaseHelper dataBaseHelper = new DataBaseHelper(MainActivity.this);
-
-             try {
-                 modeladd = new ModelAdd(-1, name, ph_no);
-                 dataBaseHelper.addOne(modeladd);
-
-                 Toast.makeText(MainActivity.this, "ADD BUTTON", Toast.LENGTH_SHORT).show();
-
-
-             } catch (Exception e) {
-                 Toast.makeText(MainActivity.this, "error", Toast.LENGTH_SHORT).show();
-
-             }
 
          }
         }

@@ -26,9 +26,7 @@
 
         <activity android:name=".MainActivity">
         </activity>
-        <activity android:name=".cardMainactivity">
 
-        </activity>
 
         <activity android:name=".statisticActivity">
 

@@ -2,7 +2,7 @@ package com.example.sqldemo3;
 
 import android.content.Context;
 import android.content.Intent;
-import android.database.sqlite.SQLiteDatabase;
+import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -10,29 +10,25 @@ import android.widget.Filter;
 import android.widget.Filterable;
 import android.widget.Toast;
 
-import androidx.activity.result.contract.ActivityResultContracts;
 import androidx.annotation.NonNull;
-import androidx.localbroadcastmanager.content.LocalBroadcastManager;
 import androidx.recyclerview.widget.RecyclerView;
 
 import java.util.ArrayList;
 
-public class ContactAdapter extends RecyclerView.Adapter<ContactViewHolder>
+public class profileListAdapter extends RecyclerView.Adapter<profileListHolder>
 
 
 implements Filterable {
     private Context context;
     private ArrayList<modelDisplayRv> listContacts;
-
     private ArrayList<modelDisplayRv> mArrayList;
-    private DataBaseHelper mData;
+    private RecyclerView xx;
 
-    ContactAdapter(Context context, ArrayList<modelDisplayRv> listContacts){
+    profileListAdapter(Context context, ArrayList<modelDisplayRv> listContacts, RecyclerView contactView){
         this.context = context;
         this.listContacts = listContacts;
         this.mArrayList = listContacts;
-
-        mData = new DataBaseHelper(context);
+        this.xx = contactView;
     }
 
 
@@ -69,15 +65,14 @@ implements Filterable {
 
     @NonNull
     @Override
-    public ContactViewHolder onCreateViewHolder(@NonNull ViewGroup parent, int viewType) {
+    public profileListHolder onCreateViewHolder(@NonNull ViewGroup parent, int viewType) {
         View view = LayoutInflater.from(parent.getContext()).inflate(R.layout.contactistlayout, parent, false);
-
-
-        return new ContactViewHolder(view);
+        context = parent.getContext();
+        return new profileListHolder(view);
     }
 
     @Override
-    public void onBindViewHolder(@NonNull ContactViewHolder holder, int position) {
+    public void onBindViewHolder(@NonNull profileListHolder holder, int position) {
     final modelDisplayRv contacts = listContacts.get(position);
 
 
@@ -86,9 +81,59 @@ implements Filterable {
     holder.tv_bench.setText(contacts.getBench());
     holder.tv_deadlift.setText(contacts.getDeadlift());
 
+    holder.itemView.setOnClickListener(new View.OnClickListener() {
+        @Override
+        public void onClick(View view) {
+            Toast.makeText(context, "fwefweewfewewffewewf", Toast.LENGTH_SHORT).show();
+        }
+    });
+
+    holder.itemView.findViewById(R.id.tv_bench).setOnClickListener(new View.OnClickListener() {
+        @Override
+        public void onClick(View view) {
+            Toast.makeText(context, "BREWEEEEEEEEEEEEEEEEE", Toast.LENGTH_SHORT).show();
+            Toast.makeText(holder.tv_bench.getContext(), "eeeeeeeeeeeeeeeee", Toast.LENGTH_SHORT).show();
+
+            Log.d("hallo","" + context);
+        }
+    });
+
+    holder.button.setClickable(true);
+    holder.button.setFocusableInTouchMode(true);
+
+
+    holder.button.setOnClickListener(new View.OnClickListener() {
+        @Override
+        public void onClick(View view) {
+
+
+
+            Toast.makeText(view.getContext().getApplicationContext(), "hhhhhhhhhhhhhhhhhhhhhhhhh", Toast.LENGTH_SHORT).show();
+            Toast.makeText(context, "333333333333333333333333333333333333", Toast.LENGTH_SHORT).show();
+
+            Log.d("tete","");
+
+
+
+
+
+
+        }
+    });
+
+
+
+
+
       holder.img.setOnClickListener(new View.OnClickListener() {
           @Override
           public void onClick(View view) {
+              Toast.makeText(context.getApplicationContext(), "ssssssssssssssss", Toast.LENGTH_SHORT).show();
+              Toast.makeText(view.getContext(), "hhhhhhhhhhhhhhhhhhhhhhhhh", Toast.LENGTH_SHORT).show();
+              Toast.makeText(context, "333333333333333333333333333333333333", Toast.LENGTH_SHORT).show();
+
+              Log.d("pepe","");
+
               Intent s = new Intent(context, statisticActivity.class);
               s.putExtra("item", contacts.getPhoneNumber());
               context.startActivity(s);
