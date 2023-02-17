@@ -64,6 +64,36 @@ public class profileActivity extends AppCompatActivity {
             }
         });
 
+        reference.child(userid2).addListenerForSingleValueEvent(new ValueEventListener() {
+            @Override
+            public void onDataChange(@NonNull DataSnapshot snapshot) {
+
+                userModel userProfile = snapshot.getValue(userModel.class);
+
+                if(userProfile != null){
+
+                    String fullname = userProfile.fullName;
+                    String age = userProfile.age;
+                    String email = userProfile.email;
+
+
+                    tv_name.setText(fullname);
+                    tv_email.setText(email);
+                    tv_age.setText(age);
+                }
+            }
+
+
+
+            @Override
+            public void onCancelled(@NonNull DatabaseError error) {
+
+
+                Toast.makeText(profileActivity.this, "ww", Toast.LENGTH_SHORT).show();
+            }
+        });
+
+
 
 
 
